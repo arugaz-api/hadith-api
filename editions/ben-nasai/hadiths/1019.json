@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1019,
+    "arabicnumber": 1019,
+    "text": "। সুলায়মান ইবনু দাঊদ (রহঃ) ... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত যে, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আবূ মুসার কুরআন পাঠ শ্রবণ করে বললেন, তাকে দাউদ (আলাইহিস সালাম) এর সূলালত কণ্ঠস্বর দান করা হয়েছে।",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 11,
+      "hadith": 144
+    }
+  }
+}

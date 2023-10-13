@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1782,
+    "arabicnumber": 1782,
+    "text": "। আহমদ ইবনু নাসর (রহঃ) ... ইবনু আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফজরের আযান শুনতে পেলে দু’রাকআত সুন্নাত আদায় করতেন এবং তা সংক্ষিপ্তভাবে আদায় করতেন।",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 185
+    }
+  }
+}

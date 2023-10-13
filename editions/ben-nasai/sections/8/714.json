@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 714,
+    "arabicnumber": 714,
+    "text": "। ইসহাক ইবনু ইবরাহীম (রহঃ) ... আব্দুল্লাহ ইবনু আমব ইবনু আস (রাঃ) থেকে বর্ণিত। রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জুমুআর দিন সালাতের পূর্বে বৃত্তাকারে বসতে এবং মসজিদে ক্রয়-বিক্রয় করতে নিষেধ করেছেন।",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 8,
+      "hadith": 27
+    }
+  }
+}

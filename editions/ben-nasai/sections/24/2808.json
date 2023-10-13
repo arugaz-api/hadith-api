@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2808,
+    "arabicnumber": 2808,
+    "text": "ইসহাক ইবন ইবরাহীম (রহঃ) ... হারিস ইবন বিলাল তার পিতা থেকে বর্ণনা করেন। তিনি বলেন, আমি বললামঃ ইয়া রাসূলাল্লাহ! হজ্জ পরিত্যাগ করার বিধান কি শুধু আমাদের জন্য, না সকল লোকের জন্য? তিনি ইরশাদ করলেনঃ বরং শুধু আমাদের জন্য।",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 190
+    }
+  }
+}

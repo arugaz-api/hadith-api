@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 3712,
+    "arabicnumber": 3712,
+    "text": "আহমাদ ইবন সুলায়মান (রহঃ) ... ইবন আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, রুকবা এবং উমরা করা (উচিত) নয়। যাকে উমরা হিসাবে কোন বস্তু দান করা হয়, তা তারই হয়ে যায়। আর যাকে রুকবা হিসাবে কোন কিছু দেয়া হয়, তা তারই হয়ে যায়।",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 33,
+      "hadith": 7
+    }
+  }
+}

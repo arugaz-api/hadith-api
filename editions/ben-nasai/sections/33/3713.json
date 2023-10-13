@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 3713,
+    "arabicnumber": 3713,
+    "text": "আহমাদ ইবন সুলায়মান (রহঃ) ... ইবন আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, উমরা এবং রুকবা করা সুষ্ঠু (পদ্ধতি) নয়। তবে যদি কোন ব্যক্তি উমরা বা রুকবা হিসাবে কাউকে কোন বস্তু দান করে, তবে জীবনে ও মরণে তা ঐ ব্যক্তিরই হয়ে যায় যাকে উমরা বা রুকবা করা হয়েছে।",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 33,
+      "hadith": 8
+    }
+  }
+}

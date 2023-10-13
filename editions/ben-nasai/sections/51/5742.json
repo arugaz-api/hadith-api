@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5742,
+    "arabicnumber": 5742,
+    "text": "সুওয়ায়দ (রহঃ) ... আবদুল্লাহ (রহঃ) থেকে বর্ণিত। তিনি বলেন, আমি শুনেছি, সুফইয়ানকে নবীয সম্পর্কে জিজ্ঞাসা করা হলে তিনি বললেনঃ তা সন্ধ্যায় ভিজিয়ে রেখে ভোরে পান করবে।",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Isnaad Maqtu"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad Maqtu"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 51,
+      "hadith": 204
+    }
+  }
+}

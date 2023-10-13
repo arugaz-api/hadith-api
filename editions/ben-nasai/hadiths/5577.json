@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5577,
+    "arabicnumber": 5577,
+    "text": "সুওয়ায়দ ইবন নাসর (রহঃ) ... সাইদ ইবন জুবায়র (রহঃ) থেকে বর্ণিত। তিনি বলেন, আয়াতে, 'সাকার' হলো হারাম এবং উত্তম রিযক হলো- হালাল।",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 51,
+      "hadith": 39
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1788,
+    "arabicnumber": 1788,
+    "text": "। সুয়ায়দ ইবনু নাসর (রহঃ) ... আবূ দারদা (রাঃ) থেকে মওকুফ সুত্রে বর্ণিত।",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Muquf"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 191
+    }
+  }
+}

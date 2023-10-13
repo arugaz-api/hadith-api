@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2334,
+    "arabicnumber": 2334,
+    "text": "। আহমদ ইবনু আযহার (রহঃ) ... হাফসা (রাঃ) থেকে বর্ণিত। যে ব্যক্তি রাত্রে সাওমের নিয়্যত না করে তার সাওম পালন হবে না।",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 245
+    }
+  }
+}

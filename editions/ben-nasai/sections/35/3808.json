@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 3808,
+    "arabicnumber": 3808,
+    "text": "মুহাম্মদ ইবন ‘আলা (রহঃ) ... আয়েশা (রাঃ) থেকে বর্ণিত। তিনি বলেন, যে কেউ আল্লাহর আনুগত্যের মান্নত করে, সে যেন তাঁর আনুগত্য করে। আর যে ব্যক্তি আল্লাহর নাফরমানী করার মান্নত করে, সে যেন তাঁর নাফরমানী না করে।",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 35,
+      "hadith": 48
+    }
+  }
+}

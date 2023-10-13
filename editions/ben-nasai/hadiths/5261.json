@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5261,
+    "arabicnumber": 5261,
+    "text": "আহমদ ইবন সাঈদ (রহঃ) ... আবদুল্লাহর স্ত্রী যয়নাব সাকাফিয়্যা (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বলেছেনঃ যখন তুমি ইশার জামাআতের উদ্দেশ্যে বের হবে, তখন সুগন্ধি স্পর্শ করবে না।",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 48,
+      "hadith": 222
+    }
+  }
+}

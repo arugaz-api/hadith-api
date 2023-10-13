@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 649,
+    "arabicnumber": 649,
+    "text": "। মুহাম্মদ ইবনু মা’দান ইবনু ঈসা (রহঃ) ... বিলাল (রাঃ) থেকে বর্ণিত। তিনি আযানের শেষ বাক্যগুলো এরূপ বলতেনঃ اللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ لاَ إِلَهَ إِلاَّ اللَّهُ",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 7,
+      "hadith": 24
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4117,
+    "arabicnumber": 4117,
+    "text": "আহমাদ ইবন সুলায়মান (রহঃ) ... আবূ বাকরা (রাঃ) থেকে বর্ণিত। তিনি বলেন, যখন দুই মুসলিম ব্যক্তি একে অন্যের উপর অস্ত্র উঠায়, তারা উভয়ে দোযখের নিকট পৌছে যায়। আর যখন তারা একে অন্যকে হত্যা করে, তখন তারা উভয়ে দোযখে যাবে।",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Muquf"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Muquf"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 37,
+      "hadith": 152
+    }
+  }
+}

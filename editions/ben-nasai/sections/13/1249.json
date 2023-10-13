@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1249,
+    "arabicnumber": 1249,
+    "text": "। মুহাম্মদ ইবনু হাশিম (রহঃ) ... আব্দুল্লাহ ইবনু জাফর (রাঃ) থেকে বর্ণিত যে, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, যে মুসল্লীর সালাতে সন্দেহের উদ্রেক হয় সে যেন সালাম ফিরাবার পর দুটি সিজদা করে নেয় (সাহু)।",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 13,
+      "hadith": 71
+    }
+  }
+}

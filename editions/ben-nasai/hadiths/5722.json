@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5722,
+    "arabicnumber": 5722,
+    "text": "সুওয়ায়দ (রহঃ) ... সাঈদ ইবন মুসায়্যিব (রহঃ) থেকে বর্ণিত। যে দ্রাক্ষারস জ্বালানাের পর একতৃতীয়াংশ অবশিষ্ট থাকে তা পান করাতে পাপ নেই।",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Isnaad Maqtu"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad Maqtu"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 51,
+      "hadith": 184
+    }
+  }
+}

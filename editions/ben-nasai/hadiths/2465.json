@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2465,
+    "arabicnumber": 2465,
+    "text": "আহমদ ইবন হাফস্ (রহঃ) ... আবু হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যাকাত প্ৰদান করতে নির্দেশ দিয়েছেন। রাবী এ বর্ণনাকে হুবহু পূর্বের ন্যায় বর্ণনা করেছেন।",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 23,
+      "hadith": 31
+    }
+  }
+}

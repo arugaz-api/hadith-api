@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 555,
+    "arabicnumber": 555,
+    "text": "। মূসা ইবনু সুলায়মান (রহঃ) ... আবূ হুরায়রা (রাঃ) সুত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণিত। তিনি বলেছেন, যে ব্যাক্তি কোনো সালাতের এক রাক’আত পেল, সে ঐ সালাত পেল (অর্থাৎ সে জামায়াতের সওয়াব পেল)।",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 6,
+      "hadith": 62
+    }
+  }
+}

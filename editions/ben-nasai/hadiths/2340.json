@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2340,
+    "arabicnumber": 2340,
+    "text": "। আহমদ ইবনু হারব (রহঃ) ... হাফসা (রাঃ) থেকে বর্ণিত। তিনি বলেন, যে ব্যাক্তি ফজরের পূর্বে রাত্রেই সাওমের নিয়্যত না করে তার সাওম পালন হবে না।",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Muquf"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Muquf"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 251
+    }
+  }
+}

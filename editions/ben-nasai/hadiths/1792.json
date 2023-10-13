@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1792,
+    "arabicnumber": 1792,
+    "text": "। কুতায়বা ইবনু সাঈদ (রহঃ) ... ইবনু উমর খাত্তাব (রাঃ) থেকে বর্ণিত, যে ব্যক্তি রাত্রের ওযীফা আদায় করতে পারল না এবং তা সূর্য উদয় হওয়ার সময় থেকে জোহরের সালাতের আগে আগেই কাযা করে নিল, তার সে ওযীফা যেন কাযাই হলো না অথবা সে যেন তা (রাত্রেই) আদায় করল।",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Muquf"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 195
+    }
+  }
+}

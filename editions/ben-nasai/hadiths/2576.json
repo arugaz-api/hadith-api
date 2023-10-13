@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2576,
+    "arabicnumber": 2576,
+    "text": "আবু দাউদ (রহঃ) ... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, চার ব্যক্তিকে আল্লাহ্ তাআলা অপছন্দ করেন - শপথকাৱী বিক্রেতা, অহংকারী ফকীর, বৃদ্ধ ব্যভিচারী এবং অত্যাচারী শাসক।",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 23,
+      "hadith": 142
+    }
+  }
+}
