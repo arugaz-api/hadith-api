@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3372,
+    "arabicnumber": 3372,
+    "text": "حدثنا احمد بن منيع، حدثنا مروان بن معاوية، عن الاعمش، عن ذر، عن يسيع، عن النعمان بن بشير، عن النبي صلى الله عليه وسلم قال \" الدعاء هو العبادة \" . ثم قرا : (وقال ربكم ادعوني استجب لكم ان الذين يستكبرون عن عبادتي سيدخلون جهنم داخرين ) . قال هذا حديث حسن صحيح . وقد رواه منصور والاعمش عن ذر ولا نعرفه الا من حديث ذر . هو ذر بن عبد الله الهمداني ثقة والد عمر بن ذر",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 48,
+      "hadith": 3
+    }
+  }
+}

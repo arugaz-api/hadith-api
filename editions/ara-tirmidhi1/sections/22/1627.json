@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1627,
+    "arabicnumber": 1627,
+    "text": "حدثنا بذلك، زياد بن ايوب حدثنا يزيد بن هارون، اخبرنا الوليد بن جميل، عن القاسم ابي عبد الرحمن، عن ابي امامة، قال قال رسول الله صلى الله عليه وسلم \" افضل الصدقات ظل فسطاط في سبيل الله ومنيحة خادم في سبيل الله او طروقة فحل في سبيل الله \" . قال ابو عيسى هذا حديث حسن صحيح غريب وهو اصح عندي من حديث معاوية بن صالح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 9
+    }
+  }
+}

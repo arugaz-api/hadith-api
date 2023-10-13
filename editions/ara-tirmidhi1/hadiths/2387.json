@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2387,
+    "arabicnumber": 2387,
+    "text": "حدثنا محمود بن غيلان، حدثنا يحيى بن ادم، حدثنا سفيان، عن عاصم، عن زر بن حبيش، عن صفوان بن عسال، قال جاء اعرابي جهوري الصوت فقال يا محمد الرجل يحب القوم ولما يلحق بهم . فقال رسول الله صلى الله عليه وسلم \" المرء مع من احب \" . قال ابو عيسى هذا حديث حسن صحيح . حدثنا احمد بن عبدة الضبي، حدثنا حماد بن زيد، عن عاصم، عن زر، عن صفوان بن عسال، عن النبي صلى الله عليه وسلم نحو حديث محمود",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 36,
+      "hadith": 84
+    }
+  }
+}

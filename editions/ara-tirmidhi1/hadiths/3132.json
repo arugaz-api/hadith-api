@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3132,
+    "arabicnumber": 3132,
+    "text": "حدثنا يعقوب بن ابراهيم الدورقي، حدثنا ابو تميلة، عن الزبير بن جنادة، عن ابن بريدة، عن ابيه، قال قال رسول الله صلى الله عليه وسلم \" لما انتهينا الى بيت المقدس قال جبريل باصبعه فخرق به الحجر وشد به البراق \" . قال ابو عيسى هذا حديث حسن غريب",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 47,
+      "hadith": 184
+    }
+  }
+}

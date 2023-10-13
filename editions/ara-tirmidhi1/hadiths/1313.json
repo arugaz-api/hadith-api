@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1313,
+    "arabicnumber": 1313,
+    "text": "حدثنا محمد بن بشار، حدثنا عبد الوهاب الثقفي، حدثنا ايوب، عن ابي الزبير، عن جابر، ان النبي صلى الله عليه وسلم نهى عن المحاقلة والمزابنة والمخابرة والمعاومة ورخص في العرايا . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Hadith"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Bukhari And Muslim"
+      }
+    ],
+    "reference": {
+      "book": 14,
+      "hadith": 116
+    }
+  }
+}

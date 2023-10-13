@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2869,
+    "arabicnumber": 2869,
+    "text": "حدثنا قتيبة، قال حدثنا حماد بن يحيى الابح، عن ثابت البناني، عن انس، قال قال رسول الله صلى الله عليه وسلم \" مثل امتي مثل المطر لا يدرى اوله خير ام اخره \" . قال وفي الباب عن عمار وعبد الله بن عمرو وابن عمر وهذا حديث حسن غريب من هذا الوجه . وروي عن عبد الرحمن بن مهدي انه كان يثبت حماد بن يحيى الابح وكان يقول هو من شيوخنا",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 44,
+      "hadith": 12
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3828,
+    "arabicnumber": 3828,
+    "text": "حدثنا محمود بن غيلان، قال حدثنا ابو اسامة، عن شريك، عن عاصم الاحول، عن انس، قال ربما قال لي النبي صلى الله عليه وسلم \" يا ذا الاذنين \" . قال ابو اسامة يعني يمازحه . هذا حديث حسن غريب صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 49,
+      "hadith": 228
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1638,
+    "arabicnumber": 1638,
+    "text": "حدثنا محمد بن بشار، حدثنا معاذ بن هشام، عن ابيه، عن قتادة، عن سالم بن ابي الجعد، عن معدان بن ابي طلحة، عن ابي نجيح السلمي، رضى الله عنه قال سمعت رسول الله صلى الله عليه وسلم يقول \" من رمى بسهم في سبيل الله فهو له عدل محرر \" . قال ابو عيسى هذا حديث صحيح . وابو نجيح هو عمرو بن عبسة السلمي وعبد الله بن الازرق هو عبد الله بن زيد",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 21
+    }
+  }
+}

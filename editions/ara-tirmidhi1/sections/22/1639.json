@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1639,
+    "arabicnumber": 1639,
+    "text": "حدثنا نصر بن علي الجهضمي، حدثنا بشر بن عمر، حدثنا شعيب بن رزيق ابو شيبة، حدثنا عطاء الخراساني، عن عطاء بن ابي رباح، عن ابن عباس، قال سمعت رسول الله صلى الله عليه وسلم يقول \" عينان لا تمسهما النار عين بكت من خشية الله وعين باتت تحرس في سبيل الله \" . قال ابو عيسى وفي الباب عن عثمان وابي ريحانة . وحديث ابن عباس حديث حسن لا نعرفه الا من حديث شعيب بن رزيق",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 22
+    }
+  }
+}

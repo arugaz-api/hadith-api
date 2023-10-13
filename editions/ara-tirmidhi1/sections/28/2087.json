@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2087,
+    "arabicnumber": 2087,
+    "text": "حدثنا عبد الله بن سعيد الاشج، قال حدثنا عقبة بن خالد السكوني، عن موسى بن محمد بن ابراهيم التيمي، عن ابيه، عن ابي سعيد الخدري، قال قال رسول الله صلى الله عليه وسلم \" اذا دخلتم على المريض فنفسوا له في اجله فان ذلك لا يرد شييا ويطيب نفسه \" . قال ابو عيسى هذا حديث غريب",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 28,
+      "hadith": 52
+    }
+  }
+}

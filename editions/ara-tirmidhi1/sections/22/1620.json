@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1620,
+    "arabicnumber": 1620,
+    "text": "حدثنا محمد بن عبد الله بن بزيع، حدثنا المعتمر بن سليمان، حدثني مرزوق ابو بكر، عن قتادة، عن انس بن مالك، قال قال رسول الله صلى الله عليه وسلم يعني \" يقول الله عز وجل المجاهد في سبيل الله هو على ضامن ان قبضته اورثته الجنة وان رجعته رجعته باجر او غنيمة \" . قال هو صحيح غريب من هذا الوجه",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 2
+    }
+  }
+}

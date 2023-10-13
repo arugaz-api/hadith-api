@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 262,
+    "arabicnumber": 262,
+    "text": "حدثنا محمود بن غيلان، حدثنا ابو داود، قال انبانا شعبة، عن الاعمش، قال سمعت سعد بن عبيدة، يحدث عن المستورد، عن صلة بن زفر، عن حذيفة، انه صلى مع النبي صلى الله عليه وسلم فكان يقول في ركوعه \" سبحان ربي العظيم \" . وفي سجوده \" سبحان ربي الاعلى \" . وما اتى على اية رحمة الا وقف وسال وما اتى على اية عذاب الا وقف وتعوذ . قال ابو عيسى وهذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 114
+    }
+  }
+}

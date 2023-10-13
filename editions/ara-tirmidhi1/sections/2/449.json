@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 449,
+    "arabicnumber": 449,
+    "text": "حدثنا قتيبة، حدثنا الليث، عن معاوية بن صالح، عن عبد الله بن ابي قيس، قال سالت عايشة كيف كان قراءة النبي صلى الله عليه وسلم بالليل اكان يسر بالقراءة ام يجهر فقالت كل ذلك قد كان يفعل ربما اسر بالقراءة وربما جهر . فقلت الحمد لله الذي جعل في الامر سعة . قال ابو عيسى هذا حديث حسن صحيح غريب",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 302
+    }
+  }
+}

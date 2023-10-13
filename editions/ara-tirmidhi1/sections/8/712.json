@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 712,
+    "arabicnumber": 712,
+    "text": "حدثنا نصر بن علي الجهضمي، حدثنا بشر بن المفضل، عن سعيد بن يزيد ابي مسلمة، عن ابي نضرة، عن ابي سعيد الخدري، قال كنا نسافر مع رسول الله صلى الله عليه وسلم في رمضان فما يعيب على الصايم صومه ولا على المفطر افطاره . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 8,
+      "hadith": 31
+    }
+  }
+}

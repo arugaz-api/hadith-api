@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2474,
+    "arabicnumber": 2474,
+    "text": "حدثنا ابو حفص، عمرو بن علي حدثنا محمد بن جعفر، حدثنا شعبة، عن عباس الجريري، قال سمعت ابا عثمان النهدي، يحدث عن ابي هريرة، انه اصابهم جوع فاعطاهم رسول الله صلى الله عليه وسلم تمرة تمرة . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Shadh"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Shadh"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 37,
+      "hadith": 60
+    }
+  }
+}

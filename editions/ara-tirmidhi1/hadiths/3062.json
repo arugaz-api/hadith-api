@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3062,
+    "arabicnumber": 3062,
+    "text": "حدثنا ابن ابي عمر، حدثنا سفيان بن عيينة، عن عمرو بن دينار، عن طاوس، عن ابي هريرة، قال تلقى عيسى حجته ولقاه الله في قوله : ( واذ قال الله يا عيسى ابن مريم اانت قلت للناس اتخذوني وامي الهين من دون الله ) قال ابو هريرة عن النبي صلى الله عليه وسلم فلقاه الله : ( سبحانك ما يكون لي ان اقول ما ليس لي بحق ) الاية كلها . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 47,
+      "hadith": 114
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2820,
+    "arabicnumber": 2820,
+    "text": "حدثنا هناد، حدثنا وكيع، عن دلهم بن صالح، عن حجير بن عبد الله، عن ابن بريدة، عن ابيه، ان النجاشي، اهدى الى النبي صلى الله عليه وسلم خفين اسودين ساذجين فلبسهما ثم توضا ومسح عليهما . قال هذا حديث حسن انما نعرفه من حديث دلهم وقد رواه محمد بن ربيعة عن دلهم",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 94
+    }
+  }
+}

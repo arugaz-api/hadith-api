@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 649,
+    "arabicnumber": 649,
+    "text": "حدثنا علي بن سعيد الكندي الكوفي، حدثنا حفص بن غياث، عن اشعث، عن عون بن ابي جحيفة، عن ابيه، قال قدم علينا مصدق النبي صلى الله عليه وسلم فاخذ الصدقة من اغنياينا فجعلها في فقراينا وكنت غلاما يتيما فاعطاني منها قلوصا . قال وفي الباب عن ابن عباس . قال ابو عيسى حديث ابي جحيفة حديث حسن",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 7,
+      "hadith": 33
+    }
+  }
+}

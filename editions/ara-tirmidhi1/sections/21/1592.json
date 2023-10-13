@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1592,
+    "arabicnumber": 1592,
+    "text": "حدثنا قتيبة، حدثنا حاتم بن اسماعيل، عن يزيد بن ابي عبيد، قال قلت لسلمة بن الاكوع على اى شيء بايعتم رسول الله صلى الله عليه وسلم يوم الحديبية قال على الموت . هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 21,
+      "hadith": 54
+    }
+  }
+}

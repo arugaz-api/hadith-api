@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3642,
+    "arabicnumber": 3642,
+    "text": "وقد روي عن يزيد بن ابي حبيب، عن عبد الله بن الحارث بن جزء، مثل هذا . حدثنا بذلك، احمد بن خالد الخلال حدثنا يحيى بن اسحاق السيلحاني، حدثنا الليث بن سعد، عن يزيد بن ابي حبيب، عن عبد الله بن الحارث بن جزء، قال ما كان ضحك رسول الله صلى الله عليه وسلم الا تبسما . قال ابو عيسى هذا حديث صحيح غريب لا نعرفه من حديث ليث بن سعد الا من هذا الوجه",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 49,
+      "hadith": 38
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2326,
+    "arabicnumber": 2326,
+    "text": "حدثنا محمد بن بشار، حدثنا عبد الرحمن بن مهدي، حدثنا سفيان، عن بشير ابي اسماعيل، عن سيار، عن طارق بن شهاب، عن عبد الله بن مسعود، قال قال رسول الله صلى الله عليه وسلم \" من نزلت به فاقة فانزلها بالناس لم تسد فاقته ومن نزلت به فاقة فانزلها بالله فيوشك الله له برزق عاجل او اجل \" . قال ابو عيسى هذا حديث حسن صحيح غريب",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 36,
+      "hadith": 23
+    }
+  }
+}

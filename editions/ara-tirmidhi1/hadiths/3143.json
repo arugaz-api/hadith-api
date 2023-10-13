@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3143,
+    "arabicnumber": 3143,
+    "text": "حدثنا احمد بن منيع، حدثنا يزيد بن هارون، اخبرنا بهز بن حكيم، عن ابيه، عن جده، قال قال رسول الله صلى الله عليه وسلم \" انكم محشورون رجالا وركبانا ويجرون على وجوهكم \" . قال ابو عيسى هذا حديث حسن",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 47,
+      "hadith": 195
+    }
+  }
+}

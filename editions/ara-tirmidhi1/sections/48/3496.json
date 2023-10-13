@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3496,
+    "arabicnumber": 3496,
+    "text": "حدثنا هارون بن اسحاق، حدثنا عبدة، عن هشام بن عروة، عن عباد بن عبد الله بن الزبير، عن عايشة، قالت سمعت رسول الله صلى الله عليه وسلم يقول عند وفاته \" اللهم اغفر لي وارحمني والحقني بالرفيق الاعلى \" . قال هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 48,
+      "hadith": 127
+    }
+  }
+}

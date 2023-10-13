@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1352,
+    "arabicnumber": 1352,
+    "text": "حدثنا الحسن بن علي الخلال، حدثنا ابو عامر العقدي، حدثنا كثير بن عبد الله بن عمرو بن عوف المزني، عن ابيه، عن جده، ان رسول الله صلى الله عليه وسلم قال \" الصلح جايز بين المسلمين الا صلحا حرم حلالا او احل حراما والمسلمون على شروطهم الا شرطا حرم حلالا او احل حراما \" . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 32
+    }
+  }
+}

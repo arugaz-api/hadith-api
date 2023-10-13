@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 36,
+    "arabicnumber": 36,
+    "text": "حدثنا هناد، حدثنا عبد الله بن ادريس، عن محمد بن عجلان، عن زيد بن اسلم، عن عطاء بن يسار، عن ابن عباس، ان النبي صلى الله عليه وسلم مسح براسه واذنيه ظاهرهما وباطنهما . قال ابو عيسى وفي الباب عن الربيع . قال ابو عيسى وحديث ابن عباس حديث حسن صحيح . والعمل على هذا عند اكثر اهل العلم يرون مسح الاذنين ظهورهما وبطونهما",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 36
+    }
+  }
+}

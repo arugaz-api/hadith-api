@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1934,
+    "arabicnumber": 1934,
+    "text": "حدثنا قتيبة، حدثنا عبد العزيز بن محمد، عن العلاء بن عبد الرحمن، عن ابيه، عن ابي هريرة، قال قيل يا رسول الله ما الغيبة قال \" ذكرك اخاك بما يكره \" . قال ارايت ان كان فيه ما اقول قال \" ان كان فيه ما تقول فقد اغتبته وان لم يكن فيه ما تقول فقد بهته \" . قال وفي الباب عن ابي برزة وابن عمر وعبد الله بن عمرو . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 27,
+      "hadith": 40
+    }
+  }
+}

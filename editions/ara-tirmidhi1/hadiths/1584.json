@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1584,
+    "arabicnumber": 1584,
+    "text": "حدثنا هناد، حدثنا وكيع، عن سفيان، عن عبد الملك بن عمير، عن عطية القرظي، قال عرضنا على النبي صلى الله عليه وسلم يوم قريظة فكان من انبت قتل ومن لم ينبت خلي سبيله فكنت ممن لم ينبت فخلي سبيلي . قال ابو عيسى هذا حديث حسن صحيح . والعمل على هذا عند بعض اهل العلم انهم يرون الانبات بلوغا ان لم يعرف احتلامه ولا سنه وهو قول احمد واسحاق",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 21,
+      "hadith": 46
+    }
+  }
+}

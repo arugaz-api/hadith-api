@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2426,
+    "arabicnumber": 2426,
+    "text": "حدثنا سويد بن نصر، اخبرنا ابن المبارك، عن عثمان بن الاسود، عن ابن ابي مليكة، عن عايشة، قالت سمعت رسول الله صلى الله عليه وسلم يقول \" من نوقش الحساب هلك \" . قلت يا رسول الله ان الله تعالى يقول: (فاما من اوتي كتابه بيمينه * فسوف يحاسب حسابا يسيرا ) قال \" ذلك العرض \" . قال ابو عيسى هذا حديث صحيح حسن ورواه ايوب ايضا عن ابن ابي مليكة",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 37,
+      "hadith": 12
+    }
+  }
+}

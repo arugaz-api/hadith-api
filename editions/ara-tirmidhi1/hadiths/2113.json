@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2113,
+    "arabicnumber": 2113,
+    "text": "حدثنا قتيبة، قال حدثنا ابن لهيعة، عن عمرو بن شعيب، عن ابيه، عن جده، ان رسول الله صلى الله عليه وسلم قال \" ايما رجل عاهر بحرة او امة فالولد ولد زنا لا يرث ولا يورث \" . قال ابو عيسى وقد روى غير ابن لهيعة هذا الحديث عن عمرو بن شعيب . والعمل على هذا عند اهل العلم ان ولد الزنا لا يرث من ابيه",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 29,
+      "hadith": 24
+    }
+  }
+}

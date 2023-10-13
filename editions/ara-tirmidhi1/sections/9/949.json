@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 949,
+    "arabicnumber": 949,
+    "text": "حدثنا احمد بن منيع، حدثنا سفيان بن عيينة، عن عبد الرحمن بن حميد، سمع السايب بن يزيد، عن العلاء بن الحضرمي يعني مرفوعا، قال \" يمكث المهاجر بعد قضاء نسكه بمكة ثلاثا \" . قال ابو عيسى هذا حديث حسن صحيح وقد روي من غير هذا الوجه بهذا الاسناد مرفوعا",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 143
+    }
+  }
+}

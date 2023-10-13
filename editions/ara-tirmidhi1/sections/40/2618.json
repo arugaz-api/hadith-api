@@ -1,0 +1,22 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2618,
+    "arabicnumber": 2618,
+    "text": "حدثنا قتيبة، حدثنا جرير، وابو معاوية عن الاعمش، عن ابي سفيان، عن جابر، ان النبي صلى الله عليه وسلم قال \" بين الكفر والايمان ترك الصلاة",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 40,
+      "hadith": 13
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1261,
+    "arabicnumber": 1261,
+    "text": "حدثنا سعيد بن عبد الرحمن المخزومي، قال حدثنا سفيان بن عيينة، عن الزهري، عن نبهان، مولى ام سلمة عن ام سلمة، قالت قال رسول الله صلى الله عليه وسلم \" اذا كان عند مكاتب احداكن ما يودي فلتحتجب منه \" . قال ابو عيسى هذا حديث حسن صحيح . ومعنى هذا الحديث عند اهل العلم على التورع وقالوا لا يعتق المكاتب وان كان عنده ما يودي حتى يودي",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 14,
+      "hadith": 63
+    }
+  }
+}

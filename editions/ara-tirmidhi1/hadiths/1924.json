@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1924,
+    "arabicnumber": 1924,
+    "text": "حدثنا ابن ابي عمر، حدثنا سفيان، عن عمرو بن دينار، عن ابي قابوس، عن عبد الله بن عمرو، قال قال رسول الله صلى الله عليه وسلم \" الراحمون يرحمهم الرحمن ارحموا من في الارض يرحمكم من في السماء الرحم شجنة من الرحمن فمن وصلها وصله الله ومن قطعها قطعه الله \" . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 27,
+      "hadith": 30
+    }
+  }
+}

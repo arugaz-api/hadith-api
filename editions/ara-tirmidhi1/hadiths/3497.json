@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3497,
+    "arabicnumber": 3497,
+    "text": "حدثنا الانصاري، حدثنا معن، حدثنا مالك، عن ابي الزناد، عن الاعرج، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال \" لا يقول احدكم اللهم اغفر لي ان شيت اللهم ارحمني ان شيت ليعزم المسالة فانه لا مكره له \" . قال هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari"
+      }
+    ],
+    "reference": {
+      "book": 48,
+      "hadith": 128
+    }
+  }
+}

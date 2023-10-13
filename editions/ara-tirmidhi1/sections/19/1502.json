@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1502,
+    "arabicnumber": 1502,
+    "text": "حدثنا قتيبة، حدثنا مالك بن انس، عن ابي الزبير، عن جابر، قال نحرنا مع رسول الله صلى الله عليه وسلم بالحديبية البدنة عن سبعة والبقرة عن سبعة . قال ابو عيسى هذا حديث حسن صحيح . والعمل على هذا عند اهل العلم من اصحاب النبي صلى الله عليه وسلم وغيرهم وهو قول سفيان الثوري وابن المبارك والشافعي واحمد واسحاق . وقال اسحاق يجزي ايضا البعير عن عشرة . واحتج بحديث ابن عباس",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 19,
+      "hadith": 13
+    }
+  }
+}

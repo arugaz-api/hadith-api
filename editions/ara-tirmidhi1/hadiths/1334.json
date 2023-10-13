@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1334,
+    "arabicnumber": 1334,
+    "text": "حدثنا قتيبة، حدثنا ابو عوانة، عن عبد الملك بن عمير، عن عبد الرحمن بن ابي بكرة، قال كتب ابي الى عبيد الله بن ابي بكرة وهو قاض ان لا، تحكم بين اثنين وانت غضبان . فاني سمعت رسول الله صلى الله عليه وسلم يقول \" لا يحكم الحاكم بين اثنين وهو غضبان \" . قال ابو عيسى هذا حديث حسن صحيح . وابو بكرة اسمه نفيع",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 14
+    }
+  }
+}

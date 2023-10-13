@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3629,
+    "arabicnumber": 3629,
+    "text": "حدثنا محمد بن بشار، بندار حدثنا ابو عاصم، حدثنا عزرة بن ثابت، حدثنا علباء بن احمر، حدثنا ابو زيد بن اخطب، قال مسح رسول الله صلى الله عليه وسلم يده على وجهي ودعا لي قال عزرة انه عاش ماية وعشرين سنة وليس في راسه الا شعرات بيض . قال ابو عيسى هذا حديث حسن غريب . وابو زيد اسمه عمرو بن اخطب",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 49,
+      "hadith": 25
+    }
+  }
+}

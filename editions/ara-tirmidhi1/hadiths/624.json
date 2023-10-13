@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 624,
+    "arabicnumber": 624,
+    "text": "حدثنا محمد بن بشار حدثنا محمد بن جعفر حدثنا شعبة عن عمرو بن مرة قال سالت ابا عبيدة بن عبد الله هل تذكر من عبد الله شييا قال لا",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 7,
+      "hadith": 8
+    }
+  }
+}

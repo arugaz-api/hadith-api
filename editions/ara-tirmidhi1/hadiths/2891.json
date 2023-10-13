@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2891,
+    "arabicnumber": 2891,
+    "text": "حدثنا محمد بن بشار، قال حدثنا محمد بن جعفر، قال حدثنا شعبة، عن قتادة، عن عباس الجشمي، عن ابي هريرة، عن النبي صلى الله عليه وسلم قال \" ان سورة من القران ثلاثون اية شفعت لرجل حتى غفر له وهي سورة تبارك الذي بيده الملك \" . هذا حديث حسن",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 45,
+      "hadith": 17
+    }
+  }
+}

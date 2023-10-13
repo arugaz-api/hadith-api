@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 603,
+    "arabicnumber": 603,
+    "text": "حدثنا محمود بن غيلان، حدثنا ابو داود، قال انبانا شعبة، عن الاعمش، سمع ذكوان، عن ابي هريرة، عن النبي صلى الله عليه وسلم قال \" اذا توضا الرجل فاحسن الوضوء ثم خرج الى الصلاة لا يخرجه او قال لا ينهزه الا اياها لم يخط خطوة الا رفعه الله بها درجة او حط عنه بها خطيية \" . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 6,
+      "hadith": 60
+    }
+  }
+}

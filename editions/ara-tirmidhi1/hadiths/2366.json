@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2366,
+    "arabicnumber": 2366,
+    "text": "حدثنا محمد بن بشار، حدثنا يحيى بن سعيد، حدثنا اسماعيل بن ابي خالد، حدثنا قيس، قال سمعت سعد بن مالك، يقول اني اول رجل من العرب رمى بسهم في سبيل الله ولقد رايتنا نغزو مع رسول الله صلى الله عليه وسلم وما لنا طعام الا الحبلة وهذا السمر حتى ان احدنا ليضع كما تضع الشاة ثم اصبحت بنو اسد يعزروني في الدين لقد خبت اذا وضل عملي . قال ابو عيسى هذا حديث حسن صحيح . وفي الباب عن عتبة بن غزوان",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 36,
+      "hadith": 63
+    }
+  }
+}

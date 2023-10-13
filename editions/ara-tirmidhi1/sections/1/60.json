@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 60,
+    "arabicnumber": 60,
+    "text": "حدثنا محمد بن بشار، حدثنا يحيى بن سعيد، وعبد الرحمن، هو ابن مهدي قالا حدثنا سفيان بن سعيد، عن عمرو بن عامر الانصاري، قال سمعت انس بن مالك، يقول كان النبي صلى الله عليه وسلم يتوضا عند كل صلاة . قلت فانتم ما كنتم تصنعون قال كنا نصلي الصلوات كلها بوضوء واحد ما لم نحدث . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 60
+    }
+  }
+}

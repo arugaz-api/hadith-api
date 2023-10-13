@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3164,
+    "arabicnumber": 3164,
+    "text": "حدثنا عبد بن حميد، حدثنا الحسن بن موسى الاشيب، بغدادي حدثنا ابن لهيعة، عن دراج، عن ابي الهيثم، عن ابي سعيد، عن النبي صلى الله عليه وسلم قال \" الويل واد في جهنم يهوي فيه الكافر اربعين خريفا قبل ان يبلغ قعره \" . قال ابو عيسى هذا حديث غريب لا نعرفه مرفوعا الا من حديث ابن لهيعة",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 47,
+      "hadith": 216
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2007,
+    "arabicnumber": 2007,
+    "text": "حدثنا ابو هشام الرفاعي، محمد بن يزيد حدثنا محمد بن فضيل، عن الوليد بن عبد الله بن جميع، عن ابي الطفيل، عن حذيفة، قال قال رسول الله صلى الله عليه وسلم \" لا تكونوا امعة تقولون ان احسن الناس احسنا وان ظلموا ظلمنا ولكن وطنوا انفسكم ان احسن الناس ان تحسنوا وان اساءوا فلا تظلموا \" . قال ابو عيسى هذا حديث حسن غريب لا نعرفه الا من هذا الوجه",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 27,
+      "hadith": 113
+    }
+  }
+}

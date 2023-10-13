@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2706,
+    "arabicnumber": 2706,
+    "text": "حدثنا قتيبة، حدثنا الليث، عن ابن عجلان، عن سعيد المقبري، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال \" اذا انتهى احدكم الى مجلس فليسلم فان بدا له ان يجلس فليجلس ثم اذا قام فليسلم فليست الاولى باحق من الاخرة \" . قال ابو عيسى هذا حديث حسن . وقد روي هذا الحديث ايضا عن ابن عجلان عن سعيد المقبري عن ابيه عن ابي هريرة عن النبي صلى الله عليه وسلم",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 42,
+      "hadith": 19
+    }
+  }
+}

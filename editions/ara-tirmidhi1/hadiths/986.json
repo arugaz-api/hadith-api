@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 986,
+    "arabicnumber": 986,
+    "text": "حدثنا احمد بن منيع، حدثنا عبد القدوس بن بكر بن خنيس، حدثنا حبيب بن سليم العبسي، عن بلال بن يحيى العبسي، عن حذيفة بن اليمان، قال اذا مت فلا توذنوا بي احدا اني اخاف ان يكون نعيا فاني سمعت رسول الله صلى الله عليه وسلم ينهى عن النعى . هذا حديث حسن",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 10,
+      "hadith": 22
+    }
+  }
+}

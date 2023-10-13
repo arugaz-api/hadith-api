@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3826,
+    "arabicnumber": 3826,
+    "text": "حدثنا عبد الله بن اسحاق الجوهري، قال حدثنا ابو عاصم، عن عبد الله بن المومل، عن ابن ابي مليكة، عن عايشة، ان النبي صلى الله عليه وسلم راى في بيت الزبير مصباحا فقال \" يا عايشة ما ارى اسماء الا قد نفست فلا تسموه حتى اسميه \" . فسماه عبد الله وحنكه بتمرة بيده . هذا حديث حسن غريب",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 49,
+      "hadith": 226
+    }
+  }
+}

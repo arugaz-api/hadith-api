@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2704,
+    "arabicnumber": 2704,
+    "text": "حدثنا سويد بن نصر، انبانا عبد الله بن المبارك، انبانا معمر، عن همام بن منبه، عن ابي هريرة، عن النبي صلى الله عليه وسلم قال \" يسلم الصغير على الكبير والمار على القاعد والقليل على الكثير \" . قال وهذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari"
+      }
+    ],
+    "reference": {
+      "book": 42,
+      "hadith": 17
+    }
+  }
+}

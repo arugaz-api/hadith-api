@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3840,
+    "arabicnumber": 3840,
+    "text": "حدثنا احمد بن سعيد المرابطي، قال حدثنا روح بن عبادة، قال حدثنا اسامة بن زيد، عن عبد الله بن رافع، قال قلت لابي هريرة لم كنيت ابا هريرة قال اما تفرق مني قلت بلى والله اني لاهابك . قال كنت ارعى غنم اهلي فكانت لي هريرة صغيرة فكنت اضعها بالليل في شجرة فاذا كان النهار ذهبت بها معي فلعبت بها فكنوني ابا هريرة . هذا حديث حسن غريب",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Isnaad"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 49,
+      "hadith": 240
+    }
+  }
+}

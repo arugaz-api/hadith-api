@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3197,
+    "arabicnumber": 3197,
+    "text": "حدثنا ابن ابي عمر، حدثنا سفيان، عن ابي الزناد، عن الاعرج، عن ابي هريرة، يبلغ به النبي صلى الله عليه وسلم قال \" قال الله تعالى اعددت لعبادي الصالحين ما لا عين رات ولا اذن سمعت ولا خطر على قلب بشر وتصديق ذلك في كتاب الله عز وجل : ( فلا تعلم نفس ما اخفي لهم من قرة اعين جزاء بما كانوا يعملون ) \" . قال هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 47,
+      "hadith": 249
+    }
+  }
+}

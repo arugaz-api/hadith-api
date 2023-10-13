@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2118,
+    "arabicnumber": 2118,
+    "text": "حدثنا ابن ابي عمر، حدثنا سفيان، عن ايوب، عن نافع، عن ابن عمر، قال قال النبي صلى الله عليه وسلم \" ما حق امري مسلم يبيت ليلتين وله ما يوصي فيه الا ووصيته مكتوبة عنده \" . قال ابو عيسى هذا حديث حسن صحيح . وقد روي عن الزهري عن سالم عن ابن عمر عن النبي صلى الله عليه وسلم نحوه",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 30,
+      "hadith": 3
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 240,
+    "arabicnumber": 240,
+    "text": "قال وحدثنا عبد الله بن عبد الرحمن، اخبرنا عبيد الله بن عبد المجيد الحنفي، حدثنا ابن ابي ذيب، عن سعيد بن سمعان، قال سمعت ابا هريرة، يقول كان رسول الله صلى الله عليه وسلم اذا قام الى الصلاة رفع يديه مدا . قال ابو عيسى قال عبد الله بن عبد الرحمن وهذا اصح من حديث يحيى بن اليمان وحديث يحيى بن اليمان خطا",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 92
+    }
+  }
+}

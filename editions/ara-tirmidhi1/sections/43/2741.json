@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2741,
+    "arabicnumber": 2741,
+    "text": "حدثنا محمود بن غيلان، حدثنا ابو داود، اخبرنا شعبة، اخبرني ابن ابي ليلى، عن اخيه، عيسى بن عبد الرحمن عن عبد الرحمن بن ابي ليلى، عن ابي ايوب، ان رسول الله صلى الله عليه وسلم قال \" اذا عطس احدكم فليقل الحمد لله على كل حال وليقل الذي يرد عليه يرحمك الله وليقل هو يهديكم الله ويصلح بالكم",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 6
+    }
+  }
+}

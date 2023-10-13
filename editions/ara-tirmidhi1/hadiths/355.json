@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 355,
+    "arabicnumber": 355,
+    "text": "حدثنا هارون بن اسحاق الهمداني، حدثنا عبدة بن سليمان الكلابي، عن هشام بن عروة، عن ابيه، عن عايشة، قالت قال رسول الله صلى الله عليه وسلم \" اذا نعس احدكم وهو يصلي فليرقد حتى يذهب عنه النوم فان احدكم اذا صلى وهو ينعس لعله يذهب يستغفر فيسب نفسه \" . قال وفي الباب عن انس وابي هريرة . قال ابو عيسى حديث عايشة حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 207
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1749,
+    "arabicnumber": 1749,
+    "text": "حدثنا احمد بن منيع، حدثنا روح بن عبادة، حدثنا ابن جريج، اخبرني ابو الزبير، عن جابر، قال نهى رسول الله صلى الله عليه وسلم عن الصورة في البيت ونهى ان يصنع ذلك . قال وفي الباب عن علي وابي طلحة وعايشة وابي هريرة وابي ايوب . قال ابو عيسى حديث جابر حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 30
+    }
+  }
+}

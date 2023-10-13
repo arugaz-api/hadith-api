@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 613,
+    "arabicnumber": 613,
+    "text": "حدثنا هناد، حدثنا قبيصة، عن حماد بن سلمة، عن عطاء الخراساني، عن يحيى بن يعمر، عن عمار، ان النبي صلى الله عليه وسلم رخص للجنب اذا اراد ان ياكل او يشرب او ينام ان يتوضا وضوءه للصلاة . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 6,
+      "hadith": 70
+    }
+  }
+}

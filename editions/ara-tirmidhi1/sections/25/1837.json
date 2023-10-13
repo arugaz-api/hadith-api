@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1837,
+    "arabicnumber": 1837,
+    "text": "حدثنا واصل بن عبد الاعلى، حدثنا محمد بن فضيل، عن ابي حيان التيمي، عن ابي زرعة بن عمرو بن جرير، عن ابي هريرة، قال اتي النبي صلى الله عليه وسلم بلحم فرفع اليه الذراع وكانت تعجبه فنهس منها . قال وفي الباب عن ابن مسعود وعايشة وعبد الله بن جعفر وابي عبيدة . قال ابو عيسى هذا حديث حسن صحيح . وابو حيان اسمه يحيى بن سعيد بن حيان وابو زرعة بن عمرو بن جرير اسمه هرم",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 25,
+      "hadith": 53
+    }
+  }
+}

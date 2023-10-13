@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1149,
+    "arabicnumber": 1149,
+    "text": "حدثنا قتيبة، حدثنا مالك، ح وحدثنا الانصاري، حدثنا معن، قال حدثنا مالك بن انس، عن ابن شهاب، عن عمرو بن الشريد، عن ابن عباس، انه سيل عن رجل، له جاريتان ارضعت احداهما جارية والاخرى غلاما ايحل للغلام ان يتزوج بالجارية فقال لا اللقاح واحد . قال ابو عيسى وهذا تفسير لبن الفحل وهذا الاصل في هذا الباب وهو قول احمد واسحاق",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 4
+    }
+  }
+}

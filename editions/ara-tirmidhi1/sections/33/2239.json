@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2239,
+    "arabicnumber": 2239,
+    "text": "حدثنا محمود بن غيلان، حدثنا ابو داود، عن شعبة، عن يحيى بن سعيد، عن انس بن مالك، قال فتح القسطنطينية مع قيام الساعة . قال هذا حديث غريب . والقسطنطينية هي مدينة الروم تفتح عند خروج الدجال والقسطنطينية قد فتحت في زمان بعض اصحاب النبي صلى الله عليه وسلم",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih Isnaad Mauquf"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad Mauquf"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 33,
+      "hadith": 82
+    }
+  }
+}

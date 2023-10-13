@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1232,
+    "arabicnumber": 1232,
+    "text": "حدثنا قتيبة، حدثنا هشيم، عن ابي بشر، عن يوسف بن ماهك، عن حكيم بن حزام، قال اتيت رسول الله صلى الله عليه وسلم فقلت ياتيني الرجل يسالني من البيع ما ليس عندي ابتاع له من السوق ثم ابيعه قال \" لا تبع ما ليس عندك \" . قال وفي الباب عن عبد الله بن عمر",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 14,
+      "hadith": 32
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2482,
+    "arabicnumber": 2482,
+    "text": "حدثنا محمد بن حميد الرازي، حدثنا زافر بن سليمان، عن اسراييل، عن شبيب بن بشير، عن انس بن مالك، قال قال رسول الله صلى الله عليه وسلم \" النفقة كلها في سبيل الله الا البناء فلا خير فيه \" . قال ابو عيسى هذا حديث غريب . هكذا قال محمد بن حميد شبيب بن بشير وانما هو شبيب بن بشر",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 37,
+      "hadith": 68
+    }
+  }
+}

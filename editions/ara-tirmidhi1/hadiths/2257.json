@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2257,
+    "arabicnumber": 2257,
+    "text": "حدثنا محمود بن غيلان، حدثنا ابو داود، انبانا شعبة، عن سماك بن حرب، قال سمعت عبد الرحمن بن عبد الله بن مسعود، يحدث عن ابيه، قال سمعت رسول الله صلى الله عليه وسلم يقول \" انكم منصورون ومصيبون ومفتوح لكم فمن ادرك ذلك منكم فليتق الله وليامر بالمعروف ولينه عن المنكر ومن كذب على متعمدا فليتبوا مقعده من النار \" . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 33,
+      "hadith": 100
+    }
+  }
+}

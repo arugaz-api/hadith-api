@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1702,
+    "arabicnumber": 1702,
+    "text": "حدثنا احمد بن محمد بن موسى، حدثنا عبد الله بن المبارك، قال اخبرنا عبد الرحمن بن يزيد بن جابر، حدثنا زيد بن ارطاة، عن جبير بن نفير، عن ابي الدرداء، قال سمعت النبي صلى الله عليه وسلم يقول \" ابغوني ضعفاءكم فانما ترزقون وتنصرون بضعفايكم \" . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 23,
+      "hadith": 33
+    }
+  }
+}

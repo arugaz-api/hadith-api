@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1668,
+    "arabicnumber": 1668,
+    "text": "حدثنا محمد بن بشار، واحمد بن نصر النيسابوري، وغير، واحد، قالوا حدثنا صفوان بن عيسى، حدثنا محمد بن عجلان، عن القعقاع بن حكيم، عن ابي صالح، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" ما يجد الشهيد من مس القتل الا كما يجد احدكم من مس القرصة \" . قال ابو عيسى هذا حديث حسن صحيح غريب",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 51
+    }
+  }
+}

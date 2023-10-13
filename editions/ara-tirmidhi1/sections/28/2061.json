@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2061,
+    "arabicnumber": 2061,
+    "text": "حدثنا ابو حفص، عمرو بن علي, قال حدثنا يحيى بن كثير ابو غسان العنبري، قال حدثنا علي بن المبارك، عن يحيى بن ابي كثير، حدثني حية بن حابس التميمي، حدثني ابي انه، سمع رسول الله صلى الله عليه وسلم يقول \" لا شىء في الهام والعين حق",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 28,
+      "hadith": 26
+    }
+  }
+}

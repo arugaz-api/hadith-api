@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3441,
+    "arabicnumber": 3441,
+    "text": "حدثنا علي بن حجر، حدثنا اسماعيل بن جعفر، عن حميد، عن انس، ان النبي صلى الله عليه وسلم كان اذا قدم من سفر فنظر الى جدرات المدينة اوضع راحلته وان كان على دابة حركها من حبها . قال ابو عيسى هذا حديث حسن صحيح غريب",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari"
+      }
+    ],
+    "reference": {
+      "book": 48,
+      "hadith": 72
+    }
+  }
+}

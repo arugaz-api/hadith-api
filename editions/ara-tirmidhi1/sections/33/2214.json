@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2214,
+    "arabicnumber": 2214,
+    "text": "حدثنا محمود بن غيلان، حدثنا ابو داود، انبانا شعبة، عن قتادة، عن انس، قال قال رسول الله صلى الله عليه وسلم \" بعثت انا والساعة كهاتين \" . واشار ابو داود بالسبابة والوسطى فما فضل احداهما على الاخرى . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 33,
+      "hadith": 57
+    }
+  }
+}

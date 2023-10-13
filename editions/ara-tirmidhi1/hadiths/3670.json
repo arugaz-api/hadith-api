@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3670,
+    "arabicnumber": 3670,
+    "text": "حدثنا يوسف بن موسى القطان البغدادي، قال حدثنا مالك بن اسماعيل، عن منصور بن ابي الاسود، قال حدثني كثير ابو اسماعيل، عن جميع بن عمير التيمي، عن ابن عمر، ان رسول الله صلى الله عليه وسلم قال لابي بكر \" انت صاحبي على الحوض وصاحبي في الغار \" . هذا حديث حسن صحيح غريب",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 49,
+      "hadith": 66
+    }
+  }
+}

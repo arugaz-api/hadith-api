@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1224,
+    "arabicnumber": 1224,
+    "text": "حدثنا قتيبة، حدثنا يعقوب بن عبد الرحمن الاسكندراني، عن سهيل بن ابي صالح، عن ابيه، عن ابي هريرة، قال نهى رسول الله صلى الله عليه وسلم عن المحاقلة والمزابنة . قال وفي الباب عن ابن عمر وابن عباس وزيد بن ثابت وسعد وجابر ورافع بن خديج وابي سعيد . قال ابو عيسى حديث ابي هريرة حديث حسن صحيح . والمحاقلة بيع الزرع بالحنطة . والمزابنة بيع الثمر على رءوس النخل بالتمر . والعمل على هذا عند اكثر اهل العلم كرهوا بيع المحاقلة والمزابنة",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Hadith"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Bukhari And Muslim"
+      }
+    ],
+    "reference": {
+      "book": 14,
+      "hadith": 23
+    }
+  }
+}

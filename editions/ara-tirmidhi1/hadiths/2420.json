@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2420,
+    "arabicnumber": 2420,
+    "text": "حدثنا قتيبة، حدثنا عبد العزيز بن محمد، عن العلاء بن عبد الرحمن، عن ابيه، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال \" لتودن الحقوق الى اهلها حتى يقاد للشاة الجلحاء من الشاة القرناء \" . وفي الباب عن ابي ذر وعبد الله بن انيس . قال ابو عيسى وحديث ابي هريرة حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Bukhari And Muslim"
+      }
+    ],
+    "reference": {
+      "book": 37,
+      "hadith": 6
+    }
+  }
+}

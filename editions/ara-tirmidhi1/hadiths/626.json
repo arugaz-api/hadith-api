@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 626,
+    "arabicnumber": 626,
+    "text": "حدثنا قتيبة، حدثنا عبد العزيز بن محمد، عن عمرو بن يحيى المازني، عن ابيه، عن ابي سعيد الخدري، ان النبي صلى الله عليه وسلم قال \" ليس فيما دون خمس ذود صدقة وليس فيما دون خمس اواق صدقة وليس فيما دون خمسة اوسق صدقة \" . وفي الباب عن ابي هريرة وابن عمر وجابر وعبد الله بن عمرو",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 7,
+      "hadith": 10
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2873,
+    "arabicnumber": 2873,
+    "text": "حدثنا سعيد بن عبد الرحمن المخزومي، قال حدثنا سفيان بن عيينة، عن الزهري، بهذا الاسناد نحوه وقال لا تجد فيها راحلة او قال لا تجد فيها الا راحلة",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 44,
+      "hadith": 16
+    }
+  }
+}

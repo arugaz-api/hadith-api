@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1844,
+    "arabicnumber": 1844,
+    "text": "حدثنا اسماعيل بن موسى الفزاري، حدثنا ابراهيم بن سعد، عن ابيه، عن عبد الله بن جعفر، قال كان النبي صلى الله عليه وسلم ياكل القثاء بالرطب . قال ابو عيسى هذا حديث حسن صحيح غريب لا نعرفه الا من حديث ابراهيم بن سعد",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 25,
+      "hadith": 60
+    }
+  }
+}

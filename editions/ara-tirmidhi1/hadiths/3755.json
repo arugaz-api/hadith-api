@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3755,
+    "arabicnumber": 3755,
+    "text": "حدثنا بذلك، محمود بن غيلان قال حدثنا وكيع، قال حدثنا سفيان، عن سعد بن ابراهيم، عن عبد الله بن شداد، عن علي بن ابي طالب، قال ما سمعت النبي صلى الله عليه وسلم يفدي احدا بابويه الا لسعد فاني سمعته يقول يوم احد \" ارم سعد فداك ابي وامي \" . هذا حديث صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 49,
+      "hadith": 152
+    }
+  }
+}

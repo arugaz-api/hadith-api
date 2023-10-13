@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3842,
+    "arabicnumber": 3842,
+    "text": "حدثنا محمد بن يحيى، قال حدثنا ابو مسهر عبد الاعلى بن مسهر، عن سعيد بن عبد العزيز، عن ربيعة بن يزيد، عن عبد الرحمن بن ابي عميرة، وكان، من اصحاب رسول الله صلى الله عليه وسلم عن النبي صلى الله عليه وسلم انه قال لمعاوية \" اللهم اجعله هاديا مهديا واهد به \" . قال ابو عيسى هذا حديث حسن غريب",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 49,
+      "hadith": 242
+    }
+  }
+}

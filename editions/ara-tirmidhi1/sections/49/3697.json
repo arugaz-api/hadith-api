@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3697,
+    "arabicnumber": 3697,
+    "text": "حدثنا محمد بن بشار، قال حدثنا يحيى بن سعيد، عن سعيد بن ابي عروبة، عن قتادة، عن انس حدثهم ان رسول الله صلى الله عليه وسلم صعد احدا وابو بكر وعمر وعثمان فرجف بهم فقال رسول الله صلى الله عليه وسلم \" اثبت احد فانما عليك نبي وصديق وشهيدان \" . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari"
+      }
+    ],
+    "reference": {
+      "book": 49,
+      "hadith": 93
+    }
+  }
+}

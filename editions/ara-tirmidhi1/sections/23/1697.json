@@ -1,0 +1,22 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1697,
+    "arabicnumber": 1697,
+    "text": "حدثنا محمد بن بشار، حدثنا وهب بن جرير، حدثنا ابي، عن يحيى بن ايوب، عن يزيد بن ابي حبيب، بهذا الاسناد نحوه بمعناه . قال ابو عيسى هذا حديث حسن غريب صحيح",
+    "grades": [
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 23,
+      "hadith": 28
+    }
+  }
+}

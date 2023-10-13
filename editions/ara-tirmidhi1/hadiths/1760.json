@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1760,
+    "arabicnumber": 1760,
+    "text": "حدثنا علي بن حجر، اخبرنا علي بن مسهر، حدثنا ابو اسحاق الشيباني، عن اشعث بن ابي الشعثاء، عن معاوية بن سويد بن مقرن، عن البراء بن عازب، قال نهانا رسول الله صلى الله عليه وسلم عن ركوب المياثر . قال وفي الحديث قصة . قال وفي الباب عن علي ومعاوية . وحديث البراء حديث حسن صحيح . وقد روى شعبة عن اشعث بن ابي الشعثاء نحوه وفي الحديث قصة",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 43
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3834,
+    "arabicnumber": 3834,
+    "text": "حدثنا محمد بن عمر بن علي المقدمي، قال حدثنا ابن ابي عدي، عن شعبة، عن سماك، عن ابي الربيع، عن ابي هريرة، قال اتيت النبي صلى الله عليه وسلم فبسطت ثوبي عنده ثم اخذه فجمعه على قلبي فما نسيت بعده حديثا . قال ابو عيسى هذا حديث حسن غريب من هذا الوجه",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Isnaad"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 49,
+      "hadith": 234
+    }
+  }
+}

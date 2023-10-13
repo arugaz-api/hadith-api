@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2349,
+    "arabicnumber": 2349,
+    "text": "حدثنا العباس بن محمد الدوري، حدثنا عبد الله بن يزيد المقري، اخبرنا حيوة بن شريح، اخبرني ابو هاني الخولاني، ان ابا علي، عمرو بن مالك الجنبي اخبره عن فضالة بن عبيد، انه سمع رسول الله صلى الله عليه وسلم يقول \" طوبى لمن هدي الى الاسلام وكان عيشه كفافا وقنع \" . قال وابو هاني اسمه حميد بن هاني . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 36,
+      "hadith": 46
+    }
+  }
+}

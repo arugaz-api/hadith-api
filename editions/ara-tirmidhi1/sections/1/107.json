@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 107,
+    "arabicnumber": 107,
+    "text": "حدثنا اسماعيل بن موسى، حدثنا شريك، عن ابي اسحاق، عن الاسود، عن عايشة، ان النبي صلى الله عليه وسلم كان لا يتوضا بعد الغسل \" . قال ابو عيسى هذا حديث حسن صحيح . قال ابو عيسى وهذا قول غير واحد من اهل العلم من اصحاب النبي صلى الله عليه وسلم والتابعين ان لا يتوضا بعد الغسل",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 107
+    }
+  }
+}

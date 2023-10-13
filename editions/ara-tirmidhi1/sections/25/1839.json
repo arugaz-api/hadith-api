@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1839,
+    "arabicnumber": 1839,
+    "text": "حدثنا الحسن بن عرفة، حدثنا مبارك بن سعيد، هو اخو سفيان بن سعيد الثوري عن سفيان، عن ابي الزبير، عن جابر، عن النبي صلى الله عليه وسلم قال \" نعم الادام الخل \" . قال وفي الباب عن عايشة وام هاني",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 25,
+      "hadith": 55
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 924,
+    "arabicnumber": 924,
+    "text": "حدثنا محمد بن طريف الكوفي، حدثنا ابو معاوية، عن محمد بن سوقة، عن محمد بن المنكدر، عن جابر بن عبد الله، قال رفعت امراة صبيا لها الى رسول الله صلى الله عليه وسلم فقالت يا رسول الله الهذا حج قال \" نعم ولك اجر \" . قال وفي الباب عن ابن عباس . حديث جابر حديث غريب",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 117
+    }
+  }
+}

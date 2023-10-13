@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2011,
+    "arabicnumber": 2011,
+    "text": "حدثنا محمد بن عبد الله بن بزيع، حدثنا بشر بن المفضل، عن قرة بن خالد، عن ابي جمرة، عن ابن عباس، ان النبي صلى الله عليه وسلم قال لاشج عبد القيس \" ان فيك خصلتين يحبهما الله الحلم والاناة \" . قال ابو عيسى هذا حديث حسن صحيح غريب . وفي الباب عن الاشج العصري",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 27,
+      "hadith": 117
+    }
+  }
+}

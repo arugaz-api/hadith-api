@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1981,
+    "arabicnumber": 1981,
+    "text": "حدثنا قتيبة، حدثنا عبد العزيز بن محمد، عن العلاء بن عبد الرحمن، عن ابيه، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال \" المستبان ما قالا فعلى البادي منهما ما لم يعتد المظلوم \" . وفي الباب عن سعد وابن مسعود وعبد الله بن مغفل . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 27,
+      "hadith": 87
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2640,
+    "arabicnumber": 2640,
+    "text": "حدثنا الحسين بن حريث ابو عمار، حدثنا الفضل بن موسى، عن محمد بن عمرو، عن ابي سلمة، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال \" تفرقت اليهود على احدى وسبعين او اثنتين وسبعين فرقة والنصارى مثل ذلك وتفترق امتي على ثلاث وسبعين فرقة \" . وفي الباب عن سعد وعبد الله بن عمرو وعوف بن مالك . قال ابو عيسى حديث ابي هريرة حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 40,
+      "hadith": 35
+    }
+  }
+}

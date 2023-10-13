@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2833,
+    "arabicnumber": 2833,
+    "text": "حدثنا عبد الرحمن بن الاسود ابو عمرو الوراق البصري، حدثنا معمر بن سليمان الرقي، عن علي بن صالح المكي، عن عبد الله بن عثمان، عن نافع، عن ابن عمر، عن النبي صلى الله عليه وسلم قال \" احب الاسماء الى الله عز وجل عبد الله وعبد الرحمن \" . قال ابو عيسى هذا حديث حسن غريب من هذا الوجه",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 107
+    }
+  }
+}

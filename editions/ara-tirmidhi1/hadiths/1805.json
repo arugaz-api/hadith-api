@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1805,
+    "arabicnumber": 1805,
+    "text": "حدثنا قتيبة ابو رجاء، حدثنا جرير، عن عطاء بن السايب، عن سعيد بن جبير، عن ابن عباس، ان النبي صلى الله عليه وسلم قال \" ان البركة تنزل وسط الطعام فكلوا من حافتيه ولا تاكلوا من وسطه \" . قال ابو عيسى هذا حديث حسن صحيح انما يعرف من حديث عطاء بن السايب . وقد رواه شعبة والثوري عن عطاء بن السايب . وفي الباب عن ابن عمر",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 25,
+      "hadith": 19
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1396,
+    "arabicnumber": 1396,
+    "text": "حدثنا محمود بن غيلان، حدثنا وهب بن جرير، حدثنا شعبة، عن الاعمش، عن ابي وايل، عن عبد الله، قال قال رسول الله صلى الله عليه وسلم \" ان اول ما يحكم بين العباد في الدماء \" . قال ابو عيسى حديث عبد الله حديث حسن صحيح . وهكذا روى غير واحد عن الاعمش مرفوعا وروى بعضهم عن الاعمش ولم يرفعوه",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 16,
+      "hadith": 12
+    }
+  }
+}

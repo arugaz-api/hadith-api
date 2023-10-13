@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1853,
+    "arabicnumber": 1853,
+    "text": "حدثنا نصر بن علي، حدثنا سفيان، عن اسماعيل بن ابي خالد، عن ابيه، عن ابي هريرة، يخبرهم ذاك عن النبي صلى الله عليه وسلم قال \" اذا كفى احدكم خادمه طعامه حره ودخانه فلياخذ بيده فليقعده معه فان ابى فلياخذ لقمة فليطعمها اياه \" . قال ابو عيسى هذا حديث حسن صحيح . وابو خالد والد اسماعيل اسمه سعد",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 25,
+      "hadith": 70
+    }
+  }
+}

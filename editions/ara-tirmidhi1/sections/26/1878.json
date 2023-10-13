@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1878,
+    "arabicnumber": 1878,
+    "text": "حدثنا محمد بن بشار، حدثنا محمد بن جعفر، حدثنا شعبة، عن الحكم، قال سمعت ابن ابي ليلى، يحدث ان حذيفة، استسقى فاتاه انسان باناء من فضة فرماه به وقال اني كنت قد نهيته فابى ان ينتهي ان رسول الله صلى الله عليه وسلم نهى عن الشرب في انية الفضة والذهب ولبس الحرير والديباج وقال \" هي لهم في الدنيا ولكم في الاخرة \" . قال وفي الباب عن ام سلمة والبراء وعايشة . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 26,
+      "hadith": 18
+    }
+  }
+}

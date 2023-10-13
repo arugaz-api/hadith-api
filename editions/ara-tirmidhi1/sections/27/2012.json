@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2012,
+    "arabicnumber": 2012,
+    "text": "حدثنا ابو مصعب المدني، حدثنا عبد المهيمن بن عباس بن سهل بن سعد الساعدي، عن ابيه، عن جده، قال قال رسول الله صلى الله عليه وسلم \" الاناة من الله والعجلة من الشيطان \" . قال ابو عيسى هذا حديث غريب . وقد تكلم بعض اهل الحديث في عبد المهيمن بن عباس بن سهل وضعفه من قبل حفظه والاشج بن عبد القيس اسمه المنذر بن عايذ",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 27,
+      "hadith": 118
+    }
+  }
+}

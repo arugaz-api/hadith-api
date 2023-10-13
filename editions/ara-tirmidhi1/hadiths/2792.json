@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2792,
+    "arabicnumber": 2792,
+    "text": "حدثنا هناد، حدثنا ابو معاوية، عن الاعمش، عن شقيق بن سلمة، عن عبد الله، قال قال رسول الله صلى الله عليه وسلم \" لا تباشر المراة المراة حتى تصفها لزوجها كانما ينظر اليها \" . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 65
+    }
+  }
+}

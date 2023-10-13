@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 690,
+    "arabicnumber": 690,
+    "text": "حدثنا علي بن حجر، حدثنا اسماعيل بن جعفر، عن حميد، عن انس، انه قال الى رسول الله صلى الله عليه وسلم من نسايه شهرا فاقام في مشربة تسعا وعشرين يوما قالوا يا رسول الله انك اليت شهرا فقال \" الشهر تسع وعشرون \" . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari"
+      }
+    ],
+    "reference": {
+      "book": 8,
+      "hadith": 9
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 437,
+    "arabicnumber": 437,
+    "text": "حدثنا قتيبة، حدثنا الليث، عن نافع، عن ابن عمر، عن النبي صلى الله عليه وسلم انه قال \" صلاة الليل مثنى مثنى فاذا خفت الصبح فاوتر بواحدة واجعل اخر صلاتك وترا \" . قال ابو عيسى وفي الباب عن عمرو بن عبسة . قال ابو عيسى حديث ابن عمر حديث حسن صحيح . والعمل على هذا عند اهل العلم ان صلاة الليل مثنى مثنى . وهو قول سفيان الثوري وابن المبارك والشافعي . واحمد واسحاق",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 290
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1858,
+    "arabicnumber": 1858,
+    "text": "",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      }
+    ],
+    "reference": {
+      "book": 25,
+      "hadith": 75
+    }
+  }
+}

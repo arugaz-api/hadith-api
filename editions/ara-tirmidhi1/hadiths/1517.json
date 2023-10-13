@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1517,
+    "arabicnumber": 1517,
+    "text": "حدثنا سلمة بن شبيب، حدثنا ابو المغيرة، عن عفير بن معدان، عن سليم بن عامر، عن ابي امامة، قال قال رسول الله صلى الله عليه وسلم \" خير الاضحية الكبش وخير الكفن الحلة \" . قال ابو عيسى هذا حديث غريب . وعفير بن معدان يضعف في الحديث",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 19,
+      "hadith": 29
+    }
+  }
+}

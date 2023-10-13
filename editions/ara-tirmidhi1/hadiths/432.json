@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 432,
+    "arabicnumber": 432,
+    "text": "حدثنا احمد بن منيع، حدثنا اسماعيل بن ابراهيم، عن ايوب، عن نافع، عن ابن عمر، قال صليت مع النبي صلى الله عليه وسلم ركعتين بعد المغرب في بيته . قال وفي الباب عن رافع بن خديج وكعب بن عجرة . قال ابو عيسى حديث ابن عمر حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 285
+    }
+  }
+}

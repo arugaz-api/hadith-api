@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2798,
+    "arabicnumber": 2798,
+    "text": "حدثنا الحسن بن علي الخلال، حدثنا عبد الرزاق، اخبرنا معمر، عن ابي الزناد، اخبرني ابن جرهد، عن ابيه، ان النبي صلى الله عليه وسلم مر به وهو كاشف عن فخذه فقال النبي صلى الله عليه وسلم \" غط فخذك فانها من العورة \" . قال ابو عيسى هذا حديث حسن",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 71
+    }
+  }
+}

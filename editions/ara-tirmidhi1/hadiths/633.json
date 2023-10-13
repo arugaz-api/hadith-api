@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 633,
+    "arabicnumber": 633,
+    "text": "حدثنا يحيى بن اكثم، حدثنا جرير، عن قابوس بن ابي ظبيان، عن ابيه، عن ابن عباس، قال قال رسول الله صلى الله عليه وسلم \" لا تصلح قبلتان في ارض واحدة وليس على المسلمين جزية",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 7,
+      "hadith": 17
+    }
+  }
+}

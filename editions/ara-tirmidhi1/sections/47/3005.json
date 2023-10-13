@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3005,
+    "arabicnumber": 3005,
+    "text": "حدثنا يحيى بن حبيب بن عربي البصري، حدثنا خالد بن الحارث، عن محمد بن عجلان، عن نافع، عن عبد الله بن عمر، ان رسول الله صلى الله عليه وسلم كان يدعو على اربعة نفر فانزل الله : (ليس لك من الامر شيء او يتوب عليهم او يعذبهم فانهم ظالمون ) فهداهم الله للاسلام . قال ابو عيسى هذا حديث حسن غريب صحيح يستغرب من هذا الوجه من حديث نافع عن ابن عمر ورواه يحيى بن ايوب عن ابن عجلان",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 47,
+      "hadith": 57
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3241,
+    "arabicnumber": 3241,
+    "text": "حدثنا سويد بن نصر، حدثنا عبد الله بن المبارك، عن عنبسة بن سعيد، عن حبيب بن ابي عمرة، عن مجاهد، قال قال ابن عباس اتدري ما سعة جهنم قلت لا . قال اجل والله ما تدري . حدثتني عايشة انها سالت رسول الله صلى الله عليه وسلم عن قوله : (والارض جميعا قبضته يوم القيامة والسموات مطويات بيمينه ) قالت قلت فاين الناس يوميذ يا رسول الله قال \" على جسر جهنم \" . وفي الحديث قصة . قال هذا حديث حسن صحيح غريب من هذا الوجه",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 47,
+      "hadith": 293
+    }
+  }
+}

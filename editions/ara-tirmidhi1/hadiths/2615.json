@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2615,
+    "arabicnumber": 2615,
+    "text": "حدثنا ابن ابي عمر، واحمد بن منيع، - المعنى واحد قالا حدثنا سفيان بن عيينة، عن الزهري، عن سالم، عن ابيه، ان رسول الله صلى الله عليه وسلم مر برجل وهو يعظ اخاه في الحياء فقال رسول الله صلى الله عليه وسلم \" الحياء من الايمان \" . قال احمد بن منيع في حديثه ان النبي صلى الله عليه وسلم سمع رجلا يعظ اخاه في الحياء . قال هذا حديث حسن صحيح . وفي الباب عن ابي هريرة وابي بكرة وابي امامة",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 40,
+      "hadith": 10
+    }
+  }
+}

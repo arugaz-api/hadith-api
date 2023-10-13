@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2790,
+    "arabicnumber": 2790,
+    "text": "حدثنا قتيبة، حدثنا ابن ابي فديك، عن عبد الله بن مسلم، عن ابيه، عن ابن عمر، قال قال رسول الله صلى الله عليه وسلم \" ثلاث لا ترد الوسايد والدهن واللبن \" . الدهن يعني به الطيب . قال ابو عيسى هذا حديث غريب وعبد الله هو ابن مسلم بن جندب وهو مدني",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 63
+    }
+  }
+}

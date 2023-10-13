@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2488,
+    "arabicnumber": 2488,
+    "text": "حدثنا هناد، حدثنا عبدة، عن هشام بن عروة، عن موسى بن عقبة، عن عبد الله بن عمرو الاودي، عن عبد الله بن مسعود، قال قال رسول الله صلى الله عليه وسلم \" الا اخبركم بمن يحرم على النار او بمن تحرم عليه النار على كل قريب هين لين سهل \" . قال ابو عيسى هذا حديث حسن غريب",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 37,
+      "hadith": 74
+    }
+  }
+}

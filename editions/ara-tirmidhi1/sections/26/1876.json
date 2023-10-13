@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1876,
+    "arabicnumber": 1876,
+    "text": "حدثنا قتيبة، حدثنا الليث بن سعد، عن عطاء بن ابي رباح، عن جابر بن عبد الله، ان رسول الله صلى الله عليه وسلم نهى ان ينبذ البسر والرطب جميعا . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 26,
+      "hadith": 16
+    }
+  }
+}

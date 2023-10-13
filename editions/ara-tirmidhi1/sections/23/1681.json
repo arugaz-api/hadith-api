@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1681,
+    "arabicnumber": 1681,
+    "text": "حدثنا محمد بن رافع، حدثنا يحيى بن اسحاق، وهو السالحاني حدثنا يزيد بن حيان، قال سمعت ابا مجلز، لاحق بن حميد يحدث عن ابن عباس، قال كانت راية رسول الله صلى الله عليه وسلم سوداء ولواوه ابيض . قال ابو عيسى هذا حديث حسن غريب من هذا الوجه من حديث ابن عباس",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 23,
+      "hadith": 12
+    }
+  }
+}

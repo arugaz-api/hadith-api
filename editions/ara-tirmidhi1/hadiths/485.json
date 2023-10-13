@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 485,
+    "arabicnumber": 485,
+    "text": "حدثنا علي بن حجر، اخبرنا اسماعيل بن جعفر، عن العلاء بن عبد الرحمن، عن ابيه، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" من صلى على صلاة صلى الله عليه بها عشرا \" . قال وفي الباب عن عبد الرحمن بن عوف وعامر بن ربيعة وعمار وابي طلحة وانس وابى بن كعب . قال ابو عيسى حديث ابي هريرة حديث حسن صحيح . وروي عن سفيان الثوري وغير واحد من اهل العلم قالوا صلاة الرب الرحمة وصلاة الملايكة الاستغفار",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 3,
+      "hadith": 33
+    }
+  }
+}

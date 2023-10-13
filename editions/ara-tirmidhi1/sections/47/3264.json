@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3264,
+    "arabicnumber": 3264,
+    "text": "حدثنا عبد بن حميد، حدثني سليمان بن حرب، حدثنا حماد بن سلمة، عن ثابت، عن انس، ان ثمانين، هبطوا على رسول الله صلى الله عليه وسلم واصحابه من جبل التنعيم عند صلاة الصبح وهم يريدون ان يقتلوه فاخذوا اخذا فاعتقهم رسول الله صلى الله عليه وسلم فانزل الله : ( هو الذي كف ايديهم عنكم وايديكم عنهم ) الاية . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 47,
+      "hadith": 316
+    }
+  }
+}

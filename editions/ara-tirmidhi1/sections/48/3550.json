@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3550,
+    "arabicnumber": 3550,
+    "text": "حدثنا الحسن بن عرفة، حدثني عبد الرحمن بن محمد، عن محمد بن عمرو، عن ابي سلمة، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" اعمار امتي ما بين ستين الى سبعين واقلهم من يجوز ذلك \" . قال ابو عيسى هذا حديث حسن غريب من حديث محمد بن عمرو عن ابي سلمة عن ابي هريرة عن النبي صلى الله عليه وسلم لا نعرفه الا من هذا الوجه . وقد روي عن ابي هريرة من غير هذا الوجه",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 48,
+      "hadith": 181
+    }
+  }
+}

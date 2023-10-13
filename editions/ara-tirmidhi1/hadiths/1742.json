@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1742,
+    "arabicnumber": 1742,
+    "text": "حدثنا محمد بن حميد الرازي، حدثنا جرير، عن محمد بن اسحاق، عن الصلت بن عبد الله بن نوفل، قال رايت ابن عباس يتختم في يمينه ولا اخاله الا قال رايت رسول الله صلى الله عليه وسلم يتختم في يمينه . قال ابو عيسى قال محمد بن اسماعيل حديث محمد بن اسحاق عن الصلت بن عبد الله بن نوفل حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 23
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2590,
+    "arabicnumber": 2590,
+    "text": "حدثنا العباس بن محمد الدوري، حدثنا عبيد الله بن موسى، حدثنا شيبان، عن فراس، عن عطية، عن ابي سعيد، عن النبي صلى الله عليه وسلم قال \" ناركم هذه جزء من سبعين جزءا من نار جهنم لكل جزء منها حرها \" . قال ابو عيسى هذا حديث حسن غريب من حديث ابي سعيد",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 39,
+      "hadith": 18
+    }
+  }
+}

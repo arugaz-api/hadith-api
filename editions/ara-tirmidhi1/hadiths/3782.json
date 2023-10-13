@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3782,
+    "arabicnumber": 3782,
+    "text": "حدثنا محمود بن غيلان، قال حدثنا ابو اسامة، عن فضيل بن مرزوق، عن عدي بن ثابت، عن البراء، ان النبي صلى الله عليه وسلم ابصر حسنا وحسينا فقال \" اللهم اني احبهما فاحبهما \" . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 49,
+      "hadith": 181
+    }
+  }
+}

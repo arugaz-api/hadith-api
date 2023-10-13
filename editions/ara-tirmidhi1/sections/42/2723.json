@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2723,
+    "arabicnumber": 2723,
+    "text": "حدثنا اسحاق بن منصور، اخبرنا عبد الصمد بن عبد الوارث، حدثنا عبد الله بن المثنى، حدثنا ثمامة بن عبد الله بن انس بن مالك، عن انس بن مالك، ان رسول الله صلى الله عليه وسلم كان اذا سلم سلم ثلاثا واذا تكلم بكلمة اعادها ثلاثا . قال ابو عيسى هذا حديث حسن صحيح غريب",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari"
+      }
+    ],
+    "reference": {
+      "book": 42,
+      "hadith": 36
+    }
+  }
+}

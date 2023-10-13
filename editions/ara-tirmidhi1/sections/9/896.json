@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 896,
+    "arabicnumber": 896,
+    "text": "حدثنا محمود بن غيلان، حدثنا ابو داود، قال انبانا شعبة، عن ابي اسحاق، قال سمعت عمرو بن ميمون، يحدث يقول كنا وقوفا بجمع فقال عمر بن الخطاب ان المشركين كانوا لا يفيضون حتى تطلع الشمس وكانوا يقولون اشرق ثبير . وان رسول الله صلى الله عليه وسلم خالفهم . فافاض عمر قبل طلوع الشمس . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 89
+    }
+  }
+}

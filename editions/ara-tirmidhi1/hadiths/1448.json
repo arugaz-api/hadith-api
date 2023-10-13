@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1448,
+    "arabicnumber": 1448,
+    "text": "حدثنا علي بن خشرم، حدثنا عيسى بن يونس، عن ابن جريج، عن ابي الزبير، عن جابر، عن النبي صلى الله عليه وسلم قال \" ليس على خاين ولا منتهب ولا مختلس قطع \" . قال ابو عيسى هذا حديث حسن صحيح . والعمل على هذا عند اهل العلم . وقد رواه مغيرة بن مسلم عن ابي الزبير عن جابر عن النبي صلى الله عليه وسلم نحو حديث ابن جريج . ومغيرة بن مسلم هو بصري اخو عبد العزيز القسملي كذا قال علي بن المديني",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 17,
+      "hadith": 31
+    }
+  }
+}

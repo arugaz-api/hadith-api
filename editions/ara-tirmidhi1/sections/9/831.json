@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 831,
+    "arabicnumber": 831,
+    "text": "حدثنا احمد بن منيع، حدثنا اسماعيل بن ابراهيم، عن ايوب، عن نافع، عن ابن عمر، ان رجلا، قال من اين نهل يا رسول الله فقال \" يهل اهل المدينة من ذي الحليفة واهل الشام من الجحفة واهل نجد من قرن \" . قال ويقولون واهل اليمن من يلملم . قال وفي الباب عن ابن عباس وجابر بن عبد الله وعبد الله بن عمرو . قال ابو عيسى حديث ابن عمر حديث حسن صحيح . والعمل على هذا عند اهل العلم",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 24
+    }
+  }
+}

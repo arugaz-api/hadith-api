@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3773,
+    "arabicnumber": 3773,
+    "text": "حدثنا محمد بن بشار، قال حدثنا محمد بن عبد الله الانصاري، قال حدثنا الاشعث، هو ابن عبد الملك عن الحسن، عن ابي بكرة، قال صعد رسول الله صلى الله عليه وسلم المنبر فقال \" ان ابني هذا سيد يصلح الله على يديه فيتين عظيمتين \" . هذا حديث حسن صحيح . يعني الحسن بن علي",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 49,
+      "hadith": 172
+    }
+  }
+}

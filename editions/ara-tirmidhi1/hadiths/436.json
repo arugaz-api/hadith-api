@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 436,
+    "arabicnumber": 436,
+    "text": "حدثنا ابو سلمة، يحيى بن خلف حدثنا بشر بن المفضل، عن خالد الحذاء، عن عبد الله بن شقيق، قال سالت عايشة عن صلاة، رسول الله صلى الله عليه وسلم فقالت كان يصلي قبل الظهر ركعتين وبعدها ركعتين وبعد المغرب ثنتين وبعد العشاء ركعتين وقبل الفجر ثنتين . قال وفي الباب عن علي وابن عمر . قال ابو عيسى حديث عبد الله بن شقيق عن عايشة حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 289
+    }
+  }
+}

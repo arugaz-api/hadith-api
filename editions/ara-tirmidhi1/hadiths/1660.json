@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1660,
+    "arabicnumber": 1660,
+    "text": "حدثنا ابو عمار، حدثنا الوليد بن مسلم، عن الاوزاعي، حدثنا الزهري، عن عطاء بن يزيد الليثي، عن ابي سعيد الخدري، قال سيل رسول الله صلى الله عليه وسلم اى الناس افضل قال \" رجل يجاهد في سبيل الله \" . قالوا ثم من قال \" ثم مومن في شعب من الشعاب يتقي ربه ويدع الناس من شره \" . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 43
+    }
+  }
+}

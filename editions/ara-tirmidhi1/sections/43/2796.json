@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2796,
+    "arabicnumber": 2796,
+    "text": "حدثنا واصل بن عبد الاعلى الكوفي، حدثنا يحيى بن ادم، عن اسراييل، عن ابي يحيى، عن مجاهد، عن ابن عباس، عن النبي صلى الله عليه وسلم قال \" الفخذ عورة",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 69
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2388,
+    "arabicnumber": 2388,
+    "text": "حدثنا ابو كريب، حدثنا وكيع، عن جعفر بن برقان، عن يزيد بن الاصم، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" ان الله يقول انا عند ظن عبدي في وانا معه اذا دعاني \" . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Bukhari And Muslim"
+      }
+    ],
+    "reference": {
+      "book": 36,
+      "hadith": 85
+    }
+  }
+}

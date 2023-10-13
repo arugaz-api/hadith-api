@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2828,
+    "arabicnumber": 2828,
+    "text": "حدثنا ابراهيم بن سعيد الجوهري، حدثنا سفيان بن عيينة، عن يحيى بن سعيد، عن سعيد بن المسيب، عن علي، قال ما سمعت النبي صلى الله عليه وسلم جمع ابويه لاحد غير سعد بن ابي وقاص",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 102
+    }
+  }
+}

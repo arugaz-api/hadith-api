@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 681,
+    "arabicnumber": 681,
+    "text": "حدثنا محمود بن غيلان، حدثنا وكيع، حدثنا سفيان، عن عبد الملك بن عمير، عن زيد بن عقبة، عن سمرة بن جندب، قال قال رسول الله صلى الله عليه وسلم \" ان المسالة كد يكد بها الرجل وجهه الا ان يسال الرجل سلطانا او في امر لا بد منه \" . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 7,
+      "hadith": 65
+    }
+  }
+}

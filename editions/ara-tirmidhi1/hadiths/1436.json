@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1436,
+    "arabicnumber": 1436,
+    "text": "حدثنا اسحاق بن موسى الانصاري، حدثنا معن، حدثنا مالك بن انس، عن نافع، عن ابن عمر، ان رسول الله صلى الله عليه وسلم رجم يهوديا ويهودية . قال ابو عيسى وفي الحديث قصة وهذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 17,
+      "hadith": 18
+    }
+  }
+}

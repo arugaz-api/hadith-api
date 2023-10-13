@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2000,
+    "arabicnumber": 2000,
+    "text": "حدثنا ابو كريب، حدثنا ابو معاوية، عن عمر بن راشد، عن اياس بن سلمة بن الاكوع، عن ابيه، قال قال رسول الله صلى الله عليه وسلم \" لا يزال الرجل يذهب بنفسه حتى يكتب في الجبارين فيصيبه ما اصابهم \" . قال ابو عيسى هذا حديث حسن غريب",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 27,
+      "hadith": 106
+    }
+  }
+}

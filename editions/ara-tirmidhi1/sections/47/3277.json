@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3277,
+    "arabicnumber": 3277,
+    "text": "اخبرنا احمد بن منيع، حدثنا عباد بن العوام، حدثنا الشيباني، قال سالت زر بن حبيش عن قوله : (فكان قاب قوسين او ادنى ) فقال اخبرني ابن مسعود، ان النبي صلى الله عليه وسلم راى جبريل وله ستماية جناح . قال ابو عيسى هذا حديث حسن غريب صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 47,
+      "hadith": 329
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2038,
+    "arabicnumber": 2038,
+    "text": "حدثنا بشر بن معاذ العقدي، قال حدثنا ابو عوانة، عن زياد بن علاقة، عن اسامة بن شريك، قال قالت الاعراب يا رسول الله الا نتداوى قال \" نعم يا عباد الله تداووا فان الله لم يضع داء الا وضع له شفاء او قال دواء الا داء واحدا \" . قالوا يا رسول الله وما هو قال \" الهرم \" . قال ابو عيسى وفي الباب عن ابن مسعود وابي هريرة وابي خزامة عن ابيه وابن عباس . وهذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 28,
+      "hadith": 3
+    }
+  }
+}

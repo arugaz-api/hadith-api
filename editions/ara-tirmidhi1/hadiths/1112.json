@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1112,
+    "arabicnumber": 1112,
+    "text": "حدثنا سعيد بن يحيى بن سعيد الاموي، حدثنا ابي، حدثنا ابن جريج، عن عبد الله بن محمد بن عقيل، عن جابر، عن النبي صلى الله عليه وسلم قال \" ايما عبد تزوج بغير اذن سيده فهو عاهر \" . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 11,
+      "hadith": 33
+    }
+  }
+}

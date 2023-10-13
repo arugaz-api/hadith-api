@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1830,
+    "arabicnumber": 1830,
+    "text": "حدثنا قتيبة، حدثنا شريك، عن علي بن الاقمر، عن ابي جحيفة، قال قال رسول الله صلى الله عليه وسلم \" اما انا فلا اكل متكيا \" . قال وفي الباب عن علي وعبد الله بن عمرو وعبد الله بن عباس . قال ابو عيسى هذا حديث حسن صحيح لا نعرفه الا من حديث علي بن الاقمر . وروى زكريا بن ابي زايدة وسفيان الثوري وغير واحد عن علي بن الاقمر هذا الحديث وروى شعبة عن سفيان الثوري هذا الحديث عن علي بن الاقمر",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 25,
+      "hadith": 46
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 40,
+    "arabicnumber": 40,
+    "text": "حدثنا قتيبة، حدثنا ابن لهيعة، عن يزيد بن عمرو، عن ابي عبد الرحمن الحبلي، عن المستورد بن شداد الفهري، قال رايت النبي صلى الله عليه وسلم اذا توضا دلك اصابع رجليه بخنصره . قال ابو عيسى هذا حديث حسن غريب لا نعرفه الا من حديث ابن لهيعة",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 40
+    }
+  }
+}

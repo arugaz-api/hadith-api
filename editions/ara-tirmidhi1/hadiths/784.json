@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 784,
+    "arabicnumber": 784,
+    "text": "حدثنا علي بن حجر، اخبرنا شريك، عن حبيب بن زيد، عن ليلى، عن مولاتها، عن النبي صلى الله عليه وسلم قال \" الصايم اذا اكل عنده المفاطير صلت عليه الملايكة \" . قال ابو عيسى وروى شعبة هذا الحديث عن حبيب بن زيد عن ليلى عن جدته ام عمارة عن النبي صلى الله عليه وسلم نحوه",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 8,
+      "hadith": 103
+    }
+  }
+}

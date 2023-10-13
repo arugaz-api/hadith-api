@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1920,
+    "arabicnumber": 1920,
+    "text": "حدثنا ابو بكر، محمد بن ابان حدثنا محمد بن فضيل، عن محمد بن اسحاق، عن عمرو بن شعيب، عن ابيه، عن جده، قال قال رسول الله صلى الله عليه وسلم \" ليس منا من لم يرحم صغيرنا ويعرف شرف كبيرنا \" . حدثنا هناد، حدثنا عبدة، عن محمد بن اسحاق، نحوه الا انه قال \" ويعرف حق كبيرنا",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 27,
+      "hadith": 26
+    }
+  }
+}

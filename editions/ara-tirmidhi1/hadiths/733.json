@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 733,
+    "arabicnumber": 733,
+    "text": "حدثنا هناد، حدثنا وكيع، عن طلحة بن يحيى، عن عمته، عايشة بنت طلحة عن عايشة ام المومنين، قالت دخل على رسول الله صلى الله عليه وسلم يوما فقال \" هل عندكم شيء \" . قالت قلت لا . قال \" فاني صايم",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 8,
+      "hadith": 52
+    }
+  }
+}

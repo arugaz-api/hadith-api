@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2681,
+    "arabicnumber": 2681,
+    "text": "حدثنا محمد بن اسماعيل، حدثنا ابراهيم بن موسى، اخبرنا الوليد بن مسلم، حدثنا روح بن جناح، عن مجاهد، عن ابن عباس، قال قال رسول الله صلى الله عليه وسلم \" فقيه اشد على الشيطان من الف عابد \" . قال ابو عيسى هذا حديث غريب ولا نعرفه الا من هذا الوجه من حديث الوليد بن مسلم",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Mawdu"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Mawdu"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 41,
+      "hadith": 37
+    }
+  }
+}

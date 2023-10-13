@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1904,
+    "arabicnumber": 1904,
+    "text": "حدثنا سفيان بن وكيع، حدثنا ابي، عن اسراييل، ح قال وحدثنا محمد بن احمد، وهو ابن مدويه حدثنا عبيد الله بن موسى، عن اسراييل، واللفظ، لحديث عبيد الله عن ابي اسحاق الهمداني، عن البراء بن عازب، عن النبي صلى الله عليه وسلم قال \" الخالة بمنزلة الام \" . وفي الحديث قصة طويلة . وهذا حديث صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 27,
+      "hadith": 8
+    }
+  }
+}

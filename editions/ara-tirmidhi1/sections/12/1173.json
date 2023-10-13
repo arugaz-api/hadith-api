@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1173,
+    "arabicnumber": 1173,
+    "text": "حدثنا محمد بن بشار، حدثنا عمرو بن عاصم، حدثنا همام، عن قتادة، عن مورق، عن ابي الاحوص، عن عبد الله، عن النبي صلى الله عليه وسلم قال \" المراة عورة فاذا خرجت استشرفها الشيطان \" . قال ابو عيسى هذا حديث حسن غريب",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 28
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1086,
+    "arabicnumber": 1086,
+    "text": "حدثنا احمد بن محمد بن موسى، اخبرنا اسحاق بن يوسف الازرق، اخبرنا عبد الملك بن ابي سليمان، عن عطاء، عن جابر، ان النبي صلى الله عليه وسلم قال \" ان المراة تنكح على دينها ومالها وجمالها فعليك بذات الدين تربت يداك \" . قال وفي الباب عن عوف بن مالك وعايشة وعبد الله بن عمرو وابي سعيد . قال ابو عيسى حديث جابر حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 11,
+      "hadith": 7
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3653,
+    "arabicnumber": 3653,
+    "text": "حدثنا محمد بن بشار، قال حدثنا محمد بن جعفر، قال حدثنا شعبة، عن ابي اسحاق، عن عامر بن سعد، عن جرير بن عبد الله، عن معاوية بن ابي سفيان، انه قال سمعته يخطب، يقول مات رسول الله صلى الله عليه وسلم وهو ابن ثلاث وستين وابو بكر وعمر وانا ابن ثلاث وستين . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 49,
+      "hadith": 49
+    }
+  }
+}

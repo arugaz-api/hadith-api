@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3021,
+    "arabicnumber": 3021,
+    "text": "حدثنا محمد بن بشار، حدثنا محمد بن جعفر، حدثنا شعبة، عن فراس، عن الشعبي، عن عبد الله بن عمرو، عن النبي صلى الله عليه وسلم قال \" الكباير الاشراك بالله وعقوق الوالدين او قال اليمين الغموس \" . شك شعبة . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari"
+      }
+    ],
+    "reference": {
+      "book": 47,
+      "hadith": 73
+    }
+  }
+}

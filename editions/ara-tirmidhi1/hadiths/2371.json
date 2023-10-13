@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2371,
+    "arabicnumber": 2371,
+    "text": "حدثنا عبد الله بن ابي زياد، حدثنا سيار بن حاتم، عن سهل بن اسلم، عن يزيد بن ابي منصور، عن انس بن مالك، عن ابي طلحة، قال شكونا الى رسول الله صلى الله عليه وسلم الجوع ورفعنا عن بطوننا عن حجر حجر فرفع رسول الله صلى الله عليه وسلم عن حجرين . قال ابو عيسى هذا حديث غريب لا نعرفه الا من هذا الوجه",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 36,
+      "hadith": 68
+    }
+  }
+}

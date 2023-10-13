@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 45,
+    "arabicnumber": 45,
+    "text": "حدثنا اسماعيل بن موسى الفزاري، حدثنا شريك، عن ثابت بن ابي صفية، قال قلت لابي جعفر حدثك جابر، ان النبي صلى الله عليه وسلم توضا مرة مرة ومرتين مرتين وثلاثا ثلاثا قال نعم",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 45
+    }
+  }
+}

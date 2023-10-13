@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 568,
+    "arabicnumber": 568,
+    "text": "حدثنا سفيان بن وكيع، حدثنا عبد الله بن وهب، عن عمرو بن الحارث، عن سعيد بن ابي هلال، عن عمر الدمشقي، عن ام الدرداء، عن ابي الدرداء، قال سجدت مع رسول الله صلى الله عليه وسلم احدى عشرة سجدة منها التي في النجم",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 6,
+      "hadith": 25
+    }
+  }
+}

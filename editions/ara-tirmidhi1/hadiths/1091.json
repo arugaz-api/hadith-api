@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1091,
+    "arabicnumber": 1091,
+    "text": "حدثنا قتيبة، حدثنا عبد العزيز بن محمد، عن سهيل بن ابي صالح، عن ابيه، عن ابي هريرة، ان النبي صلى الله عليه وسلم كان اذا رفا الانسان اذا تزوج قال \" بارك الله لك وبارك عليك وجمع بينكما في خير \" . قال وفي الباب عن عقيل بن ابي طالب . قال ابو عيسى حديث ابي هريرة حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 11,
+      "hadith": 12
+    }
+  }
+}

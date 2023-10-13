@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2648,
+    "arabicnumber": 2648,
+    "text": "حدثنا محمد بن حميد الرازي، حدثنا محمد بن المعلى، حدثنا زياد بن خيثمة، عن ابي داود، عن عبد الله بن سخبرة، عن سخبرة، عن النبي صلى الله عليه وسلم قال \" من طلب العلم كان كفارة لما مضى \" . قال ابو عيسى هذا حديث ضعيف الاسناد . ابو داود يضعف ولا نعرف لعبد الله بن سخبرة كبير شيء ولا لابيه واسم ابي داود نفيع الاعمى تكلم فيه قتادة وغير واحد من اهل العلم",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Mawdu"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Mawdu"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 41,
+      "hadith": 4
+    }
+  }
+}

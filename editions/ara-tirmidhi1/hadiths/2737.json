@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2737,
+    "arabicnumber": 2737,
+    "text": "حدثنا قتيبة، حدثنا محمد بن موسى المخزومي المدني، عن سعيد بن ابي سعيد المقبري، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" للمومن على المومن ست خصال يعوده اذا مرض ويشهده اذا مات ويجيبه اذا دعاه ويسلم عليه اذا لقيه ويشمته اذا عطس وينصح له اذا غاب او شهد \" . قال هذا حديث حسن صحيح . ومحمد بن موسى المخزومي المدني ثقة روى عنه عبد العزيز بن محمد وابن ابي فديك",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 2
+    }
+  }
+}

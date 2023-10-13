@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 766,
+    "arabicnumber": 766,
+    "text": "حدثنا قتيبة، حدثنا عبد العزيز بن محمد، عن سهيل بن ابي صالح، عن ابيه، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" للصايم فرحتان فرحة حين يفطر وفرحة حين يلقى ربه \" . قال ابو عيسى وهذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 8,
+      "hadith": 85
+    }
+  }
+}

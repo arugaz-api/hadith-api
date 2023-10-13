@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1811,
+    "arabicnumber": 1811,
+    "text": "حدثنا محمد بن حميد، حدثنا زيد بن الحباب، عن ابي خلدة، عن ابي العالية، قال الثوم من طيبات الرزق . وابو خلدة اسمه خالد بن دينار وهو ثقة عند اهل الحديث وقد ادرك انس بن مالك وسمع منه وابو العالية اسمه رفيع هو الرياحي قال عبد الرحمن بن مهدي كان ابو خلدة خيارا مسلما",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif Isnaad Maqtu"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif Isnaad Maqtu"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 25,
+      "hadith": 25
+    }
+  }
+}

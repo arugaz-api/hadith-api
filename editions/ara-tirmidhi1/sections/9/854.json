@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 854,
+    "arabicnumber": 854,
+    "text": "حدثنا يوسف بن عيسى، حدثنا وكيع، حدثنا العمري، عن نافع، عن ابن عمر، ان النبي صلى الله عليه وسلم دخل مكة نهارا . قال ابو عيسى هذا حديث حسن",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 47
+    }
+  }
+}

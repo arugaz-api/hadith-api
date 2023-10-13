@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3216,
+    "arabicnumber": 3216,
+    "text": "حدثنا ابن ابي عمر، حدثنا سفيان بن عيينة، عن عمرو، عن عطاء، قال قالت عايشة ما مات رسول الله صلى الله عليه وسلم حتى احل له النساء . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 47,
+      "hadith": 268
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 864,
+    "arabicnumber": 864,
+    "text": "حدثنا يوسف بن عيسى، حدثنا ابن فضيل، عن عطاء بن السايب، عن كثير بن جمهان، قال رايت ابن عمر يمشي في السعى فقلت له اتمشي في السعى بين الصفا والمروة قال لين سعيت لقد رايت رسول الله صلى الله عليه وسلم يسعى ولين مشيت لقد رايت رسول الله صلى الله عليه وسلم يمشي وانا شيخ كبير . قال ابو عيسى هذا حديث حسن صحيح . وروي عن سعيد بن جبير عن ابن عمر نحوه",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 57
+    }
+  }
+}

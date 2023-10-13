@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2969,
+    "arabicnumber": 2969,
+    "text": "حدثنا هناد، حدثنا ابو معاوية، عن الاعمش، عن ذر، عن يسيع الكندي، عن النعمان بن بشير، عن النبي صلى الله عليه وسلم في قوله : (وقال ربكم ادعوني استجب لكم ) قال \" الدعاء هو العبادة \" . وقرا :( وقال ربكم ادعوني استجب لكم ) الى قوله ( داخرين ) . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 47,
+      "hadith": 21
+    }
+  }
+}

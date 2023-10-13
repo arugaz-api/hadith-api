@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3137,
+    "arabicnumber": 3137,
+    "text": "حدثنا ابو كريب، حدثنا وكيع، عن داود بن يزيد الزعافري، عن ابيه، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم في قوله : ( عسى ان يبعثك ربك مقاما محمودا ) سيل عنها قال \" هي الشفاعة \" . قال ابو عيسى هذا حديث حسن . وداود الزعافري هو داود الاودي ابن يزيد بن عبد الرحمن وهو عم عبد الله بن ادريس",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 47,
+      "hadith": 189
+    }
+  }
+}

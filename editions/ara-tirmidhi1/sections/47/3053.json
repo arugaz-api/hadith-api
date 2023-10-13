@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3053,
+    "arabicnumber": 3053,
+    "text": "حدثنا سفيان بن وكيع، حدثنا خالد بن مخلد، عن علي بن مسهر، عن الاعمش، عن ابراهيم، عن علقمة، عن عبد الله، قال لما نزلت : ( ليس على الذين امنوا وعملوا الصالحات جناح فيما طعموا اذا ما اتقوا وامنوا وعملوا الصالحات ) قال لي رسول الله صلى الله عليه وسلم \" انت منهم \" . قال هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 47,
+      "hadith": 105
+    }
+  }
+}

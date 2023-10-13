@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1272,
+    "arabicnumber": 1272,
+    "text": "حدثنا قتيبة، حدثنا الليث، عن ابي الزناد، عن الاعرج، عن ابي هريرة، ان النبي صلى الله عليه وسلم قال \" لا يمنع فضل الماء ليمنع به الكلا \" . قال ابو عيسى هذا حديث حسن صحيح . وابو المنهال اسمه عبد الرحمن بن مطعم كوفي وهو الذي روى عنه حبيب بن ابي ثابت . وابو المنهال سيار بن سلامة بصري صاحب ابي برزة الاسلمي",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 14,
+      "hadith": 74
+    }
+  }
+}

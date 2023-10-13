@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3711,
+    "arabicnumber": 3711,
+    "text": "حدثنا سفيان بن وكيع، قال حدثنا ابي ويحيى بن سعيد، عن اسماعيل بن ابي خالد، عن قيس بن ابي حازم، قال حدثني ابو سهلة، قال قال لي عثمان يوم الدار ان رسول الله صلى الله عليه وسلم قد عهد الى عهدا فانا صابر عليه . قال ابو عيسى هذا حديث حسن صحيح لا نعرفه الا من حديث اسماعيل بن ابي خالد",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 49,
+      "hadith": 107
+    }
+  }
+}

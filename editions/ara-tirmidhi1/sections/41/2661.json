@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2661,
+    "arabicnumber": 2661,
+    "text": "حدثنا قتيبة، حدثنا الليث بن سعد، عن ابن شهاب، عن انس بن مالك، قال قال رسول الله صلى الله عليه وسلم \" من كذب على - حسبت انه قال متعمدا فليتبوا بيته من النار \" . قال ابو عيسى هذا حديث حسن صحيح غريب من هذا الوجه من حديث الزهري عن انس . وقد روي هذا الحديث من غير وجه عن انس عن النبي صلى الله عليه وسلم",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih Mutawatir"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Mutawatir"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 41,
+      "hadith": 17
+    }
+  }
+}

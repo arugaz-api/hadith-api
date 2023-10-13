@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1001,
+    "arabicnumber": 1001,
+    "text": "حدثنا محمود بن غيلان، حدثنا ابو داود، انبانا شعبة، والمسعودي، عن علقمة بن مرثد، عن ابي الربيع، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" اربع في امتي من امر الجاهلية لن يدعهن الناس النياحة والطعن في الاحساب والعدوى اجرب بعير فاجرب ماية بعير من اجرب البعير الاول والانواء مطرنا بنوء كذا وكذا \" . قال ابو عيسى هذا حديث حسن",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 10,
+      "hadith": 37
+    }
+  }
+}

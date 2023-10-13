@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 453,
+    "arabicnumber": 453,
+    "text": "حدثنا ابو كريب، حدثنا ابو بكر بن عياش، حدثنا ابو اسحاق، عن عاصم بن ضمرة، عن علي، قال الوتر ليس بحتم كصلاتكم المكتوبة ولكن سن رسول الله صلى الله عليه وسلم وقال \" ان الله وتر يحب الوتر فاوتروا يا اهل القران \" . قال وفي الباب عن ابن عمر وابن مسعود وابن عباس . قال ابو عيسى حديث علي حديث حسن",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 3,
+      "hadith": 2
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2198,
+    "arabicnumber": 2198,
+    "text": "حدثنا صالح بن عبد الله، حدثنا جعفر بن سليمان، عن هشام، عن الحسن، قال كان يقول في هذا الحديث \" يصبح الرجل مومنا ويمسي كافرا ويمسي مومنا ويصبح كافرا \" . قال يصبح الرجل محرما لدم اخيه وعرضه وماله ويمسي مستحلا له ويمسي محرما لدم اخيه وعرضه وماله ويصبح مستحلا له",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 33,
+      "hadith": 41
+    }
+  }
+}

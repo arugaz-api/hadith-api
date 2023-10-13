@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 518,
+    "arabicnumber": 518,
+    "text": "حدثنا الحسن بن علي الخلال، حدثنا عبد الرزاق، اخبرنا معمر، عن ثابت، عن انس، قال لقد رايت النبي صلى الله عليه وسلم بعد ما تقام الصلاة يكلمه الرجل يقوم بينه وبين القبلة فما يزال يكلمه فلقد رايت بعضنا ينعس من طول قيام النبي صلى الله عليه وسلم له . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 4,
+      "hadith": 31
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3415,
+    "arabicnumber": 3415,
+    "text": "حدثنا علي بن حجر حدثنا مسلمة بن عمرو قال كان عمير بن هاني يصلي كل يوم الف سجدة ويسبح ماية الف تسبيحة",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif Isnaad Maqtu"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif Isnaad Maqtu"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 48,
+      "hadith": 46
+    }
+  }
+}

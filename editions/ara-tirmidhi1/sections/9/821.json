@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 821,
+    "arabicnumber": 821,
+    "text": "حدثنا قتيبة، حدثنا حماد بن زيد، عن حميد، عن انس، قال سمعت النبي صلى الله عليه وسلم يقول \" لبيك بعمرة وحجة \" . قال وفي الباب عن عمر وعمران بن حصين . قال ابو عيسى حديث انس حديث حسن صحيح . وقد ذهب بعض اهل العلم الى هذا . واختاروه من اهل الكوفة وغيرهم",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 14
+    }
+  }
+}

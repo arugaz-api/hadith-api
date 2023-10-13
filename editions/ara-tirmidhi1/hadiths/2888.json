@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2888,
+    "arabicnumber": 2888,
+    "text": "حدثنا سفيان بن وكيع، قال حدثنا زيد بن حباب، عن عمر بن ابي خثعم، عن يحيى بن ابي كثير، عن ابي سلمة، عن ابي هريرة، قال رسول الله صلى الله عليه وسلم \" من قرا حم الدخان في ليلة اصبح يستغفر له سبعون الف ملك \" . قال ابو عيسى هذا حديث غريب لا نعرفه الا من هذا الوجه . وعمر بن ابي خثعم يضعف . قال محمد وهو منكر الحديث",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Mawdu"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Mawdu"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 45,
+      "hadith": 14
+    }
+  }
+}

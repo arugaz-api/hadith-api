@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3293,
+    "arabicnumber": 3293,
+    "text": "حدثنا عبد بن حميد، حدثنا عبد الرزاق، عن معمر، عن قتادة، عن انس، ان النبي صلى الله عليه وسلم قال \" ان في الجنة لشجرة يسير الراكب في ظلها ماية عام لا يقطعها وان شيتم فاقرءوا : ( وظل ممدود * وماء مسكوب ) \" . قال ابو عيسى هذا حديث حسن صحيح . وفي الباب عن ابي سعيد",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 47,
+      "hadith": 345
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2042,
+    "arabicnumber": 2042,
+    "text": "حدثنا الحسن بن محمد الزعفراني، قال حدثنا عفان، قال حدثنا حماد بن سلمة، قال اخبرنا حميد، وثابت، وقتادة، عن انس، ان ناسا، من عرينة قدموا المدينة فاجتووها فبعثهم رسول الله صلى الله عليه وسلم في ابل الصدقة وقال \" اشربوا من البانها وابوالها \" . قال ابو عيسى وفي الباب عن ابن عباس . وهذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 28,
+      "hadith": 7
+    }
+  }
+}

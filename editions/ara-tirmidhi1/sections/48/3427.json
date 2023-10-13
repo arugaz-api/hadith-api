@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3427,
+    "arabicnumber": 3427,
+    "text": "حدثنا محمود بن غيلان، حدثنا وكيع، حدثنا سفيان، عن منصور، عن عامر الشعبي، عن ام سلمة، ان النبي صلى الله عليه وسلم كان اذا خرج من بيته قال \" بسم الله توكلت على الله اللهم انا نعوذ بك من ان نزل او نضل او نظلم او نظلم او نجهل او يجهل علينا \" . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 48,
+      "hadith": 58
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3810,
+    "arabicnumber": 3810,
+    "text": "حدثنا هناد، قال حدثنا ابو معاوية، عن الاعمش، عن شقيق بن سلمة، عن مسروق، عن عبد الله بن عمرو، قال قال رسول الله صلى الله عليه وسلم \" خذوا القران من اربعة من ابن مسعود وابى بن كعب ومعاذ بن جبل وسالم مولى ابي حذيفة \" . هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 49,
+      "hadith": 210
+    }
+  }
+}

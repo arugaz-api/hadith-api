@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3267,
+    "arabicnumber": 3267,
+    "text": "حدثنا ابو عمار الحسين بن حريث، حدثنا الفضل بن موسى، عن الحسين بن واقد، عن ابي اسحاق، عن البراء بن عازب، في قوله : ( ان الذين ينادونك من وراء الحجرات اكثرهم لا يعقلون ) قال فقام رجل فقال يا رسول الله ان حمدي زين وان ذمي شين فقال النبي صلى الله عليه وسلم \" ذاك الله تعالى \" . قال هذا حديث حسن غريب",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 47,
+      "hadith": 319
+    }
+  }
+}

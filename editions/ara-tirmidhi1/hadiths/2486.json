@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2486,
+    "arabicnumber": 2486,
+    "text": "حدثنا اسحاق بن موسى الانصاري، حدثنا محمد بن معن المدني الغفاري، حدثني ابي، عن سعيد المقبري، عن ابي هريرة، عن النبي صلى الله عليه وسلم قال \" الطاعم الشاكر بمنزلة الصايم الصابر \" . قال ابو عيسى هذا حديث حسن غريب",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 37,
+      "hadith": 72
+    }
+  }
+}

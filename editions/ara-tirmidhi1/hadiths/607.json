@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 607,
+    "arabicnumber": 607,
+    "text": "حدثنا ابو الوليد، احمد بن بكار الدمشقي حدثنا الوليد بن مسلم، قال قال صفوان بن عمرو اخبرني يزيد بن خمير، عن عبد الله بن بسر، عن النبي صلى الله عليه وسلم قال \" امتي يوم القيامة غر من السجود محجلون من الوضوء \" . قال ابو عيسى هذا حديث حسن صحيح غريب من هذا الوجه من حديث عبد الله بن بسر",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 6,
+      "hadith": 64
+    }
+  }
+}

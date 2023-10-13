@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2361,
+    "arabicnumber": 2361,
+    "text": "حدثنا ابو عمار، حدثنا وكيع، عن الاعمش، عن عمارة بن القعقاع، عن ابي زرعة، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" اللهم اجعل رزق ال محمد قوتا \" . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 36,
+      "hadith": 58
+    }
+  }
+}

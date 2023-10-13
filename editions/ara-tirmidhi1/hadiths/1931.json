@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1931,
+    "arabicnumber": 1931,
+    "text": "حدثنا احمد بن محمد، اخبرنا عبد الله بن المبارك، عن ابي بكر النهشلي، عن مرزوق ابي بكر التيمي، عن ام الدرداء، عن ابي الدرداء، عن النبي صلى الله عليه وسلم قال \" من رد عن عرض اخيه رد الله عن وجهه النار يوم القيامة \" . قال وفي الباب عن اسماء بنت يزيد . قال ابو عيسى هذا حديث حسن",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 27,
+      "hadith": 37
+    }
+  }
+}

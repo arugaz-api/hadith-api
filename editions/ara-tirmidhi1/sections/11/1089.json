@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1089,
+    "arabicnumber": 1089,
+    "text": "حدثنا احمد بن منيع، حدثنا يزيد بن هارون، اخبرنا عيسى بن ميمون الانصاري، عن القاسم بن محمد، عن عايشة، قالت قال رسول الله صلى الله عليه وسلم \" اعلنوا هذا النكاح واجعلوه في المساجد واضربوا عليه بالدفوف \" . قال ابو عيسى هذا حديث غريب حسن في هذا الباب . وعيسى بن ميمون الانصاري يضعف في الحديث . وعيسى بن ميمون الذي يروي عن ابن ابي نجيح التفسير هو ثقة",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 11,
+      "hadith": 10
+    }
+  }
+}

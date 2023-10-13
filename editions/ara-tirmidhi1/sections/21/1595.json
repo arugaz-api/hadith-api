@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1595,
+    "arabicnumber": 1595,
+    "text": "حدثنا ابو عمار، حدثنا وكيع، عن الاعمش، عن ابي صالح، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" ثلاثة لا يكلمهم الله يوم القيامة ولا يزكيهم ولهم عذاب اليم رجل بايع اماما فان اعطاه وفى له وان لم يعطه لم يف له \" . قال ابو عيسى هذا حديث حسن صحيح وعلى ذلك الامر بلا اختلاف",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 21,
+      "hadith": 57
+    }
+  }
+}

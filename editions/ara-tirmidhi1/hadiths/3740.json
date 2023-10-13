@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3740,
+    "arabicnumber": 3740,
+    "text": "حدثنا عبد القدوس بن محمد العطار البصري، قال حدثنا عمرو بن عاصم، عن اسحاق بن يحيى بن طلحة، عن عمه، موسى بن طلحة قال دخلت على معاوية فقال الا ابشرك سمعت رسول الله صلى الله عليه وسلم يقول \" طلحة ممن قضى نحبه \" .هذا حديث غريب لا نعرفه من حديث معاوية الا من هذا الوجه",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 49,
+      "hadith": 137
+    }
+  }
+}

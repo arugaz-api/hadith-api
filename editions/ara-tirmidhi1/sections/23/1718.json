@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1718,
+    "arabicnumber": 1718,
+    "text": "حدثنا ابن ابي عمر، وسعيد بن عبد الرحمن المخزومي، قالا حدثنا سفيان بن عيينة، عن الزهري، عن السايب بن يزيد، قال لما قدم رسول الله صلى الله عليه وسلم من تبوك خرج الناس يتلقونه الى ثنية الوداع . قال السايب فخرجت مع الناس وانا غلام . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 23,
+      "hadith": 52
+    }
+  }
+}

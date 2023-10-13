@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 963,
+    "arabicnumber": 963,
+    "text": "حدثنا ابو كريب، حدثنا خلاد بن يزيد الجعفي، حدثنا زهير بن معاوية، عن هشام بن عروة، عن ابيه، عن عايشة، رضى الله عنها انها كانت تحمل من ماء زمزم وتخبر ان رسول الله صلى الله عليه وسلم كان يحمله . قال ابو عيسى هذا حديث حسن غريب لا نعرفه الا من هذا الوجه",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 157
+    }
+  }
+}

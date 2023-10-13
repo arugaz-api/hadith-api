@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 642,
+    "arabicnumber": 642,
+    "text": "حدثنا قتيبة، حدثنا الليث بن سعد، عن ابن شهاب، عن سعيد بن المسيب، وابي، سلمة عن ابي هريرة، عن رسول الله صلى الله عليه وسلم قال \" العجماء جرحها جبار والمعدن جبار والبير جبار وفي الركاز الخمس \" . قال وفي الباب عن انس بن مالك وعبد الله بن عمرو وعبادة بن الصامت وعمرو بن عوف المزني وجابر . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 7,
+      "hadith": 26
+    }
+  }
+}

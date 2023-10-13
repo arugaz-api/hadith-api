@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 962,
+    "arabicnumber": 962,
+    "text": "حدثنا هناد، حدثنا وكيع، عن حماد بن سلمة، عن فرقد السبخي، عن سعيد بن جبير، عن ابن عمر، ان النبي صلى الله عليه وسلم كان يدهن بالزيت وهو محرم غير المقتت . قال ابو عيسى المقتت المطيب . قال ابو عيسى هذا حديث غريب لا نعرفه الا من حديث فرقد السبخي عن سعيد بن جبير . وقد تكلم يحيى بن سعيد في فرقد السبخي وروى عنه الناس",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 156
+    }
+  }
+}

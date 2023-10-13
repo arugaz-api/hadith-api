@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2561,
+    "arabicnumber": 2561,
+    "text": "حدثنا ابو كريب، حدثنا عبدة بن سليمان، عن محمد بن عمرو، عن ابي سلمة، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" احتجت الجنة والنار فقالت الجنة يدخلني الضعفاء والمساكين . وقالت النار يدخلني الجبارون والمتكبرون . فقال للنار انت عذابي انتقم بك ممن شيت . وقال للجنة انت رحمتي ارحم بك من شيت \" . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 38,
+      "hadith": 39
+    }
+  }
+}

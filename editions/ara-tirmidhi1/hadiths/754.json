@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 754,
+    "arabicnumber": 754,
+    "text": "حدثنا هناد، وابو كريب قالا حدثنا وكيع، عن حاجب بن عمر، عن الحكم بن الاعرج، قال انتهيت الى ابن عباس وهو متوسد رداءه في زمزم فقلت اخبرني عن يوم عاشوراء اى يوم هو اصومه فقال اذا رايت هلال المحرم فاعدد ثم اصبح من التاسع صايما . قال فقلت اهكذا كان يصومه محمد صلى الله عليه وسلم قال نعم",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 8,
+      "hadith": 73
+    }
+  }
+}

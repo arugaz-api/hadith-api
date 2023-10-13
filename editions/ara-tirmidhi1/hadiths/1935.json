@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1935,
+    "arabicnumber": 1935,
+    "text": "حدثنا عبد الجبار بن العلاء العطار، وسعيد بن عبد الرحمن، قالا حدثنا سفيان بن عيينة، عن الزهري، عن انس، قال قال رسول الله صلى الله عليه وسلم \" لا تقاطعوا ولا تدابروا ولا تباغضوا ولا تحاسدوا وكونوا عباد الله اخوانا ولا يحل لمسلم ان يهجر اخاه فوق ثلاث \" . قال ابو عيسى هذا حديث حسن صحيح . قال وفي الباب عن ابي بكر الصديق والزبير بن العوام وابن مسعود وابي هريرة",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 27,
+      "hadith": 41
+    }
+  }
+}

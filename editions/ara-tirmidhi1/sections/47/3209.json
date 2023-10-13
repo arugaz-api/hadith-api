@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3209,
+    "arabicnumber": 3209,
+    "text": "حدثنا قتيبة، حدثنا يعقوب بن عبد الرحمن، عن موسى بن عقبة، عن سالم، عن ابن عمر، قال ما كنا ندعو زيد بن حارثة الا زيد بن محمد حتى نزل القران : ( ادعوهم لابايهم هو اقسط عند الله ) . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 47,
+      "hadith": 261
+    }
+  }
+}

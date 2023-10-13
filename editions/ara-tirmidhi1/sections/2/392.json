@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 392,
+    "arabicnumber": 392,
+    "text": "حدثنا اسحاق بن منصور، اخبرنا عبد الرحمن بن مهدي، حدثنا شعبة، عن الحكم، عن ابراهيم، عن علقمة، عن عبد الله بن مسعود، ان النبي صلى الله عليه وسلم صلى الظهر خمسا فقيل له ازيد في الصلاة فسجد سجدتين بعد ما سلم . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 245
+    }
+  }
+}

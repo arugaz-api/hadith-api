@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 640,
+    "arabicnumber": 640,
+    "text": "حدثنا احمد بن الحسن، حدثنا سعيد بن ابي مريم، حدثنا ابن وهب، حدثني يونس، عن ابن شهاب، عن سالم، عن ابيه، عن رسول الله صلى الله عليه وسلم انه سن فيما سقت السماء والعيون او كان عثريا العشر وفيما سقي بالنضح نصف العشر . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari"
+      }
+    ],
+    "reference": {
+      "book": 7,
+      "hadith": 24
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 126,
+    "arabicnumber": 126,
+    "text": "حدثنا قتيبة، حدثنا شريك، عن ابي اليقظان، عن عدي بن ثابت، عن ابيه، عن جده، عن النبي صلى الله عليه وسلم انه قال في المستحاضة \" تدع الصلاة ايام اقرايها التي كانت تحيض فيها ثم تغتسل وتتوضا عند كل صلاة وتصوم وتصلي",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 126
+    }
+  }
+}

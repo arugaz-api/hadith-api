@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 984,
+    "arabicnumber": 984,
+    "text": "حدثنا محمد بن حميد الرازي، حدثنا حكام بن سلم، وهارون بن المغيرة، عن عنبسة، عن ابي حمزة، عن ابراهيم، عن علقمة، عن عبد الله، عن النبي صلى الله عليه وسلم قال \" اياكم والنعى فان النعى من عمل الجاهلية \" . قال عبد الله والنعى اذان بالميت . وفي الباب عن حذيفة",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 10,
+      "hadith": 20
+    }
+  }
+}

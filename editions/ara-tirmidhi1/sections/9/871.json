@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 871,
+    "arabicnumber": 871,
+    "text": "حدثنا علي بن خشرم، اخبرنا سفيان بن عيينة، عن ابي اسحاق، عن زيد بن اثيع، قال سالت عليا باى شيء بعثت قال باربع لا يدخل الجنة الا نفس مسلمة ولا يطوف بالبيت عريان ولا يجتمع المسلمون والمشركون بعد عامهم هذا ومن كان بينه وبين النبي صلى الله عليه وسلم عهد فعهده الى مدته ومن لا مدة له فاربعة اشهر . قال وفي الباب عن ابي هريرة . قال ابو عيسى حديث علي حديث حسن",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 64
+    }
+  }
+}

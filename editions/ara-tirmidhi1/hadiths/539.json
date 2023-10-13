@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 539,
+    "arabicnumber": 539,
+    "text": "حدثنا احمد بن منيع، حدثنا هشيم، اخبرنا منصور، وهو ابن زاذان عن ابن سيرين، عن ام عطية، ان رسول الله صلى الله عليه وسلم كان يخرج الابكار والعواتق وذوات الخدور والحيض في العيدين فاما الحيض فيعتزلن المصلى ويشهدن دعوة المسلمين قالت احداهن يا رسول الله ان لم يكن لها جلباب قال \" فلتعرها اختها من جلابيبها",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 10
+    }
+  }
+}

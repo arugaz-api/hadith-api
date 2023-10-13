@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 965,
+    "arabicnumber": 965,
+    "text": "حدثنا هناد، حدثنا ابو معاوية، عن الاعمش، عن ابراهيم، عن الاسود، عن عايشة، قالت قال رسول الله صلى الله عليه وسلم \" لا يصيب المومن شوكة فما فوقها الا رفعه الله بها درجة وحط عنه بها خطيية \" . قال وفي الباب عن سعد بن ابي وقاص وابي عبيدة بن الجراح وابي هريرة وابي امامة وابي سعيد وانس وعبد الله بن عمرو واسد بن كرز وجابر بن عبد الله وعبد الرحمن بن ازهر وابي موسى . قال ابو عيسى حديث عايشة حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Bukhari And Muslim"
+      }
+    ],
+    "reference": {
+      "book": 10,
+      "hadith": 1
+    }
+  }
+}

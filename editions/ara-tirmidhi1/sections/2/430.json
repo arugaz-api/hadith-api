@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 430,
+    "arabicnumber": 430,
+    "text": "حدثنا يحيى بن موسى، ومحمود بن غيلان، واحمد بن ابراهيم الدورقي، وغير، واحد، قالوا حدثنا ابو داود الطيالسي، حدثنا محمد بن مسلم بن مهران، سمع جده، عن ابن عمر، عن النبي صلى الله عليه وسلم قال \" رحم الله امرا صلى قبل العصر اربعا \" . قال ابو عيسى هذا حديث غريب حسن",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 283
+    }
+  }
+}

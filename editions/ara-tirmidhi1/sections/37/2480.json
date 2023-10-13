@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2480,
+    "arabicnumber": 2480,
+    "text": "حدثنا الجارود بن معاذ، حدثنا الفضل بن موسى، عن سفيان الثوري، عن ابي حمزة، عن ابراهيم النخعي، قال البناء كله وبال قلت ارايت ما لا بد منه قال لا اجر ولا وزر",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif Isnaad Maqtu"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif Isnaad Maqtu"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 37,
+      "hadith": 66
+    }
+  }
+}

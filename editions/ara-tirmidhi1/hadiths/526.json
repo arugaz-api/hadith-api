@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 526,
+    "arabicnumber": 526,
+    "text": "حدثنا ابو سعيد الاشج، حدثنا عبدة بن سليمان، وابو خالد الاحمر عن محمد بن اسحاق، عن نافع، عن ابن عمر، عن النبي صلى الله عليه وسلم قال \" اذا نعس احدكم يوم الجمعة فليتحول من مجلسه ذلك \" . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 4,
+      "hadith": 39
+    }
+  }
+}

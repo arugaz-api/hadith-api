@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2831,
+    "arabicnumber": 2831,
+    "text": "حدثنا محمد بن عبد الملك بن ابي الشوارب، حدثنا ابو عوانة، حدثنا ابو عثمان، شيخ له عن انس، ان النبي صلى الله عليه وسلم قال له \" يا بنى \" . وفي الباب عن المغيرة وعمر بن ابي سلمة . قال ابو عيسى هذا حديث حسن صحيح غريب من هذا الوجه . وقد روي من غير هذا الوجه عن انس . وابو عثمان هذا شيخ ثقة وهو الجعد بن عثمان ويقال ابن دينار وهو بصري وقد روى عنه يونس بن عبيد وغير واحد من الايمة",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 105
+    }
+  }
+}

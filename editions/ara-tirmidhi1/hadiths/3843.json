@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3843,
+    "arabicnumber": 3843,
+    "text": "حدثنا محمد بن يحيى، قال حدثنا عبد الله بن محمد النفيلي، قال حدثنا عمرو بن واقد، عن يونس بن حلبس، عن ابي ادريس الخولاني، قال لما عزل عمر بن الخطاب عمير بن سعيد عن حمص، ولى معاوية فقال الناس عزل عميرا وولى معاوية . فقال عمير لا تذكروا معاوية الا بخير فاني سمعت رسول الله صلى الله عليه وسلم يقول \" اللهم اهد به \" . قال ابو عيسى هذا حديث غريب , وعمرو بن واقد يضعف",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 49,
+      "hadith": 243
+    }
+  }
+}

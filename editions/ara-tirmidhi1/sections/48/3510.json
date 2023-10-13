@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3510,
+    "arabicnumber": 3510,
+    "text": "حدثنا عبد الوارث بن عبد الصمد بن عبد الوارث، قال حدثني ابي قال، حدثنا محمد بن ثابت البناني، قال حدثني ابي، عن انس بن مالك، رضى الله عنه ان رسول الله صلى الله عليه وسلم قال \" اذا مررتم برياض الجنة فارتعوا \" . قال وما رياض الجنة قال \" حلق الذكر \" . قال ابو عيسى هذا حديث حسن غريب من هذا الوجه من حديث ثابت عن انس",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 48,
+      "hadith": 141
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3588,
+    "arabicnumber": 3588,
+    "text": "حدثنا عبد الوارث بن عبد الصمد، حدثني ابي، حدثنا محمد بن سالم، حدثنا ثابت البناني، قال قال لي يا محمد اذا اشتكيت فضع يدك حيث تشتكي وقل بسم الله اعوذ بعزة الله وقدرته من شر ما اجد من وجعي هذا ثم ارفع يدك ثم اعد ذلك وترا فان انس بن مالك حدثني ان رسول الله صلى الله عليه وسلم حدثه بذلك . قال هذا حديث حسن غريب من هذا الوجه ومحمد بن سالم هذا شيخ بصري",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 48,
+      "hadith": 219
+    }
+  }
+}

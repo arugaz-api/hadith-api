@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1818,
+    "arabicnumber": 1818,
+    "text": "حدثنا محمد بن بشار، حدثنا يحيى بن سعيد، حدثنا عبيد الله، عن نافع، عن ابن عمر، عن النبي صلى الله عليه وسلم قال \" الكافر ياكل في سبعة امعاء والمومن ياكل في معى واحد \" . قال ابو عيسى هذا حديث حسن صحيح . قال وفي الباب عن ابي هريرة وابي سعيد وابي بصرة الغفاري وابي موسى وجهجاه الغفاري وميمونة وعبد الله بن عمرو",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 25,
+      "hadith": 32
+    }
+  }
+}

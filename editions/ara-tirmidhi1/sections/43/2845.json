@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2845,
+    "arabicnumber": 2845,
+    "text": "حدثنا قتيبة، حدثنا ابو عوانة، عن سماك بن حرب، عن عكرمة، عن ابن عباس، قال قال رسول الله صلى الله عليه وسلم \" ان من الشعر حكما \" . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 119
+    }
+  }
+}

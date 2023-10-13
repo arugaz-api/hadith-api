@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2984,
+    "arabicnumber": 2984,
+    "text": "حدثنا هناد، حدثنا عبدة، عن سعيد بن ابي عروبة، عن قتادة، عن ابي حسان الاعرج، عن عبيدة السلماني، ان عليا، حدثه ان النبي صلى الله عليه وسلم قال يوم الاحزاب \" اللهم املا قبورهم وبيوتهم نارا كما شغلونا عن صلاة الوسطى حتى غابت الشمس \" . قال ابو عيسى هذا حديث حسن صحيح وقد روي من غير وجه عن علي وابو حسان الاعرج اسمه مسلم",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 47,
+      "hadith": 36
+    }
+  }
+}

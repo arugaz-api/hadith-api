@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 214,
+    "arabicnumber": 214,
+    "text": "حدثنا علي بن حجر، اخبرنا اسماعيل بن جعفر، عن العلاء بن عبد الرحمن، عن ابيه، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال \" الصلوات الخمس والجمعة الى الجمعة كفارات لما بينهن ما لم تغش الكباير \" . قال وفي الباب عن جابر وانس وحنظلة الاسيدي . قال ابو عيسى حديث ابي هريرة حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Bukhari And Muslim"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 66
+    }
+  }
+}

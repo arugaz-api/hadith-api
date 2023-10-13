@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3166,
+    "arabicnumber": 3166,
+    "text": "حدثنا سعيد بن يحيى بن سعيد الاموي، حدثني ابي، حدثنا محمد بن اسحاق، عن ابي الزناد، عن عبد الرحمن الاعرج، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" لم يكذب ابراهيم عليه السلام في شيء قط الا في ثلاث قوله : (اني سقيم ) ولم يكن سقيما وقوله لسارة اختي وقوله : ( بل فعله كبيرهم هذا ) \" . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 47,
+      "hadith": 218
+    }
+  }
+}

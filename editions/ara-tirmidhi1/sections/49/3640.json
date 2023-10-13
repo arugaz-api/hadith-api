@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3640,
+    "arabicnumber": 3640,
+    "text": "حدثنا محمد بن يحيى، حدثنا ابو قتيبة، سلم بن قتيبة عن عبد الله بن المثنى، عن ثمامة، عن انس بن مالك، قال كان رسول الله صلى الله عليه وسلم يعيد الكلمة ثلاثا لتعقل عنه . قال ابو عيسى هذا حديث حسن صحيح غريب انما نعرفه من حديث عبد الله بن المثنى",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 49,
+      "hadith": 36
+    }
+  }
+}

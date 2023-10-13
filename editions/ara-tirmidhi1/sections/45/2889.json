@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2889,
+    "arabicnumber": 2889,
+    "text": "حدثنا نصر بن عبد الرحمن الكوفي، قال حدثنا زيد بن حباب، عن هشام ابي المقدام، عن الحسن، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" من قرا حم الدخان في ليلة الجمعة غفر له \" . قال ابو عيسى هذا حديث غريب لا نعرفه الا من هذا الوجه . وهشام ابو المقدام يضعف ولم يسمع الحسن من ابي هريرة هكذا قال ايوب ويونس بن عبيد وعلي بن زيد",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 45,
+      "hadith": 15
+    }
+  }
+}

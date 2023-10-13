@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3329,
+    "arabicnumber": 3329,
+    "text": "حدثنا ابن ابي عمر، حدثنا سفيان بن عيينة، عن موسى بن ابي عايشة، عن سعيد بن جبير، عن ابن عباس، قال كان رسول الله صلى الله عليه وسلم اذا انزل عليه القران يحرك به لسانه يريد ان يحفظه فانزل الله : ( لا تحرك به لسانك لتعجل به ) قال فكان يحرك به شفتيه وحرك سفيان شفتيه . قال ابو عيسى هذا حديث حسن صحيح . قال علي قال يحيى بن سعيد اثنى سفيان الثوري على موسى بن ابي عايشة خيرا",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 47,
+      "hadith": 381
+    }
+  }
+}

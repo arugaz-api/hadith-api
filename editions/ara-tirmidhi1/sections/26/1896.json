@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1896,
+    "arabicnumber": 1896,
+    "text": "حدثنا احمد بن محمد، اخبرنا عبد الله بن المبارك، اخبرنا معمر، ويونس، عن الزهري، ان رسول الله صلى الله عليه وسلم سيل اى الشراب اطيب قال \" الحلو البارد \" . قال ابو عيسى وهكذا روى عبد الرزاق عن معمر عن الزهري عن النبي صلى الله عليه وسلم مرسلا وهذا اصح من حديث ابن عيينة رحمه الله",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 26,
+      "hadith": 37
+    }
+  }
+}

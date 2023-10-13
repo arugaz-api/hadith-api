@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2645,
+    "arabicnumber": 2645,
+    "text": "حدثنا علي بن حجر، حدثنا اسماعيل بن جعفر، حدثني عبد الله بن سعيد بن ابي هند، عن ابيه، عن ابن عباس، ان رسول الله صلى الله عليه وسلم قال \" من يرد الله به خيرا يفقهه في الدين \" . وفي الباب عن عمر وابي هريرة ومعاوية هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 41,
+      "hadith": 1
+    }
+  }
+}

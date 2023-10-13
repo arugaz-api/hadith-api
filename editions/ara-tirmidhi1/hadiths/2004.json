@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2004,
+    "arabicnumber": 2004,
+    "text": "حدثنا ابو كريب، محمد بن العلاء حدثنا عبد الله بن ادريس، حدثني ابي، عن جدي، عن ابي هريرة، قال سيل رسول الله صلى الله عليه وسلم عن اكثر ما يدخل الناس الجنة فقال \" تقوى الله وحسن الخلق \" . وسيل عن اكثر ما يدخل الناس النار فقال \" الفم والفرج \" . قال ابو عيسى هذا حديث صحيح غريب وعبد الله بن ادريس هو ابن يزيد بن عبد الرحمن الاودي",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Isnaad"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 27,
+      "hadith": 110
+    }
+  }
+}

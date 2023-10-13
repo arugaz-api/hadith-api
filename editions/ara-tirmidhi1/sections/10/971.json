@@ -1,0 +1,22 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 971,
+    "arabicnumber": 971,
+    "text": "حدثنا بذلك علي بن حجر اخبرنا اسماعيل بن ابراهيم اخبرنا عبد العزيز بن صهيب عن انس بن مالك عن النبي صلى الله عليه وسلم بذلك . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      }
+    ],
+    "reference": {
+      "book": 10,
+      "hadith": 7
+    }
+  }
+}

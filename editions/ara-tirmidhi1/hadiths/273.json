@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 273,
+    "arabicnumber": 273,
+    "text": "حدثنا قتيبة، حدثنا حماد بن زيد، عن عمرو بن دينار، عن طاوس، عن ابن عباس، قال امر النبي صلى الله عليه وسلم ان يسجد على سبعة اعظم ولا يكف شعره ولا ثيابه . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 125
+    }
+  }
+}

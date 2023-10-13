@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 11,
+    "arabicnumber": 11,
+    "text": "حدثنا هناد، حدثنا عبدة بن سليمان، عن عبيد الله بن عمر، عن محمد بن يحيى بن حبان، عن عمه، واسع بن حبان، عن ابن عمر، قال رقيت يوما على بيت حفصة فرايت النبي صلى الله عليه وسلم على حاجته مستقبل الشام مستدبر الكعبة . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 11
+    }
+  }
+}

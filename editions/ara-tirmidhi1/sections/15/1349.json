@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1349,
+    "arabicnumber": 1349,
+    "text": "حدثنا محمد بن المثنى، حدثنا ابن ابي عدي، عن سعيد، عن قتادة، عن الحسن، عن سمرة، ان نبي الله صلى الله عليه وسلم قال \" العمرى جايزة لاهلها او ميراث لاهلها \" . قال وفي الباب عن زيد بن ثابت وجابر وابي هريرة وعايشة وابن الزبير ومعاوية",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 29
+    }
+  }
+}

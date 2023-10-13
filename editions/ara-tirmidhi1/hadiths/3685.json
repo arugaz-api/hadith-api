@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3685,
+    "arabicnumber": 3685,
+    "text": "حدثنا محمد بن المثنى، قال حدثنا عبد الله بن داود، عن حماد بن زيد، عن ايوب، عن محمد بن سيرين، قال ما اظن رجلا ينتقص ابا بكر وعمر يحب النبي صلى الله عليه وسلم . قال هذا حديث حسن غريب",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih Isnaad Maqtu"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad Maqtu"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 49,
+      "hadith": 81
+    }
+  }
+}

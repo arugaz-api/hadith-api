@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 438,
+    "arabicnumber": 438,
+    "text": "حدثنا قتيبة، حدثنا ابو عوانة، عن ابي بشر، عن حميد بن عبد الرحمن الحميري، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" افضل الصيام بعد شهر رمضان شهر الله المحرم وافضل الصلاة بعد الفريضة صلاة الليل \" . قال وفي الباب عن جابر وبلال وابي امامة . قال ابو عيسى حديث ابي هريرة حديث حسن صحيح . قال ابو عيسى وابو بشر اسمه جعفر بن ابي وحشية واسم ابي وحشية اياس",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 291
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2231,
+    "arabicnumber": 2231,
+    "text": "حدثنا عبد الجبار بن العلاء بن عبد الجبار العطار، حدثنا سفيان بن عيينة، عن عاصم، عن زر، عن عبد الله، عن النبي صلى الله عليه وسلم قال \" يلي رجل من اهل بيتي يواطي اسمه اسمي \" . قال عاصم واخبرنا ابو صالح، عن ابي هريرة، قال لو لم يبق من الدنيا الا يوم لطول الله ذلك اليوم حتى يلي . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 33,
+      "hadith": 74
+    }
+  }
+}

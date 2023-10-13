@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 747,
+    "arabicnumber": 747,
+    "text": "حدثنا محمد بن يحيى، حدثنا ابو عاصم، عن محمد بن رفاعة، عن سهيل بن ابي صالح، عن ابيه، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال \" تعرض الاعمال يوم الاثنين والخميس فاحب ان يعرض عملي وانا صايم \" . قال ابو عيسى حديث ابي هريرة في هذا الباب حديث حسن غريب",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 8,
+      "hadith": 66
+    }
+  }
+}

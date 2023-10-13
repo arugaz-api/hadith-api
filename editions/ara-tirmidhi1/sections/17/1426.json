@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1426,
+    "arabicnumber": 1426,
+    "text": "حدثنا قتيبة، حدثنا الليث، عن عقيل، عن الزهري، عن سالم، عن ابيه، ان رسول الله صلى الله عليه وسلم قال \" المسلم اخو المسلم لا يظلمه ولا يسلمه ومن كان في حاجة اخيه كان الله في حاجته ومن فرج عن مسلم كربة فرج الله عنه كربة من كرب يوم القيامة ومن ستر مسلما ستره الله يوم القيامة \" . قال ابو عيسى هذا حديث حسن صحيح غريب من حديث ابن عمر",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari"
+      }
+    ],
+    "reference": {
+      "book": 17,
+      "hadith": 6
+    }
+  }
+}

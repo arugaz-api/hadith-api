@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 440,
+    "arabicnumber": 440,
+    "text": "حدثنا اسحاق بن موسى الانصاري، حدثنا معن بن عيسى، حدثنا مالك، عن ابن شهاب، عن عروة، عن عايشة، ان رسول الله صلى الله عليه وسلم كان يصلي من الليل احدى عشرة ركعة يوتر منها بواحدة فاذا فرغ منها اضطجع على شقه الايمن",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Shadh"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Shadh"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 293
+    }
+  }
+}

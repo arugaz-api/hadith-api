@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2725,
+    "arabicnumber": 2725,
+    "text": "حدثنا علي بن حجر، اخبرنا شريك، عن سماك بن حرب، عن جابر بن سمرة، قال كنا اذا اتينا النبي صلى الله عليه وسلم جلس احدنا حيث ينتهي . قال ابو عيسى هذا حديث حسن صحيح غريب . وقد رواه زهير بن معاوية عن سماك ايضا",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 42,
+      "hadith": 38
+    }
+  }
+}

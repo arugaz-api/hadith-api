@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1778,
+    "arabicnumber": 1778,
+    "text": "حدثنا احمد بن منيع، حدثنا سفيان بن عيينة، عن عبد الرحمن بن القاسم، عن ابيه، عن عايشة، انها مشت بنعل واحدة . وهذا اصح . قال ابو عيسى وهكذا رواه سفيان الثوري وغير واحد عن عبد الرحمن بن القاسم موقوفا وهذا اصح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 66
+    }
+  }
+}

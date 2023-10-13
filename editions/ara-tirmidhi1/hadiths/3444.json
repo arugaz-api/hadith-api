@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3444,
+    "arabicnumber": 3444,
+    "text": "حدثنا عبد الله بن ابي زياد، حدثنا سيار، حدثنا جعفر بن سليمان، عن ثابت، عن انس، قال جاء رجل الى النبي صلى الله عليه وسلم فقال يا رسول الله اني اريد سفرا فزودني . قال \" زودك الله التقوى \" . قال زدني . قال \" وغفر ذنبك \" . قال زدني بابي انت وامي . قال \" ويسر لك الخير حيثما كنت \" . قال هذا حديث حسن غريب",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 48,
+      "hadith": 75
+    }
+  }
+}

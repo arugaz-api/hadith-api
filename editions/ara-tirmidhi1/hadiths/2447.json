@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2447,
+    "arabicnumber": 2447,
+    "text": "حدثنا محمد بن عبد الله بن بزيع، حدثنا زياد بن الربيع، حدثنا ابو عمران الجوني، عن انس بن مالك، قال ما اعرف شييا مما كنا عليه على عهد النبي صلى الله عليه وسلم . فقلت اين الصلاة قال اولم تصنعوا في صلاتكم ما قد علمتم . قال ابو عيسى هذا حديث حسن غريب من هذا الوجه من حديث ابي عمران الجوني وقد روي من غير وجه عن انس",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 37,
+      "hadith": 33
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2051,
+    "arabicnumber": 2051,
+    "text": "حدثنا عبد القدوس بن محمد، قال حدثنا عمرو بن عاصم، قال حدثنا همام، وجرير بن حازم، قالا حدثنا قتادة، عن انس، قال كان رسول الله صلى الله عليه وسلم يحتجم في الاخدعين والكاهل وكان يحتجم لسبع عشرة وتسع عشرة واحدى وعشرين . قال ابو عيسى وفي الباب عن ابن عباس ومعقل بن يسار . وهذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 28,
+      "hadith": 16
+    }
+  }
+}

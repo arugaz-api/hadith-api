@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1695,
+    "arabicnumber": 1695,
+    "text": "حدثنا عبد الله بن الصباح الهاشمي البصري، حدثنا يزيد بن هارون، اخبرنا شيبان يعني ابن عبد الرحمن، حدثنا عيسى بن علي بن عبد الله بن عباس، عن ابيه، عن ابن عباس، قال قال رسول الله صلى الله عليه وسلم \" يمن الخيل في الشقر \" . قال ابو عيسى هذا حديث حسن غريب لا نعرفه الا من هذا الوجه من حديث شيبان",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 23,
+      "hadith": 26
+    }
+  }
+}

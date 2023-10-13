@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2795,
+    "arabicnumber": 2795,
+    "text": "حدثنا ابن ابي عمر، حدثنا سفيان، عن ابي النضر، مولى عمر بن عبيد الله عن زرعة بن مسلم بن جرهد الاسلمي، عن جده، جرهد قال مر النبي صلى الله عليه وسلم بجرهد في المسجد وقد انكشف فخذه فقال \" ان الفخذ عورة \" . قال ابو عيسى هذا حديث حسن ما ارى اسناده بمتصل",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 39,
+      "hadith": 19
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3951,
+    "arabicnumber": 3951,
+    "text": "حدثنا محمد بن بشار، قال حدثنا عبد الرحمن بن مهدي، قال حدثنا سفيان، عن جامع بن شداد، عن صفوان بن محرز، عن عمران بن حصين، قال جاء نفر من بني تميم الى رسول الله صلى الله عليه وسلم فقال \" ابشروا يا بني تميم \" . قالوا بشرتنا فاعطنا . قال فتغير وجه رسول الله صلى الله عليه وسلم وجاء نفر من اهل اليمن فقال \" اقبلوا البشرى فلم يقبلها بنو تميم \" . قالوا قد قبلنا . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari"
+      }
+    ],
+    "reference": {
+      "book": 49,
+      "hadith": 351
+    }
+  }
+}

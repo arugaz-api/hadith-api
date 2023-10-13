@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2843,
+    "arabicnumber": 2843,
+    "text": "حدثنا محمد بن بشار، حدثنا يحيى بن سعيد القطان، حدثنا فطر بن خليفة، حدثني منذر، وهو الثوري عن محمد ابن الحنفية، عن علي بن ابي طالب، انه قال يا رسول الله ارايت ان ولد لي بعدك اسميه محمدا واكنيه بكنيتك قال \" نعم \" . قال فكانت رخصة لي . هذا حديث صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 117
+    }
+  }
+}

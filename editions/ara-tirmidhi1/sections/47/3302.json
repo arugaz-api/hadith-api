@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3302,
+    "arabicnumber": 3302,
+    "text": "حدثنا قتيبة، حدثنا الليث، عن نافع، عن ابن عمر، رضى الله عنهما قال حرق رسول الله صلى الله عليه وسلم نخل بني النضير وقطع وهي البويرة فانزل الله : (ما قطعتم من لينة او تركتموها قايمة على اصولها فباذن الله وليخزي الفاسقين ) . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 47,
+      "hadith": 354
+    }
+  }
+}

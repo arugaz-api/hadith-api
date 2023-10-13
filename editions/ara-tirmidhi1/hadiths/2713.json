@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2713,
+    "arabicnumber": 2713,
+    "text": "حدثنا محمود بن غيلان، حدثنا شبابة، عن حمزة، عن ابي الزبير، عن جابر، ان رسول الله صلى الله عليه وسلم قال \" اذا كتب احدكم كتابا فليتربه فانه انجح للحاجة \" . قال ابو عيسى هذا حديث منكر لا نعرفه عن ابي الزبير الا من هذا الوجه . قال وحمزة هو عندي ابن عمرو النصيبي هو ضعيف في الحديث",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 42,
+      "hadith": 26
+    }
+  }
+}

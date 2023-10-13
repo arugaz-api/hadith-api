@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2783,
+    "arabicnumber": 2783,
+    "text": "حدثنا سويد، اخبرنا عبد الله بن المبارك، عن عبيد الله بن عمر، عن نافع، عن ابن عمر، عن النبي صلى الله عليه وسلم قال \" لعن الله الواصلة والمستوصلة والواشمة والمستوشمة \" . قال نافع الوشم في اللثة . قال هذا حديث حسن صحيح . وفي الباب عن عايشة ومعقل بن يسار واسماء بنت ابي بكر وابن عباس",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 54
+    }
+  }
+}

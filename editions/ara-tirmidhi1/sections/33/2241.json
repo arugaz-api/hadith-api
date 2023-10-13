@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2241,
+    "arabicnumber": 2241,
+    "text": "حدثنا محمد بن عبد الاعلى الصنعاني، حدثنا المعتمر بن سليمان، عن عبيد الله بن عمر، عن نافع، عن ابن عمر، عن النبي صلى الله عليه وسلم انه سيل عن الدجال فقال \" الا ان ربكم ليس باعور الا وانه اعور عينه اليمنى كانها عنبة طافية \" . قال وفي الباب عن سعد وحذيفة وابي هريرة واسماء وجابر بن عبد الله وابي بكرة وعايشة وانس وابن عباس والفلتان بن عاصم . قال ابو عيسى هذا حديث صحيح غريب من حديث عبيد الله بن عمر",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Bukhari And Muslim"
+      }
+    ],
+    "reference": {
+      "book": 33,
+      "hadith": 84
+    }
+  }
+}

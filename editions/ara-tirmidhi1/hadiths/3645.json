@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3645,
+    "arabicnumber": 3645,
+    "text": "حدثنا احمد بن منيع، حدثنا عباد بن العوام، اخبرنا الحجاج، هو ابن ارطاة عن سماك بن حرب، عن جابر بن سمرة، قال كان في ساقى رسول الله صلى الله عليه وسلم حموشة وكان لا يضحك الا تبسما وكنت اذا نظرت اليه قلت اكحل العينين وليس باكحل . قال ابو عيسى هذا حديث حسن صحيح غريب من هذا الوجه",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 49,
+      "hadith": 41
+    }
+  }
+}

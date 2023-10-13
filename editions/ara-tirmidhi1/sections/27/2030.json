@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2030,
+    "arabicnumber": 2030,
+    "text": "حدثنا عباس العنبري، حدثنا ابو داود الطيالسي، عن عبد العزيز بن عبد الله بن ابي سلمة، عن عبد الله بن دينار، عن ابن عمر، عن النبي صلى الله عليه وسلم قال \" الظلم ظلمات يوم القيامة \" . قال ابو عيسى وفي الباب عن عبد الله بن عمرو وعايشة وابي موسى وابي هريرة وجابر . وهذا حديث حسن غريب من حديث ابن عمر",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 27,
+      "hadith": 136
+    }
+  }
+}

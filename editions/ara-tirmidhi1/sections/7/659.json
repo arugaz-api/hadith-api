@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 659,
+    "arabicnumber": 659,
+    "text": "حدثنا محمد بن احمد بن مدويه، حدثنا الاسود بن عامر، عن شريك، عن ابي حمزة، عن الشعبي، عن فاطمة بنت قيس، قالت سالت او سيل النبي صلى الله عليه وسلم عن الزكاة فقال \" ان في المال لحقا سوى الزكاة \" . ثم تلا هذه الاية التي في البقرة ( ليس البر ان تولوا وجوهكم ) الاية",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 7,
+      "hadith": 43
+    }
+  }
+}

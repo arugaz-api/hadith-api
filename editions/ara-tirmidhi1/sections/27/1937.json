@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1937,
+    "arabicnumber": 1937,
+    "text": "حدثنا هناد، حدثنا ابو معاوية، عن الاعمش، عن ابي سفيان، عن جابر، قال قال النبي صلى الله عليه وسلم \" ان الشيطان قد ييس ان يعبده المصلون ولكن في التحريش بينهم \" . قال وفي الباب عن انس وسليمان بن عمرو بن الاحوص عن ابيه . قال ابو عيسى هذا حديث حسن . وابو سفيان اسمه طلحة بن نافع",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 27,
+      "hadith": 43
+    }
+  }
+}

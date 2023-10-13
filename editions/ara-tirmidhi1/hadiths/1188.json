@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1188,
+    "arabicnumber": 1188,
+    "text": "حدثنا عبد الله بن ابي زياد، حدثنا يعقوب بن ابراهيم بن سعد، حدثنا ابن اخي ابن شهاب، عن عمه، عن سعيد بن المسيب، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" ان المراة كالضلع ان ذهبت تقيمها كسرتها وان تركتها استمتعت بها على عوج \" . قال وفي الباب عن ابي ذر وسمرة وعايشة . قال ابو عيسى حديث ابي هريرة حديث حسن صحيح غريب من هذا الوجه",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Bukhari And Muslim"
+      }
+    ],
+    "reference": {
+      "book": 13,
+      "hadith": 15
+    }
+  }
+}

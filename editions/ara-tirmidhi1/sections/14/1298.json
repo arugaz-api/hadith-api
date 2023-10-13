@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1298,
+    "arabicnumber": 1298,
+    "text": "حدثنا احمد بن عبدة الضبي، حدثنا عبد الوهاب الثقفي، حدثنا ايوب، عن عكرمة، عن ابن عباس، رضى الله عنهما ان رسول الله صلى الله عليه وسلم قال \" ليس لنا مثل السوء العايد في هبته كالكلب يعود في قييه \" . قال وفي الباب عن ابن عمر، عن النبي صلى الله عليه وسلم انه قال \" لا يحل لاحد ان يعطي عطية فيرجع فيها الا الوالد فيما يعطي ولده",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Bukhari And Muslim"
+      }
+    ],
+    "reference": {
+      "book": 14,
+      "hadith": 100
+    }
+  }
+}

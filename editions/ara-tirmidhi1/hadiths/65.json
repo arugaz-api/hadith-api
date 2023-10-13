@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 65,
+    "arabicnumber": 65,
+    "text": "حدثنا قتيبة، حدثنا ابو الاحوص، عن سماك بن حرب، عن عكرمة، عن ابن عباس، قال اغتسل بعض ازواج النبي صلى الله عليه وسلم في جفنة فاراد رسول الله صلى الله عليه وسلم ان يتوضا منه فقالت يا رسول الله اني كنت جنبا . فقال \" ان الماء لا يجنب \" . قال ابو عيسى هذا حديث حسن صحيح . وهو قول سفيان الثوري ومالك والشافعي",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 65
+    }
+  }
+}

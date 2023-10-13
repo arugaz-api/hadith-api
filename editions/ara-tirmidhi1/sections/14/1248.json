@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1248,
+    "arabicnumber": 1248,
+    "text": "حدثنا نصر بن علي، حدثنا ابو احمد، حدثنا يحيى بن ايوب، وهو البجلي الكوفي قال سمعت ابا زرعة بن عمرو بن جرير، يحدث عن ابي هريرة، عن النبي صلى الله عليه وسلم قال \" لا يتفرقن عن بيع الا عن تراض \" . قال ابو عيسى هذا حديث غريب",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 14,
+      "hadith": 48
+    }
+  }
+}

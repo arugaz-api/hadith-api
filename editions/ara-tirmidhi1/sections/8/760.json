@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 760,
+    "arabicnumber": 760,
+    "text": "حدثنا قتيبة، حدثنا ابو عوانة، عن سماك بن حرب، عن ابي الربيع، عن ابي هريرة، قال عهد الى النبي صلى الله عليه وسلم ثلاثة ان لا انام الا على وتر وصوم ثلاثة ايام من كل شهر وان اصلي الضحى",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 8,
+      "hadith": 79
+    }
+  }
+}

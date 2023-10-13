@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1015,
+    "arabicnumber": 1015,
+    "text": "حدثنا احمد بن منيع، حدثنا سفيان بن عيينة، عن الزهري، سمع سعيد بن المسيب، عن ابي هريرة، يبلغ به النبي صلى الله عليه وسلم قال \" اسرعوا بالجنازة فان يكن خيرا تقدموها اليه وان يكن شرا تضعوه عن رقابكم \" . وفي الباب عن ابي بكرة . قال ابو عيسى حديث ابي هريرة حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 10,
+      "hadith": 51
+    }
+  }
+}

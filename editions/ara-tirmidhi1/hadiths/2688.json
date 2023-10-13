@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2688,
+    "arabicnumber": 2688,
+    "text": "حدثنا هناد، حدثنا ابو معاوية، عن الاعمش، عن ابي صالح، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" والذي نفسي بيده لا تدخلوا الجنة حتى تومنوا ولا تومنوا حتى تحابوا الا ادلكم على امر اذا انتم فعلتموه تحاببتم افشوا السلام بينكم \" . وفي الباب عن عبد الله بن سلام وشريح بن هاني عن ابيه وعبد الله بن عمرو والبراء وانس وابن عمر . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Bukhari And Muslim"
+      }
+    ],
+    "reference": {
+      "book": 42,
+      "hadith": 1
+    }
+  }
+}

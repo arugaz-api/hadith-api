@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 608,
+    "arabicnumber": 608,
+    "text": "حدثنا هناد، حدثنا ابو الاحوص، عن اشعث بن ابي الشعثاء، عن ابيه، عن مسروق، عن عايشة، ان رسول الله صلى الله عليه وسلم كان يحب التيمن في طهوره اذا تطهر وفي ترجله اذا ترجل وفي انتعاله اذا انتعل . قال ابو عيسى هذا حديث حسن صحيح . وابو الشعثاء اسمه سليم بن اسود المحاربي",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 6,
+      "hadith": 65
+    }
+  }
+}

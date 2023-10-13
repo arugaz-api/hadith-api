@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 601,
+    "arabicnumber": 601,
+    "text": "حدثنا ابو سلمة، يحيى بن خلف حدثنا بشر بن المفضل، عن برد بن سنان، عن الزهري، عن عروة، عن عايشة، قالت جيت ورسول الله صلى الله عليه وسلم يصلي في البيت والباب عليه مغلق فمشى حتى فتح لي ثم رجع الى مكانه . ووصفت الباب في القبلة . قال ابو عيسى هذا حديث حسن غريب",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 6,
+      "hadith": 58
+    }
+  }
+}

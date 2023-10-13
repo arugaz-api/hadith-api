@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2290,
+    "arabicnumber": 2290,
+    "text": "حدثنا محمد بن بشار، حدثنا ابو عاصم، حدثنا ابن جريج، اخبرني موسى بن عقبة، اخبرني سالم بن عبد الله، عن عبد الله بن عمر، عن رويا النبي، صلى الله عليه وسلم قال \" رايت امراة سوداء ثايرة الراس خرجت من المدينة حتى قامت بمهيعة وهي الجحفة واولتها وباء المدينة ينقل الى الجحفة \" . قال هذا حديث حسن صحيح غريب",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 34,
+      "hadith": 21
+    }
+  }
+}

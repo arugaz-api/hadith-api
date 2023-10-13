@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1628,
+    "arabicnumber": 1628,
+    "text": "حدثنا ابو زكريا، يحيى بن درست البصري حدثنا ابو اسماعيل، حدثنا يحيى بن ابي كثير، عن ابي سلمة، عن بسر بن سعيد، عن زيد بن خالد الجهني، عن رسول الله صلى الله عليه وسلم قال \" من جهز غازيا في سبيل الله فقد غزا ومن خلف غازيا في اهله فقد غزا \" . قال ابو عيسى هذا حديث حسن صحيح وقد روي من غير هذا الوجه",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 10
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 892,
+    "arabicnumber": 892,
+    "text": "حدثنا قتيبة، حدثنا حماد بن زيد، عن ايوب، عن عكرمة، عن ابن عباس، قال بعثني رسول الله صلى الله عليه وسلم في ثقل من جمع بليل . قال وفي الباب عن عايشة وام حبيبة واسماء بنت ابي بكر والفضل بن عباس",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 85
+    }
+  }
+}

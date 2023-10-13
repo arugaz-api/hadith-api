@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1482,
+    "arabicnumber": 1482,
+    "text": "حدثنا ابو كريب، حدثنا وكيع، عن سفيان، عن سهيل بن ابي صالح، عن ابيه، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال \" من قتل وزغة بالضربة الاولى كان له كذا وكذا حسنة فان قتلها في الضربة الثانية كان له كذا وكذا حسنة فان قتلها في الضربة الثالثة كان له كذا وكذا حسنة \" . قال وفي الباب عن ابن مسعود وسعد وعايشة وام شريك . قال ابو عيسى حديث ابي هريرة حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Bukhari And Muslim"
+      }
+    ],
+    "reference": {
+      "book": 18,
+      "hadith": 23
+    }
+  }
+}

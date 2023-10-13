@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 827,
+    "arabicnumber": 827,
+    "text": "حدثنا محمد بن رافع، حدثنا ابن ابي فديك، ح وحدثنا اسحاق بن منصور، اخبرنا ابن ابي فديك، عن الضحاك بن عثمان، عن محمد بن المنكدر، عن عبد الرحمن بن يربوع، عن ابي بكر الصديق، ان النبي صلى الله عليه وسلم سيل اى الحج افضل قال \" العج والثج",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 20
+    }
+  }
+}

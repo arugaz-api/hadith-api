@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3371,
+    "arabicnumber": 3371,
+    "text": "حدثنا علي بن حجر، اخبرنا الوليد بن مسلم، عن ابن لهيعة، عن عبيد الله بن ابي جعفر، عن ابان بن صالح، عن انس بن مالك، عن النبي صلى الله عليه وسلم قال \" الدعاء مخ العبادة \" . قال ابو عيسى هذا حديث غريب من هذا الوجه لا نعرفه الا من حديث ابن لهيعة",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 48,
+      "hadith": 2
+    }
+  }
+}

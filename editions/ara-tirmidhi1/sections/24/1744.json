@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1744,
+    "arabicnumber": 1744,
+    "text": "حدثنا احمد بن منيع، حدثنا يزيد بن هارون، عن حماد بن سلمة، قال رايت ابن ابي رافع يتختم في يمينه فسالته عن ذلك، فقال رايت عبد الله بن جعفر يتختم في يمينه . وقال عبد الله بن جعفر كان النبي صلى الله عليه وسلم يتختم في يمينه . قال وقال محمد بن اسماعيل هذا اصح شيء روي في هذا الباب",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 25
+    }
+  }
+}

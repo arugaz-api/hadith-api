@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3877,
+    "arabicnumber": 3877,
+    "text": "حدثنا هارون بن اسحاق الهمداني، قال حدثنا عبدة، عن هشام بن عروة، عن ابيه، عن عبد الله بن جعفر، قال سمعت علي بن ابي طالب، يقول سمعت رسول الله صلى الله عليه وسلم يقول \" خير نسايها خديجة بنت خويلد وخير نسايها مريم بنت عمران \" . وفي الباب عن انس وابن عباس وعايشة . وهذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 49,
+      "hadith": 277
+    }
+  }
+}

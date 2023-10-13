@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1988,
+    "arabicnumber": 1988,
+    "text": "حدثنا ابن ابي عمر، حدثنا سفيان، عن ابي الزناد، عن الاعرج، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال \" اياكم والظن فان الظن اكذب الحديث \" . قال ابو عيسى هذا حديث حسن صحيح . قال وسمعت عبد بن حميد يذكر عن بعض اصحاب سفيان قال قال سفيان الظن ظنان فظن اثم وظن ليس باثم فاما الظن الذي هو اثم فالذي يظن ظنا ويتكلم به واما الظن الذي ليس باثم فالذي يظن ولا يتكلم به",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 27,
+      "hadith": 94
+    }
+  }
+}

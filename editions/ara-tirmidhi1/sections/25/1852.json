@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1852,
+    "arabicnumber": 1852,
+    "text": "حدثنا محمود بن غيلان، حدثنا ابو احمد الزبيري، وابو نعيم قالا حدثنا سفيان، عن عبد الله بن عيسى، عن رجل، يقال له عطاء من اهل الشام عن ابي اسيد قال قال النبي صلى الله عليه وسلم \" كلوا الزيت وادهنوا به فانه من شجرة مباركة \" . قال ابو عيسى هذا حديث غريب من هذا الوجه انما نعرفه من حديث سفيان الثوري عن عبد الله بن عيسى",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 25,
+      "hadith": 69
+    }
+  }
+}

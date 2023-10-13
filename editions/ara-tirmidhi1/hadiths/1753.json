@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1753,
+    "arabicnumber": 1753,
+    "text": "حدثنا سويد بن نصر، اخبرنا ابن المبارك، عن الاجلح، عن عبد الله بن بريدة، عن ابي الاسود، عن ابي ذر، عن النبي صلى الله عليه وسلم قال \" ان احسن ما غير به الشيب الحناء والكتم \" . قال ابو عيسى هذا حديث حسن صحيح . وابو الاسود الديلي اسمه ظالم بن عمرو بن سفيان",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 34
+    }
+  }
+}

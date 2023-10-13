@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1585,
+    "arabicnumber": 1585,
+    "text": "حدثنا حميد بن مسعدة، حدثنا يزيد بن زريع، حدثنا حسين المعلم، عن عمرو بن شعيب، عن ابيه، عن جده، ان رسول الله صلى الله عليه وسلم قال في خطبته \" اوفوا بحلف الجاهلية فانه لا يزيده يعني الاسلام الا شدة ولا تحدثوا حلفا في الاسلام \" . قال وفي الباب عن عبد الرحمن بن عوف وام سلمة وجبير بن مطعم وابي هريرة وابن عباس وقيس بن عاصم . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 21,
+      "hadith": 47
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3895,
+    "arabicnumber": 3895,
+    "text": "حدثنا محمد بن يحيى، قال حدثنا محمد بن يوسف، قال حدثنا سفيان، عن هشام بن عروة، عن ابيه، عن عايشة، قالت قال رسول الله صلى الله عليه وسلم \" خيركم خيركم لاهله وانا خيركم لاهلي واذا مات صاحبكم فدعوه \" . قال ابو عيسى هذا حديث حسن غريب صحيح من حديث الثوري ما اقل من رواه عن الثوري . وروي هذا عن هشام بن عروة عن ابيه عن النبي صلى الله عليه وسلم مرسل",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 49,
+      "hadith": 295
+    }
+  }
+}

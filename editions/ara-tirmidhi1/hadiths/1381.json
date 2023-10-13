@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1381,
+    "arabicnumber": 1381,
+    "text": "حدثنا محمود بن غيلان، حدثنا ابو داود، اخبرنا شعبة، عن سماك، قال سمعت علقمة بن وايل، يحدث عن ابيه، ان النبي صلى الله عليه وسلم اقطعه ارضا بحضرموت . قال محمود واخبرنا النضر، عن شعبة، وزاد، فيه وبعث معه معاوية ليقطعها اياه . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 62
+    }
+  }
+}

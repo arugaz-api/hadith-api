@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3797,
+    "arabicnumber": 3797,
+    "text": "حدثنا سفيان بن وكيع، قال حدثنا ابي، عن الحسن بن صالح، عن ابي ربيعة الايادي، عن الحسن، عن انس بن مالك، قال قال رسول الله صلى الله عليه وسلم \" ان الجنة تشتاق الى ثلاثة علي وعمار وسلمان \" . هذا حديث حسن غريب لا نعرفه الا من حديث الحسن بن صالح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 49,
+      "hadith": 196
+    }
+  }
+}

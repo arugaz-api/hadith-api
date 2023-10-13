@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1014,
+    "arabicnumber": 1014,
+    "text": "حدثنا عبد الله بن الصباح الهاشمي، حدثنا ابو قتيبة، عن الجراح، عن سماك، عن جابر بن سمرة، ان النبي صلى الله عليه وسلم اتبع جنازة ابي الدحداح ماشيا ورجع على فرس . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 10,
+      "hadith": 50
+    }
+  }
+}

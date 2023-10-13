@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1887,
+    "arabicnumber": 1887,
+    "text": "حدثنا علي بن خشرم، اخبرنا عيسى بن يونس، عن مالك بن انس، عن ايوب، وهو ابن حبيب انه سمع ابا المثنى الجهني، يذكر عن ابي سعيد الخدري، ان النبي صلى الله عليه وسلم نهى عن النفخ في الشرب . فقال رجل القذاة اراها في الاناء قال \" اهرقها \" . قال فاني لا اروى من نفس واحد قال \" فابن القدح اذا عن فيك \" . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 26,
+      "hadith": 28
+    }
+  }
+}

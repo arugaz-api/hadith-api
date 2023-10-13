@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1831,
+    "arabicnumber": 1831,
+    "text": "حدثنا سلمة بن شبيب، ومحمود بن غيلان، واحمد بن ابراهيم الدورقي، قالوا حدثنا ابو اسامة، عن هشام بن عروة، عن ابيه، عن عايشة، قالت كان النبي صلى الله عليه وسلم يحب الحلواء والعسل . هذا حديث حسن صحيح غريب . وقد رواه علي بن مسهر عن هشام بن عروة وفي الحديث كلام اكثر من هذا",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 25,
+      "hadith": 47
+    }
+  }
+}

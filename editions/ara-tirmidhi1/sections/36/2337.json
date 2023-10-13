@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2337,
+    "arabicnumber": 2337,
+    "text": "حدثنا عبد الله بن ابي زياد، حدثنا يعقوب بن ابراهيم بن سعد، حدثنا ابي، عن صالح بن كيسان، عن ابن شهاب، عن انس بن مالك، قال قال رسول الله صلى الله عليه وسلم \" لو كان لابن ادم واديا من ذهب لاحب ان يكون له ثانيا ولا يملا فاه الا التراب ويتوب الله على من تاب \" . وفي الباب عن ابى بن كعب وابي سعيد وعايشة وابن الزبير وابي واقد وجابر وابن عباس وابي هريرة . قال ابو عيسى هذا حديث حسن صحيح غريب من هذا الوجه",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 36,
+      "hadith": 34
+    }
+  }
+}

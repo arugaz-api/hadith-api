@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3457,
+    "arabicnumber": 3457,
+    "text": "حدثنا ابو سعيد الاشج، حدثنا حفص بن غياث، وابو خالد الاحمر عن حجاج بن ارطاة، عن رياح بن عبيدة، قال حفص عن ابن اخي ابي سعيد، وقال ابو خالد، عن مولى، لابي سعيد عن ابي سعيد، رضى الله عنه قال كان النبي صلى الله عليه وسلم اذا اكل او شرب قال \" الحمد لله الذي اطعمنا وسقانا وجعلنا مسلمين",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 48,
+      "hadith": 88
+    }
+  }
+}

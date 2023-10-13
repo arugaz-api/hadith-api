@@ -1,0 +1,22 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1484,
+    "arabicnumber": 1484,
+    "text": "",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 18,
+      "hadith": 25
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1063,
+    "arabicnumber": 1063,
+    "text": "حدثنا الانصاري، حدثنا معن، حدثنا مالك، ح وحدثنا قتيبة، عن مالك، عن سمى، عن ابي صالح، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال \" الشهداء خمس المطعون والمبطون والغرق وصاحب الهدم والشهيد في سبيل الله \" . قال وفي الباب عن انس وصفوان بن امية وجابر بن عتيك وخالد بن عرفطة وسليمان بن صرد وابي موسى وعايشة . قال ابو عيسى حديث ابي هريرة حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 10,
+      "hadith": 99
+    }
+  }
+}

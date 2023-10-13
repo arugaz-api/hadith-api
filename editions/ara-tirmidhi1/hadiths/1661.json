@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1661,
+    "arabicnumber": 1661,
+    "text": "حدثنا محمد بن بشار، حدثنا معاذ بن هشام، حدثني ابي، عن قتادة، حدثنا انس بن مالك، قال قال رسول الله صلى الله عليه وسلم \" ما من احد من اهل الجنة يسره ان يرجع الى الدنيا غير الشهيد فانه يحب ان يرجع الى الدنيا يقول حتى اقتل عشر مرات في سبيل الله مما يرى مما اعطاه الله من الكرامة \" . قال ابو عيسى هذا حديث صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 44
+    }
+  }
+}

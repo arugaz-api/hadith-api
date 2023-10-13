@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1528,
+    "arabicnumber": 1528,
+    "text": "حدثنا احمد بن منيع، حدثنا ابو بكر بن عياش، حدثني محمد، مولى المغيرة بن شعبة حدثني كعب بن علقمة، عن ابي الخير، عن عقبة بن عامر، قال قال رسول الله صلى الله عليه وسلم \" كفارة النذر اذا لم يسم كفارة يمين \" . قال ابو عيسى هذا حديث حسن صحيح غريب",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 6
+    }
+  }
+}

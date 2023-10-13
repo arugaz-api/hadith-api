@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2483,
+    "arabicnumber": 2483,
+    "text": "حدثنا علي بن حجر، اخبرنا شريك، عن ابي اسحاق، عن حارثة بن مضرب، قال اتينا خبابا نعوده وقد اكتوى سبع كيات فقال لقد تطاول مرضي ولولا اني سمعت رسول الله صلى الله عليه وسلم يقول \" لا تمنوا الموت \" . لتمنيت وقال \" يوجر الرجل في نفقته كلها الا التراب او قال في البناء \" . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 37,
+      "hadith": 69
+    }
+  }
+}

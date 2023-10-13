@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 467,
+    "arabicnumber": 467,
+    "text": "حدثنا احمد بن منيع، حدثنا يحيى بن زكريا بن ابي زايدة، حدثنا عبيد الله، عن نافع، عن ابن عمر، ان النبي صلى الله عليه وسلم قال \" بادروا الصبح بالوتر \" . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 3,
+      "hadith": 15
+    }
+  }
+}

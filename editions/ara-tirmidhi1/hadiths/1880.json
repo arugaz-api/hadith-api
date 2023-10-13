@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1880,
+    "arabicnumber": 1880,
+    "text": "حدثنا ابو السايب، سلم بن جنادة الكوفي حدثنا حفص بن غياث، عن عبيد الله بن عمر، عن نافع، عن ابن عمر، قال كنا ناكل على عهد رسول الله صلى الله عليه وسلم ونحن نمشي ونشرب ونحن قيام . قال ابو عيسى هذا حديث صحيح غريب من حديث عبيد الله بن عمر عن نافع عن ابن عمر . وروى عمران بن حدير هذا الحديث عن ابي البزري عن ابن عمر . وابو البزري اسمه يزيد بن عطارد",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 26,
+      "hadith": 20
+    }
+  }
+}

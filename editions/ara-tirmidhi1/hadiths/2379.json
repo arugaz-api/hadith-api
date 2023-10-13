@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2379,
+    "arabicnumber": 2379,
+    "text": "حدثنا سويد بن نصر، اخبرنا عبد الله بن المبارك، عن سفيان بن عيينة، عن عبد الله بن ابي بكر، هو ابن محمد بن عمرو بن حزم الانصاري قال سمعت انس بن مالك، يقول قال رسول الله صلى الله عليه وسلم \" يتبع الميت ثلاث فيرجع اثنان ويبقى واحد يتبعه اهله وماله وعمله فيرجع اهله وماله ويبقى عمله \" . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari"
+      }
+    ],
+    "reference": {
+      "book": 36,
+      "hadith": 76
+    }
+  }
+}

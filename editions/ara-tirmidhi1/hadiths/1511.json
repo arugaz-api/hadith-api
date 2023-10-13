@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1511,
+    "arabicnumber": 1511,
+    "text": "حدثنا قتيبة، حدثنا ابو الاحوص، عن ابي اسحاق، عن عابس بن ربيعة، قال قلت لام المومنين اكان رسول الله صلى الله عليه وسلم ينهى عن لحوم الاضاحي قالت لا ولكن قل من كان يضحي من الناس فاحب ان يطعم من لم يكن يضحي ولقد كنا نرفع الكراع فناكله بعد عشرة ايام . قال ابو عيسى هذا حديث حسن صحيح . وام المومنين هي عايشة زوج النبي صلى الله عليه وسلم وقد روي عنها هذا الحديث من غير وجه",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Bukhari And Muslim"
+      }
+    ],
+    "reference": {
+      "book": 19,
+      "hadith": 22
+    }
+  }
+}

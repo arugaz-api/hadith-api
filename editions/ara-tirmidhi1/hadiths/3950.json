@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3950,
+    "arabicnumber": 3950,
+    "text": "حدثنا قتيبة، قال حدثنا المغيرة بن عبد الرحمن، عن ابي الزناد، عن الاعرج، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" والذي نفس محمد بيده لغفار واسلم ومزينة ومن كان من جهينة او قال جهينة ومن كان من مزينة خير عند الله يوم القيامة من اسد وطيء وغطفان \" . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 49,
+      "hadith": 350
+    }
+  }
+}

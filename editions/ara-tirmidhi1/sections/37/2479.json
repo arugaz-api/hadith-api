@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2479,
+    "arabicnumber": 2479,
+    "text": "حدثنا قتيبة، حدثنا ابو عوانة، عن قتادة، عن ابي بردة بن ابي موسى، عن ابيه، قال يا بنى لو رايتنا ونحن مع رسول الله صلى الله عليه وسلم واصابتنا السماء لحسبت ان ريحنا ريح الضان . قال ابو عيسى هذا حديث صحيح . ومعنى هذا الحديث انه كان ثيابهم الصوف فكان اذا اصابهم المطر يجيء من ثيابهم ريح الضان",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 37,
+      "hadith": 65
+    }
+  }
+}

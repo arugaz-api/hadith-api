@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2594,
+    "arabicnumber": 2594,
+    "text": "حدثنا محمد بن رافع، حدثنا ابو داود، عن مبارك بن فضالة، عن عبيد الله بن ابي بكر بن انس، عن انس، عن النبي صلى الله عليه وسلم قال \" يقول الله اخرجوا من النار من ذكرني يوما او خافني في مقام \" . قال هذا حديث حسن غريب",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 39,
+      "hadith": 22
+    }
+  }
+}

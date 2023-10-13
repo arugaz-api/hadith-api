@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 216,
+    "arabicnumber": 216,
+    "text": "حدثنا اسحاق بن موسى الانصاري، حدثنا معن، حدثنا مالك، عن ابن شهاب، عن سعيد بن المسيب، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال \" ان صلاة الرجل في الجماعة تزيد على صلاته وحده بخمسة وعشرين جزءا \" . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 68
+    }
+  }
+}

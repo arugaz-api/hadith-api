@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1379,
+    "arabicnumber": 1379,
+    "text": "حدثنا محمد بن بشار، حدثنا عبد الوهاب، حدثنا ايوب، عن هشام بن عروة، عن وهب بن كيسان، عن جابر بن عبد الله، عن النبي صلى الله عليه وسلم قال \" من احيا ارضا ميتة فهي له \" . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 60
+    }
+  }
+}

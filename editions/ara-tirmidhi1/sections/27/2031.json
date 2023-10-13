@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2031,
+    "arabicnumber": 2031,
+    "text": "حدثنا احمد بن محمد، اخبرنا عبد الله بن المبارك، عن سفيان، عن الاعمش، عن ابي حازم، عن ابي هريرة، قال ما عاب رسول الله صلى الله عليه وسلم طعاما قط كان اذا اشتهاه اكله والا تركه . قال ابو عيسى هذا حديث حسن صحيح . وابو حازم هو الاشجعي الكوفي واسمه سلمان مولى عزة الاشجعية",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 27,
+      "hadith": 137
+    }
+  }
+}

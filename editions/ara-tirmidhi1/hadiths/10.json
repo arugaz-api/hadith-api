@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 10,
+    "arabicnumber": 10,
+    "text": "وقد روى هذا الحديث ابن لهيعة، عن ابي الزبير، عن جابر، عن ابي قتادة، انه راى النبي صلى الله عليه وسلم يبول مستقبل القبلة . حدثنا بذلك قتيبة حدثنا ابن لهيعة . وحديث جابر عن النبي صلى الله عليه وسلم اصح من حديث ابن لهيعة . وابن لهيعة ضعيف عند اهل الحديث ضعفه يحيى بن سعيد القطان وغيره من قبل حفظه",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif Isnaad"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 10
+    }
+  }
+}

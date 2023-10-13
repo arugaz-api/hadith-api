@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3282,
+    "arabicnumber": 3282,
+    "text": "حدثنا محمود بن غيلان، حدثنا وكيع، ويزيد بن هارون، عن يزيد بن ابراهيم التستري، عن قتادة، عن عبد الله بن شقيق، قال قلت لابي ذر لو ادركت النبي صلى الله عليه وسلم فسالته . فقال عما كنت تساله قلت كنت اساله هل راى محمد ربه فقال قد سالته فقال \" نور انى اراه \" . قال ابو عيسى هذا حديث حسن",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 47,
+      "hadith": 334
+    }
+  }
+}

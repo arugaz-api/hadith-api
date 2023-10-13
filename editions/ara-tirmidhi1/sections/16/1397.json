@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1397,
+    "arabicnumber": 1397,
+    "text": "حدثنا ابو كريب، حدثنا وكيع، عن الاعمش، عن ابي وايل، عن عبد الله، قال قال رسول الله صلى الله عليه وسلم \" ان اول ما يقضى بين العباد في الدماء",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 16,
+      "hadith": 13
+    }
+  }
+}

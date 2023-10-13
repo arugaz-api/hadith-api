@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3917,
+    "arabicnumber": 3917,
+    "text": "حدثنا محمد بن بشار، قال حدثنا معاذ بن هشام، قال حدثني ابي، عن ايوب، عن نافع، عن ابن عمر، قال قال رسول الله صلى الله عليه وسلم \" من استطاع ان يموت بالمدينة فليمت بها فاني اشفع لمن يموت بها \" . وفي الباب عن سبيعة بنت الحارث الاسلمية . هذا حديث حسن صحيح غريب من هذا الوجه من حديث ايوب السختياني",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 49,
+      "hadith": 317
+    }
+  }
+}

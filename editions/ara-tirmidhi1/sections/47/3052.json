@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3052,
+    "arabicnumber": 3052,
+    "text": "حدثنا عبد بن حميد، حدثنا عبد العزيز بن ابي رزمة، عن اسراييل، عن سماك، عن عكرمة، عن ابن عباس، قال قالوا يا رسول الله ارايت الذين ماتوا وهم يشربون الخمر لما نزل تحريم الخمر فنزلت : ( ليس على الذين امنوا وعملوا الصالحات جناح فيما طعموا اذا ما اتقوا وامنوا وعملوا الصالحات ) . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 47,
+      "hadith": 104
+    }
+  }
+}

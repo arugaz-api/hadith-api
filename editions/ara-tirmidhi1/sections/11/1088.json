@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1088,
+    "arabicnumber": 1088,
+    "text": "حدثنا احمد بن منيع، حدثنا هشيم، اخبرنا ابو بلج، عن محمد بن حاطب الجمحي، قال قال رسول الله صلى الله عليه وسلم \" فصل ما بين الحرام والحلال الدف والصوت \" . قال وفي الباب عن عايشة وجابر والربيع بنت معوذ . قال ابو عيسى حديث محمد بن حاطب حديث حسن . وابو بلج اسمه يحيى بن ابي سليم ويقال ابن سليم ايضا . ومحمد بن حاطب قد راى النبي صلى الله عليه وسلم وهو غلام صغير",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 11,
+      "hadith": 9
+    }
+  }
+}

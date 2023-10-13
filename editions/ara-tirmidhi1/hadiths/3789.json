@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3789,
+    "arabicnumber": 3789,
+    "text": "حدثنا ابو داود، سليمان بن الاشعث قال اخبرنا يحيى بن معين، قال حدثنا هشام بن يوسف، عن عبد الله بن سليمان النوفلي، عن محمد بن علي بن عبد الله بن عباس، عن ابيه، عن ابن عباس، قال قال رسول الله صلى الله عليه وسلم \" احبوا الله لما يغذوكم من نعمه واحبوني بحب الله واحبوا اهل بيتي لحبي \" . قال ابو عيسى هذا ��ديث حسن غريب انما نعرفه من هذا الوجه",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 49,
+      "hadith": 188
+    }
+  }
+}

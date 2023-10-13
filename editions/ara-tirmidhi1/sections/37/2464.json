@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2464,
+    "arabicnumber": 2464,
+    "text": "حدثنا قتيبة، حدثنا ابو صفوان، عن يونس، عن الزهري، عن حميد بن عبد الرحمن، عن عبد الرحمن بن عوف، قال ابتلينا مع رسول الله صلى الله عليه وسلم بالضراء فصبرنا ثم ابتلينا بالسراء بعده فلم نصبر . قال ابو عيسى هذا حديث حسن",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Isnaad"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 37,
+      "hadith": 50
+    }
+  }
+}

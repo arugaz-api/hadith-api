@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 545,
+    "arabicnumber": 545,
+    "text": "حدثنا احمد بن منيع، حدثنا هشيم، اخبرنا علي بن زيد بن جدعان القرشي، عن ابي نضرة، قال سيل عمران بن حصين عن صلاة المسافر، فقال حججت مع رسول الله صلى الله عليه وسلم فصلى ركعتين وحججت مع ابي بكر فصلى ركعتين ومع عمر فصلى ركعتين ومع عثمان ست سنين من خلافته او ثماني سنين فصلى ركعتين . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 6,
+      "hadith": 2
+    }
+  }
+}

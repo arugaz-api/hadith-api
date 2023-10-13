@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2355,
+    "arabicnumber": 2355,
+    "text": "حدثنا العباس بن محمد الدوري، حدثنا عبد الله بن يزيد المقري، حدثنا سعيد بن ابي ايوب، عن عمرو بن جابر الحضرمي، عن جابر بن عبد الله، ان رسول الله صلى الله عليه وسلم قال \" يدخل فقراء المسلمين الجنة قبل اغنيايهم باربعين خريفا \" . هذا حديث حسن",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 36,
+      "hadith": 52
+    }
+  }
+}

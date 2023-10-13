@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1424,
+    "arabicnumber": 1424,
+    "text": "حدثنا عبد الرحمن بن الاسود ابو عمرو البصري، حدثنا محمد بن ربيعة، حدثنا يزيد بن زياد الدمشقي، عن الزهري، عن عروة، عن عايشة، قالت قال رسول الله صلى الله عليه وسلم \" ادرءوا الحدود عن المسلمين ما استطعتم فان كان له مخرج فخلوا سبيله فان الامام ان يخطي في العفو خير من ان يخطي في العقوبة",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 17,
+      "hadith": 2
+    }
+  }
+}

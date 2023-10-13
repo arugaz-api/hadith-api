@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2827,
+    "arabicnumber": 2827,
+    "text": "حدثنا محمد بن بشار، حدثنا يحيى بن سعيد، عن اسماعيل بن ابي خالد، حدثنا ابو جحيفة، قال رايت النبي صلى الله عليه وسلم وكان الحسن بن علي يشبهه . قال ابو عيسى وهكذا روى غير واحد عن اسماعيل بن ابي خالد نحو هذا . وفي الباب عن جابر . وابو جحيفة اسمه وهب السوايي",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 101
+    }
+  }
+}

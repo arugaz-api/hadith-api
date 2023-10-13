@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2786,
+    "arabicnumber": 2786,
+    "text": "حدثنا محمد بن بشار، حدثنا يحيى بن سعيد القطان، عن ثابت بن عمارة الحنفي، عن غنيم بن قيس، عن ابي موسى، عن النبي صلى الله عليه وسلم قال \" كل عين زانية والمراة اذا استعطرت فمرت بالمجلس فهي كذا وكذا يعني زانية \" . وفي الباب عن ابي هريرة . قال ابو عيسى هذا حديث حسن صحيح",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 58
+    }
+  }
+}
