@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2420,
+    "arabicnumber": 2420,
+    "text": "Narrated Abu Hurairah:The Messenger of Allah (ﷺ) as saying: None of you must fast on Friday unless he fasts the day before or the day after",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (1985) Sahih Muslim (1144)"
+      }
+    ],
+    "reference": {
+      "book": 14,
+      "hadith": 108
+    }
+  }
+}

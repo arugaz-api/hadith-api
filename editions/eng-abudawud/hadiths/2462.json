@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2462,
+    "arabicnumber": 2462,
+    "text": "Aishah said:The Prophet (ﷺ) used to observe retirement (i'tikaf) to the mosque during the last ten days of Ramadan till Allah took him, and then his wives observed retirement to the mosque after his death",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (2026) Sahih Muslim (1172)"
+      }
+    ],
+    "reference": {
+      "book": 14,
+      "hadith": 150
+    }
+  }
+}

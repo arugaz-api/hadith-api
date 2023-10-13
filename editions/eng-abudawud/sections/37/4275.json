@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4275,
+    "arabicnumber": 4275,
+    "text": "Ibn 'Abbas said:No other verse has repealed the verse \"If a man kills a believer intentionally",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (4763، 4810) Sahih Muslim (122)"
+      }
+    ],
+    "reference": {
+      "book": 37,
+      "hadith": 36
+    }
+  }
+}

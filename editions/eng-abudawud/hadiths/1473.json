@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1473,
+    "arabicnumber": 1473,
+    "text": "Abu Hurairah reported the Messenger of Allah (ﷺ) as saying:Allah has not listened to anything as He does to a Prophet chanting the Qur'an with a loud voice",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (7544) Sahih Muslim (792)"
+      }
+    ],
+    "reference": {
+      "book": 8,
+      "hadith": 58
+    }
+  }
+}

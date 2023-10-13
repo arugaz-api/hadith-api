@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2141,
+    "arabicnumber": 2141,
+    "text": "Abu Hurairah reported the Prophet (ﷺ) as saying “When a man calls his wife to come to his bed and she refuses and does not come to him and he spends the night angry, the angels curse her till the morning.”",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (5193) Sahih Muslim (1436)"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 96
+    }
+  }
+}

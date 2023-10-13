@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3847,
+    "arabicnumber": 3847,
+    "text": "Ibn ‘Abbas reported the Messenger of Allah (ﷺ) as saying :When one of you eats, he must not wipe his hand with a handkerchief till he licks it or gives it to someone to lick",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (5456) Sahih Muslim (2031)"
+      }
+    ],
+    "reference": {
+      "book": 28,
+      "hadith": 112
+    }
+  }
+}

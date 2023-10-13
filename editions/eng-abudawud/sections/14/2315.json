@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2315,
+    "arabicnumber": 2315,
+    "text": "Salamah bin Al Akwa said “After the revelation of the verse “For those who can do it(with hardship) is a ransom, the feeding of one, that is indigent, is one of us intended to leave fast and pay ransom, he could do so.” until the verse following it was revealed and abrogated the (previous) verse.”",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (4507) Sahih Muslim (1145)"
+      }
+    ],
+    "reference": {
+      "book": 14,
+      "hadith": 3
+    }
+  }
+}

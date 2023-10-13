@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1815,
+    "arabicnumber": 1815,
+    "text": "Al Fadl bin Abbas said The Apostle of Allaah(ﷺ) uttered talbiyah till he threw pebbles at Jamrat Al ‘Aqbah",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (1685) Sahih Muslim (1280)"
+      }
+    ],
+    "reference": {
+      "book": 11,
+      "hadith": 95
+    }
+  }
+}

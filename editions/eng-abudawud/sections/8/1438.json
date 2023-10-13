@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1438,
+    "arabicnumber": 1438,
+    "text": "Ibn 'Umar reported the Prophet (ﷺ) as suing:Make the last of your prayer at night a witr",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (998) Sahih Muslim (751)"
+      }
+    ],
+    "reference": {
+      "book": 8,
+      "hadith": 23
+    }
+  }
+}

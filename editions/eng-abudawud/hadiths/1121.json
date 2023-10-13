@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1121,
+    "arabicnumber": 1121,
+    "text": "Abu Hurairah reported the Messenger of Allah (ﷺ) as saying:If anyone obtains a rak'ah in the prayer (along with the imam), he has obtained the whole prayer",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (580) Sahih Muslim (607)"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 732
+    }
+  }
+}

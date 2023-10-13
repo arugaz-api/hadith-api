@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2040,
+    "arabicnumber": 2040,
+    "text": "Ibn ‘Umar said “The Apostle of Allaah(ﷺ) used to visit Quba on foot and riding. Ibn Numair added “and he used to offer two rak’ahs of prayer.”",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (1194) Sahih Muslim (1399)"
+      }
+    ],
+    "reference": {
+      "book": 11,
+      "hadith": 320
+    }
+  }
+}

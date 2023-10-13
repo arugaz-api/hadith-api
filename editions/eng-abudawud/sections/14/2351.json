@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2351,
+    "arabicnumber": 2351,
+    "text": "Narrated 'Umar:The Prophet (ﷺ) as saying: When the night approaches from this side and the day retreats on that side, and the sun sets - according to the version of Musaddad - he who fasts has reached the time to break it",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (1954) Sahih Muslim (1100)"
+      }
+    ],
+    "reference": {
+      "book": 14,
+      "hadith": 39
+    }
+  }
+}

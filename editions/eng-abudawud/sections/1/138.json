@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 138,
+    "arabicnumber": 138,
+    "text": "‘Ata’ b. Yasar quoting Ibn. ‘Abbas said:May I not tell you how the Messenger of Allah (ﷺ) performed ablution? He then performed ablution washing each limb once only",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (157)"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 138
+    }
+  }
+}

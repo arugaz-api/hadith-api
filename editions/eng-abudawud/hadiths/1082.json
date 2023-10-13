@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1082,
+    "arabicnumber": 1082,
+    "text": "Salamah b. al-Akwa' said:The space between the pulpit of the Messenger of Allah (ﷺ) and the wall (of the mosque) was such that a goat could pass",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (497) Sahih Muslim (509)"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 693
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 890,
+    "arabicnumber": 890,
+    "text": "Ibn ‘Abbas reported the prophet (ﷺ) as saying :I have been commanded, and sometimes the narrator said: Your prophet (ﷺ) was commanded to prostrate on seven limbs",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (815) Sahih Muslim (490)"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 500
+    }
+  }
+}

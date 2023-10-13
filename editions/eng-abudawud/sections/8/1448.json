@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1448,
+    "arabicnumber": 1448,
+    "text": "Ibn 'Umar reported the Messenger of Allah (ﷺ) as saying:Some offer prayer in your houses; do not make them graves",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (432) Sahih Muslim (77)"
+      }
+    ],
+    "reference": {
+      "book": 8,
+      "hadith": 33
+    }
+  }
+}

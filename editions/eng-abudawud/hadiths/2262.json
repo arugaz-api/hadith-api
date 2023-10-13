@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2262,
+    "arabicnumber": 2262,
+    "text": "Narrated AbuHurayrah: A bedouin came to the Prophet (ﷺ), and said: My wife has given birth to a black son, and I disown him. He then narrated the rest of the tradition to the same effect",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (7314) Sahih Muslim (1500)"
+      }
+    ],
+    "reference": {
+      "book": 13,
+      "hadith": 88
+    }
+  }
+}

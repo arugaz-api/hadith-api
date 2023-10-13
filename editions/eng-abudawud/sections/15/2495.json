@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2495,
+    "arabicnumber": 2495,
+    "text": "Abu Hurairah reported the Apostle of Allaah(ﷺ) as saying “An infidel and the one who killed him will never be brought together in Hell.”",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (1891)"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 19
+    }
+  }
+}

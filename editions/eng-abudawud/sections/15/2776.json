@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2776,
+    "arabicnumber": 2776,
+    "text": "Narrated Jabir ibn Abdullah: The Messenger of Allah (ﷺ) disapproved that a man should come to his family during the night (after returning from a journey)",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (5243) Sahih Muslim (715 After 1928)"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 300
+    }
+  }
+}

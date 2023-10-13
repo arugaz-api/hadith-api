@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 626,
+    "arabicnumber": 626,
+    "text": "Abu Hurairah reported the Messenger of Allah (ﷺ) as saying:None of you should pray in a single garment of which no part comes over the shoulders",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (516)"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 236
+    }
+  }
+}

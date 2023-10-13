@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1877,
+    "arabicnumber": 1877,
+    "text": "Ibn ‘Abbas said The Apostle of Allaah(ﷺ) performed the circumambulation at the Farewell Pilgrimage on a Camel and touched the corner(Black Stone) with a crooked stick",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (1607) Sahih Muslim (1272)"
+      }
+    ],
+    "reference": {
+      "book": 11,
+      "hadith": 157
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3736,
+    "arabicnumber": 3736,
+    "text": "‘Abd Allah b. ‘Umar reported the Prophet(ﷺ) as sayings:when one of you is invited for a wedding feast, he must attend it",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (5173) Sahih Muslim (1429)"
+      }
+    ],
+    "reference": {
+      "book": 28,
+      "hadith": 1
+    }
+  }
+}

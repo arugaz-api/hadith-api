@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3494,
+    "arabicnumber": 3494,
+    "text": "Ibn 'Umar said: They (the people) used to buy grain in the upper part of the market in the same spot without measuring or weighing it. The Messenger of Allah (ﷺ) forbade them to sell it there before removing it",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (1526)"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 79
+    }
+  }
+}

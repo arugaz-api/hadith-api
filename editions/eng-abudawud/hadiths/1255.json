@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1255,
+    "arabicnumber": 1255,
+    "text": "Narrated 'Aishah:The Prophet (ﷺ) would pray two rak'ahs before the dawn prayer lightly so much so that I would say: Did he recite Surah al-Fatihah in them",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (1171) Sahih Muslim (724)"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 6
+    }
+  }
+}

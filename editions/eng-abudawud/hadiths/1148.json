@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1148,
+    "arabicnumber": 1148,
+    "text": "Jabir b. Samurah said:I prayed the 'Id prayer with the Prophet (ﷺ) not once or twice (but many times) without the adhan and the iqamah",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (887)"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 759
+    }
+  }
+}

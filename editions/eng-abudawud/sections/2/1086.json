@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1086,
+    "arabicnumber": 1086,
+    "text": "Sahl b. Sa'd said:We had a siesta or lunch after the Friday prayer",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (939) Sahih Muslim (859)"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 697
+    }
+  }
+}

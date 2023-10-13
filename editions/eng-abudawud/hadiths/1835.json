@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1835,
+    "arabicnumber": 1835,
+    "text": "Ibn ‘Abbas said The Prophet(ﷺ) had himself cupped when he was in the sacred state(wearing ihram)",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (1835) Sahih Muslim (1202)"
+      }
+    ],
+    "reference": {
+      "book": 11,
+      "hadith": 115
+    }
+  }
+}

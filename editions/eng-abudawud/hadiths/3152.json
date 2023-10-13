@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3152,
+    "arabicnumber": 3152,
+    "text": "A similar tradition has been transmitted by 'Aishah through a different chain of narrators. This version adds:\"of cotton\". The narrator said: Aisha was told that the people said that he was shrouded in two garments and one cloak. She replied: A cloak was brought but they returned it and did not shroud him in it",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (1271) Sahih Muslim (941)"
+      }
+    ],
+    "reference": {
+      "book": 21,
+      "hadith": 64
+    }
+  }
+}

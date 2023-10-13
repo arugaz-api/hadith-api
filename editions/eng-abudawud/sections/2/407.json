@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 407,
+    "arabicnumber": 407,
+    "text": "Aishah said:The Messenger of Allah (ﷺ) would offer the Zuhr prayer while the sunlight was present in her apartment before it ascended (the walls)",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (522) Sahih Muslim (611)"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 17
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3742,
+    "arabicnumber": 3742,
+    "text": "Abu Hurairah said:The worst kind of food is that at a wedding feast to which the rich are invited and from which the poor are left out. If anyone does not attend the feast to which he was invited, he has disobeyed Allah and His Apostle (may peace upon him)",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Muquf"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (5177) Sahih Muslim (1432)"
+      }
+    ],
+    "reference": {
+      "book": 28,
+      "hadith": 7
+    }
+  }
+}

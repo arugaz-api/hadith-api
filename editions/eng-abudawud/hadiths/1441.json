@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1441,
+    "arabicnumber": 1441,
+    "text": "Al-Bara' said:The Prophet (ﷺ) used to recite the supplication in the dawn prayer. The version of Ibn Mu'adh has the words: \"sunset prayer",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (678)"
+      }
+    ],
+    "reference": {
+      "book": 8,
+      "hadith": 26
+    }
+  }
+}

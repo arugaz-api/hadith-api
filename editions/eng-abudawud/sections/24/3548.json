@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3548,
+    "arabicnumber": 3548,
+    "text": "Narrated Abu Hurairah:The Prophet (ﷺ) as saying: Life tenancy is permissible",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (2626) Sahih Muslim (1626)"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 133
+    }
+  }
+}

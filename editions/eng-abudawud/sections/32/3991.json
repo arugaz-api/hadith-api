@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3991,
+    "arabicnumber": 3991,
+    "text": "Narrated Aisha, Ummul Mu'minin: I heard the Messenger of Allah (ﷺ) read: \"(There is for him) Rest and satisfaction\" (faruhun wa rayhan)",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 32,
+      "hadith": 23
+    }
+  }
+}
