@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1365,
+    "arabicnumber": 1365,
+    "text": "। আয়িশাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রাতের প্রথমভাগে ঘুমাতেন এবং শেষবাগে জাগ্রত থাকতেন।",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Bukhari And Muslim"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 563
+    }
+  }
+}

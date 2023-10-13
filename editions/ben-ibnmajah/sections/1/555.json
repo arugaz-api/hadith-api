@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 555,
+    "arabicnumber": 555,
+    "text": "। আবূ হুরাইরাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, লোকেরা বললো, হে আল্লাহ্‌র রাসূল! মোজার উপর মাসহ(মাসেহ) করার মেয়াদ কত? তিনি বলেনঃ মুসাফিরের জন্য একাধারে তিন দিন ও তিন রাত ও মুকীমের জন্য এক দিন ও এক রাত।",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 289
+    }
+  }
+}
