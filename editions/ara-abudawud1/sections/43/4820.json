@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4820,
+    "arabicnumber": 4820,
+    "text": "حدثنا القعنبي، حدثنا عبد الرحمن بن ابي الموال، عن عبد الرحمن بن ابي عمرة الانصاري، عن ابي سعيد الخدري، قال سمعت رسول الله صلى الله عليه وسلم يقول \" خير المجالس اوسعها \" . قال ابو داود هو عبد الرحمن بن عمرو بن ابي عمرة الانصاري",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 48
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 5147,
+    "arabicnumber": 5147,
+    "text": "حدثنا مسدد، حدثنا خالد، حدثنا سهيل، - يعني ابن ابي صالح - عن سعيد الاعشى، - قال ابو داود وهو سعيد بن عبد الرحمن بن مكمل الزهري - عن ايوب بن بشير الانصاري، عن ابي سعيد الخدري، قال قال رسول الله صلى الله عليه وسلم \" من عال ثلاث بنات فادبهن وزوجهن واحسن اليهن فله الجنة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 375
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4142,
+    "arabicnumber": 4142,
+    "text": "حدثنا يزيد بن خالد الهمداني الرملي، حدثنا ابن وهب، عن ابي هاني، عن ابي عبد الرحمن الحبلي، عن جابر بن عبد الله، قال ذكر رسول الله صلى الله عليه وسلم الفرش فقال \" فراش للرجل وفراش للمراة وفراش للضيف والرابع للشيطان",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (2084)"
+      }
+    ],
+    "reference": {
+      "book": 34,
+      "hadith": 123
+    }
+  }
+}

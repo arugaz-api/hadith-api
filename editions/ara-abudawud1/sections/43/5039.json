@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 5039,
+    "arabicnumber": 5039,
+    "text": "حدثنا احمد بن يونس، حدثنا زهير، ح وحدثنا محمد بن كثير، اخبرنا سفيان، - المعنى - قالا حدثنا سليمان التيمي، عن انس، قال عطس رجلان عند النبي صلى الله عليه وسلم فشمت احدهما وترك الاخر قال فقيل يا رسول الله رجلان عطسا فشمت احدهما - قال احمد او فشمت احدهما - وتركت الاخر . فقال \" ان هذا حمد الله وان هذا لم يحمد الله",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (6221) Sahih Muslim (2991)"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 267
+    }
+  }
+}

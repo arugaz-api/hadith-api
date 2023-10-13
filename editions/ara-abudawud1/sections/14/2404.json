@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2404,
+    "arabicnumber": 2404,
+    "text": "حدثنا مسدد، حدثنا ابو عوانة، عن منصور، عن مجاهد، عن طاوس، عن ابن عباس، قال خرج النبي صلى الله عليه وسلم من المدينة الى مكة حتى بلغ عسفان ثم دعا باناء فرفعه الى فيه ليريه الناس وذلك في رمضان . فكان ابن عباس يقول قد صام النبي صلى الله عليه وسلم وافطر فمن شاء صام ومن شاء افطر",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (1948) Sahih Muslim (1133)"
+      }
+    ],
+    "reference": {
+      "book": 14,
+      "hadith": 92
+    }
+  }
+}

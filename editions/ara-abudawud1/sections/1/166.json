@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 166,
+    "arabicnumber": 166,
+    "text": "حدثنا محمد بن كثير، حدثنا سفيان، - هو الثوري - عن منصور، عن مجاهد، عن سفيان بن الحكم الثقفي، او الحكم بن سفيان قال كان رسول الله صلى الله عليه وسلم اذا بال يتوضا وينتضح . قال ابو داود وافق سفيان جماعة على هذا الاسناد وقال بعضهم الحكم او ابن الحكم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 166
+    }
+  }
+}

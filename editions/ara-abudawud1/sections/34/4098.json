@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4098,
+    "arabicnumber": 4098,
+    "text": "حدثنا زهير بن حرب، حدثنا ابو عامر، عن سليمان بن بلال، عن سهيل، عن ابيه، عن ابي هريرة، قال لعن رسول الله صلى الله عليه وسلم الرجل يلبس لبسة المراة والمراة تلبس لبسة الرجل",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 34,
+      "hadith": 79
+    }
+  }
+}

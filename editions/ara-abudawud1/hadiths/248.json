@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 248,
+    "arabicnumber": 248,
+    "text": "حدثنا نصر بن علي، حدثني الحارث بن وجيه، حدثنا مالك بن دينار، عن محمد بن سيرين، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" ان تحت كل شعرة جنابة فاغسلوا الشعر وانقوا البشر \" . قال ابو داود الحارث بن وجيه حديثه منكر وهو ضعيف",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 248
+    }
+  }
+}

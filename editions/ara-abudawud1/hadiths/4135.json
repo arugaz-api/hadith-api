@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4135,
+    "arabicnumber": 4135,
+    "text": "حدثنا محمد بن عبد الرحيم ابو يحيى، اخبرنا ابو احمد الزبيري، حدثنا ابراهيم بن طهمان، عن ابي الزبير، عن جابر، قال نهى رسول الله صلى الله عليه وسلم ان ينتعل الرجل قايما",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 34,
+      "hadith": 116
+    }
+  }
+}

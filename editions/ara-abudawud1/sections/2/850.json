@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 850,
+    "arabicnumber": 850,
+    "text": "حدثنا محمد بن مسعود، حدثنا زيد بن الحباب، حدثنا كامل ابو العلاء، حدثني حبيب بن ابي ثابت، عن سعيد بن جبير، عن ابن عباس، ان النبي صلى الله عليه وسلم كان يقول بين السجدتين \" اللهم اغفر لي وارحمني وعافني واهدني وارزقني",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 460
+    }
+  }
+}

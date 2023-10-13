@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2242,
+    "arabicnumber": 2242,
+    "text": "حدثنا احمد بن ابراهيم، حدثنا بكر بن عبد الرحمن، قاضي الكوفة عن عيسى بن المختار، عن ابن ابي ليلى، عن حميضة بن الشمردل، عن قيس بن الحارث، بمعناه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 13,
+      "hadith": 68
+    }
+  }
+}

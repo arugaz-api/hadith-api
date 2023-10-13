@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3847,
+    "arabicnumber": 3847,
+    "text": "حدثنا مسدد، حدثنا يحيى، عن ابن جريج، عن عطاء، عن ابن عباس، قال قال رسول الله صلى الله عليه وسلم \" اذا اكل احدكم فلا يمسحن يده بالمنديل حتى يلعقها او يلعقها",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (5456) Sahih Muslim (2031)"
+      }
+    ],
+    "reference": {
+      "book": 28,
+      "hadith": 112
+    }
+  }
+}

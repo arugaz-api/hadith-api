@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3663,
+    "arabicnumber": 3663,
+    "text": "حدثنا محمد بن المثنى، حدثنا معاذ، حدثني ابي، عن قتادة، عن ابي حسان، عن عبد الله بن عمرو، قال كان نبي الله صلى الله عليه وسلم يحدثنا عن بني اسراييل حتى يصبح ما يقوم الا الى عظم صلاة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 26,
+      "hadith": 23
+    }
+  }
+}

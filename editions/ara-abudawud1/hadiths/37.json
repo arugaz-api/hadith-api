@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 37,
+    "arabicnumber": 37,
+    "text": "حدثنا يزيد بن خالد، حدثنا مفضل، عن عياش، ان شييم بن بيتان، اخبره بهذا الحديث، ايضا عن ابي سالم الجيشاني، عن عبد الله بن عمرو، يذكر ذلك وهو معه مرابط بحصن باب اليون . قال ابو داود حصن اليون على جبل بالفسطاط . قال ابو داود وهو شيبان بن امية يكنى ابا حذيفة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 37
+    }
+  }
+}

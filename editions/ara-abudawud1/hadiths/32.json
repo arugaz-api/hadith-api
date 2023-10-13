@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 32,
+    "arabicnumber": 32,
+    "text": "حدثنا محمد بن ادم بن سليمان المصيصي، حدثنا ابن ابي زايدة، قال حدثني ابو ايوب، - يعني الافريقي - عن عاصم، عن المسيب بن رافع، ومعبد، عن حارثة بن وهب الخزاعي، قال حدثتني حفصة، زوج النبي صلى الله عليه وسلم ان النبي صلى الله عليه وسلم كان يجعل يمينه لطعامه وشرابه وثيابه ويجعل شماله لما سوى ذلك",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 32
+    }
+  }
+}

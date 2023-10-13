@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1084,
+    "arabicnumber": 1084,
+    "text": "حدثنا الحسن بن علي، حدثنا زيد بن الحباب، حدثني فليح بن سليمان، حدثني عثمان بن عبد الرحمن التيمي، سمعت انس بن مالك، يقول كان رسول الله صلى الله عليه وسلم يصلي الجمعة اذا مالت الشمس",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (904)"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 695
+    }
+  }
+}

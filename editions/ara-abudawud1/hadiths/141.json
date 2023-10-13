@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 141,
+    "arabicnumber": 141,
+    "text": "حدثنا ابراهيم بن موسى، حدثنا وكيع، حدثنا ابن ابي ذيب، عن قارظ، عن ابي غطفان، عن ابن عباس، قال قال رسول الله صلى الله عليه وسلم \" استنثروا مرتين بالغتين او ثلاثا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 141
+    }
+  }
+}

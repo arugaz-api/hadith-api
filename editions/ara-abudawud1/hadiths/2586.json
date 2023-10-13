@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2586,
+    "arabicnumber": 2586,
+    "text": "حدثنا قتيبة بن سعيد، حدثنا الليث، عن ابي الزبير، عن جابر، عن رسول الله صلى الله عليه وسلم انه امر رجلا كان يتصدق بالنبل في المسجد ان لا يمر بها الا وهو اخذ بنصولها",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (2614)"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 110
+    }
+  }
+}

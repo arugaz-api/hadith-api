@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3400,
+    "arabicnumber": 3400,
+    "text": "حدثنا مسدد، حدثنا ابو الاحوص، حدثنا طارق بن عبد الرحمن، عن سعيد بن المسيب، عن رافع بن خديج، قال نهى رسول الله صلى الله عليه وسلم عن المحاقلة والمزابنة وقال \" انما يزرع ثلاثة رجل له ارض فهو يزرعها ورجل منح ارضا فهو يزرع ما منح ورجل استكرى ارضا بذهب او فضة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 23,
+      "hadith": 75
+    }
+  }
+}

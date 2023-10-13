@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1415,
+    "arabicnumber": 1415,
+    "text": "حدثنا عبد الله بن الصباح العطار، حدثنا ابو بحر، حدثنا ثابت بن عمارة، حدثنا ابو تميمة الهجيمي، قال لما بعثنا الركب - قال ابو داود يعني الى المدينة قال - كنت اقص بعد صلاة الصبح فاسجد فنهاني ابن عمر فلم انته ثلاث مرار ثم عاد فقال اني صليت خلف رسول الله صلى الله عليه وسلم ومع ابي بكر وعمر وعثمان - رضى الله عنهم - فلم يسجدوا حتى تطلع الشمس",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 7,
+      "hadith": 15
+    }
+  }
+}

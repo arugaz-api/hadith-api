@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3810,
+    "arabicnumber": 3810,
+    "text": "حدثنا محمد بن سليمان، حدثنا ابو نعيم، عن مسعر، عن ابن عبيد، عن ابن معقل، عن رجلين، من مزينة احدهما عن الاخر، احدهما عبد الله بن عمرو بن عويم والاخر غالب بن الابجر . قال مسعر ارى غالبا الذي اتى النبي صلى الله عليه وسلم بهذا الحديث",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 28,
+      "hadith": 75
+    }
+  }
+}

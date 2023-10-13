@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1725,
+    "arabicnumber": 1725,
+    "text": "حدثنا يوسف بن موسى، عن جرير، عن سهيل، عن سعيد بن ابي سعيد، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم فذكر نحوه الا انه قال \" بريدا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Shadh"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Shadh"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Shadh"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 11,
+      "hadith": 5
+    }
+  }
+}

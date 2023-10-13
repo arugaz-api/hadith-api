@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 712,
+    "arabicnumber": 712,
+    "text": "حدثنا مسدد، حدثنا يحيى، عن عبيد الله، قال سمعت القاسم، يحدث عن عايشة، قالت بيسما عدلتمونا بالحمار والكلب لقد رايت رسول الله صلى الله عليه وسلم يصلي وانا معترضة بين يديه فاذا اراد ان يسجد غمز رجلي فضممتها الى ثم يسجد",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (519)"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 322
+    }
+  }
+}

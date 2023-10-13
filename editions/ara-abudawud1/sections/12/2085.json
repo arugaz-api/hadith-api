@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2085,
+    "arabicnumber": 2085,
+    "text": "حدثنا محمد بن قدامة بن اعين، حدثنا ابو عبيدة الحداد، عن يونس، واسراييل، عن ابي اسحاق، عن ابي بردة، عن ابي موسى، ان النبي صلى الله عليه وسلم قال \" لا نكاح الا بولي \" . قال ابو داود هو يونس عن ابي بردة واسراييل عن ابي اسحاق عن ابي بردة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 40
+    }
+  }
+}

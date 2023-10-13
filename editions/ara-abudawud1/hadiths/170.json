@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 170,
+    "arabicnumber": 170,
+    "text": "حدثنا الحسين بن عيسى، حدثنا عبد الله بن يزيد المقري، عن حيوة، - وهو ابن شريح - عن ابي عقيل، عن ابن عمه، عن عقبة بن عامر الجهني، عن النبي صلى الله عليه وسلم نحوه ولم يذكر امر الرعاية قال عند قوله \" فاحسن الوضوء \" . ثم رفع بصره الى السماء . فقال وساق الحديث بمعنى حديث معاوية",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 170
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2287,
+    "arabicnumber": 2287,
+    "text": "حدثنا قتيبة بن سعيد، ان اسماعيل بن جعفر، حدثهم حدثنا محمد بن عمرو، عن يحيى، عن ابي سلمة، عن فاطمة بنت قيس، قالت كنت عند رجل من بني مخزوم فطلقني البتة ثم ساق نحو حديث مالك قال فيه \" ولا تفوتيني بنفسك \" . قال ابو داود وكذلك رواه الشعبي والبهي وعطاء عن عبد الرحمن بن عاصم وابو بكر بن ابي الجهم كلهم عن فاطمة بنت قيس ان زوجها طلقها ثلاثا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 13,
+      "hadith": 113
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2498,
+    "arabicnumber": 2498,
+    "text": "حدثنا احمد بن عمرو بن السرح، حدثنا ابن وهب، عن يحيى بن ايوب، وسعيد بن ابي ايوب، عن زبان بن فايد، عن سهل بن معاذ، عن ابيه، قال قال رسول الله صلى الله عليه وسلم \" ان الصلاة والصيام والذكر تضاعف على النفقة في سبيل الله بسبعماية ضعف",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 22
+    }
+  }
+}

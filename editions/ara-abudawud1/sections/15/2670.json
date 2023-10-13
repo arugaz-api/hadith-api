@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2670,
+    "arabicnumber": 2670,
+    "text": "حدثنا سعيد بن منصور، حدثنا هشيم، حدثنا حجاج، حدثنا قتادة، عن الحسن، عن سمرة بن جندب، قال قال رسول الله صلى الله عليه وسلم \" اقتلوا شيوخ المشركين واستبقوا شرخهم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 194
+    }
+  }
+}

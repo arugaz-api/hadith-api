@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4619,
+    "arabicnumber": 4619,
+    "text": "حدثنا ابن كثير، قال اخبرنا سفيان، عن حميد الطويل، عن الحسن، { كذلك نسلكه في قلوب المجرمين } قال الشرك",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 42,
+      "hadith": 24
+    }
+  }
+}

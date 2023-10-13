@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2368,
+    "arabicnumber": 2368,
+    "text": "حدثنا احمد بن حنبل، حدثنا حسن بن موسى، حدثنا شيبان، عن يحيى، قال حدثني ابو قلابة الجرمي، انه اخبره ان شداد بن اوس بينما هو يمشي مع النبي صلى الله عليه وسلم فذكر نحوه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 14,
+      "hadith": 56
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 5130,
+    "arabicnumber": 5130,
+    "text": "حدثنا حيوة بن شريح، حدثنا بقية، عن ابي بكر بن ابي مريم، عن خالد بن محمد الثقفي، عن بلال بن ابي الدرداء، عن ابي الدرداء، عن النبي صلى الله عليه وسلم قال \" حبك الشىء يعمي ويصم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 358
+    }
+  }
+}

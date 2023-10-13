@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4151,
+    "arabicnumber": 4151,
+    "text": "حدثنا موسى بن اسماعيل، حدثنا ابان، حدثنا يحيى، حدثنا عمران بن حطان، عن عايشة، رضى الله عنها ان رسول الله صلى الله عليه وسلم كان لا يترك في بيته شييا فيه تصليب الا قضبه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (5952)"
+      }
+    ],
+    "reference": {
+      "book": 34,
+      "hadith": 132
+    }
+  }
+}

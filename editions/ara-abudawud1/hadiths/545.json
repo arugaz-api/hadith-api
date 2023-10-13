@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 545,
+    "arabicnumber": 545,
+    "text": "حدثنا عبد الله بن اسحاق الجوهري، اخبرنا ابو عاصم، عن ابن جريج، عن موسى بن عقبة، عن سالم ابي النضر، قال كان رسول الله صلى الله عليه وسلم حين تقام الصلاة في المسجد اذا راهم قليلا جلس لم يصل واذا راهم جماعة صلى",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 155
+    }
+  }
+}

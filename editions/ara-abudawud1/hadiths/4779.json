@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4779,
+    "arabicnumber": 4779,
+    "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا ابو معاوية، عن الاعمش، عن ابراهيم التيمي، عن الحارث بن سويد، عن عبد الله، قال قال رسول الله صلى الله عليه وسلم \" ما تعدون الصرعة فيكم \" . قالوا الذي لا يصرعه الرجال . قال \" لا ولكنه الذي يملك نفسه عند الغضب",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (2608)"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 7
+    }
+  }
+}

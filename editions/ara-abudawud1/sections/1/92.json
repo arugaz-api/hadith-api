@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 92,
+    "arabicnumber": 92,
+    "text": "حدثنا محمد بن كثير، حدثنا همام، عن قتادة، عن صفية بنت شيبة، عن عايشة، ان النبي صلى الله عليه وسلم كان يغتسل بالصاع ويتوضا بالمد . قال ابو داود رواه ابان عن قتادة قال سمعت صفية",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 92
+    }
+  }
+}

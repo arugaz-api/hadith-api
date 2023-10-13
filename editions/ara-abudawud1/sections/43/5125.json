@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 5125,
+    "arabicnumber": 5125,
+    "text": "حدثنا مسلم بن ابراهيم، حدثنا المبارك بن فضالة، حدثنا ثابت البناني، عن انس بن مالك، ان رجلا، كان عند النبي صلى الله عليه وسلم فمر به رجل فقال يا رسول الله اني لاحب هذا . فقال له النبي صلى الله عليه وسلم \" اعلمته \" . قال لا قال \" اعلمه \" . قال فلحقه فقال اني احبك في الله . فقال احبك الذي احببتني له",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 353
+    }
+  }
+}

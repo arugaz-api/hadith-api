@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1967,
+    "arabicnumber": 1967,
+    "text": "حدثنا ابو ثور، ابراهيم بن خالد ووهب بن بيان قالا حدثنا عبيدة، عن يزيد بن ابي زياد، عن سليمان بن عمرو بن الاحوص، عن امه، قالت رايت رسول الله صلى الله عليه وسلم عند جمرة العقبة راكبا ورايت بين اصابعه حجرا فرمى ورمى الناس",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 11,
+      "hadith": 247
+    }
+  }
+}

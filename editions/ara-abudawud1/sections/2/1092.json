@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1092,
+    "arabicnumber": 1092,
+    "text": "حدثنا محمد بن سليمان الانباري، حدثنا عبد الوهاب، - يعني ابن عطاء - عن العمري، عن نافع، عن ابن عمر، قال كان النبي صلى الله عليه وسلم يخطب خطبتين كان يجلس اذا صعد المنبر حتى يفرغ - اراه قال الموذن - ثم يقوم فيخطب ثم يجلس فلا يتكلم ثم يقوم فيخطب",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 703
+    }
+  }
+}

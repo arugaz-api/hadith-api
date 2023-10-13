@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 79,
+    "arabicnumber": 79,
+    "text": "حدثنا مسدد، حدثنا حماد، عن ايوب، عن نافع، ح وحدثنا عبد الله بن مسلمة، عن مالك، عن نافع، عن ابن عمر، قال كان الرجال والنساء يتوضيون في زمان رسول الله صلى الله عليه وسلم - قال مسدد - من الاناء الواحد جميعا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (193)"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 79
+    }
+  }
+}

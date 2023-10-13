@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 309,
+    "arabicnumber": 309,
+    "text": "حدثنا ابراهيم بن خالد، حدثنا معلى بن منصور، عن علي بن مسهر، عن الشيباني، عن عكرمة، قال كانت ام حبيبة تستحاض فكان زوجها يغشاها . قال ابو داود وقال يحيى بن معين معلى ثقة . وكان احمد بن حنبل لا يروي عنه لانه كان ينظر في الراى",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 309
+    }
+  }
+}

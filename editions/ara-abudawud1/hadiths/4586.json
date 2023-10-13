@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4586,
+    "arabicnumber": 4586,
+    "text": "حدثنا نصر بن عاصم الانطاكي، ومحمد بن الصباح بن سفيان، ان الوليد بن مسلم، اخبرهم عن ابن جريج، عن عمرو بن شعيب، عن ابيه، عن جده، ان رسول الله صلى الله عليه وسلم قال \" من تطبب ولا يعلم منه طب فهو ضامن \" . قال نصر قال حدثني ابن جريج . قال ابو داود هذا لم يروه الا الوليد لا ندري هو صحيح ام لا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 41,
+      "hadith": 93
+    }
+  }
+}

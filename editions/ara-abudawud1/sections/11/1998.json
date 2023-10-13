@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1998,
+    "arabicnumber": 1998,
+    "text": "حدثنا احمد بن حنبل، حدثنا عبد الرزاق، اخبرنا عبيد الله، عن نافع، عن ابن عمر، ان النبي صلى الله عليه وسلم افاض يوم النحر ثم صلى الظهر بمنى يعني راجعا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (1308)"
+      }
+    ],
+    "reference": {
+      "book": 11,
+      "hadith": 278
+    }
+  }
+}

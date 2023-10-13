@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2264,
+    "arabicnumber": 2264,
+    "text": "حدثنا يعقوب بن ابراهيم، حدثنا معتمر، عن سلم، - يعني ابن ابي الذيال - حدثني بعض، اصحابنا عن سعيد بن جبير، عن ابن عباس، انه قال قال رسول الله صلى الله عليه وسلم \" لا مساعاة في الاسلام من ساعى في الجاهلية فقد لحق بعصبته ومن ادعى ولدا من غير رشدة فلا يرث ولا يورث",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 13,
+      "hadith": 90
+    }
+  }
+}

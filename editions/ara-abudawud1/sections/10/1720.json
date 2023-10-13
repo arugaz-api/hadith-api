@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1720,
+    "arabicnumber": 1720,
+    "text": "حدثنا عمرو بن عون، اخبرنا خالد، عن ابي حيان التيمي، عن المنذر بن جرير، قال كنت مع جرير بالبوازيج فجاء الراعي بالبقر وفيها بقرة ليست منها فقال له جرير ما هذه قال لحقت بالبقر لا ندري لمن هي . فقال جرير اخرجوها فقد سمعت رسول الله صلى الله عليه وسلم يقول \" لا ياوي الضالة الا ضال",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 10,
+      "hadith": 20
+    }
+  }
+}

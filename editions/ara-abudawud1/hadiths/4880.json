@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4880,
+    "arabicnumber": 4880,
+    "text": "حدثنا عثمان بن ابي شيبة، حدثنا الاسود بن عامر، حدثنا ابو بكر بن عياش، عن الاعمش، عن سعيد بن عبد الله بن جريج، عن ابي برزة الاسلمي، قال قال رسول الله صلى الله عليه وسلم \" يا معشر من امن بلسانه ولم يدخل الايمان قلبه لا تغتابوا المسلمين ولا تتبعوا عوراتهم فانه من اتبع عوراتهم يتبع الله عورته ومن يتبع الله عورته يفضحه في بيته",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 108
+    }
+  }
+}

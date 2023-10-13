@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4869,
+    "arabicnumber": 4869,
+    "text": "حدثنا احمد بن صالح، قال قرات على عبد الله بن نافع قال اخبرني ابن ابي ذيب، عن ابن اخي، جابر بن عبد الله عن جابر بن عبد الله، قال قال رسول الله صلى الله عليه وسلم \" المجالس بالامانة الا ثلاثة مجالس سفك دم حرام او فرج حرام او اقتطاع مال بغير حق",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 97
+    }
+  }
+}

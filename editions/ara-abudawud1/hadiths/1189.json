@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1189,
+    "arabicnumber": 1189,
+    "text": "حدثنا القعنبي، عن مالك، عن زيد بن اسلم، عن عطاء بن يسار، عن ابي هريرة، - كذا عند القاضي والصواب عن ابن عباس، - قال خسفت الشمس فصلى رسول الله صلى الله عليه وسلم والناس معه فقام قياما طويلا بنحو من سورة البقرة ثم ركع وساق الحديث",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (1052) Sahih Muslim (907)"
+      }
+    ],
+    "reference": {
+      "book": 3,
+      "hadith": 29
+    }
+  }
+}

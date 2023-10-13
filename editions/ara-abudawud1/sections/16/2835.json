@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2835,
+    "arabicnumber": 2835,
+    "text": "حدثنا مسدد، حدثنا سفيان، عن عبيد الله بن ابي يزيد، عن ابيه، عن سباع بن ثابت، عن ام كرز، قالت سمعت النبي صلى الله عليه وسلم يقول \" اقروا الطير على مكناتها \" . قالت وسمعته يقول \" عن الغلام شاتان وعن الجارية شاة لا يضركم اذكرانا كن ام اناثا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 16,
+      "hadith": 48
+    }
+  }
+}

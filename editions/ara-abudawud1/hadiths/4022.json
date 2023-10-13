@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4022,
+    "arabicnumber": 4022,
+    "text": "حدثنا مسلم بن ابراهيم، حدثنا محمد بن دينار، عن الجريري، باسناده ومعناه . قال ابو داود عبد الوهاب الثقفي لم يذكر فيه ابا سعيد وحماد بن سلمة قال عن الجريري عن ابي العلاء عن النبي صلى الله عليه وسلم . قال ابو داود حماد بن سلمة والثقفي سماعهما واحد",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 34,
+      "hadith": 3
+    }
+  }
+}

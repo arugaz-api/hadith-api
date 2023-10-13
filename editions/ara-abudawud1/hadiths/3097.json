@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3097,
+    "arabicnumber": 3097,
+    "text": "حدثنا محمد بن عوف الطايي، حدثنا الربيع بن روح بن خليد، حدثنا محمد بن خالد، حدثنا الفضل بن دلهم الواسطي، عن ثابت البناني، عن انس بن مالك، قال قال رسول الله صلى الله عليه وسلم \" من توضا فاحسن الوضوء وعاد اخاه المسلم محتسبا بوعد من جهنم مسيرة سبعين خريفا \" . قلت يا ابا حمزة وما الخريف قال العام . قال ابو داود والذي تفرد به البصريون منه العيادة وهو متوضي",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 21,
+      "hadith": 9
+    }
+  }
+}

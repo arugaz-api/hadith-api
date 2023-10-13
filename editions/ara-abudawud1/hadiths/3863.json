@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3863,
+    "arabicnumber": 3863,
+    "text": "حدثنا مسلم بن ابراهيم، حدثنا هشام، عن ابي الزبير، عن جابر، ان النبي صلى الله عليه وسلم احتجم على وركه من وثء كان به",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 29,
+      "hadith": 9
+    }
+  }
+}

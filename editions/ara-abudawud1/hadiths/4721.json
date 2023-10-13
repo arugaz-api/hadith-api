@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4721,
+    "arabicnumber": 4721,
+    "text": "حدثنا هارون بن معروف، حدثنا سفيان، عن هشام، عن ابيه، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" لا يزال الناس يتساءلون حتى يقال هذا خلق الله الخلق فمن خلق الله فمن وجد من ذلك شييا فليقل امنت بالله",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (3276) Sahih Muslim (134)"
+      }
+    ],
+    "reference": {
+      "book": 42,
+      "hadith": 126
+    }
+  }
+}

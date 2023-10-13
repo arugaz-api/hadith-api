@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2760,
+    "arabicnumber": 2760,
+    "text": "حدثنا عثمان بن ابي شيبة، حدثنا وكيع، عن عيينة بن عبد الرحمن، عن ابيه، عن ابي بكرة، قال قال رسول الله صلى الله عليه وسلم \" من قتل معاهدا في غير كنهه حرم الله عليه الجنة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 284
+    }
+  }
+}

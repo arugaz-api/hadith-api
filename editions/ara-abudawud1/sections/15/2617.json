@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2617,
+    "arabicnumber": 2617,
+    "text": "حدثنا عبد الله بن عمرو الغزي، سمعت ابا مسهر، قيل له ابنى . قال نحن اعلم هي يبنى فلسطين",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Maqtu"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Maqtu"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 141
+    }
+  }
+}

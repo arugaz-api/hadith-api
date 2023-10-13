@@ -1,0 +1,22 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 33,
+    "arabicnumber": 33,
+    "text": "حدثنا ابو توبة الربيع بن نافع، حدثني عيسى بن يونس، عن ابن ابي عروبة، عن ابي معشر، عن ابراهيم، عن عايشة، قالت كانت يد رسول الله صلى الله عليه وسلم اليمنى لطهوره وطعامه وكانت يده اليسرى لخلايه وما كان من اذى",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 33
+    }
+  }
+}

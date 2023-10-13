@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2655,
+    "arabicnumber": 2655,
+    "text": "حدثنا موسى بن اسماعيل، حدثنا حماد، اخبرنا ابو عمران الجوني، عن علقمة بن عبد الله المزني، عن معقل بن يسار، ان النعمان، - يعني ابن مقرن - قال شهدت رسول الله صلى الله عليه وسلم اذا لم يقاتل من اول النهار اخر القتال حتى تزول الشمس وتهب الرياح وينزل النصر",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 179
+    }
+  }
+}

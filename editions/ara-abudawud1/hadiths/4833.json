@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4833,
+    "arabicnumber": 4833,
+    "text": "حدثنا ابن بشار، حدثنا ابو عامر، وابو داود قالا حدثنا زهير بن محمد، قال حدثني موسى بن وردان، عن ابي هريرة، ان النبي صلى الله عليه وسلم قال \" الرجل على دين خليله فلينظر احدكم من يخالل",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 61
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3369,
+    "arabicnumber": 3369,
+    "text": "حدثنا حفص بن عمر النمري، حدثنا شعبة، عن يزيد بن خمير، عن مولى، لقريش عن ابي هريرة، قال نهى رسول الله صلى الله عليه وسلم عن بيع الغنايم حتى تقسم وعن بيع النخل حتى تحرز من كل عارض وان يصلي الرجل بغير حزام",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif Isnaad"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 23,
+      "hadith": 44
+    }
+  }
+}

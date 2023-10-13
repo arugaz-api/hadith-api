@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3467,
+    "arabicnumber": 3467,
+    "text": "حدثنا محمد بن كثير، اخبرنا سفيان، عن ابي اسحاق، عن رجل، نجراني عن ابن عمر، ان رجلا، اسلف رجلا في نخل فلم تخرج تلك السنة شييا فاختصما الى النبي صلى الله عليه وسلم فقال \" بم تستحل ماله اردد عليه ماله \" . ثم قال \" لا تسلفوا في النخل حتى يبدو صلاحه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 52
+    }
+  }
+}

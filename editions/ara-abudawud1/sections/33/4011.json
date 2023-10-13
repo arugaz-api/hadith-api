@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4011,
+    "arabicnumber": 4011,
+    "text": "حدثنا احمد بن يونس، حدثنا زهير، حدثنا عبد الرحمن بن زياد بن انعم، عن عبد الرحمن بن رافع، عن عبد الله بن عمرو، ان رسول الله صلى الله عليه وسلم قال \" انها ستفتح لكم ارض العجم وستجدون فيها بيوتا يقال لها الحمامات فلا يدخلنها الرجال الا بالازر وامنعوها النساء الا مريضة او نفساء",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 33,
+      "hadith": 3
+    }
+  }
+}

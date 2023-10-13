@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4403,
+    "arabicnumber": 4403,
+    "text": "حدثنا موسى بن اسماعيل، حدثنا وهيب، عن خالد، عن ابي الضحى، عن علي، عليه السلام عن النبي صلى الله عليه وسلم قال \" رفع القلم عن ثلاثة عن النايم حتى يستيقظ وعن الصبي حتى يحتلم وعن المجنون حتى يعقل \" . قال ابو داود رواه ابن جريج عن القاسم بن يزيد عن علي رضى الله عنه عن النبي صلى الله عليه وسلم زاد فيه \" والخرف",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 40,
+      "hadith": 53
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4069,
+    "arabicnumber": 4069,
+    "text": "حدثنا محمد بن حزابة، حدثنا اسحاق، - يعني ابن منصور - حدثنا اسراييل، عن ابي يحيى، عن مجاهد، عن عبد الله بن عمرو، قال مر على النبي صلى الله عليه وسلم رجل عليه ثوبان احمران فسلم عليه فلم يرد النبي صلى الله عليه وسلم عليه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 34,
+      "hadith": 50
+    }
+  }
+}

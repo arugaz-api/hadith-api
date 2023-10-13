@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2620,
+    "arabicnumber": 2620,
+    "text": "حدثنا عبيد الله بن معاذ العنبري، حدثنا ابي، حدثنا شعبة، عن ابي بشر، عن عباد بن شرحبيل، قال اصابتني سنة فدخلت حايطا من حيطان المدينة ففركت سنبلا فاكلت وحملت في ثوبي فجاء صاحبه فضربني واخذ ثوبي فاتيت رسول الله صلى الله عليه وسلم فقال له \" ما علمت اذ كان جاهلا ولا اطعمت اذ كان جايعا \" . او قال \" ساغبا \" . وامره فرد على ثوبي واعطاني وسقا او نصف وسق من طعام",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 144
+    }
+  }
+}

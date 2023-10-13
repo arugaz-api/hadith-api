@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 675,
+    "arabicnumber": 675,
+    "text": "حدثنا مسدد، حدثنا يزيد بن زريع، حدثنا خالد، عن ابي معشر، عن ابراهيم، عن علقمة، عن عبد الله، عن النبي صلى الله عليه وسلم مثله . وزاد \" ولا تختلفوا فتختلف قلوبكم واياكم وهيشات الاسواق",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (432)"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 285
+    }
+  }
+}

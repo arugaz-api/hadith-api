@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 5160,
+    "arabicnumber": 5160,
+    "text": "حدثنا ابو كامل، حدثنا عبد الواحد، عن الاعمش، باسناده ومعناه نحوه قال كنت اضرب غلاما لي اسود بالسوط ولم يذكر امر العتق",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 388
+    }
+  }
+}

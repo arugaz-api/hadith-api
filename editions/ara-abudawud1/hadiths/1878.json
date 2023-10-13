@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1878,
+    "arabicnumber": 1878,
+    "text": "حدثنا مصرف بن عمرو اليامي، حدثنا يونس، - يعني ابن بكير - حدثنا ابن اسحاق، حدثني محمد بن جعفر بن الزبير، عن عبيد الله بن عبد الله بن ابي ثور، عن صفية بنت شيبة، قالت لما اطمان رسول الله صلى الله عليه وسلم بمكة عام الفتح طاف على بعير يستلم الركن بمحجن في يده . قالت وانا انظر اليه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 11,
+      "hadith": 158
+    }
+  }
+}

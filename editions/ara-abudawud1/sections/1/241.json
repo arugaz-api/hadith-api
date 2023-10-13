@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 241,
+    "arabicnumber": 241,
+    "text": "حدثنا يعقوب بن ابراهيم، حدثنا عبد الرحمن، - يعني ابن مهدي - عن زايدة بن قدامة، عن صدقة، حدثنا جميع بن عمير، - احد بني تيم الله بن ثعلبة - قال دخلت مع امي وخالتي على عايشة فسالتها احداهما كيف كنتم تصنعون عند الغسل فقالت عايشة كان رسول الله صلى الله عليه وسلم يتوضا وضوءه للصلاة ثم يفيض على راسه ثلاث مرات ونحن نفيض على رءوسنا خمسا من اجل الضفر",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Very Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Very Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 241
+    }
+  }
+}

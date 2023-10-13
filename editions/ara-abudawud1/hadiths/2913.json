@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2913,
+    "arabicnumber": 2913,
+    "text": "حدثنا مسدد، حدثنا يحيى بن سعيد، عن شعبة، عن عمرو بن ابي حكيم، عن عبد الله بن بريدة، عن يحيى بن يعمر، عن ابي الاسود الديلي، ان معاذا، اتي بميراث يهودي وارثه مسلم بمعناه عن النبي صلى الله عليه وسلم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 19,
+      "hadith": 29
+    }
+  }
+}

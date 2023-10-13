@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1106,
+    "arabicnumber": 1106,
+    "text": "حدثنا محمد بن عبد الله بن نمير، حدثنا ابي، حدثنا العلاء بن صالح، عن عدي بن ثابت، عن ابي راشد، عن عمار بن ياسر، قال امرنا رسول الله صلى الله عليه وسلم باقصار الخطب",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 717
+    }
+  }
+}

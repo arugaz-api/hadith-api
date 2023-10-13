@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2657,
+    "arabicnumber": 2657,
+    "text": "حدثنا عبيد الله بن عمر، حدثنا عبد الرحمن، عن همام، حدثني مطر، عن قتادة، عن ابي بردة، عن ابيه، عن النبي صلى الله عليه وسلم بمثل ذلك",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 181
+    }
+  }
+}

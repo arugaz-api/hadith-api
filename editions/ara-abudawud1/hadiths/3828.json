@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3828,
+    "arabicnumber": 3828,
+    "text": "حدثنا مسدد، حدثنا الجراح ابو وكيع، عن ابي اسحاق، عن شريك، عن علي، عليه السلام قال نهي عن اكل الثوم، الا مطبوخا . قال ابو داود شريك بن حنبل",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 28,
+      "hadith": 93
+    }
+  }
+}

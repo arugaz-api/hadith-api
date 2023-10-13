@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4853,
+    "arabicnumber": 4853,
+    "text": "حدثنا موسى بن اسماعيل، حدثنا حماد، عن سهيل بن ابي صالح، قال كنت عند ابي جالسا وعنده غلام فقام ثم رجع فحدث ابي، عن ابي هريرة، عن النبي صلى الله عليه وسلم قال \" اذا قام الرجل من مجلس ثم رجع اليه فهو احق به",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (2179)"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 81
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 30,
+    "arabicnumber": 30,
+    "text": "حدثنا عمرو بن محمد الناقد، حدثنا هاشم بن القاسم، حدثنا اسراييل، عن يوسف بن ابي بردة، عن ابيه، حدثتني عايشة، رضى الله عنها ان النبي صلى الله عليه وسلم كان اذا خرج من الغايط قال \" غفرانك",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 30
+    }
+  }
+}

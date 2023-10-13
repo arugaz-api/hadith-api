@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3415,
+    "arabicnumber": 3415,
+    "text": "حدثنا احمد بن حنبل، حدثنا عبد الرزاق، ومحمد بن بكر، قالا حدثنا ابن جريج، اخبرني ابو الزبير، انه سمع جابر بن عبد الله، يقول خرصها ابن رواحة اربعين الف وسق وزعم ان اليهود لما خيرهم ابن رواحة اخذوا الثمر وعليهم عشرون الف وسق",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 23,
+      "hadith": 90
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 5248,
+    "arabicnumber": 5248,
+    "text": "حدثنا اسحاق بن اسماعيل، حدثنا سفيان، عن ابن عجلان، عن ابيه، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" ما سالمناهن منذ حاربناهن ومن ترك شييا منهن خيفة فليس منا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 476
+    }
+  }
+}

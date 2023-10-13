@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2380,
+    "arabicnumber": 2380,
+    "text": "حدثنا مسدد، حدثنا عيسى بن يونس، حدثنا هشام بن حسان، عن محمد بن سيرين، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" من ذرعه قىء وهو صايم فليس عليه قضاء وان استقاء فليقض \" . قال ابو داود رواه ايضا حفص بن غياث عن هشام مثله",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 14,
+      "hadith": 68
+    }
+  }
+}

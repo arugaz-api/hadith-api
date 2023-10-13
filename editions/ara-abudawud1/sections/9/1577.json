@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1577,
+    "arabicnumber": 1577,
+    "text": "حدثنا عثمان بن ابي شيبة، والنفيلي، وابن المثنى، قالوا حدثنا ابو معاوية، حدثنا الاعمش، عن ابراهيم، عن مسروق، عن معاذ، عن النبي صلى الله عليه وسلم مثله",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 22
+    }
+  }
+}

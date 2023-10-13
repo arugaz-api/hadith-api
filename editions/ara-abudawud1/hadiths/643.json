@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 643,
+    "arabicnumber": 643,
+    "text": "حدثنا محمد بن العلاء، وابراهيم بن موسى، عن ابن المبارك، عن الحسن بن ذكوان، عن سليمان الاحول، عن عطاء، - قال ابراهيم - عن ابي هريرة، ان رسول الله صلى الله عليه وسلم نهى عن السدل في الصلاة وان يغطي الرجل فاه . قال ابو داود رواه عسل عن عطاء عن ابي هريرة ان النبي صلى الله عليه وسلم نهى عن السدل في الصلاة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 253
+    }
+  }
+}

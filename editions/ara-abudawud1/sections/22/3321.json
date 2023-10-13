@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3321,
+    "arabicnumber": 3321,
+    "text": "حدثنا محمد بن يحيى، حدثنا حسن بن الربيع، حدثنا ابن ادريس، قال قال ابن اسحاق حدثني الزهري، عن عبد الرحمن بن عبد الله بن كعب، عن ابيه، عن جده، في قصته قال قلت : يا رسول الله ان من توبتي الى الله ان اخرج من مالي كله الى الله والى رسوله صدقة . قال : \" لا \" . قلت : فنصفه . قال : \" لا \" . قلت : فثلثه . قال : \" نعم \" . قلت : فاني سامسك سهمي من خيبر",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 80
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1474,
+    "arabicnumber": 1474,
+    "text": "حدثنا محمد بن العلاء، اخبرنا ابن ادريس، عن يزيد بن ابي زياد، عن عيسى بن فايد، عن سعد بن عبادة، قال قال رسول الله صلى الله عليه وسلم \" ما من امري يقرا القران ينساه الا لقي الله عز وجل يوم القيامة اجذم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 8,
+      "hadith": 59
+    }
+  }
+}

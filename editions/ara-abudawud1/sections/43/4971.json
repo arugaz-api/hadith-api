@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4971,
+    "arabicnumber": 4971,
+    "text": "حدثنا حيوة بن شريح الحضرمي، - امام مسجد حمص - حدثنا بقية بن الوليد، عن ضبارة بن مالك الحضرمي، عن ابيه، عن عبد الرحمن بن جبير بن نفير، عن ابيه، عن سفيان بن اسيد الحضرمي، قال سمعت رسول الله صلى الله عليه وسلم يقول \" كبرت خيانة ان تحدث اخاك حديثا هو لك به مصدق وانت له به كاذب",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Very Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 199
+    }
+  }
+}

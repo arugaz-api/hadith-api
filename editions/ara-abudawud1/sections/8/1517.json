@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1517,
+    "arabicnumber": 1517,
+    "text": "حدثنا موسى بن اسماعيل، حدثنا حفص بن عمر الشني، حدثني ابي عمر بن مرة، قال سمعت بلال بن يسار بن زيد، مولى النبي صلى الله عليه وسلم قال سمعت ابي يحدثنيه عن جدي انه سمع رسول الله صلى الله عليه وسلم يقول \" من قال استغفر الله الذي لا اله الا هو الحى القيوم واتوب اليه غفر له وان كان فر من الزحف",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 8,
+      "hadith": 102
+    }
+  }
+}

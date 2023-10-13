@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2112,
+    "arabicnumber": 2112,
+    "text": "حدثنا احمد بن حفص بن عبد الله، حدثني ابي حفص بن عبد الله، حدثني ابراهيم بن طهمان، عن الحجاج بن الحجاج الباهلي، عن عسل، عن عطاء بن ابي رباح، عن ابي هريرة، نحو هذه القصة لم يذكر الازار والخاتم فقال \" ما تحفظ من القران \" . قال سورة البقرة او التي تليها . قال \" فقم فعلمها عشرين اية وهي امراتك",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 67
+    }
+  }
+}

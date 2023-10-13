@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3366,
+    "arabicnumber": 3366,
+    "text": "حدثنا هناد بن السري، عن عبدة، عن ابن اسحاق، قال العرايا ان يهب الرجل، للرجل النخلات فيشق عليه ان يقوم عليها فيبيعها بمثل خرصها",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad Maqtu"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih Isnaad Maqtu"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 23,
+      "hadith": 41
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3362,
+    "arabicnumber": 3362,
+    "text": "حدثنا احمد بن صالح، حدثنا ابن وهب، اخبرني يونس، عن ابن شهاب، اخبرني خارجة بن زيد بن ثابت، عن ابيه، ان النبي صلى الله عليه وسلم رخص في بيع العرايا بالتمر والرطب",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 23,
+      "hadith": 37
+    }
+  }
+}

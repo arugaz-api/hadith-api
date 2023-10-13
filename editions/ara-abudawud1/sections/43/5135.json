@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 5135,
+    "arabicnumber": 5135,
+    "text": "حدثنا محمد بن عبد الرحيم، حدثنا المعلى بن منصور، اخبرنا هشيم، عن منصور، عن ابن سيرين، عن ابن العلاء، عن العلاء، - يعني ابن الحضرمي - انه كتب الى النبي صلى الله عليه وسلم فبدا باسمه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 363
+    }
+  }
+}

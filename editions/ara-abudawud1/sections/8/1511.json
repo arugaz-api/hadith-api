@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1511,
+    "arabicnumber": 1511,
+    "text": "حدثنا مسدد، حدثنا يحيى، عن سفيان، قال سمعت عمرو بن مرة، باسناده ومعناه قال \" ويسر الهدى الى \" . ولم يقل \" هداى \" . قال ابو داود سمع سفيان من عمرو بن مرة قالوا ثمانية عشر حديثا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 8,
+      "hadith": 96
+    }
+  }
+}

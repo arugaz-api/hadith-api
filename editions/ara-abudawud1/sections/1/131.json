@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 131,
+    "arabicnumber": 131,
+    "text": "حدثنا ابراهيم بن سعيد، حدثنا وكيع، حدثنا الحسن بن صالح، عن عبد الله بن محمد بن عقيل، عن الربيع بنت معوذ ابن عفراء، ان النبي صلى الله عليه وسلم توضا فادخل اصبعيه في جحرى اذنيه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 131
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2398,
+    "arabicnumber": 2398,
+    "text": "حدثنا موسى بن اسماعيل، حدثنا حماد، عن ايوب، وحبيب، وهشام، عن محمد بن سيرين، عن ابي هريرة، قال جاء رجل الى النبي صلى الله عليه وسلم فقال يا رسول الله اني اكلت وشربت ناسيا وانا صايم . فقال \" اطعمك الله وسقاك",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih Sahih Bukhari (1933) Sahih Muslim (1155)"
+      }
+    ],
+    "reference": {
+      "book": 14,
+      "hadith": 86
+    }
+  }
+}

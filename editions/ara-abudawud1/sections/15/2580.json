@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2580,
+    "arabicnumber": 2580,
+    "text": "حدثنا محمود بن خالد، حدثنا الوليد بن مسلم، عن سعيد بن بشير، عن الزهري، باسناد عباد ومعناه . قال ابو داود رواه معمر وشعيب وعقيل عن الزهري، عن رجال، من اهل العلم وهذا اصح عندنا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 104
+    }
+  }
+}

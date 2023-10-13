@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 455,
+    "arabicnumber": 455,
+    "text": "حدثنا محمد بن العلاء، حدثنا حسين بن علي، عن زايدة، عن هشام بن عروة، عن ابيه، عن عايشة، قالت امر رسول الله صلى الله عليه وسلم ببناء المساجد في الدور وان تنظف وتطيب",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 65
+    }
+  }
+}

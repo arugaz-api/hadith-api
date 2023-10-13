@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3153,
+    "arabicnumber": 3153,
+    "text": "حدثنا احمد بن حنبل، وعثمان بن ابي شيبة، قالا حدثنا ابن ادريس، عن يزيد، - يعني ابن ابي زياد - عن مقسم، عن ابن عباس، قال كفن رسول الله صلى الله عليه وسلم في ثلاثة اثواب نجرانية الحلة ثوبان وقميصه الذي مات فيه . قال ابو داود قال عثمان في ثلاثة اثواب حلة حمراء وقميصه الذي مات فيه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif Isnaad"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif Isnaad"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 21,
+      "hadith": 65
+    }
+  }
+}

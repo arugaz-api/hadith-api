@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2169,
+    "arabicnumber": 2169,
+    "text": "حدثنا عبد السلام بن مطهر، حدثنا جعفر، - يعني ابن سليمان - عن علي بن الحكم البناني، عن ابي الحسن الجزري، عن مقسم، عن ابن عباس، قال اذا اصابها في الدم فدينار واذا اصابها في انقطاع الدم فنصف دينار",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Muquf"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih Muquf"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 124
+    }
+  }
+}

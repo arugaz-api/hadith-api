@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3279,
+    "arabicnumber": 3279,
+    "text": "حدثنا احمد بن صالح، قال قرات على انس بن عياض حدثني عبد الرحمن بن حرملة، عن ام حبيب بنت ذويب بن قيس المزنية، - وكانت تحت رجل منهم من اسلم ثم كانت تحت ابن اخ لصفية زوج النبي صلى الله عليه وسلم قال ابن حرملة : فوهبت لنا ام حبيب صاعا - حدثتنا عن ابن اخي صفية عن صفية انه صاع النبي صلى الله عليه وسلم . قال انس : فجربته، او قال فحزرته فوجدته مدين ونصفا بمد هشام",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif Isnaad"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif Isnaad"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 38
+    }
+  }
+}

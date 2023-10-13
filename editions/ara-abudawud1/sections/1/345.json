@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 345,
+    "arabicnumber": 345,
+    "text": "حدثنا محمد بن حاتم الجرجرايي، حبي حدثنا ابن المبارك، عن الاوزاعي، حدثني حسان بن عطية، حدثني ابو الاشعث الصنعاني، حدثني اوس بن اوس الثقفي، سمعت رسول الله صلى الله عليه وسلم يقول \" من غسل يوم الجمعة واغتسل ثم بكر وابتكر ومشى ولم يركب ودنا من الامام فاستمع ولم يلغ كان له بكل خطوة عمل سنة اجر صيامها وقيامها",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 345
+    }
+  }
+}

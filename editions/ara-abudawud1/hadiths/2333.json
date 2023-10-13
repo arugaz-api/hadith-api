@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2333,
+    "arabicnumber": 2333,
+    "text": "حدثنا عبيد الله بن معاذ، حدثني ابي، حدثنا الاشعث، عن الحسنفي رجل كان بمصر من الامصار فصام يوم الاثنين وشهد رجلان انهما رايا الهلال ليلة الاحد فقال لا يقضي ذلك اليوم الرجل ولا اهل مصره الا ان يعلموا ان اهل مصر من امصار المسلمين قد صاموا يوم الاحد فيقضونه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Maqtu"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih Maqtu"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Maqtu"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 14,
+      "hadith": 21
+    }
+  }
+}

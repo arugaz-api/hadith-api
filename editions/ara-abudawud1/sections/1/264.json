@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 264,
+    "arabicnumber": 264,
+    "text": "حدثنا مسدد، حدثنا يحيى، عن شعبة، حدثني الحكم، عن عبد الحميد بن عبد الرحمن، عن مقسم، عن ابن عباس، عن النبي صلى الله عليه وسلم في الذي ياتي امراته وهي حايض قال \" يتصدق بدينار او نصف دينار \" . قال ابو داود هكذا الرواية الصحيحة قال \" دينار او نصف دينار \" . وربما لم يرفعه شعبة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 264
+    }
+  }
+}

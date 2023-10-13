@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2060,
+    "arabicnumber": 2060,
+    "text": "حدثنا محمد بن سليمان الانباري، حدثنا وكيع، عن سليمان بن المغيرة، عن ابي موسى الهلالي، عن ابيه، عن ابن مسعود، عن النبي صلى الله عليه وسلم بمعناه وقال انشز العظم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 15
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2088,
+    "arabicnumber": 2088,
+    "text": "حدثنا مسلم بن ابراهيم، حدثنا هشام، ح وحدثنا محمد بن كثير، اخبرنا همام، ح وحدثنا موسى بن اسماعيل، حدثنا حماد، - المعنى - عن قتادة، عن الحسن، عن سمرة، عن النبي صلى الله عليه وسلم قال \" ايما امراة زوجها وليان فهي للاول منهما وايما رجل باع بيعا من رجلين فهو للاول منهما",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 43
+    }
+  }
+}

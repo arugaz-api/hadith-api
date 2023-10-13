@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3220,
+    "arabicnumber": 3220,
+    "text": "حدثنا احمد بن صالح، حدثنا ابن ابي فديك، اخبرني عمرو بن عثمان بن هاني، عن القاسم، قال دخلت على عايشة فقلت يا امه اكشفي لي عن قبر النبي صلى الله عليه وسلم وصاحبيه رضى الله عنهما فكشفت لي عن ثلاثة قبور لا مشرفة ولا لاطية مبطوحة ببطحاء العرصة الحمراء قال ابو علي يقال ان رسول الله صلى الله عليه وسلم مقدم وابو بكر عند راسه وعمر عند رجلى رسول الله صلى الله عليه وسلم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 21,
+      "hadith": 132
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 5259,
+    "arabicnumber": 5259,
+    "text": "حدثنا احمد بن سعيد الهمداني، اخبرنا ابن وهب، قال اخبرنا مالك، عن صيفي، مولى ابن افلح قال اخبرني ابو السايب، مولى هشام بن زهرة انه دخل على ابي سعيد الخدري فذكر نحوه واتم منه قال \" فاذنوه ثلاثة ايام فان بدا لكم بعد ذلك فاقتلوه فانما هو شيطان",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (2236)"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 487
+    }
+  }
+}

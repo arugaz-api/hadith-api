@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2090,
+    "arabicnumber": 2090,
+    "text": "حدثنا احمد بن محمد بن ثابت المروزي، حدثني علي بن حسين بن واقد، عن ابيه، عن يزيد النحوي، عن عكرمة، عن ابن عباس، قال { لا يحل لكم ان ترثوا النساء كرها ولا تعضلوهن لتذهبوا ببعض ما اتيتموهن الا ان ياتين بفاحشة مبينة } وذلك ان الرجل كان يرث امراة ذي قرابته فيعضلها حتى تموت او ترد اليه صداقها فاحكم الله عن ذلك ونهى عن ذلك",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 45
+    }
+  }
+}

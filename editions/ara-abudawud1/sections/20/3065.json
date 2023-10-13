@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3065,
+    "arabicnumber": 3065,
+    "text": "حدثنا هارون بن عبد الله، قال قال محمد بن الحسن المخزومي \" ما لم تنله اخفاف الابل \" يعني ان الابل تاكل منتهى رءوسها ويحمى ما فوقه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Very Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Very Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 138
+    }
+  }
+}

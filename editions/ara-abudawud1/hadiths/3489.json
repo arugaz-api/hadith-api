@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3489,
+    "arabicnumber": 3489,
+    "text": "حدثنا عثمان بن ابي شيبة، قال حدثنا ابن ادريس، ووكيع، عن طعمة بن عمرو الجعفري، عن عمر بن بيان التغلبي، عن عروة بن المغيرة بن شعبة، عن المغيرة بن شعبة، قال قال رسول الله صلى الله عليه وسلم \" من باع الخمر فليشقص الخنازير",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 74
+    }
+  }
+}

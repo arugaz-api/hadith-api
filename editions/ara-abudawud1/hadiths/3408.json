@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3408,
+    "arabicnumber": 3408,
+    "text": "حدثنا احمد بن حنبل، حدثنا يحيى، عن عبيد الله، عن نافع، عن ابن عمر، ان النبي صلى الله عليه وسلم عامل اهل خيبر بشطر ما يخرج من ثمر او زرع",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (2329) Sahih Muslim (1551)"
+      }
+    ],
+    "reference": {
+      "book": 23,
+      "hadith": 83
+    }
+  }
+}

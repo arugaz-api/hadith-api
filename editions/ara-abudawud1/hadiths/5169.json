@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 5169,
+    "arabicnumber": 5169,
+    "text": "حدثنا عبد الله بن مسلمة القعنبي، عن مالك، عن نافع، عن عبد الله بن عمر، ان رسول الله صلى الله عليه وسلم قال \" ان العبد اذا نصح لسيده واحسن عبادة الله فله اجره مرتين",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (2546) Sahih Muslim (1664)"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 397
+    }
+  }
+}

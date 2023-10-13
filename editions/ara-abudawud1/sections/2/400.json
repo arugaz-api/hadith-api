@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 400,
+    "arabicnumber": 400,
+    "text": "حدثنا عثمان بن ابي شيبة، حدثنا عبيدة بن حميد، عن ابي مالك الاشجعي، سعد بن طارق عن كثير بن مدرك، عن الاسود، ان عبد الله بن مسعود، قال كانت قدر صلاة رسول الله صلى الله عليه وسلم في الصيف ثلاثة اقدام الى خمسة اقدام وفي الشتاء خمسة اقدام الى سبعة اقدام",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 10
+    }
+  }
+}

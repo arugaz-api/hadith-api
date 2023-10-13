@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2243,
+    "arabicnumber": 2243,
+    "text": "حدثنا يحيى بن معين، حدثنا وهب بن جرير، عن ابيه، قال سمعت يحيى بن ايوب، عن يزيد بن ابي حبيب، عن ابي وهب الجيشاني، عن الضحاك بن فيروز، عن ابيه، قال قلت يا رسول الله اني اسلمت وتحتي اختان . قال \" طلق ايتهما شيت",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 13,
+      "hadith": 69
+    }
+  }
+}

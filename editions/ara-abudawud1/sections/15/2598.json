@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2598,
+    "arabicnumber": 2598,
+    "text": "حدثنا مسدد، حدثنا يحيى، حدثنا محمد بن عجلان، حدثني سعيد المقبري، عن ابي هريرة، قال كان رسول الله صلى الله عليه وسلم اذا سافر قال \" اللهم انت الصاحب في السفر والخليفة في الاهل اللهم اني اعوذ بك من وعثاء السفر وكابة المنقلب وسوء المنظر في الاهل والمال اللهم اطو لنا الارض وهون علينا السفر",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 122
+    }
+  }
+}

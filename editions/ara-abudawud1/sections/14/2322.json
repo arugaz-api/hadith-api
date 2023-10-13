@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2322,
+    "arabicnumber": 2322,
+    "text": "حدثنا احمد بن منيع، عن ابن ابي زايدة، عن عيسى بن دينار، عن ابيه، عن عمرو بن الحارث بن ابي ضرار، عن ابن مسعود، قال لما صمنا مع النبي صلى الله عليه وسلم تسعا وعشرين اكثر مما صمنا معه ثلاثين",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 14,
+      "hadith": 10
+    }
+  }
+}

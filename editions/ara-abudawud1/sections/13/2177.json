@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2177,
+    "arabicnumber": 2177,
+    "text": "حدثنا احمد بن يونس، حدثنا معرف، عن محارب، قال قال رسول الله صلى الله عليه وسلم \" ما احل الله شييا ابغض اليه من الطلاق",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 13,
+      "hadith": 3
+    }
+  }
+}

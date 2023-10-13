@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 11,
+    "arabicnumber": 11,
+    "text": "حدثنا محمد بن يحيى بن فارس، حدثنا صفوان بن عيسى، عن الحسن بن ذكوان، عن مروان الاصفر، قال رايت ابن عمر اناخ راحلته مستقبل القبلة ثم جلس يبول اليها فقلت يا ابا عبد الرحمن اليس قد نهي عن هذا قال بلى انما نهي عن ذلك في الفضاء فاذا كان بينك وبين القبلة شىء يسترك فلا باس",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 11
+    }
+  }
+}

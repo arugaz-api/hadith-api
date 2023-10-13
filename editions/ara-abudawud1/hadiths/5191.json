@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 5191,
+    "arabicnumber": 5191,
+    "text": "حدثنا ابن السرح، قال حدثنا ح، وحدثنا ابن الصباح بن سفيان، وابن، عبدة - وهذا حديثه - قالا اخبرنا سفيان، عن عبيد الله بن ابي يزيد، سمع ابن عباس، يقول لم يومر بها اكثر الناس اية الاذن واني لامر جاريتي هذه تستاذن على . قال ابو داود وكذلك رواه عطاء عن ابن عباس يامر به",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad Mauquf"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih Isnaad Mauquf"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 419
+    }
+  }
+}

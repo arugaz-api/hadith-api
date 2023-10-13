@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4891,
+    "arabicnumber": 4891,
+    "text": "حدثنا مسلم بن ابراهيم، حدثنا عبد الله بن المبارك، عن ابراهيم بن نشيط، عن كعب بن علقمة، عن ابي الهيثم، عن عقبة بن عامر، عن النبي صلى الله عليه وسلم قال \" من راى عورة فسترها كان كمن احيا موءودة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 119
+    }
+  }
+}

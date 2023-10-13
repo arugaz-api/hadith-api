@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3171,
+    "arabicnumber": 3171,
+    "text": "حدثنا هارون بن عبد الله، حدثنا عبد الصمد، ح وحدثنا ابن المثنى، حدثنا ابو داود، قالا حدثنا حرب، - يعني ابن شداد - حدثنا يحيى، حدثني باب بن عمير، حدثني رجل، من اهل المدينة عن ابيه، عن ابي هريرة، عن النبي صلى الله عليه وسلم قال \" لا تتبع الجنازة بصوت ولا نار \" . زاد هارون \" ولا يمشى بين يديها",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 21,
+      "hadith": 83
+    }
+  }
+}

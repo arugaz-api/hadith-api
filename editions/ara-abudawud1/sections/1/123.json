@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 123,
+    "arabicnumber": 123,
+    "text": "حدثنا محمود بن خالد، وهشام بن خالد، - المعنى - قالا حدثنا الوليد، بهذا الاسناد قال ومسح باذنيه ظاهرهما وباطنهما . زاد هشام وادخل اصابعه في صماخ اذنيه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 123
+    }
+  }
+}

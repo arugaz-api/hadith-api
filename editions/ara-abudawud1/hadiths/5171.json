@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 5171,
+    "arabicnumber": 5171,
+    "text": "حدثنا محمد بن عبيد، حدثنا حماد، عن عبيد الله بن ابي بكر، عن انس بن مالك، ان رجلا، اطلع من بعض حجر النبي صلى الله عليه وسلم فقام اليه رسول الله صلى الله عليه وسلم بمشقص او مشاقص - قال - فكاني انظر الى رسول الله صلى الله عليه وسلم يختله ليطعنه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (6242) Sahih Muslim (2157)"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 399
+    }
+  }
+}

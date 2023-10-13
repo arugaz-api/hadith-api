@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3073,
+    "arabicnumber": 3073,
+    "text": "حدثنا محمد بن المثنى، حدثنا عبد الوهاب، حدثنا ايوب، عن هشام بن عروة، عن ابيه، عن سعيد بن زيد، عن النبي صلى الله عليه وسلم قال \" من احيا ارضا ميتة فهي له وليس لعرق ظالم حق",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Sahih"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 146
+    }
+  }
+}

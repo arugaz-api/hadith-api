@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4943,
+    "arabicnumber": 4943,
+    "text": "حدثنا ابو بكر بن ابي شيبة، وابن السرح، قالا حدثنا سفيان، عن ابن ابي نجيح، عن ابن عامر، عن عبد الله بن عمرو، يرويه - قال ابن السرح - عن النبي صلى الله عليه وسلم قال \" من لم يرحم صغيرنا ويعرف حق كبيرنا فليس منا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 171
+    }
+  }
+}

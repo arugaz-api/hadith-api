@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4051,
+    "arabicnumber": 4051,
+    "text": "حدثنا حفص بن عمر، ومسلم بن ابراهيم، قالا حدثنا شعبة، عن ابي اسحاق، عن هبيرة، عن علي، - رضى الله عنه - قال نهاني رسول الله صلى الله عليه وسلم عن خاتم الذهب وعن لبس القسي والميثرة الحمراء",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 34,
+      "hadith": 32
+    }
+  }
+}

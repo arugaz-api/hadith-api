@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 260,
+    "arabicnumber": 260,
+    "text": "حدثنا محمد بن كثير، حدثنا سفيان، عن منصور بن عبد الرحمن، عن صفية، عن عايشة، قالت كان رسول الله صلى الله عليه وسلم يضع راسه في حجري فيقرا وانا حايض",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (297، 7549) Sahih Muslim (301)"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 260
+    }
+  }
+}

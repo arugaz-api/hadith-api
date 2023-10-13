@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2124,
+    "arabicnumber": 2124,
+    "text": "حدثنا عثمان بن ابي شيبة، حدثنا هشيم، واسماعيل ابن علية، عن خالد الحذاء، عن ابي قلابة، عن انس بن مالك، قال اذا تزوج البكر على الثيب اقام عندها سبعا . واذا تزوج الثيب اقام عندها ثلاثا . ولو قلت انه رفعه لصدقت ولكنه قال السنة كذلك",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (5213) Sahih Muslim (1461)"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 79
+    }
+  }
+}

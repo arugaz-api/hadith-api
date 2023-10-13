@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4115,
+    "arabicnumber": 4115,
+    "text": "حدثنا زهير بن حرب، حدثنا عبد الرحمن، ح وحدثنا مسدد، حدثنا يحيى، عن سفيان، عن حبيب بن ابي ثابت، عن وهب، مولى ابي احمد عن ام سلمة، ان النبي صلى الله عليه وسلم دخل عليها وهي تختمر فقال \" لية لا ليتين \" . قال ابو داود معنى قوله \" لية لا ليتين \" . يقول لا تعتم مثل الرجل لا تكرره طاقا او طاقين",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 34,
+      "hadith": 96
+    }
+  }
+}

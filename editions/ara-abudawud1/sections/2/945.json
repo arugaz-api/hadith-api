@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 945,
+    "arabicnumber": 945,
+    "text": "حدثنا مسدد، حدثنا سفيان، عن الزهري، عن ابي الاحوص، - شيخ من اهل المدينة - انه سمع ابا ذر، يرويه عن النبي صلى الله عليه وسلم قال \" اذا قام احدكم الى الصلاة فان الرحمة تواجهه فلا يمسح الحصى",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 556
+    }
+  }
+}

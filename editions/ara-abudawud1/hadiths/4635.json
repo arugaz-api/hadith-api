@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4635,
+    "arabicnumber": 4635,
+    "text": "حدثنا موسى بن اسماعيل، حدثنا حماد، عن علي بن زيد، عن عبد الرحمن بن ابي بكرة، عن ابيه، ان النبي صلى الله عليه وسلم قال ذات يوم \" ايكم راى رويا \" . فذكر معناه ولم يذكر الكراهية . قال فاستاء لها رسول الله صلى الله عليه وسلم يعني فساءه ذلك فقال \" خلافة نبوة ثم يوتي الله الملك من يشاء",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 42,
+      "hadith": 40
+    }
+  }
+}

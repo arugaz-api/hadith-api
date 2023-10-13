@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1454,
+    "arabicnumber": 1454,
+    "text": "حدثنا مسلم بن ابراهيم، حدثنا هشام، وهمام، عن قتادة، عن زرارة بن اوفى، عن سعد بن هشام، عن عايشة، عن النبي صلى الله عليه وسلم قال \" الذي يقرا القران وهو ماهر به مع السفرة الكرام البررة والذي يقروه وهو يشتد عليه فله اجران",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (4937) Sahih Muslim (897)"
+      }
+    ],
+    "reference": {
+      "book": 8,
+      "hadith": 39
+    }
+  }
+}

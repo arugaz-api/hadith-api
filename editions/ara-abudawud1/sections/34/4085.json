@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4085,
+    "arabicnumber": 4085,
+    "text": "حدثنا النفيلي، حدثنا زهير، حدثنا موسى بن عقبة، عن سالم بن عبد الله، عن ابيه، قال قال رسول الله صلى الله عليه وسلم \" من جر ثوبه خيلاء لم ينظر الله اليه يوم القيامة \" . فقال ابو بكر ان احد جانبى ازاري يسترخي اني لاتعاهد ذلك منه . قال \" لست ممن يفعله خيلاء",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (5784)"
+      }
+    ],
+    "reference": {
+      "book": 34,
+      "hadith": 66
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 933,
+    "arabicnumber": 933,
+    "text": "حدثنا مخلد بن خالد الشعيري، حدثنا ابن نمير، حدثنا علي بن صالح، عن سلمة بن كهيل، عن حجر بن عنبس، عن وايل بن حجر، انه صلى خلف رسول الله صلى الله عليه وسلم فجهر بامين وسلم عن يمينه وعن شماله حتى رايت بياض خده",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 544
+    }
+  }
+}

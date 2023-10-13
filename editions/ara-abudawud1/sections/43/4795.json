@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4795,
+    "arabicnumber": 4795,
+    "text": "حدثنا القعنبي، عن مالك، عن ابن شهاب، عن سالم بن عبد الله، عن ابن عمر، ان النبي صلى الله عليه وسلم مر على رجل من الانصار وهو يعظ اخاه في الحياء فقال رسول الله صلى الله عليه وسلم \" دعه فان الحياء من الايمان",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (24) Sahih Muslim (36)"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 23
+    }
+  }
+}

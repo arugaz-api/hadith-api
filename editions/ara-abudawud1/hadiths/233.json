@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 233,
+    "arabicnumber": 233,
+    "text": "حدثنا موسى بن اسماعيل، حدثنا حماد، عن زياد الاعلم، عن الحسن، عن ابي بكرة، ان رسول الله صلى الله عليه وسلم دخل في صلاة الفجر فاوما بيده ان مكانكم ثم جاء وراسه يقطر فصلى بهم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 233
+    }
+  }
+}

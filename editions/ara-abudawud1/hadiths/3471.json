@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3471,
+    "arabicnumber": 3471,
+    "text": "حدثنا سليمان بن داود المهري، اخبرنا ابن وهب، اخبرني عثمان بن الحكم، عن ابن جريج، عن عطاء، قال الجوايح كل ظاهر مفسد من مطر او برد او جراد او ريح او حريق",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Maqtu"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan Maqtu"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Maqtu"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 56
+    }
+  }
+}

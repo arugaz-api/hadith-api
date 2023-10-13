@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2150,
+    "arabicnumber": 2150,
+    "text": "حدثنا مسدد، حدثنا ابو عوانة، عن الاعمش، عن ابي وايل، عن ابن مسعود، قال قال رسول الله صلى الله عليه وسلم \" لا تباشر المراة المراة لتنعتها لزوجها كانما ينظر اليها",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (5241)"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 105
+    }
+  }
+}

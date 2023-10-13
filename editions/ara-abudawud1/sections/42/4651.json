@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4651,
+    "arabicnumber": 4651,
+    "text": "حدثنا مسدد، حدثنا يزيد بن زريع، ح وحدثنا مسدد، حدثنا يحيى، - المعنى - قالا حدثنا سعيد بن ابي عروبة، عن قتادة، ان انس بن مالك، حدثهم ان نبي الله صلى الله عليه وسلم صعد احدا فتبعه ابو بكر وعمر وعثمان فرجف بهم فضربه نبي الله صلى الله عليه وسلم برجله وقال \" اثبت احد نبي وصديق وشهيدان",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (3697)"
+      }
+    ],
+    "reference": {
+      "book": 42,
+      "hadith": 56
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2735,
+    "arabicnumber": 2735,
+    "text": "حدثنا مسدد، حدثنا امية بن خالد، حدثنا المسعودي، عن رجل، من ال ابي عمرة عن ابي عمرة، بمعناه الا انه قال ثلاثة نفر . زاد فكان للفارس ثلاثة اسهم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 259
+    }
+  }
+}

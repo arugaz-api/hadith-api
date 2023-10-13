@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 5045,
+    "arabicnumber": 5045,
+    "text": "حدثنا موسى بن اسماعيل، حدثنا ابان، حدثنا عاصم، عن معبد بن خالد، عن سواء، عن حفصة، زوج النبي صلى الله عليه وسلم ان رسول الله صلى الله عليه وسلم كان اذا اراد ان يرقد وضع يده اليمنى تحت خده ثم يقول \" اللهم قني عذابك يوم تبعث عبادك \" . ثلاث مرار",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 273
+    }
+  }
+}

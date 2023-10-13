@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3037,
+    "arabicnumber": 3037,
+    "text": "حدثنا العباس بن عبد العظيم، حدثنا سهل بن محمد، حدثنا يحيى بن ابي زايدة، عن محمد بن اسحاق، عن عاصم بن عمر، عن انس بن مالك، وعن عثمان بن ابي سليمان، ان النبي صلى الله عليه وسلم بعث خالد بن الوليد الى اكيدر دومة فاخذ فاتوه به فحقن له دمه وصالحه على الجزية",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 110
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3192,
+    "arabicnumber": 3192,
+    "text": "حدثنا عثمان بن ابي شيبة، حدثنا وكيع، حدثنا موسى بن على بن رباح، قال سمعت ابي يحدث، انه سمع عقبة بن عامر، قال ثلاث ساعات كان رسول الله صلى الله عليه وسلم ينهانا ان نصلي فيهن او نقبر فيهن موتانا حين تطلع الشمس بازغة حتى ترتفع وحين يقوم قايم الظهيرة حتى تميل وحين تضيف الشمس للغروب حتى تغرب او كما قال",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (831)"
+      }
+    ],
+    "reference": {
+      "book": 21,
+      "hadith": 104
+    }
+  }
+}

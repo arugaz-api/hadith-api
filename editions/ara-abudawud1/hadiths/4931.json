@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4931,
+    "arabicnumber": 4931,
+    "text": "حدثنا مسدد، حدثنا حماد، عن هشام بن عروة، عن ابيه، عن عايشة، قالت كنت العب بالبنات فربما دخل على رسول الله صلى الله عليه وسلم وعندي الجواري فاذا دخل خرجن واذا خرج دخلن",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (6130) Sahih Muslim (2440)"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 159
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 5163,
+    "arabicnumber": 5163,
+    "text": "حدثنا ابن المصفى، حدثنا بقية، حدثنا عثمان بن زفر، قال حدثني محمد بن خالد بن رافع بن مكيث، عن عمه الحارث بن رافع بن مكيث، وكان، رافع من جهينة قد شهد الحديبية مع رسول الله صلى الله عليه وسلم عن رسول الله صلى الله عليه وسلم قال \" حسن الملكة نماء وسوء الخلق شوم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 391
+    }
+  }
+}

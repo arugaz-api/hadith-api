@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1750,
+    "arabicnumber": 1750,
+    "text": "حدثنا ابن السرح، حدثنا ابن وهب، اخبرني يونس، عن ابن شهاب، عن عمرة بنت عبد الرحمن، عن عايشة، زوج النبي صلى الله عليه وسلم ان رسول الله صلى الله عليه وسلم نحر عن ال محمد في حجة الوداع بقرة واحدة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 11,
+      "hadith": 30
+    }
+  }
+}

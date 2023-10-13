@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 5106,
+    "arabicnumber": 5106,
+    "text": "حدثنا عثمان بن ابي شيبة، حدثنا محمد بن فضيل، ح وحدثنا يوسف بن موسى، حدثنا ابو اسامة، عن هشام بن عروة، عن عروة، عن عايشة، رضى الله عنها قالت كان رسول الله صلى الله عليه وسلم يوتى بالصبيان فيدعو لهم بالبركة - زاد يوسف - ويحنكهم ولم يذكر بالبركة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih Sahih Bukhari (6355) Sahih Muslim (286)"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 334
+    }
+  }
+}

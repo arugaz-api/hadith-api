@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3530,
+    "arabicnumber": 3530,
+    "text": "حدثنا محمد بن المنهال، حدثنا يزيد بن زريع، حدثنا حبيب المعلم، عن عمرو بن شعيب، عن ابيه، عن جده، ان رجلا، اتى النبي صلى الله عليه وسلم فقال يا رسول الله ان لي مالا وولدا وان والدي يجتاح مالي . قال \" انت ومالك لوالدك ان اولادكم من اطيب كسبكم فكلوا من كسب اولادكم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 115
+    }
+  }
+}

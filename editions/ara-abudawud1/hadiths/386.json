@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 386,
+    "arabicnumber": 386,
+    "text": "حدثنا احمد بن ابراهيم، حدثني محمد بن كثير، - يعني الصنعاني - عن الاوزاعي، عن ابن عجلان، عن سعيد بن ابي سعيد، عن ابيه، عن ابي هريرة، عن النبي صلى الله عليه وسلم بمعناه قال \" اذا وطي الاذى بخفيه فطهورهما التراب",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 386
+    }
+  }
+}

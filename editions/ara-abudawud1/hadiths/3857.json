@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3857,
+    "arabicnumber": 3857,
+    "text": "حدثنا موسى بن اسماعيل، حدثنا حماد، عن محمد بن عمرو، عن ابي سلمة، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال \" ان كان في شىء مما تداويتم به خير فالحجامة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 29,
+      "hadith": 3
+    }
+  }
+}

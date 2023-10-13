@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1207,
+    "arabicnumber": 1207,
+    "text": "حدثنا سليمان بن داود العتكي، حدثنا حماد، حدثنا ايوب، عن نافع، ان ابن عمر، استصرخ على صفية وهو بمكة فسار حتى غربت الشمس وبدت النجوم فقال ان النبي صلى الله عليه وسلم كان اذا عجل به امر في سفر جمع بين هاتين الصلاتين . فسار حتى غاب الشفق فنزل فجمع بينهما",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 4,
+      "hadith": 10
+    }
+  }
+}

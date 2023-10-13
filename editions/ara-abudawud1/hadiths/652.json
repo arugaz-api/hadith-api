@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 652,
+    "arabicnumber": 652,
+    "text": "حدثنا قتيبة بن سعيد، حدثنا مروان بن معاوية الفزاري، عن هلال بن ميمون الرملي، عن يعلى بن شداد بن اوس، عن ابيه، قال قال رسول الله صلى الله عليه وسلم \" خالفوا اليهود فانهم لا يصلون في نعالهم ولا خفافهم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 262
+    }
+  }
+}

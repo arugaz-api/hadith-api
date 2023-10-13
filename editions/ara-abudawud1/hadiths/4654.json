@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4654,
+    "arabicnumber": 4654,
+    "text": "حدثنا موسى بن اسماعيل، حدثنا حماد بن سلمة، ح وحدثنا احمد بن سنان، حدثنا يزيد بن هارون، اخبرنا حماد بن سلمة، عن عاصم، عن ابي صالح، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم قال موسى \" فلعل الله \" . وقال ابن سنان \" اطلع الله على اهل بدر فقال اعملوا ما شيتم فقد غفرت لكم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 42,
+      "hadith": 59
+    }
+  }
+}

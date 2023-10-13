@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 225,
+    "arabicnumber": 225,
+    "text": "حدثنا موسى، - يعني ابن اسماعيل - حدثنا حماد، - يعني ابن سلمة - اخبرنا عطاء الخراساني، عن يحيى بن يعمر، عن عمار بن ياسر، ان النبي صلى الله عليه وسلم رخص للجنب اذا اكل او شرب او نام ان يتوضا . قال ابو داود بين يحيى بن يعمر وعمار بن ياسر في هذا الحديث رجل وقال علي بن ابي طالب وابن عمر وعبد الله بن عمرو الجنب اذا اراد ان ياكل توضا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 225
+    }
+  }
+}

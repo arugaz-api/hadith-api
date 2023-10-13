@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 565,
+    "arabicnumber": 565,
+    "text": "حدثنا موسى بن اسماعيل، حدثنا حماد، عن محمد بن عمرو، عن ابي سلمة، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال \" لا تمنعوا اماء الله مساجد الله ولكن ليخرجن وهن تفلات",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 175
+    }
+  }
+}

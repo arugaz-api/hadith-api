@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2099,
+    "arabicnumber": 2099,
+    "text": "حدثنا احمد بن حنبل، حدثنا سفيان، عن زياد بن سعد، عن عبد الله بن الفضل، باسناده ومعناه قال \" الثيب احق بنفسها من وليها والبكر يستامرها ابوها \" . قال ابو داود \" ابوها \" . ليس بمحفوظ",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (1421)"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 54
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3163,
+    "arabicnumber": 3163,
+    "text": "حدثنا محمد بن كثير، اخبرنا سفيان، عن عاصم بن عبيد الله، عن القاسم، عن عايشة، قالت رايت رسول الله صلى الله عليه وسلم يقبل عثمان بن مظعون وهو ميت حتى رايت الدموع تسيل",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 21,
+      "hadith": 75
+    }
+  }
+}

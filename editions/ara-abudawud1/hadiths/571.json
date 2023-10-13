@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 571,
+    "arabicnumber": 571,
+    "text": "حدثنا ابو معمر، حدثنا عبد الوارث، حدثنا ايوب، عن نافع، عن ابن عمر، قال قال رسول الله صلى الله عليه وسلم \" لو تركنا هذا الباب للنساء \" . قال نافع فلم يدخل منه ابن عمر حتى مات . قال ابو داود رواه اسماعيل بن ابراهيم عن ايوب عن نافع قال قال عمر وهذا اصح",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 181
+    }
+  }
+}

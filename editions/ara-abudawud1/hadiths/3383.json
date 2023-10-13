@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3383,
+    "arabicnumber": 3383,
+    "text": "حدثنا محمد بن سليمان المصيصي، حدثنا محمد بن الزبرقان، عن ابي حيان التيمي، عن ابيه، عن ابي هريرة، رفعه قال \" ان الله يقول انا ثالث الشريكين، ما لم يخن احدهما صاحبه فاذا خانه خرجت من بينهما",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 23,
+      "hadith": 58
+    }
+  }
+}

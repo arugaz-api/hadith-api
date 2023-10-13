@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 929,
+    "arabicnumber": 929,
+    "text": "حدثنا محمد بن العلاء، اخبرنا معاوية بن هشام، عن سفيان، عن ابي مالك، عن ابي حازم، عن ابي هريرة، قال - اراه رفعه - قال \" لا غرار في تسليم ولا صلاة \" . قال ابو داود ورواه ابن فضيل على لفظ ابن مهدي ولم يرفعه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 540
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3674,
+    "arabicnumber": 3674,
+    "text": "حدثنا عثمان بن ابي شيبة، حدثنا وكيع بن الجراح، عن عبد العزيز بن عمر، عن ابي علقمة، مولاهم وعبد الرحمن بن عبد الله الغافقي انهما سمعا ابن عمر، يقول قال رسول الله صلى الله عليه وسلم \" لعن الله الخمر وشاربها وساقيها وبايعها ومبتاعها وعاصرها ومعتصرها وحاملها والمحمولة اليه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 27,
+      "hadith": 6
+    }
+  }
+}

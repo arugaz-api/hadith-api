@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2704,
+    "arabicnumber": 2704,
+    "text": "حدثنا محمد بن العلاء، حدثنا ابو معاوية، حدثنا ابو اسحاق الشيباني، عن محمد بن ابي مجالد، عن عبد الله بن ابي اوفى، قال قلت هل كنتم تخمسون - يعني الطعام - في عهد رسول الله صلى الله عليه وسلم فقال اصبنا طعاما يوم خيبر فكان الرجل يجيء فياخذ منه مقدار ما يكفيه ثم ينصرف",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 228
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3165,
+    "arabicnumber": 3165,
+    "text": "حدثنا محمد بن كثير، اخبرنا سفيان، عن الاسود بن قيس، عن نبيح، عن جابر بن عبد الله، قال كنا حملنا القتلى يوم احد لندفنهم فجاء منادي النبي صلى الله عليه وسلم فقال ان رسول الله صلى الله عليه وسلم يامركم ان تدفنوا القتلى في مضاجعهم فرددناهم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 21,
+      "hadith": 77
+    }
+  }
+}

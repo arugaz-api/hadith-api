@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1025,
+    "arabicnumber": 1025,
+    "text": "حدثنا محمد بن عبد العزيز بن ابي رزمة، اخبرنا الفضل بن موسى، عن عبد الله بن كيسان، عن عكرمة، عن ابن عباس، ان النبي صلى الله عليه وسلم سمى سجدتى السهو المرغمتين",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 636
+    }
+  }
+}

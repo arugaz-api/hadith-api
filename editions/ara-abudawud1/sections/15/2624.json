@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2624,
+    "arabicnumber": 2624,
+    "text": "حدثنا زهير بن حرب، حدثنا حجاج، قال قال ابن جريج { يا ايها الذين امنوا اطيعوا الله واطيعوا الرسول واولي الامر منكم } في عبد الله بن قيس بن عدي بعثه النبي صلى الله عليه وسلم في سرية اخبرنيه يعلى عن سعيد بن جبير عن ابن عباس",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (4584) Sahih Muslim (1834)"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 148
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1219,
+    "arabicnumber": 1219,
+    "text": "حدثنا سليمان بن داود المهري، حدثنا ابن وهب، اخبرني جابر بن اسماعيل، عن عقيل، بهذا الحديث باسناده قال ويوخر المغرب حتى يجمع بينها وبين العشاء حين يغيب الشفق",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (1112) Sahih Muslim (704)"
+      }
+    ],
+    "reference": {
+      "book": 4,
+      "hadith": 22
+    }
+  }
+}

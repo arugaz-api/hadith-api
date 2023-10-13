@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2912,
+    "arabicnumber": 2912,
+    "text": "حدثنا مسدد، حدثنا عبد الوارث، عن عمرو بن ابي حكيم الواسطي، حدثنا عبد الله بن بريدة، ان اخوين، اختصما الى يحيى بن يعمر يهودي ومسلم فورث المسلم منهما وقال حدثني ابو الاسود ان رجلا حدثه ان معاذا حدثه قال سمعت رسول الله صلى الله عليه وسلم يقول \" الاسلام يزيد ولا ينقص \" . فورث المسلم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 19,
+      "hadith": 28
+    }
+  }
+}

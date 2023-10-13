@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3873,
+    "arabicnumber": 3873,
+    "text": "حدثنا مسلم بن ابراهيم، حدثنا شعبة، عن سماك، عن علقمة بن وايل، عن ابيه، ذكر طارق بن سويد او سويد بن طارق سال النبي صلى الله عليه وسلم عن الخمر فنهاه ثم ساله فنهاه فقال له يا نبي الله انها دواء . قال النبي صلى الله عليه وسلم \" لا ولكنها داء",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (1984)"
+      }
+    ],
+    "reference": {
+      "book": 29,
+      "hadith": 19
+    }
+  }
+}

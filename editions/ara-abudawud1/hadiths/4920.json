@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4920,
+    "arabicnumber": 4920,
+    "text": "حدثنا نصر بن علي، اخبرنا سفيان، عن الزهري، ح وحدثنا مسدد، حدثنا اسماعيل، ح وحدثنا احمد بن محمد بن شبوية المروزي، حدثنا عبد الرزاق، اخبرنا معمر، عن الزهري، عن حميد بن عبد الرحمن، عن امه، ان النبي صلى الله عليه وسلم قال \" لم يكذب من نمى بين اثنين ليصلح \" . وقال احمد بن محمد ومسدد \" ليس بالكاذب من اصلح بين الناس فقال خيرا او نمى خيرا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (2692) Sahih Muslim (2605)"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 148
+    }
+  }
+}

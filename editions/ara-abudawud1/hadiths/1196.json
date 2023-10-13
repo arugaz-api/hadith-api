@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1196,
+    "arabicnumber": 1196,
+    "text": "حدثنا محمد بن عمرو بن جبلة بن ابي رواد، حدثني حرمي بن عمارة، عن عبيد الله بن النضر، حدثني ابي قال، كانت ظلمة على عهد انس بن مالك - قال - فاتيت انسا فقلت يا ابا حمزة هل كان يصيبكم مثل هذا على عهد رسول الله صلى الله عليه وسلم قال معاذ الله ان كانت الريح لتشتد فنبادر المسجد مخافة القيامة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 3,
+      "hadith": 36
+    }
+  }
+}

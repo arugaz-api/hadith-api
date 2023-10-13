@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4026,
+    "arabicnumber": 4026,
+    "text": "حدثنا زياد بن ايوب، حدثنا ابو تميلة، قال حدثني عبد المومن بن خالد، عن عبد الله بن بريدة، عن ابيه، عن ام سلمة، قالت لم يكن ثوب احب الى رسول الله صلى الله عليه وسلم من قميص",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 34,
+      "hadith": 7
+    }
+  }
+}

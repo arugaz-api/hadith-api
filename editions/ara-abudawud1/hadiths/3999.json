@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3999,
+    "arabicnumber": 3999,
+    "text": "حدثنا زيد بن اخزم، حدثنا بشر، - يعني ابن عمر - حدثنا محمد بن خازم، قال ذكر كيف قراءة جبرايل وميكايل عند الاعمش فحدثنا الاعمش عن سعد الطايي عن عطية العوفي عن ابي سعيد الخدري قال ذكر رسول الله صلى الله عليه وسلم صاحب الصور فقال \" عن يمينه جبرايل وعن يساره ميكايل",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 32,
+      "hadith": 31
+    }
+  }
+}

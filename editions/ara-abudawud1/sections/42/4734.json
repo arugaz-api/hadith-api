@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4734,
+    "arabicnumber": 4734,
+    "text": "حدثنا محمد بن كثير، اخبرنا اسراييل، حدثنا عثمان بن المغيرة، عن سالم، عن جابر بن عبد الله، قال كان رسول الله صلى الله عليه وسلم يعرض نفسه على الناس في الموقف فقال \" الا رجل يحملني الى قومه فان قريشا قد منعوني ان ابلغ كلام ربي",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 42,
+      "hadith": 139
+    }
+  }
+}

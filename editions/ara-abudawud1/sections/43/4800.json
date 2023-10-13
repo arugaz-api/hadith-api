@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4800,
+    "arabicnumber": 4800,
+    "text": "حدثنا محمد بن عثمان الدمشقي ابو الجماهر، قال حدثنا ابو كعب، ايوب بن محمد السعدي قال حدثني سليمان بن حبيب المحاربي، عن ابي امامة، قال قال رسول الله صلى الله عليه وسلم \" انا زعيم ببيت في ربض الجنة لمن ترك المراء وان كان محقا وببيت في وسط الجنة لمن ترك الكذب وان كان مازحا وببيت في اعلى الجنة لمن حسن خلقه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 28
+    }
+  }
+}

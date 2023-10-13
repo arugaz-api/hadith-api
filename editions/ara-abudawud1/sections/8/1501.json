@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1501,
+    "arabicnumber": 1501,
+    "text": "حدثنا مسدد، حدثنا عبد الله بن داود، عن هاني بن عثمان، عن حميضة بنت ياسر، عن يسيرة، اخبرتها ان النبي صلى الله عليه وسلم امرهن ان يراعين بالتكبير والتقديس والتهليل وان يعقدن بالانامل فانهن مسيولات مستنطقات",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 8,
+      "hadith": 86
+    }
+  }
+}

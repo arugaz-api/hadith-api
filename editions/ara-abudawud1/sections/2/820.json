@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 820,
+    "arabicnumber": 820,
+    "text": "حدثنا ابن بشار، حدثنا يحيى، حدثنا جعفر، عن ابي عثمان، عن ابي هريرة، قال امرني رسول الله صلى الله عليه وسلم ان انادي انه لا صلاة الا بقراءة فاتحة الكتاب فما زاد",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 430
+    }
+  }
+}

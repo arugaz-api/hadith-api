@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 885,
+    "arabicnumber": 885,
+    "text": "حدثنا مسدد، حدثنا خالد بن عبد الله، حدثنا سعيد الجريري، عن السعدي، عن ابيه، او عن عمه، قال رمقت النبي صلى الله عليه وسلم في صلاته فكان يتمكن في ركوعه وسجوده قدر ما يقول \" سبحان الله وبحمده \" . ثلاثا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 495
+    }
+  }
+}

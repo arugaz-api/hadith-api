@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1315,
+    "arabicnumber": 1315,
+    "text": "حدثنا القعنبي، عن مالك، عن ابن شهاب، عن ابي سلمة بن عبد الرحمن، وعن ابي عبد الله الاغر، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال \" ينزل ربنا تبارك وتعالى كل ليلة الى سماء الدنيا حين يبقى ثلث الليل الاخر فيقول من يدعوني فاستجيب له من يسالني فاعطيه من يستغفرني فاغفر له",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (1145) Sahih Muslim (758)"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 66
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4914,
+    "arabicnumber": 4914,
+    "text": "حدثنا محمد بن الصباح البزاز، حدثنا يزيد بن هارون، اخبرنا سفيان الثوري، عن منصور، عن ابي حازم، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" لا يحل لمسلم ان يهجر اخاه فوق ثلاث فمن هجر فوق ثلاث فمات دخل النار",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 142
+    }
+  }
+}

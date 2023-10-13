@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4081,
+    "arabicnumber": 4081,
+    "text": "حدثنا موسى بن اسماعيل، حدثنا حماد، عن ابي الزبير، عن جابر، قال نهى رسول الله صلى الله عليه وسلم عن الصماء وعن الاحتباء في ثوب واحد",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (2099)"
+      }
+    ],
+    "reference": {
+      "book": 34,
+      "hadith": 62
+    }
+  }
+}

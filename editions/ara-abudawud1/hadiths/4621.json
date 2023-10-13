@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4621,
+    "arabicnumber": 4621,
+    "text": "حدثنا محمد بن عبيد، حدثنا سليم، عن ابن عون، قال كنت اسير بالشام فناداني رجل من خلفي فالتفت فاذا رجاء بن حيوة فقال يا ابا عون ما هذا الذي يذكرون عن الحسن قال قلت انهم يكذبون على الحسن كثيرا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad Maqtu"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih Isnaad Maqtu"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 42,
+      "hadith": 26
+    }
+  }
+}

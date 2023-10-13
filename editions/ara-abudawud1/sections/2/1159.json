@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1159,
+    "arabicnumber": 1159,
+    "text": "حدثنا حفص بن عمر، حدثنا شعبة، حدثني عدي بن ثابت، عن سعيد بن جبير، عن ابن عباس، قال خرج رسول الله صلى الله عليه وسلم يوم فطر فصلى ركعتين لم يصل قبلهما ولا بعدهما ثم اتى النساء ومعه بلال فامرهن بالصدقة فجعلت المراة تلقي خرصها وسخابها",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (964) Sahih Muslim (884 After  890)"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 770
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1282,
+    "arabicnumber": 1282,
+    "text": "حدثنا محمد بن عبد الرحيم البزاز، اخبرنا سعيد بن سليمان، حدثنا منصور بن ابي الاسود، عن المختار بن فلفل، عن انس بن مالك، قال صليت الركعتين قبل المغرب على عهد رسول الله صلى الله عليه وسلم . قال قلت لانس اراكم رسول الله صلى الله عليه وسلم قال نعم رانا فلم يامرنا ولم ينهنا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (836)"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 33
+    }
+  }
+}

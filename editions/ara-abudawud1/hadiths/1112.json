@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1112,
+    "arabicnumber": 1112,
+    "text": "حدثنا القعنبي، عن مالك، عن ابن شهاب، عن سعيد، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال \" اذا قلت انصت والامام يخطب فقد لغوت",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 723
+    }
+  }
+}

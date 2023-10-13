@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4194,
+    "arabicnumber": 4194,
+    "text": "حدثنا موسى بن اسماعيل، حدثنا حماد، حدثنا ايوب، عن نافع، عن ابن عمر، ان النبي صلى الله عليه وسلم نهى عن القزع وهو ان يحلق راس الصبي فتترك له ذوابة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 35,
+      "hadith": 36
+    }
+  }
+}

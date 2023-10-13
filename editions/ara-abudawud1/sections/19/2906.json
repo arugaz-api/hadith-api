@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2906,
+    "arabicnumber": 2906,
+    "text": "حدثنا ابراهيم بن موسى الرازي، حدثنا محمد بن حرب، حدثني عمر بن روبة التغلبي، عن عبد الواحد بن عبد الله النصري، عن واثلة بن الاسقع، عن النبي صلى الله عليه وسلم قال \" المراة تحرز ثلاثة مواريث عتيقها ولقيطها وولدها الذي لاعنت عنه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 19,
+      "hadith": 22
+    }
+  }
+}

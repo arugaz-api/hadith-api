@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1200,
+    "arabicnumber": 1200,
+    "text": "حدثنا احمد بن حنبل، حدثنا عبد الرزاق، ومحمد بن بكر، قالا اخبرنا ابن جريج، سمعت عبد الله بن ابي عمار، يحدث فذكره نحوه . قال ابو داود رواه ابو عاصم وحماد بن مسعدة كما رواه ابن بكر",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 4,
+      "hadith": 3
+    }
+  }
+}

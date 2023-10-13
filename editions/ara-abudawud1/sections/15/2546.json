@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2546,
+    "arabicnumber": 2546,
+    "text": "حدثنا موسى بن مروان الرقي، حدثنا مروان بن معاوية، عن ابي حيان التيمي، حدثنا ابو زرعة، عن ابي هريرة، : ان رسول الله صلى الله عليه وسلم كان يسمي الانثى من الخيل فرسا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 70
+    }
+  }
+}

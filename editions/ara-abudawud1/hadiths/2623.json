@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2623,
+    "arabicnumber": 2623,
+    "text": "حدثنا عبد الله بن مسلمة، عن مالك، عن نافع، عن عبد الله بن عمر، ان رسول الله صلى الله عليه وسلم قال \" لا يحلبن احد ماشية احد بغير اذنه ايحب احدكم ان توتى مشربته فتكسر خزانته فينتثل طعامه فانما تخزن لهم ضروع مواشيهم اطعمتهم فلا يحلبن احد ماشية احد الا باذنه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (2435) Sahih Muslim (1726)"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 147
+    }
+  }
+}

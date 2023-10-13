@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 937,
+    "arabicnumber": 937,
+    "text": "حدثنا اسحاق بن ابراهيم بن راهويه، اخبرنا وكيع، عن سفيان، عن عاصم، عن ابي عثمان، عن بلال، انه قال يا رسول الله لا تسبقني \" بامين",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 548
+    }
+  }
+}

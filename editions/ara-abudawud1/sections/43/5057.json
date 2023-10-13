@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 5057,
+    "arabicnumber": 5057,
+    "text": "حدثنا مومل بن الفضل الحراني، حدثنا بقية، عن بحير، عن خالد بن معدان، عن ابن ابي بلال، عن عرباض بن سارية، ان رسول الله صلى الله عليه وسلم كان يقرا المسبحات قبل ان يرقد وقال \" ان فيهن اية افضل من الف اية",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 285
+    }
+  }
+}

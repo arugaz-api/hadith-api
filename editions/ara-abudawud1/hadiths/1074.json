@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1074,
+    "arabicnumber": 1074,
+    "text": "حدثنا مسدد، حدثنا ابو عوانة، عن مخول بن راشد، عن مسلم البطين، عن سعيد بن جبير، عن ابن عباس، ان رسول الله صلى الله عليه وسلم كان يقرا في صلاة الفجر يوم الجمعة تنزيل السجدة و { هل اتى على الانسان حين من الدهر}",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (879)"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 685
+    }
+  }
+}

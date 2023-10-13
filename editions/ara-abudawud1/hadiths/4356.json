@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4356,
+    "arabicnumber": 4356,
+    "text": "حدثنا محمد بن العلاء، حدثنا حفص، حدثنا الشيباني، عن ابي بردة، بهذه القصة قال فاتي ابو موسى برجل قد ارتد عن الاسلام، فدعاه عشرين ليلة او قريبا منها فجاء معاذ فدعاه فابى فضرب عنقه . قال ابو داود ورواه عبد الملك بن عمير عن ابي بردة لم يذكر الاستتابة ورواه ابن فضيل عن الشيباني عن سعيد بن ابي بردة عن ابيه عن ابي موسى ولم يذكر فيه الاستتابة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 40,
+      "hadith": 6
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2561,
+    "arabicnumber": 2561,
+    "text": "حدثنا سليمان بن حرب، حدثنا حماد، عن ايوب، عن ابي قلابة، عن ابي المهلب، عن عمران بن حصين، ان النبي صلى الله عليه وسلم كان في سفر فسمع لعنة فقال \" ما هذه \" . قالوا هذه فلانة لعنت راحلتها . فقال النبي صلى الله عليه وسلم \" ضعوا عنها فانها ملعونة \" . فوضعوا عنها . قال عمران فكاني انظر اليها ناقة ورقاء",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (2595)"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 85
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3249,
+    "arabicnumber": 3249,
+    "text": "حدثنا احمد بن يونس، حدثنا زهير، عن عبيد الله بن عمر، عن نافع، عن ابن عمر، عن عمر بن الخطاب، ان رسول الله صلى الله عليه وسلم ادركه وهو في ركب وهو يحلف بابيه فقال \" ان الله ينهاكم ان تحلفوا بابايكم فمن كان حالفا فليحلف بالله او ليسكت",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (6108) Sahih Muslim (1646)"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 8
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2827,
+    "arabicnumber": 2827,
+    "text": "حدثنا القعنبي، حدثنا ابن المبارك، ح وحدثنا مسدد، حدثنا هشيم، عن مجالد، عن ابي الوداك، عن ابي سعيد، قال سالت رسول الله صلى الله عليه وسلم عن الجنين فقال \" كلوه ان شيتم \" . وقال مسدد قلنا يا رسول الله ننحر الناقة ونذبح البقرة والشاة فنجد في بطنها الجنين انلقيه ام ناكله قال \" كلوه ان شيتم فان ذكاته ذكاة امه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 16,
+      "hadith": 40
+    }
+  }
+}

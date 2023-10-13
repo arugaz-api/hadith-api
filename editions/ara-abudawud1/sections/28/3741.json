@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3741,
+    "arabicnumber": 3741,
+    "text": "حدثنا مسدد، حدثنا درست بن زياد، عن ابان بن طارق، عن طارق، عن نافع، قال قال عبد الله بن عمر قال رسول الله صلى الله عليه وسلم \" من دعي فلم يجب فقد عصى الله ورسوله ومن دخل على غير دعوة دخل سارقا وخرج مغيرا \" . قال ابو داود ابان بن طارق مجهول",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 28,
+      "hadith": 6
+    }
+  }
+}

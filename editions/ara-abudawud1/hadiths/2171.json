@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2171,
+    "arabicnumber": 2171,
+    "text": "حدثنا موسى بن اسماعيل، حدثنا ابان، حدثنا يحيى، ان محمد بن عبد الرحمن بن ثوبان، حدثه ان رفاعة حدثه عن ابي سعيد الخدري، ان رجلا، قال يا رسول الله ان لي جارية وانا اعزل عنها وانا اكره ان تحمل وانا اريد ما يريد الرجال وان اليهود تحدث ان العزل موءودة الصغرى . قال \" كذبت يهود لو اراد الله ان يخلقه ما استطعت ان تصرفه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 126
+    }
+  }
+}

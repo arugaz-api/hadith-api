@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 728,
+    "arabicnumber": 728,
+    "text": "حدثنا عثمان بن ابي شيبة، حدثنا شريك، عن عاصم بن كليب، عن ابيه، عن وايل بن حجر، قال رايت النبي صلى الله عليه وسلم حين افتتح الصلاة رفع يديه حيال اذنيه - قال - ثم اتيتهم فرايتهم يرفعون ايديهم الى صدورهم في افتتاح الصلاة وعليهم برانس واكسية",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 338
+    }
+  }
+}

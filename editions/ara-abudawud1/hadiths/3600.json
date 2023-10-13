@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3600,
+    "arabicnumber": 3600,
+    "text": "حدثنا حفص بن عمر، حدثنا محمد بن راشد، حدثنا سليمان بن موسى، عن عمرو بن شعيب، عن ابيه، عن جده، ان رسول الله صلى الله عليه وسلم رد شهادة الخاين والخاينة وذي الغمر على اخيه ورد شهادة القانع لاهل البيت واجازها لغيرهم . قال ابو داود الغمر الحنة والشحناء والقانع الاجير التابع مثل الاجير الخاص",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 25,
+      "hadith": 30
+    }
+  }
+}

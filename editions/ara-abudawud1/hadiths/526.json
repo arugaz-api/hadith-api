@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 526,
+    "arabicnumber": 526,
+    "text": "حدثنا ابراهيم بن مهدي، حدثنا علي بن مسهر، عن هشام بن عروة، عن ابيه، عن عايشة، ان رسول الله صلى الله عليه وسلم كان اذا سمع الموذن يتشهد قال \" وانا وانا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 136
+    }
+  }
+}

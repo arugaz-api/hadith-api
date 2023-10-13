@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1604,
+    "arabicnumber": 1604,
+    "text": "حدثنا محمد بن اسحاق المسيبي، حدثنا عبد الله بن نافع، عن محمد بن صالح التمار، عن ابن شهاب، باسناده ومعناه . قال ابو داود وسعيد لم يسمع من عتاب شييا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 49
+    }
+  }
+}

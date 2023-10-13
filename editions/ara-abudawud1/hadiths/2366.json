@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2366,
+    "arabicnumber": 2366,
+    "text": "حدثنا قتيبة بن سعيد، حدثني يحيى بن سليم، عن اسماعيل بن كثير، عن عاصم بن لقيط بن صبرة، عن ابيه، لقيط بن صبرة قال قال رسول الله صلى الله عليه وسلم \" بالغ في الاستنشاق الا ان تكون صايما",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 14,
+      "hadith": 54
+    }
+  }
+}

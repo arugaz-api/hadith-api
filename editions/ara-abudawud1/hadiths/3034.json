@@ -1,0 +1,22 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3034,
+    "arabicnumber": 3034,
+    "text": "حدثنا ابن السرح، حدثنا ابن وهب، قال قال مالك قد اجلى عمر رحمه الله يهود نجران وفدك",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Maqtu"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Mauquf"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 107
+    }
+  }
+}

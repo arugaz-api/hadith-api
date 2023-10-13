@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2769,
+    "arabicnumber": 2769,
+    "text": "حدثنا محمد بن حزابة، حدثنا اسحاق، - يعني ابن منصور - حدثنا اسباط الهمداني، عن السدي، عن ابيه، عن ابي هريرة، عن النبي صلى الله عليه وسلم قال \" الايمان قيد الفتك لا يفتك مومن",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 293
+    }
+  }
+}

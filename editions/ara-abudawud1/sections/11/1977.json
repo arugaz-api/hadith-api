@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1977,
+    "arabicnumber": 1977,
+    "text": "حدثنا عبد الرحمن بن المبارك، حدثنا خالد بن الحارث، حدثنا شعبة، عن قتادة، قال سمعت ابا مجلز، يقول سالت ابن عباس عن شىء، من امر الجمار فقال ما ادري ارماها رسول الله صلى الله عليه وسلم بست او بسبع",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 11,
+      "hadith": 257
+    }
+  }
+}

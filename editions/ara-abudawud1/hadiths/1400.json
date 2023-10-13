@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1400,
+    "arabicnumber": 1400,
+    "text": "حدثنا عمرو بن مرزوق، اخبرنا شعبة، اخبرنا قتادة، عن عباس الجشمي، عن ابي هريرة، عن النبي صلى الله عليه وسلم قال \" سورة من القران ثلاثون اية تشفع لصاحبها حتى يغفر له { تبارك الذي بيده الملك}",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 6,
+      "hadith": 30
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4667,
+    "arabicnumber": 4667,
+    "text": "حدثنا مسلم بن ابراهيم، حدثنا القاسم بن الفضل، عن ابي نضرة، عن ابي سعيد، قال قال رسول الله صلى الله عليه وسلم \" تمرق مارقة عند فرقة من المسلمين يقتلها اولى الطايفتين بالحق",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (1065)"
+      }
+    ],
+    "reference": {
+      "book": 42,
+      "hadith": 72
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2120,
+    "arabicnumber": 2120,
+    "text": "حدثنا محمد بن بشار، حدثنا بدل بن المحبر، اخبرنا شعبة، عن العلاء ابن اخي، شعيب الرازي عن اسماعيل بن ابراهيم، عن رجل، من بني سليم قال خطبت الى النبي صلى الله عليه وسلم امامة بنت عبد المطلب فانكحني من غير ان يتشهد",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 75
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4993,
+    "arabicnumber": 4993,
+    "text": "حدثنا موسى بن اسماعيل، حدثنا حماد، ح وحدثنا نصر بن علي، عن مهنا ابي شبل، - قال ابو داود ولم افهمه منه جيدا - عن حماد بن سلمة، عن محمد بن واسع، عن شتير، - قال نصر : ابن نهار - عن ابي هريرة، - قال نصر - عن رسول الله صلى الله عليه وسلم قال \" حسن الظن من حسن العبادة \" . قال ابو داود مهنا ثقة بصري",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 221
+    }
+  }
+}

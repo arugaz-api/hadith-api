@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2666,
+    "arabicnumber": 2666,
+    "text": "حدثنا محمد بن عيسى، وزياد بن ايوب، قالا حدثنا هشيم، اخبرنا مغيرة، عن شباك، عن ابراهيم، عن هنى بن نويرة، عن علقمة، عن عبد الله، قال قال رسول الله صلى الله عليه وسلم \" اعف الناس قتلة اهل الايمان",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 190
+    }
+  }
+}

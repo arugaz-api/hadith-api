@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3265,
+    "arabicnumber": 3265,
+    "text": "حدثنا محمد بن عبد العزيز بن ابي رزمة، اخبرني زيد بن حباب، اخبرني محمد بن هلال، حدثني ابي انه، سمع ابا هريرة، يقول : كانت يمين رسول الله صلى الله عليه وسلم اذا حلف يقول : \" لا، واستغفر الله",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 24
+    }
+  }
+}

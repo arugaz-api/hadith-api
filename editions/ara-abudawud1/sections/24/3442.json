@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3442,
+    "arabicnumber": 3442,
+    "text": "حدثنا عبد الله بن محمد النفيلي، حدثنا زهير، حدثنا ابو الزبير، عن جابر، قال قال رسول الله صلى الله عليه وسلم \" لا يبع حاضر لباد وذروا الناس يرزق الله بعضهم من بعض",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (1522)"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 27
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3241,
+    "arabicnumber": 3241,
+    "text": "حدثنا عثمان بن ابي شيبة، حدثنا جرير، عن منصور، عن الحكم، عن سعيد بن جبير، عن ابن عباس، قال وقصت برجل محرم ناقته فقتلته فاتي به رسول الله صلى الله عليه وسلم فقال \" اغسلوه وكفنوه ولا تغطوا راسه ولا تقربوه طيبا فانه يبعث يهل",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (1839)"
+      }
+    ],
+    "reference": {
+      "book": 21,
+      "hadith": 153
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3110,
+    "arabicnumber": 3110,
+    "text": "حدثنا مسدد، حدثنا يحيى، عن شعبة، عن منصور، عن تميم بن سلمة، او سعد بن عبيدة عن عبيد بن خالد السلمي، - رجل من اصحاب النبي صلى الله عليه وسلم قال مرة عن النبي صلى الله عليه وسلم ثم قال مرة عن عبيد - قال \" موت الفجاة اخذة اسف",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Muquf"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 21,
+      "hadith": 22
+    }
+  }
+}

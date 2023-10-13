@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 387,
+    "arabicnumber": 387,
+    "text": "حدثنا محمود بن خالد، حدثنا محمد، - يعني ابن عايذ - حدثني يحيى، - يعني ابن حمزة - عن الاوزاعي، عن محمد بن الوليد، اخبرني ايضا، سعيد بن ابي سعيد عن القعقاع بن حكيم، عن عايشة، عن رسول الله صلى الله عليه وسلم بمعناه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 387
+    }
+  }
+}

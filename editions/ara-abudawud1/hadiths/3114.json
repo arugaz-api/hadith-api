@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3114,
+    "arabicnumber": 3114,
+    "text": "حدثنا الحسن بن علي، حدثنا ابن ابي مريم، اخبرنا يحيى بن ايوب، عن ابن الهاد، عن محمد بن ابراهيم، عن ابي سلمة، عن ابي سعيد الخدري، انه لما حضره الموت دعا بثياب جدد فلبسها ثم قال سمعت رسول الله صلى الله عليه وسلم يقول \" ان الميت يبعث في ثيابه التي يموت فيها",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 21,
+      "hadith": 26
+    }
+  }
+}

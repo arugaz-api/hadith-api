@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1496,
+    "arabicnumber": 1496,
+    "text": "حدثنا مسدد، حدثنا عيسى بن يونس، حدثنا عبيد الله بن ابي زياد، عن شهر بن حوشب، عن اسماء بنت يزيد، ان النبي صلى الله عليه وسلم قال \" اسم الله الاعظم في هاتين الايتين { والهكم اله واحد لا اله الا هو الرحمن الرحيم } وفاتحة سورة ال عمران { الم * الله لا اله الا هو الحى القيوم}",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 8,
+      "hadith": 81
+    }
+  }
+}

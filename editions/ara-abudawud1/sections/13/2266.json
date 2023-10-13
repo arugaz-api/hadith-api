@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2266,
+    "arabicnumber": 2266,
+    "text": "حدثنا محمود بن خالد، حدثنا ابي، عن محمد بن راشد، باسناده ومعناه زاد وهو ولد زنا لاهل امه من كانوا حرة او امة وذلك فيما استلحق في اول الاسلام فما اقتسم من مال قبل الاسلام فقد مضى",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 13,
+      "hadith": 92
+    }
+  }
+}

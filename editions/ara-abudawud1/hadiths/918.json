@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 918,
+    "arabicnumber": 918,
+    "text": "حدثنا قتيبة، - يعني ابن سعيد - حدثنا الليث، عن سعيد بن ابي سعيد، عن عمرو بن سليم الزرقي، انه سمع ابا قتادة، يقول بينا نحن في المسجد جلوس خرج علينا رسول الله صلى الله عليه وسلم يحمل امامة بنت ابي العاص بن الربيع وامها زينب بنت رسول الله صلى الله عليه وسلم وهي صبية يحملها على عاتقه فصلى رسول الله صلى الله عليه وسلم وهي على عاتقه يضعها اذا ركع ويعيدها اذا قام حتى قضى صلاته يفعل ذلك بها",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (5996) Sahih Muslim (543)"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 529
+    }
+  }
+}

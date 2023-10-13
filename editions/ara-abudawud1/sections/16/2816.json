@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2816,
+    "arabicnumber": 2816,
+    "text": "حدثنا ابو الوليد الطيالسي، حدثنا شعبة، عن هشام بن زيد، قال دخلت مع انس على الحكم بن ايوب فراى فتيانا او غلمانا قد نصبوا دجاجة يرمونها فقال انس نهى رسول الله صلى الله عليه وسلم ان تصبر البهايم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (5513) Sahih Muslim (1956)"
+      }
+    ],
+    "reference": {
+      "book": 16,
+      "hadith": 29
+    }
+  }
+}

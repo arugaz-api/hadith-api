@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3916,
+    "arabicnumber": 3916,
+    "text": "حدثنا مسلم بن ابراهيم، حدثنا هشام، عن قتادة، عن انس، ان النبي صلى الله عليه وسلم قال \" لا عدوى ولا طيرة ويعجبني الفال الصالح والفال الصالح الكلمة الحسنة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 30,
+      "hadith": 13
+    }
+  }
+}

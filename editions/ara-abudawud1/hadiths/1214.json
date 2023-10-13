@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1214,
+    "arabicnumber": 1214,
+    "text": "حدثنا سليمان بن حرب، ومسدد، قالا حدثنا حماد بن زيد، ح وحدثنا عمرو بن عون، اخبرنا حماد بن زيد، عن عمرو بن دينار، عن جابر بن زيد، عن ابن عباس، قال صلى بنا رسول الله صلى الله عليه وسلم بالمدينة ثمانيا وسبعا الظهر والعصر والمغرب والعشاء . ولم يقل سليمان ومسدد بنا . قال ابو داود ورواه صالح مولى التوامة عن ابن عباس قال في غير مطر",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (543) Sahih Muslim (705)"
+      }
+    ],
+    "reference": {
+      "book": 4,
+      "hadith": 17
+    }
+  }
+}

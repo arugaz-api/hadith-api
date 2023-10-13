@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2053,
+    "arabicnumber": 2053,
+    "text": "حدثنا هناد بن السري، حدثنا عبثر، عن مطرف، عن عامر، عن ابي بردة، عن ابي موسى، قال قال رسول الله صلى الله عليه وسلم \" من اعتق جاريته وتزوجها كان له اجران",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (2544) Sahih Muslim (154 After  1427)"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 8
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4556,
+    "arabicnumber": 4556,
+    "text": "حدثنا اسحاق بن اسماعيل، حدثنا عبدة، - يعني ابن سليمان - حدثنا سعيد بن ابي عروبة، عن غالب التمار، عن حميد بن هلال، عن مسروق بن اوس، عن ابي موسى، عن النبي صلى الله عليه وسلم قال \" الاصابع سواء عشر عشر من الابل",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 41,
+      "hadith": 63
+    }
+  }
+}

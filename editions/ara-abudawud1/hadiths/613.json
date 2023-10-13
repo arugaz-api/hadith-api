@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 613,
+    "arabicnumber": 613,
+    "text": "حدثنا عثمان بن ابي شيبة، حدثنا محمد بن فضيل، عن هارون بن عنترة، عن عبد الرحمن بن الاسود، عن ابيه، قال استاذن علقمة والاسود على عبد الله وقد كنا اطلنا القعود على بابه فخرجت الجارية فاستاذنت لهما فاذن لهما ثم قام فصلى بيني وبينه ثم قال هكذا رايت رسول الله صلى الله عليه وسلم فعل",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 223
+    }
+  }
+}

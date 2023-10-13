@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3513,
+    "arabicnumber": 3513,
+    "text": "حدثنا احمد بن حنبل، حدثنا اسماعيل بن ابراهيم، عن ابن جريج، عن ابي الزبير، عن جابر، قال قال رسول الله صلى الله عليه وسلم \" الشفعة في كل شرك ربعة او حايط لا يصلح ان يبيع حتى يوذن شريكه فان باع فهو احق به حتى يوذنه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (1608)"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 98
+    }
+  }
+}

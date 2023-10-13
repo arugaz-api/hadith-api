@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2698,
+    "arabicnumber": 2698,
+    "text": "حدثنا صالح بن سهيل، حدثنا يحيى، - يعني ابن ابي زايدة - عن عبيد الله، عن نافع، عن ابن عمر، ان غلاما، لابن عمر ابق الى العدو فظهر عليه المسلمون فرده رسول الله صلى الله عليه وسلم الى ابن عمر ولم يقسم . قال ابو داود وقال غيره رده عليه خالد بن الوليد",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 222
+    }
+  }
+}

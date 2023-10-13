@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1687,
+    "arabicnumber": 1687,
+    "text": "حدثنا الحسن بن علي، حدثنا عبد الرزاق، اخبرنا معمر، عن همام بن منبه، قال سمعت ابا هريرة، يقول قال رسول الله صلى الله عليه وسلم \" اذا انفقت المراة من كسب زوجها من غير امره فلها نصف اجره",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (5360) Sahih Muslim (1026)"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 132
+    }
+  }
+}

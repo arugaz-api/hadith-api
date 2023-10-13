@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 809,
+    "arabicnumber": 809,
+    "text": "حدثنا زياد بن ايوب، حدثنا هشيم، اخبرنا حصين، عن عكرمة، عن ابن عباس، قال لا ادري اكان رسول الله صلى الله عليه وسلم يقرا في الظهر والعصر ام لا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 419
+    }
+  }
+}

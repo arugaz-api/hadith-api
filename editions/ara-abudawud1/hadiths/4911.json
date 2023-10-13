@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4911,
+    "arabicnumber": 4911,
+    "text": "حدثنا عبد الله بن مسلمة، عن مالك، عن ابن شهاب، عن عطاء بن يزيد الليثي، عن ابي ايوب الانصاري، ان رسول الله صلى الله عليه وسلم قال \" لا يحل لمسلم ان يهجر اخاه فوق ثلاثة ايام يلتقيان فيعرض هذا ويعرض هذا وخيرهما الذي يبدا بالسلام",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (6077) Sahih Muslim (2560)"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 139
+    }
+  }
+}

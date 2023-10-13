@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4042,
+    "arabicnumber": 4042,
+    "text": "حدثنا موسى بن اسماعيل، حدثنا حماد، حدثنا عاصم الاحول، عن ابي عثمان النهدي، قال كتب عمر الى عتبة بن فرقد ان النبي صلى الله عليه وسلم نهى عن الحرير الا ما كان هكذا وهكذا اصبعين وثلاثة واربعة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (5829) Sahih Muslim (2069)"
+      }
+    ],
+    "reference": {
+      "book": 34,
+      "hadith": 23
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2075,
+    "arabicnumber": 2075,
+    "text": "حدثنا محمد بن يحيى بن فارس، حدثنا يعقوب بن ابراهيم، حدثنا ابي، عن ابن اسحاق، حدثني عبد الرحمن بن هرمز الاعرج، ان العباس بن عبد الله بن العباس، انكح عبد الرحمن بن الحكم ابنته وانكحه عبد الرحمن ابنته وكانا جعلا صداقا فكتب معاوية الى مروان يامره بالتفريق بينهما وقال في كتابه هذا الشغار الذي نهى عنه رسول الله صلى الله عليه وسلم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 30
+    }
+  }
+}

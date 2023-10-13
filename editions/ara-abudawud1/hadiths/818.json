@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 818,
+    "arabicnumber": 818,
+    "text": "حدثنا ابو الوليد الطيالسي، حدثنا همام، عن قتادة، عن ابي نضرة، عن ابي سعيد، قال امرنا ان نقرا، بفاتحة الكتاب وما تيسر",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sanad Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 428
+    }
+  }
+}

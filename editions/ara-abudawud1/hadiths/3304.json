@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3304,
+    "arabicnumber": 3304,
+    "text": "حدثنا شعيب بن ايوب، حدثنا معاوية بن هشام، عن سفيان، عن ابيه، عن عكرمة، عن عقبة بن عامر الجهني، انه قال للنبي صلى الله عليه وسلم : ان اختي نذرت ان تمشي الى البيت . فقال : \" ان الله لا يصنع بمشى اختك الى البيت شييا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 63
+    }
+  }
+}

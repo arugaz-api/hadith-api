@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1448,
+    "arabicnumber": 1448,
+    "text": "حدثنا مسدد، حدثنا يحيى، عن عبيد الله، اخبرنا نافع، عن ابن عمر، قال قال رسول الله صلى الله عليه وسلم \" اجعلوا في بيوتكم من صلاتكم ولا تتخذوها قبورا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (432) Sahih Muslim (77)"
+      }
+    ],
+    "reference": {
+      "book": 8,
+      "hadith": 33
+    }
+  }
+}

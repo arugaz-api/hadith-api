@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3277,
+    "arabicnumber": 3277,
+    "text": "حدثنا محمد بن الصباح البزاز، حدثنا هشيم، اخبرنا يونس، ومنصور، - يعني ابن زاذان - عن الحسن، عن عبد الرحمن بن سمرة، قال قال لي النبي صلى الله عليه وسلم : \" يا عبد الرحمن بن سمرة اذا حلفت على يمين فرايت غيرها خيرا منها، فات الذي هو خير وكفر يمينك \" . قال ابو داود : سمعت احمد يرخص فيها الكفارة قبل الحنث",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (6722) Sahih Muslim (1652)"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 36
+    }
+  }
+}

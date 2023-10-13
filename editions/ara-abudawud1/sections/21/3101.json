@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3101,
+    "arabicnumber": 3101,
+    "text": "حدثنا عثمان بن ابي شيبة، حدثنا عبد الله بن نمير، عن هشام بن عروة، عن ابيه، عن عايشة، قالت لما اصيب سعد بن معاذ يوم الخندق رماه رجل في الاكحل فضرب عليه رسول الله صلى الله عليه وسلم خيمة في المسجد فيعوده من قريب",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (463) Sahih Muslim (1769)"
+      }
+    ],
+    "reference": {
+      "book": 21,
+      "hadith": 13
+    }
+  }
+}

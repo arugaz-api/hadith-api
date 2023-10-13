@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4908,
+    "arabicnumber": 4908,
+    "text": "حدثنا مسلم بن ابراهيم، حدثنا ابان، ح وحدثنا زيد بن اخزم الطايي، حدثنا بشر بن عمر، حدثنا ابان بن يزيد العطار، حدثنا قتادة، عن ابي العالية، - قال زيد - عن ابن عباس، ان رجلا، لعن الريح - وقال مسلم ان رجلا نازعته الريح رداءه على عهد النبي صلى الله عليه وسلم فلعنها - فقال النبي صلى الله عليه وسلم \" لا تلعنها فانها مامورة وانه من لعن شييا ليس له باهل رجعت اللعنة عليه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 136
+    }
+  }
+}

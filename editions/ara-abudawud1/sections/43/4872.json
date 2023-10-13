@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4872,
+    "arabicnumber": 4872,
+    "text": "حدثنا مسدد، حدثنا سفيان، عن ابي الزناد، عن الاعرج، عن ابي هريرة، ان النبي صلى الله عليه وسلم قال \" من شر الناس ذو الوجهين الذي ياتي هولاء بوجه وهولاء بوجه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 100
+    }
+  }
+}

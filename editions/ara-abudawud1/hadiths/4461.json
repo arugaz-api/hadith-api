@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4461,
+    "arabicnumber": 4461,
+    "text": "حدثنا علي بن الحسن الدرهمي، حدثنا عبد الاعلى، عن سعيد، عن قتادة، عن الحسن، عن سلمة بن المحبق، عن النبي صلى الله عليه وسلم نحوه الا انه قال وان كانت طاوعته فهي حرة ومثلها من ماله لسيدتها",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 40,
+      "hadith": 111
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4038,
+    "arabicnumber": 4038,
+    "text": "حدثنا عثمان بن محمد الانماطي البصري، حدثنا عبد الرحمن بن عبد الله الرازي، ح وحدثنا احمد بن عبد الرحمن الرازي، حدثنا ابي، اخبرني ابي عبد الله بن سعد، عن ابيه، سعد قال رايت رجلا ببخارى على بغلة بيضاء عليه عمامة خز سوداء فقال كسانيها رسول الله صلى الله عليه وسلم . هذا لفظ عثمان والاخبار في حديثه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif Isnaad"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif Isnaad"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 34,
+      "hadith": 19
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2726,
+    "arabicnumber": 2726,
+    "text": "حدثنا محبوب بن موسى ابو صالح، اخبرنا ابو اسحاق الفزاري، عن كليب بن وايل، عن هاني بن قيس، عن حبيب بن ابي مليكة، عن ابن عمر، قال ان رسول الله صلى الله عليه وسلم قام - يعني يوم بدر - فقال \" ان عثمان انطلق في حاجة الله وحاجة رسول الله واني ابايع له \" . فضرب له رسول الله صلى الله عليه وسلم بسهم ولم يضرب لاحد غاب غيره",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 250
+    }
+  }
+}

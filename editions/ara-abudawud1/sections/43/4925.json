@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4925,
+    "arabicnumber": 4925,
+    "text": "حدثنا محمود بن خالد، حدثنا ابي، حدثنا مطعم بن المقدام، قال حدثنا نافع، قال كنت ردف ابن عمر اذ مر براع يزمر فذكر نحوه . قال ابو داود ادخل بين مطعم ونافع سليمان بن موسى",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih Isnaad"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan Sahih Isnaad"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 153
+    }
+  }
+}

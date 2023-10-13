@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1524,
+    "arabicnumber": 1524,
+    "text": "حدثنا احمد بن علي بن سويد السدوسي، حدثنا ابو داود، عن اسراييل، عن ابي اسحاق، عن عمرو بن ميمون، عن عبد الله، ان رسول الله صلى الله عليه وسلم كان يعجبه ان يدعو ثلاثا ويستغفر ثلاثا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 8,
+      "hadith": 109
+    }
+  }
+}

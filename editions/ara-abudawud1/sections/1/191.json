@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 191,
+    "arabicnumber": 191,
+    "text": "حدثنا ابراهيم بن الحسن الخثعمي، حدثنا حجاج، قال ابن جريج اخبرني محمد بن المنكدر، قال سمعت جابر بن عبد الله، يقول قربت للنبي صلى الله عليه وسلم خبزا ولحما فاكل ثم دعا بوضوء فتوضا به ثم صلى الظهر ثم دعا بفضل طعامه فاكل ثم قام الى الصلاة ولم يتوضا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 191
+    }
+  }
+}

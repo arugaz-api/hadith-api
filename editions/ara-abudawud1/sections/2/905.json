@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 905,
+    "arabicnumber": 905,
+    "text": "حدثنا احمد بن محمد بن حنبل، حدثنا عبد الملك بن عمرو، حدثنا هشام، - يعني ابن سعد - عن زيد بن اسلم، عن عطاء بن يسار، عن زيد بن خالد الجهني، ان النبي صلى الله عليه وسلم قال \" من توضا فاحسن وضوءه ثم صلى ركعتين لا يسهو فيهما غفر له ما تقدم من ذنبه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 515
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1633,
+    "arabicnumber": 1633,
+    "text": "حدثنا مسدد، حدثنا عيسى بن يونس، حدثنا هشام بن عروة، عن ابيه، عن عبيد الله بن عدي بن الخيار، قال اخبرني رجلان، انهما اتيا النبي صلى الله عليه وسلم في حجة الوداع وهو يقسم الصدقة فسالاه منها فرفع فينا البصر وخفضه فرانا جلدين فقال \" ان شيتما اعطيتكما ولا حظ فيها لغني ولا لقوي مكتسب",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 78
+    }
+  }
+}

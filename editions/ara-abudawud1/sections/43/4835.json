@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4835,
+    "arabicnumber": 4835,
+    "text": "حدثنا عثمان بن ابي شيبة، حدثنا ابو اسامة، حدثنا بريد بن عبد الله، عن جده ابي بردة، عن ابي موسى، قال كان رسول الله صلى الله عليه وسلم اذا بعث احدا من اصحابه في بعض امره قال \" بشروا ولا تنفروا ويسروا ولا تعسروا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (1732)"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 63
+    }
+  }
+}

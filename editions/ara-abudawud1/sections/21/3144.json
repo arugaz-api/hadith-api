@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3144,
+    "arabicnumber": 3144,
+    "text": "حدثنا محمد بن المثنى، حدثنا عبد الاعلى، حدثنا هشام، عن حفصة بنت سيرين، عن ام عطية، قالت وضفرنا راسها ثلاثة قرون ثم القيناها خلفها مقدم راسها وقرنيها",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (1263) Sahih Muslim (939)"
+      }
+    ],
+    "reference": {
+      "book": 21,
+      "hadith": 56
+    }
+  }
+}

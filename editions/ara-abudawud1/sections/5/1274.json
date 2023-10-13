@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1274,
+    "arabicnumber": 1274,
+    "text": "حدثنا مسلم بن ابراهيم، حدثنا شعبة، عن منصور، عن هلال بن يساف، عن وهب بن الاجدع، عن علي، ان النبي صلى الله عليه وسلم نهى عن الصلاة بعد العصر الا والشمس مرتفعة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 25
+    }
+  }
+}

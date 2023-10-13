@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4873,
+    "arabicnumber": 4873,
+    "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا شريك، عن الركين بن الربيع، عن نعيم بن حنظلة، عن عمار، قال قال رسول الله صلى الله عليه وسلم \" من كان له وجهان في الدنيا كان له يوم القيامة لسانان من نار",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 101
+    }
+  }
+}

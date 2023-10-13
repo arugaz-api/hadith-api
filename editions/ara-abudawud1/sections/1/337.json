@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 337,
+    "arabicnumber": 337,
+    "text": "حدثنا نصر بن عاصم الانطاكي، حدثنا محمد بن شعيب، اخبرني الاوزاعي، انه بلغه عن عطاء بن ابي رباح، انه سمع عبد الله بن عباس، قال اصاب رجلا جرح في عهد رسول الله صلى الله عليه وسلم ثم احتلم فامر بالاغتسال فاغتسل فمات فبلغ رسول الله صلى الله عليه وسلم فقال \" قتلوه قتلهم الله الم يكن شفاء العي السوال",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 337
+    }
+  }
+}

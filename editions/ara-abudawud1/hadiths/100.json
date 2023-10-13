@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 100,
+    "arabicnumber": 100,
+    "text": "حدثنا الحسن بن علي، حدثنا ابو الوليد، وسهل بن حماد، قالا حدثنا عبد العزيز بن عبد الله بن ابي سلمة، عن عمرو بن يحيى، عن ابيه، عن عبد الله بن زيد، قال جاءنا رسول الله صلى الله عليه وسلم فاخرجنا له ماء في تور من صفر فتوضا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (191، 197) Sahih Muslim (235)"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 100
+    }
+  }
+}

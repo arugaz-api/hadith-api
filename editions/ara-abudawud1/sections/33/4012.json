@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4012,
+    "arabicnumber": 4012,
+    "text": "حدثنا عبد الله بن محمد بن نفيل، حدثنا زهير، عن عبد الملك بن ابي سليمان العرزمي، عن عطاء، عن يعلى، ان رسول الله صلى الله عليه وسلم راى رجلا يغتسل بالبراز بلا ازار فصعد المنبر فحمد الله واثنى عليه ثم قال صلى الله عليه وسلم \" ان الله عز وجل حيي ستير يحب الحياء والستر فاذا اغتسل احدكم فليستتر",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 33,
+      "hadith": 4
+    }
+  }
+}

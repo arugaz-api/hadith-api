@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3210,
+    "arabicnumber": 3210,
+    "text": "حدثنا محمد بن الصباح، اخبرنا سفيان، عن ابن خالد، عن الشعبي، عن ابي مرحب، ان عبد الرحمن بن عوف، نزل في قبر النبي صلى الله عليه وسلم قال كاني انظر اليهم اربعة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 21,
+      "hadith": 122
+    }
+  }
+}

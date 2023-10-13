@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4736,
+    "arabicnumber": 4736,
+    "text": "حدثنا اسماعيل بن عمر، اخبرنا ابراهيم بن موسى، اخبرنا ابن ابي زايدة، عن مجالد، عن عامر، - يعني الشعبي - عن عامر بن شهر، قال : كنت عند النجاشي فقرا ابن له اية من الانجيل فضحكت فقال : اتضحك من كلام الله",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 42,
+      "hadith": 141
+    }
+  }
+}

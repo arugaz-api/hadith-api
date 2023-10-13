@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3035,
+    "arabicnumber": 3035,
+    "text": "حدثنا احمد بن عبد الله بن يونس، حدثنا زهير، حدثنا سهيل بن ابي صالح، عن ابيه، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" منعت العراق قفيزها ودرهمها ومنعت الشام مديها ودينارها ومنعت مصر اردبها ودينارها ثم عدتم من حيث بداتم \" . قالها زهير ثلاث مرات شهد على ذلك لحم ابي هريرة ودمه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (2896)"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 108
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2764,
+    "arabicnumber": 2764,
+    "text": "حدثنا عثمان بن ابي شيبة، حدثنا سفيان بن عيينة، عن منصور، عن ابراهيم، عن الاسود، عن عايشة، قالت ان كانت المراة لتجير على المومنين فيجوز",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 288
+    }
+  }
+}

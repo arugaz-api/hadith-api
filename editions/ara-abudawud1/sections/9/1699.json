@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1699,
+    "arabicnumber": 1699,
+    "text": "حدثنا مسدد، حدثنا اسماعيل، اخبرنا ايوب، حدثنا عبد الله بن ابي مليكة، حدثتني اسماء بنت ابي بكر، قالت قلت يا رسول الله ما لي شىء الا ما ادخل على الزبير بيته افاعطي منه قال \" اعطي ولا توكي فيوكي عليك",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 144
+    }
+  }
+}

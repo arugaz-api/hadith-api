@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 366,
+    "arabicnumber": 366,
+    "text": "حدثنا عيسى بن حماد المصري، اخبرنا الليث، عن يزيد بن ابي حبيب، عن سويد بن قيس، عن معاوية بن حديج، عن معاوية بن ابي سفيان، انه سال اخته ام حبيبة زوج النبي صلى الله عليه وسلم هل كان رسول الله صلى الله عليه وسلم يصلي في الثوب الذي يجامعها فيه فقالت نعم اذا لم ير فيه اذى",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 366
+    }
+  }
+}

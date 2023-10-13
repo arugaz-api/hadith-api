@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3168,
+    "arabicnumber": 3168,
+    "text": "حدثنا مسدد، حدثنا سفيان، عن سمى، عن ابي صالح، عن ابي هريرة، يرويه قال من تبع جنازة فصلى عليها فله قيراط ومن تبعها حتى يفرغ منها فله قيراطان اصغرهما مثل احد او احدهما مثل احد",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 21,
+      "hadith": 80
+    }
+  }
+}

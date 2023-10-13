@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3195,
+    "arabicnumber": 3195,
+    "text": "حدثنا مسدد، حدثنا يزيد بن زريع، حدثنا حسين المعلم، حدثنا عبد الله بن بريدة، عن سمرة بن جندب، قال صليت وراء النبي صلى الله عليه وسلم على امراة ماتت في نفاسها فقام عليها للصلاة وسطها",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (1331) Sahih Muslim (964)"
+      }
+    ],
+    "reference": {
+      "book": 21,
+      "hadith": 107
+    }
+  }
+}

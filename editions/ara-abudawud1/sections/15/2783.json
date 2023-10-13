@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2783,
+    "arabicnumber": 2783,
+    "text": "حدثنا جعفر بن مسافر التنيسي، حدثنا ابن ابي فديك، حدثنا الزمعي، عن الزبير بن عثمان بن عبد الله بن سراقة، ان محمد بن عبد الرحمن بن ثوبان، اخبره ان ابا سعيد الخدري اخبره ان رسول الله صلى الله عليه وسلم قال \" اياكم والقسامة \" . قال فقلنا وما القسامة قال \" الشىء يكون بين الناس فيجيء فينتقص منه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 307
+    }
+  }
+}

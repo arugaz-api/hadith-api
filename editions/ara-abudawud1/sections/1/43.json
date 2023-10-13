@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 43,
+    "arabicnumber": 43,
+    "text": "حدثنا وهب بن بقية، عن خالد، - يعني الواسطي - عن خالد، - يعني الحذاء - عن عطاء بن ابي ميمونة، عن انس بن مالك، ان رسول الله صلى الله عليه وسلم دخل حايطا ومعه غلام معه ميضاة وهو اصغرنا فوضعها عند السدرة فقضى حاجته فخرج علينا وقد استنجى بالماء",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (152) Sahih Muslim (270)"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 43
+    }
+  }
+}

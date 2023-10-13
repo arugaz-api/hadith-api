@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 90,
+    "arabicnumber": 90,
+    "text": "حدثنا محمد بن عيسى، حدثنا ابن عياش، عن حبيب بن صالح، عن يزيد بن شريح الحضرمي، عن ابي حى الموذن، عن ثوبان، قال قال رسول الله صلى الله عليه وسلم \" ثلاث لا يحل لاحد ان يفعلهن لا يوم رجل قوما فيخص نفسه بالدعاء دونهم فان فعل فقد خانهم ولا ينظر في قعر بيت قبل ان يستاذن فان فعل فقد دخل ولا يصلي وهو حقن حتى يتخفف",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 90
+    }
+  }
+}

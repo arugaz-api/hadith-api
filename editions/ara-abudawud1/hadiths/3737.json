@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3737,
+    "arabicnumber": 3737,
+    "text": "حدثنا مخلد بن خالد، حدثنا ابو اسامة، عن عبيد الله، عن نافع، عن ابن عمر، قال قال رسول الله صلى الله عليه وسلم بمعناه زاد \" فان كان مفطرا فليطعم وان كان صايما فليدع",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (1429)"
+      }
+    ],
+    "reference": {
+      "book": 28,
+      "hadith": 2
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2593,
+    "arabicnumber": 2593,
+    "text": "حدثنا عقبة بن مكرم، حدثنا سلم بن قتيبة الشعيري، عن شعبة، عن سماك، عن رجل، من قومه عن اخر، منهم قال رايت راية رسول الله صلى الله عليه وسلم صفراء",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 117
+    }
+  }
+}

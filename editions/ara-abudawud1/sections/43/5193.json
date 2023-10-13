@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 5193,
+    "arabicnumber": 5193,
+    "text": "حدثنا احمد بن ابي شعيب، حدثنا زهير، حدثنا الاعمش، عن ابي صالح، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" والذي نفسي بيده لا تدخلوا الجنة حتى تومنوا ولا تومنوا حتى تحابوا افلا ادلكم على امر اذا فعلتموه تحاببتم افشوا السلام بينكم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (54)"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 421
+    }
+  }
+}

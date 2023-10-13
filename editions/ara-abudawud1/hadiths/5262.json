@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 5262,
+    "arabicnumber": 5262,
+    "text": "حدثنا احمد بن محمد بن حنبل، حدثنا عبد الرزاق، حدثنا معمر، عن الزهري، عن عامر بن سعد، عن ابيه، قال امر رسول الله صلى الله عليه وسلم بقتل الوزغ وسماه فويسقا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (2238)"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 490
+    }
+  }
+}

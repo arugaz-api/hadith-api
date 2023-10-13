@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 573,
+    "arabicnumber": 573,
+    "text": "حدثنا ابو الوليد الطيالسي، حدثنا شعبة، عن سعد بن ابراهيم، قال سمعت ابا سلمة، عن ابي هريرة، عن النبي صلى الله عليه وسلم قال \" ايتوا الصلاة وعليكم السكينة فصلوا ما ادركتم واقضوا ما سبقكم \" . قال ابو داود وكذا قال ابن سيرين عن ابي هريرة \" وليقض \" . وكذا ابو رافع عن ابي هريرة وابو ذر روي عنه \" فاتموا واقضوا \" . واختلف عنه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 183
+    }
+  }
+}

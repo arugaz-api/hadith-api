@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3251,
+    "arabicnumber": 3251,
+    "text": "حدثنا محمد بن العلاء، حدثنا ابن ادريس، قال سمعت الحسن بن عبيد الله، عن سعد بن عبيدة، قال سمع ابن عمر، رجلا يحلف لا والكعبة فقال له ابن عمر اني سمعت رسول الله صلى الله عليه وسلم يقول \" من حلف بغير الله فقد اشرك",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 10
+    }
+  }
+}

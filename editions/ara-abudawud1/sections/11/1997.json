@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1997,
+    "arabicnumber": 1997,
+    "text": "حدثنا داود بن رشيد، حدثنا يحيى بن زكريا، حدثنا محمد بن اسحاق، عن ابان بن صالح، وعن ابن ابي نجيح، عن مجاهد، عن ابن عباس، ان رسول الله صلى الله عليه وسلم اقام في عمرة القضاء ثلاثا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 11,
+      "hadith": 277
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 5172,
+    "arabicnumber": 5172,
+    "text": "حدثنا موسى بن اسماعيل، حدثنا حماد، عن سهيل، عن ابيه، قال حدثنا ابو هريرة، انه سمع رسول الله صلى الله عليه وسلم يقول \" من اطلع في دار قوم بغير اذنهم ففقاوا عينه فقد هدرت عينه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (2158)"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 400
+    }
+  }
+}

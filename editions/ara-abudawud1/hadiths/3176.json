@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3176,
+    "arabicnumber": 3176,
+    "text": "حدثنا هشام بن بهرام المدايني، اخبرنا حاتم بن اسماعيل، حدثنا ابو الاسباط الحارثي، عن عبد الله بن سليمان بن جنادة بن ابي امية، عن ابيه، عن جده، عن عبادة بن الصامت، قال كان رسول الله صلى الله عليه وسلم يقوم في الجنازة حتى توضع في اللحد فمر به حبر من اليهود فقال هكذا نفعل . فجلس النبي صلى الله عليه وسلم وقال \" اجلسوا خالفوهم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 21,
+      "hadith": 88
+    }
+  }
+}

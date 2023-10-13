@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1225,
+    "arabicnumber": 1225,
+    "text": "حدثنا مسدد، حدثنا ربعي بن عبد الله بن الجارود، حدثني عمرو بن ابي الحجاج، حدثني الجارود بن ابي سبرة، حدثني انس بن مالك، ان رسول الله صلى الله عليه وسلم كان اذا سافر فاراد ان يتطوع استقبل بناقته القبلة فكبر ثم صلى حيث وجهه ركابه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 4,
+      "hadith": 28
+    }
+  }
+}

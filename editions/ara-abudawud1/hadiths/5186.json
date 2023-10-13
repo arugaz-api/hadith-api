@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 5186,
+    "arabicnumber": 5186,
+    "text": "حدثنا مومل بن الفضل الحراني، - في اخرين - قالوا حدثنا بقية بن الوليد، حدثنا محمد بن عبد الرحمن، عن عبد الله بن بسر، قال كان رسول الله صلى الله عليه وسلم اذا اتى باب قوم لم يستقبل الباب من تلقاء وجهه ولكن من ركنه الايمن او الايسر ويقول \" السلام عليكم السلام عليكم \" . وذلك ان الدور لم يكن عليها يوميذ ستور",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 414
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1880,
+    "arabicnumber": 1880,
+    "text": "حدثنا احمد بن حنبل، حدثنا يحيى، عن ابن جريج، اخبرني ابو الزبير، انه سمع جابر بن عبد الله، يقول طاف النبي صلى الله عليه وسلم في حجة الوداع على راحلته بالبيت وبالصفا والمروة ليراه الناس وليشرف وليسالوه فان الناس غشوه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (1273)"
+      }
+    ],
+    "reference": {
+      "book": 11,
+      "hadith": 160
+    }
+  }
+}

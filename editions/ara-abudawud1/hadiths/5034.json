@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 5034,
+    "arabicnumber": 5034,
+    "text": "حدثنا مسدد، حدثنا يحيى، عن ابن عجلان، قال حدثني سعيد بن ابي سعيد، عن ابي هريرة، قال شمت اخاك ثلاثا فما زاد فهو زكام",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 262
+    }
+  }
+}

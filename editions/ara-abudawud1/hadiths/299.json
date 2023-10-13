@@ -1,0 +1,22 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 299,
+    "arabicnumber": 299,
+    "text": "حدثنا احمد بن سنان القطان الواسطي، حدثنا يزيد، عن ايوب بن ابي مسكين، عن الحجاج، عن ام كلثوم، عن عايشة، في المستحاضة تغتسل - تعني مرة واحدة - ثم توضا الى ايام اقرايها",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 299
+    }
+  }
+}

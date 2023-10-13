@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3494,
+    "arabicnumber": 3494,
+    "text": "حدثنا احمد بن حنبل، حدثنا يحيى، عن عبيد الله، اخبرني نافع، عن ابن عمر، قال كانوا يتبايعون الطعام جزافا باعلى السوق فنهى رسول الله صلى الله عليه وسلم ان يبيعوه حتى ينقلوه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (1526)"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 79
+    }
+  }
+}

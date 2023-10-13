@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 5055,
+    "arabicnumber": 5055,
+    "text": "حدثنا النفيلي، حدثنا زهير، حدثنا ابو اسحاق، عن فروة بن نوفل، عن ابيه، ان النبي صلى الله عليه وسلم قال لنوفل \" اقرا { قل يا ايها الكافرون } ثم نم على خاتمتها فانها براءة من الشرك",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 283
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3098,
+    "arabicnumber": 3098,
+    "text": "حدثنا محمد بن كثير، اخبرنا شعبة، عن الحكم، عن عبد الله بن نافع، عن علي، قال ما من رجل يعود مريضا ممسيا الا خرج معه سبعون الف ملك يستغفرون له حتى يصبح وكان له خريف في الجنة ومن اتاه مصبحا خرج معه سبعون الف ملك يستغفرون له حتى يمسي وكان له خريف في الجنة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Muquf"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih Muquf"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 21,
+      "hadith": 10
+    }
+  }
+}

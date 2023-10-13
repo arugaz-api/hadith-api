@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4154,
+    "arabicnumber": 4154,
+    "text": "حدثنا عثمان بن ابي شيبة، حدثنا جرير، عن سهيل، باسناده مثله قال فقلت يا امه ان هذا حدثني ان النبي صلى الله عليه وسلم قال وقال فيه سعيد بن يسار مولى بني النجار",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 34,
+      "hadith": 135
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3805,
+    "arabicnumber": 3805,
+    "text": "حدثنا محمد بن بشار، عن ابن ابي عدي، عن ابن ابي عروبة، عن علي بن الحكم، عن ميمون بن مهران، عن سعيد بن جبير، عن ابن عباس، قال نهى رسول الله صلى الله عليه وسلم يوم خيبر عن اكل كل ذي ناب من السباع وعن كل ذي مخلب من الطير",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 28,
+      "hadith": 70
+    }
+  }
+}

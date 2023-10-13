@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 632,
+    "arabicnumber": 632,
+    "text": "حدثنا القعنبي، حدثنا عبد العزيز، - يعني ابن محمد - عن موسى بن ابراهيم، عن سلمة بن الاكوع، قال قلت يا رسول الله اني رجل اصيد افاصلي في القميص الواحد قال \" نعم وازرره ولو بشوكة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 242
+    }
+  }
+}

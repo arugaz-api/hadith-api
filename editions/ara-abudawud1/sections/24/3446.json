@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3446,
+    "arabicnumber": 3446,
+    "text": "حدثنا ابو كامل، حدثنا عبد الواحد، حدثنا صدقة بن سعيد، عن جميع بن عمير التيمي، قال سمعت عبد الله بن عمر، يقول قال رسول الله صلى الله عليه وسلم \" من ابتاع محفلة فهو بالخيار ثلاثة ايام فان ردها رد معها مثل او مثلى لبنها قمحا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 31
+    }
+  }
+}

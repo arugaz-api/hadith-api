@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4616,
+    "arabicnumber": 4616,
+    "text": "حدثنا ابو كامل، حدثنا اسماعيل، حدثنا خالد الحذاء، قال قلت للحسن { ما انتم عليه بفاتنين * الا من هو صال الجحيم } قال الا من اوجب الله تعالى عليه انه يصلى الجحيم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad Maqtu"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih Isnaad Maqtu"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 42,
+      "hadith": 21
+    }
+  }
+}

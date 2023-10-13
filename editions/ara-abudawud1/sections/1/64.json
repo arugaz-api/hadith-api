@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 64,
+    "arabicnumber": 64,
+    "text": "حدثنا موسى بن اسماعيل، حدثنا حماد، ح وحدثنا ابو كامل، حدثنا يزيد، - يعني ابن زريع - عن محمد بن اسحاق، عن محمد بن جعفر، - قال ابو كامل ابن الزبير - عن عبيد الله بن عبد الله بن عمر، عن ابيه، ان رسول الله صلى الله عليه وسلم سيل عن الماء يكون في الفلاة . فذكر معناه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 64
+    }
+  }
+}

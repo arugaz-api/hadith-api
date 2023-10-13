@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4058,
+    "arabicnumber": 4058,
+    "text": "حدثنا عمرو بن عثمان، وكثير بن عبيد الحمصيان، قالا حدثنا بقية، عن الزبيدي، عن الزهري، عن انس بن مالك، انه حدثه انه، راى على ام كلثوم بنت رسول الله صلى الله عليه وسلم بردا سيراء . قال والسيراء المضلع بالقز",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 34,
+      "hadith": 39
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1009,
+    "arabicnumber": 1009,
+    "text": "حدثنا عبد الله بن مسلمة، عن مالك، عن ايوب، عن محمد، باسناده - وحديث حماد اتم - قال صلى رسول الله صلى الله عليه وسلم لم يقل بنا . ولم يقل فاوميوا . قال فقال الناس نعم . قال ثم رفع - ولم يقل وكبر - ثم كبر وسجد مثل سجوده او اطول ثم رفع وتم حديثه لم يذكر ما بعده ولم يذكر فاوميوا . الا حماد بن زيد . قال ابو داود وكل من روى هذا الحديث لم يقل فكبر . ولا ذكر رجع",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (714)"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 620
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 758,
+    "arabicnumber": 758,
+    "text": "حدثنا مسدد، حدثنا عبد الواحد بن زياد، عن عبد الرحمن بن اسحاق الكوفي، عن سيار ابي الحكم، عن ابي وايل، قال قال ابو هريرة اخذ الاكف على الاكف في الصلاة تحت السرة . قال ابو داود سمعت احمد بن حنبل يضعف عبد الرحمن بن اسحاق الكوفي",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 368
+    }
+  }
+}

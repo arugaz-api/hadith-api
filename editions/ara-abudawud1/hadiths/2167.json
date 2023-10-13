@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2167,
+    "arabicnumber": 2167,
+    "text": "حدثنا محمد بن العلاء، ومسدد، قالا حدثنا حفص، عن الشيباني، عن عبد الله بن شداد، عن خالته، ميمونة بنت الحارث ان رسول الله صلى الله عليه وسلم كان اذا اراد ان يباشر امراة من نسايه وهي حايض امرها ان تتزر ثم يباشرها",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (303) Sahih Muslim (293)"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 122
+    }
+  }
+}

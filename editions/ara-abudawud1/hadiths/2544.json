@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2544,
+    "arabicnumber": 2544,
+    "text": "حدثنا محمد بن عوف الطايي، حدثنا ابو المغيرة، حدثنا محمد بن مهاجر، حدثنا عقيل بن شبيب، عن ابي وهب، قال قال رسول الله صلى الله عليه وسلم : \" عليكم بكل اشقر اغر محجل، او كميت اغر \" . فذكر نحوه . قال محمد - يعني ابن مهاجر - سالته : لم فضل الاشقر قال : لان النبي صلى الله عليه وسلم بعث سرية فكان اول من جاء بالفتح صاحب اشقر",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 68
+    }
+  }
+}

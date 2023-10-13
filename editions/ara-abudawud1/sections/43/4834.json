@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4834,
+    "arabicnumber": 4834,
+    "text": "حدثنا هارون بن زيد بن ابي الزرقاء، حدثنا ابي، حدثنا جعفر، - يعني ابن برقان - عن يزيد، - يعني ابن الاصم - عن ابي هريرة، يرفعه قال \" الارواح جنود مجندة فما تعارف منها ايتلف وما تناكر منها اختلف",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (2638)"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 62
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4184,
+    "arabicnumber": 4184,
+    "text": "حدثنا حفص بن عمر، حدثنا شعبة، عن ابي اسحاق، عن البراء، قال كان رسول الله صلى الله عليه وسلم له شعر يبلغ شحمة اذنيه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 35,
+      "hadith": 26
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4124,
+    "arabicnumber": 4124,
+    "text": "حدثنا عبد الله بن مسلمة، عن مالك، عن يزيد بن عبد الله بن قسيط، عن محمد بن عبد الرحمن بن ثوبان، عن امه، عن عايشة، زوج النبي صلى الله عليه وسلم ان رسول الله صلى الله عليه وسلم امر ان يستمتع بجلود الميتة اذا دبغت",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 34,
+      "hadith": 105
+    }
+  }
+}

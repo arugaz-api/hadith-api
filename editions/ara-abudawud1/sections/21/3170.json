@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3170,
+    "arabicnumber": 3170,
+    "text": "حدثنا الوليد بن شجاع السكوني، حدثنا ابن وهب، اخبرني ابو صخر، عن شريك بن عبد الله بن ابي نمر، عن كريب، عن ابن عباس، قال سمعت النبي صلى الله عليه وسلم يقول \" ما من مسلم يموت فيقوم على جنازته اربعون رجلا لا يشركون بالله شييا الا شفعوا فيه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (948)"
+      }
+    ],
+    "reference": {
+      "book": 21,
+      "hadith": 82
+    }
+  }
+}

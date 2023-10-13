@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2460,
+    "arabicnumber": 2460,
+    "text": "حدثنا عبد الله بن سعيد، حدثنا ابو خالد، عن هشام، عن ابن سيرين، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" اذا دعي احدكم فليجب فان كان مفطرا فليطعم وان كان صايما فليصل \" . قال هشام والصلاة الدعاء . قال ابو داود رواه حفص بن غياث ايضا عن هشام",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (1431)"
+      }
+    ],
+    "reference": {
+      "book": 14,
+      "hadith": 148
+    }
+  }
+}

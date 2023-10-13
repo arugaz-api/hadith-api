@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 5182,
+    "arabicnumber": 5182,
+    "text": "حدثنا يحيى بن حبيب، حدثنا روح، حدثنا ابن جريج، قال اخبرني عطاء، عن عبيد بن عمير، ان ابا موسى، استاذن على عمر بهذه القصة . قال فيه فانطلق بابي سعيد فشهد له فقال اخفي على هذا من امر رسول الله صلى الله عليه وسلم الهاني السفق بالاسواق ولكن سلم ما شيت ولا تستاذن",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (2062) Sahih Muslim (2153)"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 410
+    }
+  }
+}

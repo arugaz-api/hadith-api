@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3312,
+    "arabicnumber": 3312,
+    "text": "حدثنا مسدد، حدثنا الحارث بن عبيد ابو قدامة، عن عبيد الله بن الاخنس، عن عمرو بن شعيب، عن ابيه، عن جده، : ان امراة، اتت النبي صلى الله عليه وسلم فقالت : يا رسول الله اني نذرت ان اضرب على راسك بالدف . قال : \" اوفي بنذرك \" . قالت : اني نذرت ان اذبح بمكان كذا وكذا، مكان كان يذبح فيه اهل الجاهلية . قال : \" لصنم \" . قالت : لا . قال : \" لوثن \" . قالت : لا . قال : \" اوفي بنذرك",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 71
+    }
+  }
+}

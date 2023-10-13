@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 19,
+    "arabicnumber": 19,
+    "text": "حدثنا نصر بن علي، عن ابي علي الحنفي، عن همام، عن ابن جريج، عن الزهري، عن انس، قال كان النبي صلى الله عليه وسلم اذا دخل الخلاء وضع خاتمه . قال ابو داود هذا حديث منكر وانما يعرف عن ابن جريج عن زياد بن سعد عن الزهري عن انس ان النبي صلى الله عليه وسلم اتخذ خاتما من ورق ثم القاه . والوهم فيه من همام ولم يروه الا همام",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Munkar"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 19
+    }
+  }
+}

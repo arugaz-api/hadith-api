@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2121,
+    "arabicnumber": 2121,
+    "text": "حدثنا سليمان بن حرب، وابو كامل قالا حدثنا حماد بن زيد، عن هشام بن عروة، عن ابيه، عن عايشة، قالت تزوجني رسول الله صلى الله عليه وسلم وانا بنت سبع - قال سليمان او ست - ودخل بي وانا بنت تسع",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (3896) Sahih Muslim (1422)"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 76
+    }
+  }
+}

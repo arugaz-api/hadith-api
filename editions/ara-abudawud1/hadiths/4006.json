@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4006,
+    "arabicnumber": 4006,
+    "text": "حدثنا احمد بن صالح، قال حدثنا ح، وحدثنا سليمان بن داود المهري، اخبرنا ابن وهب، اخبرنا هشام بن سعد، عن زيد بن اسلم، عن عطاء بن يسار، عن ابي سعيد الخدري، قال قال رسول الله صلى الله عليه وسلم \" قال الله عز وجل لبني اسراييل { ادخلوا الباب سجدا وقولوا حطة تغفر لكم خطاياكم}",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 32,
+      "hadith": 38
+    }
+  }
+}

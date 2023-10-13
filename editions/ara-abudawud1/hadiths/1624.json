@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1624,
+    "arabicnumber": 1624,
+    "text": "حدثنا سعيد بن منصور، حدثنا اسماعيل بن زكريا، عن الحجاج بن دينار، عن الحكم، عن حجية، عن علي، ان العباس، سال النبي صلى الله عليه وسلم في تعجيل صدقته قبل ان تحل فرخص له في ذلك . قال مرة فاذن له في ذلك . قال ابو داود وروى هذا الحديث هشيم عن منصور بن زاذان عن الحكم عن الحسن بن مسلم عن النبي صلى الله عليه وسلم وحديث هشيم اصح",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 69
+    }
+  }
+}

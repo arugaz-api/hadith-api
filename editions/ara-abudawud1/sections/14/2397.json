@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2397,
+    "arabicnumber": 2397,
+    "text": "حدثنا احمد بن حنبل، حدثنا يحيى بن سعيد، عن سفيان، حدثني حبيب، عن عمارة، عن ابن المطوس، - قال فلقيت ابن المطوس فحدثني - عن ابيه، عن ابي هريرة، قال قال النبي صلى الله عليه وسلم مثل حديث ابن كثير وسليمان . قال ابو داود واختلف على سفيان وشعبة عنهما ابن المطوس وابو المطوس",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 14,
+      "hadith": 85
+    }
+  }
+}

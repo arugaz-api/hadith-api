@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 60,
+    "arabicnumber": 60,
+    "text": "حدثنا احمد بن محمد بن حنبل، حدثنا عبد الرزاق، اخبرنا معمر، عن همام بن منبه، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" لا يقبل الله صلاة احدكم اذا احدث حتى يتوضا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (135) Sahih Muslim (225)"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 60
+    }
+  }
+}

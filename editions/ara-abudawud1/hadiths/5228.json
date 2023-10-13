@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 5228,
+    "arabicnumber": 5228,
+    "text": "حدثنا موسى بن اسماعيل، حدثنا حماد، عن ثابت البناني، عن عبد الله بن رباح الانصاري، قال حدثنا ابو قتادة، ان النبي صلى الله عليه وسلم كان في سفر له فعطشوا فانطلق سرعان الناس فلزمت رسول الله صلى الله عليه وسلم تلك الليلة فقال \" حفظك الله بما حفظت به نبيه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (681)"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 456
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 942,
+    "arabicnumber": 942,
+    "text": "حدثنا محمود بن خالد، حدثنا الوليد، عن عيسى بن ايوب، قال قوله \" التصفيح للنساء \" . تضرب باصبعين من يمينها على كفها اليسرى",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Maqtu"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih Maqtu"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 553
+    }
+  }
+}

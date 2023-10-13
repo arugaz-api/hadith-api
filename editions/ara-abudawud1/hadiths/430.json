@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 430,
+    "arabicnumber": 430,
+    "text": "حدثنا حيوة بن شريح المصري، حدثنا بقية، عن ضبارة بن عبد الله بن ابي سليك الالهاني، اخبرني ابن نافع، عن ابن شهاب الزهري، قال قال سعيد بن المسيب ان ابا قتادة بن ربعي اخبره قال قال رسول الله صلى الله عليه وسلم \" قال الله تعالى اني فرضت على امتك خمس صلوات وعهدت عندي عهدا انه من جاء يحافظ عليهن لوقتهن ادخلته الجنة ومن لم يحافظ عليهن فلا عهد له عندي",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 40
+    }
+  }
+}

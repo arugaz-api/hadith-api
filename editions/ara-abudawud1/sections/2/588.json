@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 588,
+    "arabicnumber": 588,
+    "text": "حدثنا القعنبي، حدثنا انس يعني ابن عياض، ح وحدثنا الهيثم بن خالد الجهني، - المعنى - قالا حدثنا ابن نمير، عن عبيد الله، عن نافع، عن ابن عمر، انه قال لما قدم المهاجرون الاولون نزلوا العصبة قبل مقدم النبي صلى الله عليه وسلم فكان يومهم سالم مولى ابي حذيفة وكان اكثرهم قرانا . زاد الهيثم وفيهم عمر بن الخطاب وابو سلمة بن عبد الاسد",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (692)"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 198
+    }
+  }
+}

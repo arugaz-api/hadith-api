@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1144,
+    "arabicnumber": 1144,
+    "text": "حدثنا محمد بن عبيد، حدثنا حماد بن زيد، عن ايوب، عن عطاء، عن ابن عباس، في هذا الحديث قال فجعلت المراة تعطي القرط والخاتم وجعل بلال يجعله في كسايه قال فقسمه على فقراء المسلمين",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (98) Sahih Muslim (884)"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 755
+    }
+  }
+}

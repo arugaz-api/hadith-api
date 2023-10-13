@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 713,
+    "arabicnumber": 713,
+    "text": "حدثنا عاصم بن النضر، حدثنا المعتمر، حدثنا عبيد الله، عن ابي النضر، عن ابي سلمة بن عبد الرحمن، عن عايشة، انها قالت كنت اكون نايمة ورجلاى بين يدى رسول الله صلى الله عليه وسلم وهو يصلي من الليل فاذا اراد ان يسجد ضرب رجلى فقبضتهما فسجد",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (382) Sahih Muslim (512)"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 323
+    }
+  }
+}

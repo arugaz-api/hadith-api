@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 627,
+    "arabicnumber": 627,
+    "text": "حدثنا مسدد، حدثنا يحيى، ح وحدثنا مسدد، حدثنا اسماعيل، - المعنى - عن هشام بن ابي عبد الله، عن يحيى بن ابي كثير، عن عكرمة، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" اذا صلى احدكم في ثوب فليخالف بطرفيه على عاتقيه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (360)"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 237
+    }
+  }
+}

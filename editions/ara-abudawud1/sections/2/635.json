@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 635,
+    "arabicnumber": 635,
+    "text": "حدثنا سليمان بن حرب، حدثنا حماد بن زيد، عن ايوب، عن نافع، عن ابن عمر، قال قال رسول الله صلى الله عليه وسلم او قال قال عمر رضى الله عنه \" اذا كان لاحدكم ثوبان فليصل فيهما فان لم يكن الا ثوب واحد فليتزر به ولا يشتمل اشتمال اليهود",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 245
+    }
+  }
+}

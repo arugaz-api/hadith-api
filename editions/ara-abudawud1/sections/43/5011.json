@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 5011,
+    "arabicnumber": 5011,
+    "text": "حدثنا مسدد، حدثنا ابو عوانة، عن سماك، عن عكرمة، عن ابن عباس، قال جاء اعرابي الى النبي صلى الله عليه وسلم فجعل يتكلم بكلام فقال رسول الله صلى الله عليه وسلم \" ان من البيان سحرا وان من الشعر حكما",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 239
+    }
+  }
+}

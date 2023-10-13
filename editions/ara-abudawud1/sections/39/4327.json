@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4327,
+    "arabicnumber": 4327,
+    "text": "حدثنا محمد بن صدران، حدثنا المعتمر، حدثنا اسماعيل بن ابي خالد، عن مجالد بن سعيد، عن عامر، قال حدثتني فاطمة بنت قيس، ان النبي صلى الله عليه وسلم صلى الظهر ثم صعد المنبر وكان لا يصعد عليه الا يوم جمعة قبل يوميذ ثم ذكر هذه القصة . قال ابو داود وابن صدران بصري غرق في البحر مع ابن مسور لم يسلم منهم غيره",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif Isnaad"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif Isnaad"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 39,
+      "hadith": 37
+    }
+  }
+}

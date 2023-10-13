@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 5027,
+    "arabicnumber": 5027,
+    "text": "حدثنا ابن العلاء، عن وكيع، عن سفيان، عن سهيل، نحوه قال \" في الصلاة فليكظم ما استطاع",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (2995)"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 255
+    }
+  }
+}

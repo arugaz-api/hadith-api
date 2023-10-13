@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2119,
+    "arabicnumber": 2119,
+    "text": "حدثنا محمد بن بشار، حدثنا ابو عاصم، حدثنا عمران، عن قتادة، عن عبد ربه، عن ابي عياض، عن ابن مسعود، ان رسول الله صلى الله عليه وسلم كان اذا تشهد ذكر نحوه وقال بعد قوله \" ورسوله \" . \" ارسله بالحق بشيرا ونذيرا بين يدى الساعة من يطع الله ورسوله فقد رشد ومن يعصهما فانه لا يضر الا نفسه ولا يضر الله شييا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 74
+    }
+  }
+}

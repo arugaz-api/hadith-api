@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4821,
+    "arabicnumber": 4821,
+    "text": "حدثنا ابن السرح، ومخلد بن خالد، قالا حدثنا سفيان، عن محمد بن المنكدر، قال حدثني من، سمع ابا هريرة، يقول قال ابو القاسم صلى الله عليه وسلم \" اذا كان احدكم في الشمس \" . وقال مخلد \" في الفىء \" . \" فقلص عنه الظل وصار بعضه في الشمس وبعضه في الظل فليقم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 49
+    }
+  }
+}

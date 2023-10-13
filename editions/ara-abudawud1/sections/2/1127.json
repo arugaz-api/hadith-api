@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1127,
+    "arabicnumber": 1127,
+    "text": "حدثنا محمد بن عبيد، وسليمان بن داود، - المعنى - قالا حدثنا حماد بن زيد، حدثنا ايوب، عن نافع، ان ابن عمر، راى رجلا يصلي ركعتين يوم الجمعة في مقامه فدفعه وقال اتصلي الجمعة اربعا وكان عبد الله يصلي يوم الجمعة ركعتين في بيته ويقول هكذا فعل رسول الله صلى الله عليه وسلم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 738
+    }
+  }
+}

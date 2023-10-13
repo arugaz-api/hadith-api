@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2806,
+    "arabicnumber": 2806,
+    "text": "حدثنا مسدد، حدثنا يحيى، حدثنا هشام، عن قتادة، قال قلت لسعيد بن المسيب ما الاعضب قال النصف فما فوقه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Maqtu"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Maqtu"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 16,
+      "hadith": 19
+    }
+  }
+}

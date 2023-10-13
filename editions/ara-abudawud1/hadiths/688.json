@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 688,
+    "arabicnumber": 688,
+    "text": "حدثنا حفص بن عمر، حدثنا شعبة، عن عون بن ابي جحيفة، عن ابيه، ان النبي صلى الله عليه وسلم صلى بهم بالبطحاء وبين يديه عنزة الظهر ركعتين والعصر ركعتين يمر خلف العنزة المراة والحمار",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (495) Sahih Muslim (503)"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 298
+    }
+  }
+}

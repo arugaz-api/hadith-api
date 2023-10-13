@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 611,
+    "arabicnumber": 611,
+    "text": "حدثنا عمرو بن عون، اخبرنا هشيم، عن ابي بشر، عن سعيد بن جبير، عن ابن عباس، في هذه القصة قال فاخذ براسي او بذوابتي فاقامني عن يمينه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (5919)"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 221
+    }
+  }
+}

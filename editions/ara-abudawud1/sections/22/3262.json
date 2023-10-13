@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3262,
+    "arabicnumber": 3262,
+    "text": "حدثنا محمد بن عيسى، ومسدد، - وهذا حديثه - قالا حدثنا عبد الوارث، عن ايوب، عن نافع، عن ابن عمر، قال قال رسول الله صلى الله عليه وسلم : \" من حلف فاستثنى فان شاء رجع، وان شاء ترك غير حنث",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 21
+    }
+  }
+}

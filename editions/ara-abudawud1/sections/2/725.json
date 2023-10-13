@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 725,
+    "arabicnumber": 725,
+    "text": "حدثنا مسدد، حدثنا يزيد، - يعني ابن زريع - حدثنا المسعودي، حدثني عبد الجبار بن وايل، حدثني اهل، بيتي عن ابي انه، حدثهم انه، راى رسول الله صلى الله عليه وسلم يرفع يديه مع التكبيرة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 335
+    }
+  }
+}

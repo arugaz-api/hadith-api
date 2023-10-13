@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3647,
+    "arabicnumber": 3647,
+    "text": "حدثنا نصر بن علي، اخبرنا ابو احمد، حدثنا كثير بن زيد، عن المطلب بن عبد الله بن حنطب، قال دخل زيد بن ثابت على معاوية فساله عن حديث، فامر انسانا يكتبه فقال له زيد ان رسول الله صلى الله عليه وسلم امرنا ان لا نكتب شييا من حديثه فمحاه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif Isnaad"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif Isnaad"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 26,
+      "hadith": 7
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4025,
+    "arabicnumber": 4025,
+    "text": "حدثنا ابراهيم بن موسى، حدثنا الفضل بن موسى، عن عبد المومن بن خالد الحنفي، عن عبد الله بن بريدة، عن ام سلمة، قالت كان احب الثياب الى رسول الله صلى الله عليه وسلم القميص",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 34,
+      "hadith": 6
+    }
+  }
+}

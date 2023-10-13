@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2685,
+    "arabicnumber": 2685,
+    "text": "حدثنا القعنبي، عن مالك، عن ابن شهاب، عن انس بن مالك، ان رسول الله صلى الله عليه وسلم دخل مكة عام الفتح وعلى راسه المغفر فلما نزعه جاءه رجل فقال ابن خطل متعلق باستار الكعبة فقال \" اقتلوه \" . قال ابو داود ابن خطل اسمه عبد الله وكان ابو برزة الاسلمي قتله",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (3044) Sahih Muslim (1357)"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 209
+    }
+  }
+}

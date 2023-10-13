@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4467,
+    "arabicnumber": 4467,
+    "text": "حدثنا محمد بن يحيى بن فارس، حدثنا موسى بن هارون البردي، حدثنا هشام بن يوسف، عن القاسم بن فياض الابناوي، عن خلاد بن عبد الرحمن، عن ابن المسيب، عن ابن عباس، ان رجلا، من بكر بن ليث اتى النبي صلى الله عليه وسلم فاقر انه زنى بامراة اربع مرات فجلده ماية وكان بكرا ثم ساله البينة على المراة فقالت كذب والله يا رسول الله فجلده حد الفرية ثمانين",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Munkar"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Munkar"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 40,
+      "hadith": 117
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1121,
+    "arabicnumber": 1121,
+    "text": "حدثنا القعنبي، عن مالك، عن ابن شهاب، عن ابي سلمة، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" من ادرك ركعة من الصلاة فقد ادرك الصلاة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (580) Sahih Muslim (607)"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 732
+    }
+  }
+}

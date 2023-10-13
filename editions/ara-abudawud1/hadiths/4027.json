@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4027,
+    "arabicnumber": 4027,
+    "text": "حدثنا اسحاق بن ابراهيم الحنظلي، حدثنا معاذ بن هشام، عن ابيه، عن بديل بن ميسرة، عن شهر بن حوشب، عن اسماء بنت يزيد، قالت كانت يد كم قميص رسول الله صلى الله عليه وسلم الى الرصغ",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 34,
+      "hadith": 8
+    }
+  }
+}

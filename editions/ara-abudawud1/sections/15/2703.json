@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2703,
+    "arabicnumber": 2703,
+    "text": "حدثنا سليمان بن حرب، قال حدثنا جرير، - يعني ابن حازم - عن يعلى بن حكيم، عن ابي لبيد، قال كنا مع عبد الرحمن بن سمرة بكابل فاصاب الناس غنيمة فانتهبوها فقام خطيبا فقال سمعت رسول الله صلى الله عليه وسلم ينهى عن النهبى . فردوا ما اخذوا فقسمه بينهم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 227
+    }
+  }
+}

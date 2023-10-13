@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1045,
+    "arabicnumber": 1045,
+    "text": "حدثنا موسى بن اسماعيل، حدثنا حماد، عن ثابت، وحميد، عن انس، ان النبي صلى الله عليه وسلم واصحابه كانوا يصلون نحو بيت المقدس فلما نزلت هذه الاية { فول وجهك شطر المسجد الحرام وحيث ما كنتم فولوا وجوهكم شطره } فمر رجل من بني سلمة فناداهم وهم ركوع في صلاة الفجر نحو بيت المقدس الا ان القبلة قد حولت الى الكعبة مرتين فمالوا كما هم ركوع الى الكعبة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (527)"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 656
+    }
+  }
+}

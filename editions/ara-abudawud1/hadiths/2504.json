@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2504,
+    "arabicnumber": 2504,
+    "text": "حدثنا موسى بن اسماعيل، حدثنا حماد، عن حميد، عن انس، ان النبي صلى الله عليه وسلم قال : \" جاهدوا المشركين باموالكم وانفسكم والسنتكم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 28
+    }
+  }
+}

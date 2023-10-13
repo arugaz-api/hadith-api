@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2040,
+    "arabicnumber": 2040,
+    "text": "حدثنا مسدد، حدثنا يحيى، ح وحدثنا عثمان بن ابي شيبة، عن ابن نمير، عن عبيد الله، عن نافع، عن ابن عمر، ان رسول الله صلى الله عليه وسلم كان ياتي قباء ماشيا وراكبا زاد ابن نمير ويصلي ركعتين",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (1194) Sahih Muslim (1399)"
+      }
+    ],
+    "reference": {
+      "book": 11,
+      "hadith": 320
+    }
+  }
+}

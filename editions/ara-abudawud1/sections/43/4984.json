@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4984,
+    "arabicnumber": 4984,
+    "text": "حدثنا عثمان بن ابي شيبة، حدثنا سفيان، عن ابن ابي لبيد، عن ابي سلمة، قال سمعت ابن عمر، عن النبي صلى الله عليه وسلم قال \" لا تغلبنكم الاعراب على اسم صلاتكم الا وانها العشاء ولكنهم يعتمون بالابل",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (644)"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 212
+    }
+  }
+}

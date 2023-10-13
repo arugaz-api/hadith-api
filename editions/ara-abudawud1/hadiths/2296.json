@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2296,
+    "arabicnumber": 2296,
+    "text": "حدثنا احمد بن يونس، حدثنا زهير، حدثنا جعفر بن برقان، حدثنا ميمون بن مهران، قال قدمت المدينة فدفعت الى سعيد بن المسيب فقلت فاطمة بنت قيس طلقت فخرجت من بيتها فقال سعيد تلك امراة فتنت الناس انها كانت لسنة فوضعت على يدى ابن ام مكتوم الاعمى",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Maqtu"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih Maqtu"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 13,
+      "hadith": 122
+    }
+  }
+}

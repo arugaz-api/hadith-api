@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4789,
+    "arabicnumber": 4789,
+    "text": "حدثنا عبيد الله بن عمر بن ميسرة، حدثنا حماد بن زيد، حدثنا سلم العلوي، عن انس، ان رجلا، دخل على رسول الله صلى الله عليه وسلم وعليه اثر صفرة - وكان رسول الله صلى الله عليه وسلم قلما يواجه رجلا في وجهه بشىء يكرهه - فلما خرج قال \" لو امرتم هذا ان يغسل ذا عنه \" . قال ابو داود سلم ليس هو علويا كان يبصر في النجوم وشهد عند عدي بن ارطاة على روية الهلال فلم يجز شهادته",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 17
+    }
+  }
+}

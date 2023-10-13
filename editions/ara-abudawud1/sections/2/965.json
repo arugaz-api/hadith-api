@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 965,
+    "arabicnumber": 965,
+    "text": "حدثنا قتيبة، حدثنا ابن لهيعة، عن يزيد بن ابي حبيب، عن محمد بن عمرو بن حلحلة، عن محمد بن عمرو العامري، قال كنت في مجلس بهذا الحديث قال فيه فاذا قعد في الركعتين قعد على بطن قدمه اليسرى ونصب اليمنى فاذا كانت الرابعة افضى بوركه اليسرى الى الارض واخرج قدميه من ناحية واحدة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 576
+    }
+  }
+}

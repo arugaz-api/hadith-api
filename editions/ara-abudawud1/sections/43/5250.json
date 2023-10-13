@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 5250,
+    "arabicnumber": 5250,
+    "text": "حدثنا عثمان بن ابي شيبة، حدثنا عبد الله بن نمير، حدثنا موسى بن مسلم، قال سمعت عكرمة، يرفع الحديث فيما ارى الى ابن عباس قال قال رسول الله صلى الله عليه وسلم \" من ترك الحيات مخافة طلبهن فليس منا ما سالمناهن منذ حاربناهن",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 478
+    }
+  }
+}

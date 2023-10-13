@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 653,
+    "arabicnumber": 653,
+    "text": "حدثنا مسلم بن ابراهيم، حدثنا علي بن المبارك، عن حسين المعلم، عن عمرو بن شعيب، عن ابيه، عن جده، قال رايت رسول الله صلى الله عليه وسلم يصلي حافيا ومنتعلا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 263
+    }
+  }
+}

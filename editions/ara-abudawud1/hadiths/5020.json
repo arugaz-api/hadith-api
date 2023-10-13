@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 5020,
+    "arabicnumber": 5020,
+    "text": "حدثنا احمد بن حنبل، حدثنا هشيم، اخبرنا يعلى بن عطاء، عن وكيع بن عدس، عن عمه ابي رزين، قال قال رسول الله صلى الله عليه وسلم \" الرويا على رجل طاير ما لم تعبر فاذا عبرت وقعت \" . قال واحسبه قال \" ولا يقصها الا على واد او ذي راى",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 248
+    }
+  }
+}

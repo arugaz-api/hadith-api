@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2521,
+    "arabicnumber": 2521,
+    "text": "حدثنا مسدد، حدثنا يزيد بن زريع، حدثنا عوف، حدثتنا حسناء بنت معاوية الصريمية، قالت حدثنا عمي، قال قلت للنبي صلى الله عليه وسلم : من في الجنة قال : \" النبي في الجنة، والشهيد في الجنة، والمولود في الجنة، والوييد في الجنة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 45
+    }
+  }
+}

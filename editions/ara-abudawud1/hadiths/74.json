@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 74,
+    "arabicnumber": 74,
+    "text": "حدثنا احمد بن محمد بن حنبل، حدثنا يحيى بن سعيد، عن شعبة، حدثنا ابو التياح، عن مطرف، عن ابن مغفل، ان رسول الله صلى الله عليه وسلم امر بقتل الكلاب ثم قال \" ما لهم ولها \" . فرخص في كلب الصيد وفي كلب الغنم وقال \" اذا ولغ الكلب في الاناء فاغسلوه سبع مرار والثامنة عفروه بالتراب \" . قال ابو داود وهكذا قال ابن مغفل",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (280)"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 74
+    }
+  }
+}

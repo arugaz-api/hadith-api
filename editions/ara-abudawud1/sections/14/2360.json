@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2360,
+    "arabicnumber": 2360,
+    "text": "حدثنا عبد الله بن مسلمة القعنبي، عن مالك، عن نافع، عن ابن عمر، ان رسول الله نهى عن الوصال، قالوا فانك تواصل يا رسول الله . قال \" اني لست كهييتكم اني اطعم واسقى",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (1962) Sahih Muslim (1102)"
+      }
+    ],
+    "reference": {
+      "book": 14,
+      "hadith": 48
+    }
+  }
+}

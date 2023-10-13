@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2335,
+    "arabicnumber": 2335,
+    "text": "حدثنا مسلم بن ابراهيم، حدثنا هشام، عن يحيى بن ابي كثير، عن ابي سلمة، عن ابي هريرة، عن النبي صلى الله عليه وسلم قال \" لا تقدموا صوم رمضان بيوم ولا يومين الا ان يكون صوما يصومه رجل فليصم ذلك الصوم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (1914) Sahih Muslim (1082)"
+      }
+    ],
+    "reference": {
+      "book": 14,
+      "hadith": 23
+    }
+  }
+}

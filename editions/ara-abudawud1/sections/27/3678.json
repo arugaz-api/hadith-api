@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3678,
+    "arabicnumber": 3678,
+    "text": "حدثنا موسى بن اسماعيل، حدثنا ابان، حدثني يحيى، عن ابي كثير، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال \" الخمر من هاتين الشجرتين النخلة والعنبة \" . قال ابو داود اسم ابي كثير الغبري يزيد بن عبد الرحمن بن غفيلة السحمي . وقال بعضهم اذينة والصواب غفيلة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (1985)"
+      }
+    ],
+    "reference": {
+      "book": 27,
+      "hadith": 10
+    }
+  }
+}

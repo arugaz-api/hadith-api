@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1408,
+    "arabicnumber": 1408,
+    "text": "حدثنا مسدد، حدثنا المعتمر، قال سمعت ابي، حدثنا بكر، عن ابي رافع، قال صليت مع ابي هريرة العتمة فقرا { اذا السماء انشقت } فسجد فقلت ما هذه السجدة قال سجدت بها خلف ابي القاسم صلى الله عليه وسلم فلا ازال اسجد بها حتى القاه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (1078) Sahih Muslim (578)"
+      }
+    ],
+    "reference": {
+      "book": 7,
+      "hadith": 8
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 399,
+    "arabicnumber": 399,
+    "text": "حدثنا احمد بن حنبل، ومسدد، قالا حدثنا عباد بن عباد، حدثنا محمد بن عمرو، عن سعيد بن الحارث الانصاري، عن جابر بن عبد الله، قال كنت اصلي الظهر مع رسول الله صلى الله عليه وسلم فاخذ قبضة من الحصى لتبرد في كفي اضعها لجبهتي اسجد عليها لشدة الحر",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 9
+    }
+  }
+}

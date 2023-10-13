@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4111,
+    "arabicnumber": 4111,
+    "text": "حدثنا احمد بن محمد المروزي، حدثنا علي بن الحسين بن واقد، عن ابيه، عن يزيد النحوي، عن عكرمة، عن ابن عباس، { وقل للمومنات يغضضن من ابصارهن } الاية فنسخ واستثني من ذلك { والقواعد من النساء اللاتي لا يرجون نكاحا } الاية",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Isnaad"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 34,
+      "hadith": 92
+    }
+  }
+}

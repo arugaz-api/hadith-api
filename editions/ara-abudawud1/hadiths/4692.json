@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4692,
+    "arabicnumber": 4692,
+    "text": "حدثنا محمد بن كثير، اخبرنا سفيان، عن عمر بن محمد، عن عمر، مولى غفرة عن رجل، من الانصار عن حذيفة، قال قال رسول الله صلى الله عليه وسلم \" لكل امة مجوس ومجوس هذه الامة الذين يقولون لا قدر من مات منهم فلا تشهدوا جنازته ومن مرض منهم فلا تعودوهم وهم شيعة الدجال وحق على الله ان يلحقهم بالدجال",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 42,
+      "hadith": 97
+    }
+  }
+}

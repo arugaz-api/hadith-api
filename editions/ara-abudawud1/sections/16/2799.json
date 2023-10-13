@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2799,
+    "arabicnumber": 2799,
+    "text": "حدثنا الحسن بن علي، حدثنا عبد الرزاق، حدثنا الثوري، عن عاصم بن كليب، عن ابيه، قال كنا مع رجل من اصحاب النبي صلى الله عليه وسلم يقال له مجاشع من بني سليم فعزت الغنم فامر مناديا فنادى ان رسول الله صلى الله عليه وسلم كان يقول \" ان الجذع يوفي مما يوفي منه الثني \" . قال ابو داود وهو مجاشع بن مسعود",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 16,
+      "hadith": 12
+    }
+  }
+}

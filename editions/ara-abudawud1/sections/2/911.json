@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 911,
+    "arabicnumber": 911,
+    "text": "حدثنا مومل بن الفضل، حدثنا عيسى، عن معمر، عن يحيى بن ابي كثير، عن ابي سلمة، عن ابي سعيد الخدري، ان رسول الله صلى الله عليه وسلم ريي على جبهته وعلى ارنبته اثر طين من صلاة صلاها بالناس . قال ابو علي هذا الحديث لم يقراه ابو داود في العرضة الرابعة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 522
+    }
+  }
+}

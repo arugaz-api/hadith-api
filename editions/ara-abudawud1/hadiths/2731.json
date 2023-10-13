@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2731,
+    "arabicnumber": 2731,
+    "text": "حدثنا سعيد بن منصور، حدثنا ابو معاوية، عن الاعمش، عن ابي سفيان، عن جابر، قال كنت اميح اصحابي الماء يوم بدر",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 255
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 867,
+    "arabicnumber": 867,
+    "text": "حدثنا حفص بن عمر، حدثنا شعبة، عن ابي يعفور، - قال ابو داود واسمه وقدان - عن مصعب بن سعد، قال صليت الى جنب ابي فجعلت يدى بين ركبتى فنهاني عن ذلك، فعدت فقال لا تصنع هذا فانا كنا نفعله فنهينا عن ذلك وامرنا ان نضع ايدينا على الركب",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (790) Sahih Muslim (535)"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 477
+    }
+  }
+}

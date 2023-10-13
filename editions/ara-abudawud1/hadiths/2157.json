@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2157,
+    "arabicnumber": 2157,
+    "text": "حدثنا عمرو بن عون، اخبرنا شريك، عن قيس بن وهب، عن ابي الوداك، عن ابي سعيد الخدري، ورفعه، انه قال في سبايا اوطاس \" لا توطا حامل حتى تضع ولا غير ذات حمل حتى تحيض حيضة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 112
+    }
+  }
+}

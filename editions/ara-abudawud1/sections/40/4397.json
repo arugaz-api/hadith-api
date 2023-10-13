@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4397,
+    "arabicnumber": 4397,
+    "text": "حدثنا عباس بن عبد العظيم، ومحمد بن يحيى، قالا حدثنا عبد الرزاق، اخبرنا معمر، عن الزهري، عن عروة، عن عايشة، قالت كانت امراة مخزومية تستعير المتاع وتجحده فامر النبي صلى الله عليه وسلم بقطع يدها وقص نحو حديث قتيبة عن الليث عن ابن شهاب زاد فقطع النبي صلى الله عليه وسلم يدها",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (1688)"
+      }
+    ],
+    "reference": {
+      "book": 40,
+      "hadith": 47
+    }
+  }
+}

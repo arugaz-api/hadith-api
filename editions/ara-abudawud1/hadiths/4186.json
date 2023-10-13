@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4186,
+    "arabicnumber": 4186,
+    "text": "حدثنا مسدد، حدثنا اسماعيل، اخبرنا حميد، عن انس بن مالك، قال كان شعر رسول الله صلى الله عليه وسلم الى انصاف اذنيه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (2338)"
+      }
+    ],
+    "reference": {
+      "book": 35,
+      "hadith": 28
+    }
+  }
+}

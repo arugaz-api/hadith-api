@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 257,
+    "arabicnumber": 257,
+    "text": "حدثنا محمد بن رافع، حدثنا يحيى بن ادم، حدثنا شريك، عن قيس بن وهب، عن رجل، من بني سواءة بن عامر عن عايشة، فيما يفيض بين الرجل والمراة من الماء قالت كان رسول الله صلى الله عليه وسلم ياخذ كفا من ماء يصب على الماء ثم ياخذ كفا من ماء ثم يصبه عليه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 257
+    }
+  }
+}

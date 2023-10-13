@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2176,
+    "arabicnumber": 2176,
+    "text": "حدثنا القعنبي، عن مالك، عن ابي الزناد، عن الاعرج، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" لا تسال المراة طلاق اختها لتستفرغ صحفتها ولتنكح فانما لها ما قدر لها",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (6601)"
+      }
+    ],
+    "reference": {
+      "book": 13,
+      "hadith": 2
+    }
+  }
+}

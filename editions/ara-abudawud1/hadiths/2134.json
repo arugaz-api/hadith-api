@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2134,
+    "arabicnumber": 2134,
+    "text": "حدثنا موسى بن اسماعيل، حدثنا حماد، عن ايوب، عن ابي قلابة، عن عبد الله بن يزيد الخطمي، عن عايشة، قالت كان رسول الله صلى الله عليه وسلم يقسم فيعدل ويقول \" اللهم هذا قسمي فيما املك فلا تلمني فيما تملك ولا املك \" . يعني القلب",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 89
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2047,
+    "arabicnumber": 2047,
+    "text": "حدثنا مسدد، حدثنا يحيى، - يعني ابن سعيد - حدثني عبيد الله، حدثني سعيد بن ابي سعيد، عن ابيه، عن ابي هريرة، عن النبي صلى الله عليه وسلم قال \" تنكح النساء لاربع لمالها ولحسبها ولجمالها ولدينها فاظفر بذات الدين تربت يداك",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (5090) Sahih Muslim (1466)"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 2
+    }
+  }
+}

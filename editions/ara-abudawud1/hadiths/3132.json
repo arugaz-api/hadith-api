@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3132,
+    "arabicnumber": 3132,
+    "text": "حدثنا مسدد، حدثنا سفيان، حدثني جعفر بن خالد، عن ابيه، عن عبد الله بن جعفر، قال قال رسول الله صلى الله عليه وسلم \" اصنعوا لال جعفر طعاما فانه قد اتاهم امر شغلهم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 21,
+      "hadith": 44
+    }
+  }
+}

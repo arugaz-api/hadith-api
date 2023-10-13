@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4715,
+    "arabicnumber": 4715,
+    "text": "قال ابو داود قري على الحارث بن مسكين وانا اسمع، اخبرك يوسف بن عمرو، اخبرنا ابن وهب، قال سمعت مالكا، قيل له ان اهل الاهواء يحتجون علينا بهذا الحديث . قال مالك احتج عليهم باخره . قالوا ارايت من يموت وهو صغير قال \" الله اعلم بما كانوا عاملين",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad Maqtu"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih Isnaad Maqtu"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 42,
+      "hadith": 120
+    }
+  }
+}

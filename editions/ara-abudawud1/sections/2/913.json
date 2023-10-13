@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 913,
+    "arabicnumber": 913,
+    "text": "حدثنا مسدد، حدثنا يحيى، عن سعيد بن ابي عروبة، عن قتادة، ان انس بن مالك، حدثهم قال قال رسول الله صلى الله عليه وسلم \" ما بال اقوام يرفعون ابصارهم في صلاتهم \" . فاشتد قوله في ذلك فقال \" لينتهن عن ذلك او لتخطفن ابصارهم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (750)"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 524
+    }
+  }
+}

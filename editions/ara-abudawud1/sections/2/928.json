@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 928,
+    "arabicnumber": 928,
+    "text": "حدثنا احمد بن حنبل، حدثنا عبد الرحمن بن مهدي، عن سفيان، عن ابي مالك الاشجعي، عن ابي حازم، عن ابي هريرة، عن النبي صلى الله عليه وسلم قال \" لا غرار في صلاة ولا تسليم \" . قال احمد يعني فيما ارى ان لا تسلم ولا يسلم عليك ويغرر الرجل بصلاته فينصرف وهو فيها شاك",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 539
+    }
+  }
+}

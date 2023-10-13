@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3796,
+    "arabicnumber": 3796,
+    "text": "حدثنا محمد بن عوف الطايي، ان الحكم بن نافع، حدثهم حدثنا ابن عياش، عن ضمضم بن زرعة، عن شريح بن عبيد، عن ابي راشد الحبراني، عن عبد الرحمن بن شبل، ان رسول الله صلى الله عليه وسلم نهى عن اكل لحم الضب",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 28,
+      "hadith": 61
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 70,
+    "arabicnumber": 70,
+    "text": "حدثنا مسدد، حدثنا يحيى، عن محمد بن عجلان، قال سمعت ابي يحدث، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" لا يبولن احدكم في الماء الدايم ولا يغتسل فيه من الجنابة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 70
+    }
+  }
+}

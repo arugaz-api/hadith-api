@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1544,
+    "arabicnumber": 1544,
+    "text": "حدثنا موسى بن اسماعيل، حدثنا حماد، اخبرنا اسحاق بن عبد الله، عن سعيد بن يسار، عن ابي هريرة، ان النبي صلى الله عليه وسلم كان يقول \" اللهم اني اعوذ بك من الفقر والقلة والذلة واعوذ بك من ان اظلم او اظلم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 8,
+      "hadith": 129
+    }
+  }
+}

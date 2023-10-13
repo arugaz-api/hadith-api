@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4670,
+    "arabicnumber": 4670,
+    "text": "حدثنا عبد العزيز بن يحيى الحراني، قال حدثني محمد بن سلمة، عن محمد بن اسحاق، عن اسماعيل بن ابي حكيم، عن القاسم بن محمد، عن عبد الله بن جعفر، قال كان رسول الله صلى الله عليه وسلم يقول \" ما ينبغي لنبي ان يقول اني خير من يونس بن متى",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 42,
+      "hadith": 75
+    }
+  }
+}

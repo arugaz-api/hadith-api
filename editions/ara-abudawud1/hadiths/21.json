@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 21,
+    "arabicnumber": 21,
+    "text": "حدثنا عثمان بن ابي شيبة، حدثنا جرير، عن منصور، عن مجاهد، عن ابن عباس، عن النبي صلى الله عليه وسلم بمعناه قال \" كان لا يستتر من بوله \" . وقال ابو معاوية \" يستنزه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (216)"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 21
+    }
+  }
+}

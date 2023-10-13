@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2872,
+    "arabicnumber": 2872,
+    "text": "حدثنا حميد بن مسعدة، ان خالد بن الحارث، حدثهم حدثنا حسين، - يعني المعلم - عن عمرو بن شعيب، عن ابيه، عن جده، ان رجلا، اتى النبي صلى الله عليه وسلم فقال اني فقير ليس لي شىء ولي يتيم . قال فقال \" كل من مال يتيمك غير مسرف ولا مبادر ولا متاثل",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 18,
+      "hadith": 11
+    }
+  }
+}

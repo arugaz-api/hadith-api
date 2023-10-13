@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3749,
+    "arabicnumber": 3749,
+    "text": "حدثنا موسى بن اسماعيل، ومحمد بن محبوب، قالا حدثنا حماد، عن عاصم، عن ابي صالح، عن ابي هريرة، ان النبي صلى الله عليه وسلم قال \" الضيافة ثلاثة ايام فما سوى ذلك فهو صدقة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih Isnaad"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan Sahih Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 28,
+      "hadith": 14
+    }
+  }
+}

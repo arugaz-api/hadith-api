@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3746,
+    "arabicnumber": 3746,
+    "text": "حدثنا مسلم بن ابراهيم، حدثنا هشام، عن قتادة، عن سعيد بن المسيب، بهذه القصة قال فدعي اليوم الثالث فلم يجب وحصب الرسول",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 28,
+      "hadith": 11
+    }
+  }
+}

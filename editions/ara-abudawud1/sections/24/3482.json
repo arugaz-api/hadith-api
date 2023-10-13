@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3482,
+    "arabicnumber": 3482,
+    "text": "حدثنا الربيع بن نافع ابو توبة، حدثنا عبيد الله، - يعني ابن عمرو - عن عبد الكريم، عن قيس بن حبتر، عن عبد الله بن عباس، قال نهى رسول الله صلى الله عليه وسلم عن ثمن الكلب وان جاء يطلب ثمن الكلب فاملا كفه ترابا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 67
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 922,
+    "arabicnumber": 922,
+    "text": "حدثنا احمد بن حنبل، ومسدد، - وهذا لفظه - قال حدثنا بشر، - يعني ابن المفضل - حدثنا برد، عن الزهري، عن عروة بن الزبير، عن عايشة، قالت كان رسول الله صلى الله عليه وسلم - قال احمد - يصلي والباب عليه مغلق فجيت فاستفتحت - قال احمد - فمشى ففتح لي ثم رجع الى مصلاه . وذكر ان الباب كان في القبلة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 533
+    }
+  }
+}

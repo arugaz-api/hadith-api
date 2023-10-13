@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3866,
+    "arabicnumber": 3866,
+    "text": "حدثنا موسى بن اسماعيل، حدثنا حماد، عن ابي الزبير، عن جابر، ان النبي صلى الله عليه وسلم كوى سعد بن معاذ من رميته",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (2208)"
+      }
+    ],
+    "reference": {
+      "book": 29,
+      "hadith": 12
+    }
+  }
+}

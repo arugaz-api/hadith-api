@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1527,
+    "arabicnumber": 1527,
+    "text": "حدثنا مسدد، حدثنا يزيد بن زريع، حدثنا سليمان التيمي، عن ابي عثمان، عن ابي موسى الاشعري، انهم كانوا مع النبي صلى الله عليه وسلم وهم يتصعدون في ثنية فجعل رجل كلما علا الثنية نادى لا اله الا الله والله اكبر . فقال نبي الله صلى الله عليه وسلم \" انكم لا تنادون اصم ولا غايبا \" . ثم قال \" يا عبد الله بن قيس \" . فذكر معناه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (6610) Sahih Muslim (2704)"
+      }
+    ],
+    "reference": {
+      "book": 8,
+      "hadith": 112
+    }
+  }
+}

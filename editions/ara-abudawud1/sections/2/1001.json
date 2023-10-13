@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1001,
+    "arabicnumber": 1001,
+    "text": "حدثنا محمد بن عثمان ابو الجماهر، حدثنا سعيد بن بشير، عن قتادة، عن الحسن، عن سمرة، قال امرنا النبي صلى الله عليه وسلم ان نرد على الامام وان نتحاب وان يسلم بعضنا على بعض",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 612
+    }
+  }
+}

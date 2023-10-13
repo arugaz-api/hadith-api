@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1232,
+    "arabicnumber": 1232,
+    "text": "حدثنا نصر بن علي، اخبرني ابي، حدثنا شريك، عن ابن الاصبهاني، عن عكرمة، عن ابن عباس، ان رسول الله صلى الله عليه وسلم اقام بمكة سبع عشرة يصلي ركعتين",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif Munkar"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif Munkar"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 4,
+      "hadith": 35
+    }
+  }
+}

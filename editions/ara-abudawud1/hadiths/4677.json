@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4677,
+    "arabicnumber": 4677,
+    "text": "حدثنا احمد بن حنبل، حدثني يحيى بن سعيد، عن شعبة، حدثني ابو جمرة، قال سمعت ابن عباس، قال ان وفد عبد القيس لما قدموا على رسول الله صلى الله عليه وسلم امرهم بالايمان بالله قال \" اتدرون ما الايمان بالله \" . قالوا الله ورسوله اعلم قال \" شهادة ان لا اله الا الله وان محمدا رسول الله واقام الصلاة وايتاء الزكاة وصوم رمضان وان تعطوا الخمس من المغنم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (53) Sahih Muslim (17)"
+      }
+    ],
+    "reference": {
+      "book": 42,
+      "hadith": 82
+    }
+  }
+}

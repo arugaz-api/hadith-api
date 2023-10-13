@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3499,
+    "arabicnumber": 3499,
+    "text": "حدثنا محمد بن عوف الطايي، حدثنا احمد بن خالد الوهبي، حدثنا محمد بن اسحاق، عن ابي الزناد، عن عبيد بن حنين، عن ابن عمر، قال ابتعت زيتا في السوق فلما استوجبته لنفسي لقيني رجل فاعطاني به ربحا حسنا فاردت ان اضرب على يده فاخذ رجل من خلفي بذراعي فالتفت فاذا زيد بن ثابت فقال لا تبعه حيث ابتعته حتى تحوزه الى رحلك فان رسول الله صلى الله عليه وسلم نهى ان تباع السلع حيث تبتاع حتى يحوزها التجار الى رحالهم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan Lighairihi"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 84
+    }
+  }
+}

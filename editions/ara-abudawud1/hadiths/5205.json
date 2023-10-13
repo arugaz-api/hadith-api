@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 5205,
+    "arabicnumber": 5205,
+    "text": "حدثنا حفص بن عمر، حدثنا شعبة، عن سهيل بن ابي صالح، قال خرجت مع ابي الى الشام فجعلوا يمرون بصوامع فيها نصارى فيسلمون عليهم فقال ابي لا تبدءوهم بالسلام فان ابا هريرة حدثنا عن رسول الله صلى الله عليه وسلم قال \" لا تبدءوهم بالسلام واذا لقيتموهم في الطريق فاضطروهم الى اضيق الطريق",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (2167)"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 433
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 38,
+    "arabicnumber": 38,
+    "text": "حدثنا احمد بن محمد بن حنبل، حدثنا روح بن عبادة، حدثنا زكريا بن اسحاق، حدثنا ابو الزبير، انه سمع جابر بن عبد الله، يقول نهانا رسول الله صلى الله عليه وسلم ان نتمسح بعظم او بعر",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (263)"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 38
+    }
+  }
+}

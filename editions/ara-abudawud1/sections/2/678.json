@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 678,
+    "arabicnumber": 678,
+    "text": "حدثنا محمد بن الصباح البزاز، حدثنا خالد، واسماعيل بن زكريا، عن سهيل بن ابي صالح، عن ابيه، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" خير صفوف الرجال اولها وشرها اخرها وخير صفوف النساء اخرها وشرها اولها",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (440)"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 288
+    }
+  }
+}

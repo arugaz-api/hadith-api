@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1560,
+    "arabicnumber": 1560,
+    "text": "حدثنا محمد بن قدامة بن اعين، حدثنا جرير، عن المغيرة، عن ابراهيم، قال الوسق ستون صاعا مختوما بالحجاجي",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Maqtu"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih Maqtu"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 5
+    }
+  }
+}

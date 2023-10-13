@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 742,
+    "arabicnumber": 742,
+    "text": "حدثنا القعنبي، عن مالك، عن نافع، ان عبد الله بن عمر، كان اذا ابتدا الصلاة يرفع يديه حذو منكبيه واذا رفع راسه من الركوع رفعهما دون ذلك . قال ابو داود لم يذكر رفعهما دون ذلك . احد غير مالك فيما اعلم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 352
+    }
+  }
+}

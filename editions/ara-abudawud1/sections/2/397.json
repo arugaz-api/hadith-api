@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 397,
+    "arabicnumber": 397,
+    "text": "حدثنا مسلم بن ابراهيم، حدثنا شعبة، عن سعد بن ابراهيم، عن محمد بن عمرو، - وهو ابن الحسن بن علي بن ابي طالب - قال - سالنا جابرا عن وقت، صلاة النبي صلى الله عليه وسلم فقال كان يصلي الظهر بالهاجرة والعصر والشمس حية والمغرب اذا غربت الشمس والعشاء اذا كثر الناس عجل واذا قلوا اخر والصبح بغلس",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (560) Sahih Muslim (646)"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 7
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1259,
+    "arabicnumber": 1259,
+    "text": "حدثنا احمد بن يونس، حدثنا زهير، حدثنا عثمان بن حكيم، اخبرني سعيد بن يسار، عن عبد الله بن عباس، ان كثيرا، مما كان يقرا رسول الله صلى الله عليه وسلم في ركعتى الفجر ب { امنا بالله وما انزل الينا } هذه الاية قال هذه في الركعة الاولى وفي الركعة الاخرة ب { امنا بالله واشهد بانا مسلمون}",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (727)"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 10
+    }
+  }
+}

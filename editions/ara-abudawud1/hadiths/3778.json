@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3778,
+    "arabicnumber": 3778,
+    "text": "حدثنا سعيد بن منصور، حدثنا ابو معشر، عن هشام بن عروة، عن ابيه، عن عايشة، رضى الله عنها قالت قال رسول الله صلى الله عليه وسلم \" لا تقطعوا اللحم بالسكين فانه من صنيع الاعاجم وانهسوه فانه اهنا وامرا \" . قال ابو داود وليس هو بالقوي",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 28,
+      "hadith": 43
+    }
+  }
+}

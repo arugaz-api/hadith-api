@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3515,
+    "arabicnumber": 3515,
+    "text": "حدثنا محمد بن يحيى بن فارس، حدثنا الحسن بن الربيع، حدثنا ابن ادريس، عن ابن جريج، عن ابن شهاب الزهري، عن ابي سلمة، او عن سعيد بن المسيب، او عنهما جميعا عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" اذا قسمت الارض وحدت فلا شفعة فيها",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 100
+    }
+  }
+}

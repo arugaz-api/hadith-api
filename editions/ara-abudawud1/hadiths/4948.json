@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4948,
+    "arabicnumber": 4948,
+    "text": "حدثنا عمرو بن عون، قال اخبرنا ح، وحدثنا مسدد، قال حدثنا هشيم، عن داود بن عمرو، عن عبد الله بن ابي زكرياء، عن ابي الدرداء، قال قال رسول الله صلى الله عليه وسلم \" انكم تدعون يوم القيامة باسمايكم واسماء ابايكم فاحسنوا اسماءكم \" . قال ابو داود ابن ابي زكرياء لم يدرك ابا الدرداء",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 176
+    }
+  }
+}

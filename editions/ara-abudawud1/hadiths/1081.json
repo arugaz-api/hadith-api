@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1081,
+    "arabicnumber": 1081,
+    "text": "حدثنا الحسن بن علي، حدثنا ابو عاصم، عن ابن ابي رواد، عن نافع، عن ابن عمر، ان النبي صلى الله عليه وسلم لما بدن قال له تميم الداري الا اتخذ لك منبرا يا رسول الله يجمع - او يحمل - عظامك قال \" بلى \" . فاتخذ له منبرا مرقاتين",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 692
+    }
+  }
+}

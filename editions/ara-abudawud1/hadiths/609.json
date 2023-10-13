@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 609,
+    "arabicnumber": 609,
+    "text": "حدثنا حفص بن عمر، حدثنا شعبة، عن عبد الله بن المختار، عن موسى بن انس، يحدث عن انس، ان رسول الله صلى الله عليه وسلم امه وامراة منهم فجعله عن يمينه والمراة خلف ذلك",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (660)"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 219
+    }
+  }
+}

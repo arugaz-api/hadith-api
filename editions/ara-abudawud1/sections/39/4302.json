@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4302,
+    "arabicnumber": 4302,
+    "text": "حدثنا عيسى بن محمد الرملي، حدثنا ضمرة، عن السيباني، عن ابي سكينة، - رجل من المحررين - عن رجل، من اصحاب النبي صلى الله عليه وسلم عن النبي صلى الله عليه وسلم انه قال \" دعوا الحبشة ما ودعوكم واتركوا الترك ما تركوكم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 39,
+      "hadith": 12
+    }
+  }
+}

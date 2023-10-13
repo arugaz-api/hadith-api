@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3386,
+    "arabicnumber": 3386,
+    "text": "حدثنا محمد بن كثير العبدي، اخبرنا سفيان، حدثني ابو حصين، عن شيخ، من اهل المدينة عن حكيم بن حزام، ان رسول الله صلى الله عليه وسلم بعث معه بدينار يشتري له اضحية فاشتراها بدينار وباعها بدينارين فرجع فاشترى له اضحية بدينار وجاء بدينار الى النبي صلى الله عليه وسلم فتصدق به النبي صلى الله عليه وسلم ودعا له ان يبارك له في تجارته",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 23,
+      "hadith": 61
+    }
+  }
+}

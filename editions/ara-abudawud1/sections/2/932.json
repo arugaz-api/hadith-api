@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 932,
+    "arabicnumber": 932,
+    "text": "حدثنا محمد بن كثير، اخبرنا سفيان، عن سلمة، عن حجر ابي العنبس الحضرمي، عن وايل بن حجر، قال كان رسول الله صلى الله عليه وسلم اذا قرا { ولا الضالين } قال \" امين \" . ورفع بها صوته",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 543
+    }
+  }
+}

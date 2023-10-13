@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3472,
+    "arabicnumber": 3472,
+    "text": "حدثنا سليمان بن داود، اخبرنا ابن وهب، اخبرني عثمان بن الحكم، عن يحيى بن سعيد، انه قال لا جايحة فيما اصيب دون ثلث راس المال - قال يحيى - وذلك في سنة المسلمين",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Maqtu"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan Maqtu"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Maqtu"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 57
+    }
+  }
+}

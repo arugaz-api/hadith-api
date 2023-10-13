@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4803,
+    "arabicnumber": 4803,
+    "text": "حدثنا النفيلي، حدثنا زهير، حدثنا حميد، عن انس، بهذه القصة عن النبي صلى الله عليه وسلم قال \" ان حقا على الله عز وجل ان لا يرتفع شىء من الدنيا الا وضعه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (6501)"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 31
+    }
+  }
+}

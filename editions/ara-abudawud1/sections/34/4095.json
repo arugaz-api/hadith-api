@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4095,
+    "arabicnumber": 4095,
+    "text": "حدثنا هناد، حدثنا ابن المبارك، عن ابي الصباح، عن يزيد بن ابي سمية، قال سمعت ابن عمر، يقول ما قال رسول الله صلى الله عليه وسلم في الازار فهو في القميص",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 34,
+      "hadith": 76
+    }
+  }
+}

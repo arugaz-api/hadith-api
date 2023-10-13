@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3298,
+    "arabicnumber": 3298,
+    "text": "حدثنا محمد بن المثنى، حدثنا ابن ابي عدي، عن سعيد، عن قتادة، عن عكرمة، ان اخت، عقبة بن عامر بمعنى هشام ولم يذكر الهدى وقال فيه : \" مر اختك فلتركب \" . قال ابو داود : رواه خالد عن عكرمة بمعنى هشام",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 57
+    }
+  }
+}

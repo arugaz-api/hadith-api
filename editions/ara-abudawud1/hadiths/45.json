@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 45,
+    "arabicnumber": 45,
+    "text": "حدثنا ابراهيم بن خالد، حدثنا اسود بن عامر، حدثنا شريك، وهذا، لفظه ح وحدثنا محمد بن عبد الله، - يعني المخرمي - حدثنا وكيع، عن شريك، عن ابراهيم بن جرير، عن المغيرة، عن ابي زرعة، عن ابي هريرة، قال كان النبي صلى الله عليه وسلم اذا اتى الخلاء اتيته بماء في تور او ركوة فاستنجى . قال ابو داود في حديث وكيع ثم مسح يده على الارض ثم اتيته باناء اخر فتوضا . قال ابو داود وحديث الاسود بن عامر اتم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 45
+    }
+  }
+}

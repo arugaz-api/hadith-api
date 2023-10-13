@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 472,
+    "arabicnumber": 472,
+    "text": "حدثنا هشام بن عمار، حدثنا صدقة بن خالد، حدثنا عثمان بن ابي العاتكة الازدي، عن عمير بن هاني العنسي، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" من اتى المسجد لشىء فهو حظه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 82
+    }
+  }
+}

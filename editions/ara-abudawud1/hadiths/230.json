@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 230,
+    "arabicnumber": 230,
+    "text": "حدثنا مسدد، حدثنا يحيى، عن مسعر، عن واصل، عن ابي وايل، عن حذيفة، ان النبي صلى الله عليه وسلم لقيه فاهوى اليه فقال اني جنب . فقال \" ان المسلم لا ينجس",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (372)"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 230
+    }
+  }
+}
