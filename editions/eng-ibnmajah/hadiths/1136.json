@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1136,
+    "arabicnumber": 1136,
+    "text": "It was narrated from ‘Adi bin Thabit that his father said:“When the Prophet (ﷺ) stood on the pulpit, his Companions would turn to face him.”",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 334
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 234,
+    "arabicnumber": 234,
+    "text": "Bahz bin Hakim narrated from his father that his grandfather Mu'awiyah Al-Qushairi said:\"The Messenger of Allah said: 'Let the one who is present convey to the one who is absent",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 0,
+      "hadith": 234
+    }
+  }
+}

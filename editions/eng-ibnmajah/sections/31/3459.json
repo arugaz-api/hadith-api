@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3459,
+    "arabicnumber": 3459,
+    "text": "It was narrated that Abu Hurairah said:“The Messenger of Allah (ﷺ) forbade treating illness with foul things (Khabith), meaning poison.”",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 31,
+      "hadith": 24
+    }
+  }
+}

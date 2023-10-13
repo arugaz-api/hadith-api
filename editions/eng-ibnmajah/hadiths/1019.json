@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1019,
+    "arabicnumber": 1019,
+    "text": "It was narrated that ‘Abdullah said:“We would greet others during the prayer, and it was said to us: ‘During the prayer one is preoccupied.’”",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 217
+    }
+  }
+}

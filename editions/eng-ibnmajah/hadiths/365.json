@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 365,
+    "arabicnumber": 365,
+    "text": "It was narrated from 'Abdullah bin Mughaffal that:The Messenger of Allah said: 'If a dog licks a vessel, wash it seven times and rub it with dust the eight times",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 99
+    }
+  }
+}
