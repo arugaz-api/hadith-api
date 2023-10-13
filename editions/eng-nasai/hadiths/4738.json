@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4738,
+    "arabicnumber": 4738,
+    "text": "It was narrated that Samurah said:\"The Prophet said: 'Whoever kills his slave, we will kill him, and whoever mutilates his slave, we will mutilate him",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 45,
+      "hadith": 33
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4787,
+    "arabicnumber": 4787,
+    "text": "Abu Salamah narrated that the Messenger of Allah said:\"If a person's relative is killed.\" In Mursal form. (Shah)",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 45,
+      "hadith": 82
+    }
+  }
+}

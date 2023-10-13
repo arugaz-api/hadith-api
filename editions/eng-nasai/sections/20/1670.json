@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1670,
+    "arabicnumber": 1670,
+    "text": "Ibn Umar told them that :A man asked the Messenger of Allah (ﷺ)about prayers at night, and he said: \"Two by two, then if one of you fears that dawn will come, let him pray witr with one",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 73
+    }
+  }
+}

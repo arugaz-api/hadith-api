@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1400,
+    "arabicnumber": 1400,
+    "text": "Amr bin Dinar narrated that:He heard Jabir bin 'Abdullah say: \"A man came when the Prophet (ﷺ) was on the minbar on a Friday. He said to him: 'Have you prayed two rak'ahs?' He said: 'No.' He said: 'Pray",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 14,
+      "hadith": 37
+    }
+  }
+}

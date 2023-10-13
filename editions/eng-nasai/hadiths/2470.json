@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2470,
+    "arabicnumber": 2470,
+    "text": "It was narrated from Abu Hurairah that the Prophet said:\"A person does not have to pay Sadaqah on his horse or his slave",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 23,
+      "hadith": 36
+    }
+  }
+}

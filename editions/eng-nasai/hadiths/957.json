@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 957,
+    "arabicnumber": 957,
+    "text": "It was narrated from Ibn Abbas that:The Prophet (ﷺ) prostrated in Sad and said: \"Dawud did this prostration in repentance and we do it in thanksgiving",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 11,
+      "hadith": 82
+    }
+  }
+}

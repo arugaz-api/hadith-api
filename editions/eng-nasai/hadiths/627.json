@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 627,
+    "arabicnumber": 627,
+    "text": "It was narrated that Anas said:\"The Messenger of Allah (S.A.W) commanded Bilal to say the phrases of the Adhan twice and the phrases of the Iqamah once",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 7,
+      "hadith": 2
+    }
+  }
+}

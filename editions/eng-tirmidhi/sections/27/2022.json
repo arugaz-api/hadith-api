@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2022,
+    "arabicnumber": 2022,
+    "text": "Anas bin Malik narrated that the Messenger of Allah said:\"No young person honors an elder due to his age, except that Allah appoints for him one who will honor him at that age",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 27,
+      "hadith": 128
+    }
+  }
+}

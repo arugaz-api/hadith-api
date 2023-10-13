@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 286,
+    "arabicnumber": 286,
+    "text": "Abu Hurairah narrated:\"[Some of] the Companions of the Prophet complained [to the Prophet] about the hardship of the prostration on them, when they were so spread out, so he said: 'Use your knees",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 138
+    }
+  }
+}

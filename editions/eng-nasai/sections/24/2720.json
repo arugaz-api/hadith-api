@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2720,
+    "arabicnumber": 2720,
+    "text": "(Another chain) that shaqiq said; a \"As-Subai told us something similar, and he said:'I came to 'Umar and told him the story, apart from the words: 'Hey you",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 102
+    }
+  }
+}

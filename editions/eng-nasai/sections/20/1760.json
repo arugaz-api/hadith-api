@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1760,
+    "arabicnumber": 1760,
+    "text": "It was narrated from Hafsah that:When the call for Subh prayer was given, the Messenger of Allah (ﷺ) would pray two brief rak'ahs before going to the prayer",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 163
+    }
+  }
+}

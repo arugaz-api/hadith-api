@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 920,
+    "arabicnumber": 920,
+    "text": "Aishah narrated:\"The Prophet delayed the visiting Tawaf until the night",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Shadh"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 113
+    }
+  }
+}

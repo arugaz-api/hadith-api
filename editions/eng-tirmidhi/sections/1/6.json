@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 6,
+    "arabicnumber": 6,
+    "text": "Anas bin Malik said:\"When the Prophet would enter the toilet 'He said: \"O Allah! Indeed I seek refuge in You from Al-Khubith and Al- Khaba'ith",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 6
+    }
+  }
+}

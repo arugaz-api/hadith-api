@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2041,
+    "arabicnumber": 2041,
+    "text": "Abu Hurairah narrated that the Messenger of Allah (s.a.w) said:\"Use this black seed. For indeed it contains a cure for every disease except As-Sam\" And As-Sam is death",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 28,
+      "hadith": 6
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1955,
+    "arabicnumber": 1955,
+    "text": "Abu Sa'eed narrated that the Messenger of Allah said :\"Whoever is not grateful to the people, he is not grateful to Allah",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 27,
+      "hadith": 61
+    }
+  }
+}

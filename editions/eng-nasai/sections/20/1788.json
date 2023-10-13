@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1788,
+    "arabicnumber": 1788,
+    "text": "It was narrated from Sufyan, that 'Abdah said:\"I heard Suwaid bin Ghaflah (narrate it) from Abu Dharr and Abu Ad-Darda",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Muquf"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 191
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2050,
+    "arabicnumber": 2050,
+    "text": "Anas narrated:\"The Prophet (S.A.W) cauterized As'ad bin Zurarah for Shawkah",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 28,
+      "hadith": 15
+    }
+  }
+}

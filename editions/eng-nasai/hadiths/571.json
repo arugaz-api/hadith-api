@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 571,
+    "arabicnumber": 571,
+    "text": "Ibn 'Umar said:\"The Messenger of Allah (ﷺ) said: 'When the edge of the sun rises, then delay prayer until it has fully risen, and when the edge of the sun starts to set, delay prayer until it has fully set",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 6,
+      "hadith": 78
+    }
+  }
+}

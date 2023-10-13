@@ -1,0 +1,22 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 888,
+    "arabicnumber": 888,
+    "text": "(Another chain) that Sa'eed bin Jubair narrated :Similarly from Ibn Umar, from the Prophet",
+    "grades": [
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Bukhari And Muslim"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 81
+    }
+  }
+}

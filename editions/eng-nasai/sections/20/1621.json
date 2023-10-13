@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1621,
+    "arabicnumber": 1621,
+    "text": "It was narrated from Hudhaifah that:When the Prophet (ﷺ) got up to pray at night, he would brush his teeth with the siwak",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 24
+    }
+  }
+}

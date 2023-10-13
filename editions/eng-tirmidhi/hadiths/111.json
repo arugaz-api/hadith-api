@@ -1,0 +1,22 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 111,
+    "arabicnumber": 111,
+    "text": "Ma'mar narrated :a similar narration (as Hadith no. 110) from, Az-Zuhri, with this chain",
+    "grades": [
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 111
+    }
+  }
+}

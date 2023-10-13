@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3124,
+    "arabicnumber": 3124,
+    "text": "Narrated Abu Hurairah:that the Messenger of Allah (ﷺ) said: \"Al-Hamdulillah is Umm Al-Qur'an and Umm Al-Kitab and the seven oft-repeated",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari"
+      }
+    ],
+    "reference": {
+      "book": 47,
+      "hadith": 176
+    }
+  }
+}

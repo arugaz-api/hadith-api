@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 3585,
+    "arabicnumber": 3585,
+    "text": "It was narrated from Abu Hurairah that the Messenger of Allah said:\"There should be no awards (for victory in a competition) except for arrows, camels or horses",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 28,
+      "hadith": 25
+    }
+  }
+}

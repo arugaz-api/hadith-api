@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1467,
+    "arabicnumber": 1467,
+    "text": "It was narrated from Tawus from Ibn Abbas, that :The Messenger of Allah (ﷺ) prayed when the sun was eclipsed, bowing eight times and prostrating four times",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Shadh"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Shadh"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 16,
+      "hadith": 9
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 3121,
+    "arabicnumber": 3121,
+    "text": "Abu Hurairah said:\"The Messenger of Allah (ﷺ) said: 'The guests of Allah, the Mighty and Sublime, are three: The warrior, the pilgrim performing Hajj, and the pilgrim performing 'Umrah",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 25,
+      "hadith": 37
+    }
+  }
+}

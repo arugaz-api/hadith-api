@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 3727,
+    "arabicnumber": 3727,
+    "text": "Malik bin Dinar narrated from 'Ata', from Jabir that the Messenger of Allah addressed them one day and said:\"'Umra is permissible",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 34,
+      "hadith": 9
+    }
+  }
+}

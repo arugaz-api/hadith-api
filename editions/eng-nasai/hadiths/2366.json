@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2366,
+    "arabicnumber": 2366,
+    "text": "It was narrated that Hafsah said:\"The Messenger of Allah used to fast Thursday and Monday of each month, and Monday of the following week",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 277
+    }
+  }
+}

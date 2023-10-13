@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1683,
+    "arabicnumber": 1683,
+    "text": "Abu Nadrah Al-'Awaqi narrated that he heard Abu Sa'eed Al-Khudri say:\"The Messenger of Allah (ﷺ) was asked about witr and he said: 'Pray witr before dawn (Subh)",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 86
+    }
+  }
+}

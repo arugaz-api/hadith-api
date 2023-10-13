@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 257,
+    "arabicnumber": 257,
+    "text": "Alqamah narrated that :Abdullah bin Mas'ud said: \"Shall I not demonstrate the Salat of Allah's Messenger to you?\" Then he offered Salat and he did not raise his hands except while saying the first Takbir",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 109
+    }
+  }
+}

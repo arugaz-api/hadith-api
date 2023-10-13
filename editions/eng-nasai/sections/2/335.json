@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 335,
+    "arabicnumber": 335,
+    "text": "It was narrated that Abu Hurairah said:\"The Messenger of Allah (ﷺ) said: 'If a dog licks the vessel of any one of you, let him throw (the contents) away and wash it seven times",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 11
+    }
+  }
+}

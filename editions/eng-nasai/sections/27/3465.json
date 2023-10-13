@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 3465,
+    "arabicnumber": 3465,
+    "text": "It was narrated from Ibn 'Abbas that a man said:\"O Messenger of Allah, I have a wife who does not object if anyone touches her.\" He said: \"Divorce her.\" He said: \"I cannot live without her.\" He said: \"Then keep her",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 27,
+      "hadith": 77
+    }
+  }
+}

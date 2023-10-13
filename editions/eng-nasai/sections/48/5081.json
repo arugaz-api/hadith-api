@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5081,
+    "arabicnumber": 5081,
+    "text": "It was narrated that 'Abdullah bin Buraidah said:\"The Messenger of Allah [SAW] said: 'The best things with which you can change gray hair are Henna and Katam",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 48,
+      "hadith": 42
+    }
+  }
+}

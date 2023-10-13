@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2000,
+    "arabicnumber": 2000,
+    "text": "Iylas bin Salamah bin Al-Akwa' narrated from his father that the Messenger of Allah said:\"A man shall remain exalting himself until he is written among the tyrants, so that he suffers from their afflictions",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 27,
+      "hadith": 106
+    }
+  }
+}

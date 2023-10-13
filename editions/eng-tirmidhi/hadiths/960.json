@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 960,
+    "arabicnumber": 960,
+    "text": "Ibn Abbas narrated that :the Prophet said: \"Tawaf around the House is similar to Salat except that you talk during it. So whoever talks in it, then let him not say but good",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 154
+    }
+  }
+}

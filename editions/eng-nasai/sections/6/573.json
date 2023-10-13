@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 573,
+    "arabicnumber": 573,
+    "text": "It was narrated that 'Ali said:\"The Messenger of Allah (ﷺ)forbade praying after 'Asr unless the sun was still white, clear and high",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 6,
+      "hadith": 80
+    }
+  }
+}

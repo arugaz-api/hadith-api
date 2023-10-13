@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5220,
+    "arabicnumber": 5220,
+    "text": "It was narrated that Abu Bakr bin Musa said:\"I was with Salim bin 'Abdullah when Salim narrated from his father, that the Prophet [SAW] said: 'The angels do not accompany groups of people who have small bells with them",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 48,
+      "hadith": 181
+    }
+  }
+}

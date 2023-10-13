@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5543,
+    "arabicnumber": 5543,
+    "text": "It was narrated that Anas bin Malik said:\"When Khamr was forbidden, their drink was (made from) unripe dates and dried dates",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 51,
+      "hadith": 4
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2647,
+    "arabicnumber": 2647,
+    "text": "Narrated Anas bin Malik:that the Messenger of Allah (ﷺ) said: \"Whoever goes out seeking knowledge, then he is in Allah's cause until he returns",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 41,
+      "hadith": 3
+    }
+  }
+}

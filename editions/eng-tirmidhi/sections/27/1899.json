@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1899,
+    "arabicnumber": 1899,
+    "text": "Abdullah bin Amr narrated that:the Prophet said: \"The Lord's pleasure is in the parent's pleasure, and the Lord's anger is in the parent's anger.\"(Hasan)",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 27,
+      "hadith": 3
+    }
+  }
+}

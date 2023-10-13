@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4599,
+    "arabicnumber": 4599,
+    "text": "It was narrated that Tawus said:\"I heard Ibn 'Abbas say: 'As for that which the Messenger of Allah forbade, (it is) selling before taking possession of food",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 44,
+      "hadith": 151
+    }
+  }
+}

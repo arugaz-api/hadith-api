@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1790,
+    "arabicnumber": 1790,
+    "text": "Abdur-Rahman bin Abdul-Qari said:\"I heard Umar bin Al-Khattab say: 'The Messenger of Allah (ﷺ) said: Whoever sleeps and misses his portion (of Qur'an) or part of it, and then reads it between Fajr and Zuhr prayers, it will be recorded for him as if he had read it at night.'\" (Sahih)",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 193
+    }
+  }
+}

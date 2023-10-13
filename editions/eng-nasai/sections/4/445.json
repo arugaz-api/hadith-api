@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 445,
+    "arabicnumber": 445,
+    "text": "It was narrated from Busrah bint Safwan that the Prophet (ﷺ) said:\"If any one of you touches his private part with his hand, let him perform Wudu",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 4,
+      "hadith": 51
+    }
+  }
+}

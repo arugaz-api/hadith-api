@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 775,
+    "arabicnumber": 775,
+    "text": "Abu Maslamah - whose name is Saeed bin Yazid, a trustworthy Basri - told us:\"I asked Anas bin Malik: 'Did the Prophet (ﷺ) pray in sandals?' He said: 'Yes",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 34
+    }
+  }
+}

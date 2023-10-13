@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1360,
+    "arabicnumber": 1360,
+    "text": "Anas narrated that the Messenger of Allah (ﷺ) borrowed a bowl which broke, so he guaranteed (compensated) it for them",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Very Daif Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Very Daif Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 40
+    }
+  }
+}

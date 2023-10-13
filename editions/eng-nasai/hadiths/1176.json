@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1176,
+    "arabicnumber": 1176,
+    "text": "It was narrated that 'Abdullah bin Mas'ud said:\"In the first two rak'ahs the Prophet (ﷺ) was as if he were on stones heated by fire",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 148
+    }
+  }
+}

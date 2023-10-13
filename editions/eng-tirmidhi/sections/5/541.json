@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 541,
+    "arabicnumber": 541,
+    "text": "Abu Hurairah narrated:\"When Allah's Messenger would go out on the day of Eid by one route, he would return by another",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 12
+    }
+  }
+}

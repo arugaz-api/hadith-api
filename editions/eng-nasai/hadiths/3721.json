@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 3721,
+    "arabicnumber": 3721,
+    "text": "It was narrated from Zaid bin Thabit that the Messenger of Allah said:\"'Umra (a gift given for life) belongs to the heir",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 34,
+      "hadith": 2
+    }
+  }
+}

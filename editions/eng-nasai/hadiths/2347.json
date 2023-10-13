@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2347,
+    "arabicnumber": 2347,
+    "text": "It was narrated that 'Aishah said:\"The Messenger of Allah used to fast until we said: 'He does not want to break his fast.' And he used not to fast until we said: 'He does not want to fast",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 258
+    }
+  }
+}
