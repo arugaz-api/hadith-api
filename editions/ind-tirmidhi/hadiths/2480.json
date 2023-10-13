@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2480,
+    "arabicnumber": 2480,
+    "text": "",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif Isnaad Maqtu"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif Isnaad Maqtu"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 37,
+      "hadith": 66
+    }
+  }
+}
