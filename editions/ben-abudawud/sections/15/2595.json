@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2595,
+    "arabicnumber": 2595,
+    "text": "। সামুরাহ ইবনু জুনদুর (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, মুহাজিরদের সাংকেতিক ডাক ছিলো ‘আব্দুল্লাহ’, আর আনসারদের সাংকেতিক ডাক ছিলো ‘আব্দুর রাহমান।’",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 119
+    }
+  }
+}

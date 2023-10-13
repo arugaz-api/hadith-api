@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2787,
+    "arabicnumber": 2787,
+    "text": "। সামুরাহ ইবনু জুনদুব (রাঃ) সূত্রে বর্ণিত। অতঃপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ কেউ কোনো মুশরিকের সাহচর্যে থাকলে এবং তাদের সাথে বসবাস করলে সে তাদেরই মতো।",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 311
+    }
+  }
+}

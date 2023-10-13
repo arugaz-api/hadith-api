@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3260,
+    "arabicnumber": 3260,
+    "text": "। ইউসুফ ইবনু ‘আব্দুল্লাহ ইবনু সালাম (রাঃ) থেকে এ সনদে উপরের হাদীসের অনুরূপ বর্ণিত।",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Very Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 19
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 977,
+    "arabicnumber": 977,
+    "text": "। শু‘বাহ (রহঃ) বর্ণিত হাদীসে আছেঃ ‘‘সল্লি ‘আলা মুহাম্মাদিন ওয়া ‘আলা ‘আলি মুহাম্মাদিন কামা সল্লাইতা ‘আলা ইবরাহীমা’’।[1] সহীহ : বুখারী ও মুসলিম।",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (6357) Sahih Muslim (406)"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 588
+    }
+  }
+}

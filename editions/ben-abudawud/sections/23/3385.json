@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3385,
+    "arabicnumber": 3385,
+    "text": "। ‘উরওয়াহ আল-বারিক্বী (রাঃ) এই সনদে অনুরূপ হাদীস শাব্দিক পার্থক্য সহকারে বর্ণনা করেছেন।",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 23,
+      "hadith": 60
+    }
+  }
+}

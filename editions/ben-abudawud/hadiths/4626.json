@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4626,
+    "arabicnumber": 4626,
+    "text": "। উসমান আল-বাত্তী (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, হাসান বাসরী (রহঃ) যখন কোনো আয়াতের ব্যাখ্যা করতেন, তখন তাকদীরকে প্রমাণ করতেন।[1] সহীহ।",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 42,
+      "hadith": 31
+    }
+  }
+}
