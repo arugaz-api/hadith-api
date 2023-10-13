@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 314,
+    "arabicnumber": 314,
+    "text": "Ibn Yarbou'Al- Makhzouni a rapporté qu'il a entendu Zaid Ibn Thabet dire: «la prière médiane est celle du midi»",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Mauquf Sahih"
+      }
+    ],
+    "reference": {
+      "book": 8,
+      "hadith": 28
+    }
+  }
+}
