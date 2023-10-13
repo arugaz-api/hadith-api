@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 5035,
+    "arabicnumber": 5035,
+    "text": "Said b. Said'den demiştir ki: Benim kesin bildiğim şu ki; Hz. Ebu Hureyre bu (bir önceki 5034.) hadisi Hz. Nebi'den (merfu' olarak) mânası ile rivayet etmiştir. (Lafızlarını rivayet ettiğini bilmiyorum). Ebu Davud dedi ki: Sözü geçen hadîsi (lafzıyla birlikte); Ebu Nuaym, Musa b. Kays, Muhammed b. Adan, Said, Ebu Hureyre - senediyle Peygamber (s.a.v.)'den (merfu' olarak) rivayet etmiştir",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 263
+    }
+  }
+}

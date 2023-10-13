@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 820,
+    "arabicnumber": 820,
+    "text": "Ebu Hureyre'den; demiştir ki: Nebi (Sallallahu aleyhi ve Sellem), \"Fatiha ve ona ilave olarak (Kur'an'dan) bir şey okumaksızın namaz caiz değildir\" diye ilan etmemi bana emir buyurdu. Diğer tahric: îbn Mace, ikame",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 430
+    }
+  }
+}

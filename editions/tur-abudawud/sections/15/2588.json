@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2588,
+    "arabicnumber": 2588,
+    "text": "Câbir (r.a.)'den rivayet olunduğuna göre, \"Nebi (s.a.v.) kılıcın kınından sıyrılmış halde alınıp verilmesini yasaklamıştır",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 112
+    }
+  }
+}

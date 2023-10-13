@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2655,
+    "arabicnumber": 2655,
+    "text": "En-Nu'man b. Mukarrin dedi ki: Ben (bazı savaşlarda) Rasûlullah (s.a.v.) ile birlikte bulundum. Gündüzün evvelinden savaş'a başlamazsa güneşin (tepeden batıya) kayıp ta rüzgarlar esmeye ve (Allah'ın) yardım(ı) ininceye kadar savaşı ertelerdi",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 179
+    }
+  }
+}

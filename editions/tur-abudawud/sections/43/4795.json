@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4795,
+    "arabicnumber": 4795,
+    "text": "(Abdullah) b. Ömer'den (rivayet edildiğine göre) Nebi (s.a.v.) kardeşine (fazla) utanma(ması) hakkında öğüt vermekte olan ensardan bir zat'ın yanına uğramış da: \"Onu bırak! Çünkü utanmak imandandır\" buyurmuştur",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (24) Sahih Muslim (36)"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 23
+    }
+  }
+}

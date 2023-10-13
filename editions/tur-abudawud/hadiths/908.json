@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 908,
+    "arabicnumber": 908,
+    "text": "Ali (r.a.)'den; demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Yâ Alî, namazda imam'a (yanıldığı âyeti) hatırlatma!\" Ebû Dâvûd dedi ki: Ebu îshak, el-Haris'ten sadece dört hadis işitmiştir. Bu hadis de onlardan değildir. Sadece, Ebû Dâvûd rivayet etmiştir",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 519
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3408,
+    "arabicnumber": 3408,
+    "text": "İbn Ömer (r.a)'den rivayet edildiğine göre; Rasûlullah (s.a.v.), (Hayber arazisini ve bahçelerini) çıkacak ekin ve meyvenin yarısı karşılığında Hayberlilere ortağa verdi",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (2329) Sahih Muslim (1551)"
+      }
+    ],
+    "reference": {
+      "book": 23,
+      "hadith": 83
+    }
+  }
+}

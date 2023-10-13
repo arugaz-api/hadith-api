@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4867,
+    "arabicnumber": 4867,
+    "text": "Said b. el Müseyyeb'den (rivayet edildiğine göre); Hz. Ömer b. el-Hattâb ile Osman b. el Affan'da böyle (4866 daki gibi) yaparlarmış",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (475)"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 95
+    }
+  }
+}

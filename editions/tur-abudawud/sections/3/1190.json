@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1190,
+    "arabicnumber": 1190,
+    "text": "Âişe (r.anhâ)'den; demiştir ki: Güneş tutuldu, bunun üzerine Resûlullah (S.A.V.) bir adam'a emretti, o da, \"şüphesiz namaz toplayıcıdır\" diye nida etti",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (1066) Sahih Muslim (901)"
+      }
+    ],
+    "reference": {
+      "book": 3,
+      "hadith": 30
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 534,
+    "arabicnumber": 534,
+    "text": "Bilal'den rivayet edildiğine göre, Resulullah (Sallallahu aleyhi ve Sellem) kollarını yana doğru açmış ve; \"Fecrin ağardığı sana şöyle iyice belirmedikçe (sakın) ezan okuma\" buyurmuştur. Ebu Davud dedi ki: İyaz'ın azatlısı olan Şeddad, Bilal'i görme­miştir. Sadece Ebu Davud rivayet etmiştir",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 144
+    }
+  }
+}

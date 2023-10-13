@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3876,
+    "arabicnumber": 3876,
+    "text": "Sa'd b. Ebî Vakkâs'dan rivayet olunduğuna göre; Nebi (s.a.v.) şöyle buyurmuştur: \"Kim her sabah (aç karnına Medine'nin en iyi hurması olan) Acve'den yedi tane yerse ona o gün zehir de zarar vermez, sihir de",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (5769) Sahih Muslim (2047)"
+      }
+    ],
+    "reference": {
+      "book": 29,
+      "hadith": 22
+    }
+  }
+}

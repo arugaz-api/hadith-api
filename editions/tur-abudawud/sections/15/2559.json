@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2559,
+    "arabicnumber": 2559,
+    "text": "Muaz (r.a.)'dan; demiştir ki. 'Ben Ufeyr denilen bir merkebin üzerinde, Rasûlullah (s.a.v.)'in terkisinde idim",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Shadh"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Shadh"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (2856)"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 83
+    }
+  }
+}

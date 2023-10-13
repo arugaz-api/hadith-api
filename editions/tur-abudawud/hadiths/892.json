@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 892,
+    "arabicnumber": 892,
+    "text": "İbn Ömer, (hadisi Resulullah (Sallallahu aleyhi ve Sellem)'a) ref ederek O'nun şöyle buyurduğunu haber vermiştir: \"Eller de yüz gibi secde ederler. Öyleyse biriniz yüzünü (yere) koyduğu zaman ellerini de koysun, onu (secdeden) kaldırdığı zaman onları da kaldırsın.\" Diğer tahric: Nesaî, iftitah",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 502
+    }
+  }
+}

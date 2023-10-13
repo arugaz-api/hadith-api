@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2401,
+    "arabicnumber": 2401,
+    "text": "İbn Abbâs (r.a)'dan; demiştir ki: Bir adam ramazanda hastalanır, sonra orucunu tutmadan ölürse onun yerine yemek yedirilir, (sadaka verilir). Artık onun kazası yoktur. Eğer kişinin nezir borcu varsa velisi onu kaza eder",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Muquf"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 14,
+      "hadith": 89
+    }
+  }
+}

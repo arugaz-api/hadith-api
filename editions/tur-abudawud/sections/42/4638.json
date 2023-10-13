@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4638,
+    "arabicnumber": 4638,
+    "text": "Mekhûl'den (rivayet edildiğine göre) demiştir ki: Rum (askerleri) kırk gün (önünü) yara yara Şam bölgesinde ilerleyeceklerdir. Bu bölgede Dımeşk ile Amman'dan başka (hiçbir şehir, onlara) karşı duramayacaktır",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif Isnaad Maqtu"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif Isnaad Maqtu"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Maqtu"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 42,
+      "hadith": 43
+    }
+  }
+}

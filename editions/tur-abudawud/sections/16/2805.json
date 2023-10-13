@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2805,
+    "arabicnumber": 2805,
+    "text": "Hz. Ali'den demiştir ki: Nebi (S.A.V.) kulağının kesik veyahutta boynuzunun ekserisi kırık olan (bir hayvan)ı kurban etmeyi yasaklamıştır",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 16,
+      "hadith": 18
+    }
+  }
+}

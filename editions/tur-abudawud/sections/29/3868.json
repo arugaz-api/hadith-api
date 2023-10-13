@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3868,
+    "arabicnumber": 3868,
+    "text": "Câbir b. Abdullah'dan rivayet olunduğuna göre; Rasûlullah (s.a.v.)'e nuşre (denilen tedavi usulü) sorulmuş da: \"O şeytan işidir\" cevabını vermiş",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 29,
+      "hadith": 14
+    }
+  }
+}

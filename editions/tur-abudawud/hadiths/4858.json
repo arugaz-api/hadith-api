@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4858,
+    "arabicnumber": 4858,
+    "text": "(Bir Önceki 4857. hadisin) bir benzerini de Nebi (s.a.v.)'den Hz. Ebu Hureyre (rivayet etmiştir)",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 86
+    }
+  }
+}

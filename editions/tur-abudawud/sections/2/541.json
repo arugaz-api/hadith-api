@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 541,
+    "arabicnumber": 541,
+    "text": "Ebu Hureyre'den, (şöyle dediği rivayet edilmiştir); Resulullah (Sallallahu aleyhi ve Sellem, evinden çıkınca) namaz için kamet getirilmeye başlanırdı. Cemaat da Nebi'den önce yerlerini alırlardı. Diğer tahric: Buharî, ezan; Müslim, mesacid; Nesaî, imame",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (640) Sahih Muslim (605)"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 151
+    }
+  }
+}

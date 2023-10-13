@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1467,
+    "arabicnumber": 1467,
+    "text": "Abdullah b. Muğaffel (r.a.)'den; demiştir ki: Resulullah (s.a.v.)'i Mekke'nin fethi günü devesinin üzerinde sesini dalgalandırarak Fetih Suresini okurken gördüm",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (7540) Sahih Muslim (794)"
+      }
+    ],
+    "reference": {
+      "book": 8,
+      "hadith": 52
+    }
+  }
+}

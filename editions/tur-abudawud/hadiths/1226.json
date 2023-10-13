@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1226,
+    "arabicnumber": 1226,
+    "text": "Abdullah b. Ömer (r.a.)'den; demiştir ki: Ben Resûlullah (s.a.v.)'i eşek üzerinde Hayber'e doğru namaz kılarken gördüm",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (700)"
+      }
+    ],
+    "reference": {
+      "book": 4,
+      "hadith": 29
+    }
+  }
+}

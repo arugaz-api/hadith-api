@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 5032,
+    "arabicnumber": 5032,
+    "text": "Şu (bir Önceki 5031.) hadisi Hilal b. Yesaf, Nebi (s.a.v.)'den bir de Halid b. Arface ve Salim İbn Ubeyd el-Eşcaî yoluyla rivayet etmiştir",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 260
+    }
+  }
+}

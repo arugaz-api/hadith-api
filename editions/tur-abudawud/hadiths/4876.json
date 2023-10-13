@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4876,
+    "arabicnumber": 4876,
+    "text": "Said b. Zeyd'den (rivayet edildiğine göre) Nebi (s.a.v.) şöyle buyurmuştur: \"Muhakkak ki Riba'nın en şiddetlisi haksız yere bir müslümamn şerefine (dil) uzatmaktır",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 104
+    }
+  }
+}

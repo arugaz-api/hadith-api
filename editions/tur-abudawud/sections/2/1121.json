@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1121,
+    "arabicnumber": 1121,
+    "text": "Ebû Hureyre (r.a.)'den; demiştir ki: Nebi (s.a.v.) şöyle buyurdu: \"Namazın bir rekatîne yetişen (o) namaz'a yetişmiş demektir",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (580) Sahih Muslim (607)"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 732
+    }
+  }
+}

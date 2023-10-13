@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2203,
+    "arabicnumber": 2203,
+    "text": "Âişe (r. anha)'den demiştir ki: \"Rasülullah (s.a.v.), bizi muhayyer bıraktı. Biz de onu seçtik. Bunu (talaktan) bir şey saymadı",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (5262) Sahih Muslim (1477)"
+      }
+    ],
+    "reference": {
+      "book": 13,
+      "hadith": 29
+    }
+  }
+}

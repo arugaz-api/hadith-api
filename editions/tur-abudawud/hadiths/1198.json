@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1198,
+    "arabicnumber": 1198,
+    "text": "Âişe (r.anhâ)'dan; demiştir ki: Namaz hazarda ve seferde ikişer rekat olarak farz kılındı. Sonra yolculuk namazı olduğu gibi bırakıldı, hazar namazına ilâve yapıldı",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (350) Sahih Muslim (685)"
+      }
+    ],
+    "reference": {
+      "book": 4,
+      "hadith": 1
+    }
+  }
+}

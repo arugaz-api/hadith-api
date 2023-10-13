@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4927,
+    "arabicnumber": 4927,
+    "text": "Ebu Vail şöyle demiştir: Ben Abdullah’ı şöyle derken işittim: Ben Resulullah (s.a.v.) “Ezgi kalpte münafıklık (duyguları) meydana getirir.” derken işittim",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Very Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 155
+    }
+  }
+}

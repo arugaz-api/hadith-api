@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1452,
+    "arabicnumber": 1452,
+    "text": "Osman (r.a.)'den; demiştir ki: Resul-i Ekrem (s.a.v.) şöyle buyurmuştur: \"Sizin en hayırlınız Kur'an-ı Öğrenen ve öğretendir",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (5027)"
+      }
+    ],
+    "reference": {
+      "book": 8,
+      "hadith": 37
+    }
+  }
+}

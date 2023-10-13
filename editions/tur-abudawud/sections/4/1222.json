@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1222,
+    "arabicnumber": 1222,
+    "text": "el-Berâ b. Âzib el-Ensâri'den; demiştir ki: Ben Resûlullah (s.a.v.) ile birlikte onsekiz defa yolculuk yaptım. Güneş (batıya) kaydıktan sonra, öğleden evvel iki rekat namaz kılmayı terk ettiğini görmedim. Diğer tahric: Tirmizî, salât",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 4,
+      "hadith": 25
+    }
+  }
+}

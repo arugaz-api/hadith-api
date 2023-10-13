@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1862,
+    "arabicnumber": 1862,
+    "text": "el-Haccâc b. Amr el-Ensârî demiştir ki: Rasûlullah (ş.a.) şöyle buyurdu: \"Kimin (bir tarafı) kırılırsa veya ayağı sakatlanırsa, hemen ihramdan çıkar ve gelecek sene hac yapması gerekir.\" (Râvî) İkrime dedi ki: Ben bunu İbn Abbâs'la Ebû Hureyre'ye sordum da \"(Haccâc)\" doğru söylemiş\" diye cevap verdiler",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 11,
+      "hadith": 142
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2613,
+    "arabicnumber": 2613,
+    "text": "Süleyman b. Büreyde'nin babasından rivayet olunduğuna göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: \"Allah'ın ismiyle Allah yolunda ve Allah'ı inkar eden(ler)le savaşınız ve ahdinizi bozmadan, (ganimetlere) hıyanet etmeden, musle yapmadan çocuk(ları) öldürmeden savaşınız",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 137
+    }
+  }
+}

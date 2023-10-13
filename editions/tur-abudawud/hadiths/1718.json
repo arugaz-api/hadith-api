@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1718,
+    "arabicnumber": 1718,
+    "text": "Ebû Hureyre (r.a.)'den rivayet edildiğine göre, Nebi (S.A.V.) şöyle buyurmuştur: \"(Bulunduğu halde ilân edilmeyip) saklanan yitik deve(nin saklanmasının) mâli cezası kıymetinin ödenmesidir, ve onunla birlikte (kıymetinin) bir mislinin daha (verilmesidir)",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 10,
+      "hadith": 18
+    }
+  }
+}

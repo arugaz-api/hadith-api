@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 405,
+    "arabicnumber": 405,
+    "text": "Zuhri şöyle demiştir: Avali iki veya üç mil (mesafedendir. (Ma'mer bin Raşid) dedi ki: Zühri'nin \"veya dört mil\" dediğini zannediyorum",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Maqtu"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih Maqtu"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 15
+    }
+  }
+}

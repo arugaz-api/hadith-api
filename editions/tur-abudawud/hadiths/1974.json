@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1974,
+    "arabicnumber": 1974,
+    "text": "Abdurrahman b. Yezid dedi ki: İbn Mes'ûd el-Cemretü'I-Kübrâ (demlen Cemre-i Akabe)'ye varınca Beyt'i soluna Minâ'yı da sağına aldı ve Cemre(-i Akabe)'ye yedi çakıl atıp (Resûl-i Ekremi kasd ederek) \"Kendisine Bakara sûresi inen kimse de işte böyle attı.” dedi",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (1748) Sahih Muslim (1296)"
+      }
+    ],
+    "reference": {
+      "book": 11,
+      "hadith": 254
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3261,
+    "arabicnumber": 3261,
+    "text": "İbn Ömer (r.a)'den, Rasûlullah (s.a.v.)'e ref ederek, şöyle dediği rivayet edilmiştir: \"Bir şey üzerine yemin edip arkasından \"İnşaallah\" diyen kimse (yemininde) istisna etmiştir",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 20
+    }
+  }
+}

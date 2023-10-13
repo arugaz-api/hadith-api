@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1215,
+    "arabicnumber": 1215,
+    "text": "Cabir (r.a.)'den rivayet edildiğine göre, Resûlullah (s.a.v.) Mekke'de iken güneş attı, (akşam ile yatsı namazlarım) ikisini de Şerif (denilen yer)de birleştirerek kıldı",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 4,
+      "hadith": 18
+    }
+  }
+}

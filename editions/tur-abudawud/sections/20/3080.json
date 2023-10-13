@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3080,
+    "arabicnumber": 3080,
+    "text": "Hz. Nebi'in hanımı Zeyneb'den (rivayet olunduğuna göre) Kendisi (bir gün) Rasûlullah (s.a.v.)'in başını tararken (Hz. Peygamber'in) yanında Osman b. Affan'ın hanımı ile muhacirlerden bazı kadınlarda varmış. Bunlar, (Hz. Nebi'e, varislerin çokluğundan dolayı) evlerinin kendilerine dar gelmeye başladığından ve (yakında) oradan çıkarılacaklarından şikayet etmişler. Bunun üzerine Rasûlullah (s.a.v.) muhacirlerin evlerine (onların) hanımlarının) mirasçı kılınmasını emretmiş (derken) Abdullah b. Mesud vefat etmiş karısı da Medine'de (ona ait olan) bir ev'e mirasçı olmuş",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 153
+    }
+  }
+}

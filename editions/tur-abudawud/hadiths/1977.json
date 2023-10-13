@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1977,
+    "arabicnumber": 1977,
+    "text": "Katâde'den; demiştir ki: Ben Ebû Miclez'i (şöyle) derken işittim: Ben İbn Abbas'a taşlarla ilgili bir şey sordum da; Resûlullah (s.a.v.) altı (taş) mı yoksa yedi (taş) mı attı, (iyice) bilmiyorum, diye cevap verdi",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 11,
+      "hadith": 257
+    }
+  }
+}

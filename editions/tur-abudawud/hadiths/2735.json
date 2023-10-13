@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2735,
+    "arabicnumber": 2735,
+    "text": "(Şu bir önceki 2734. hadis-i şerifin) manası Ebû Ömer'den de (rivayet olundu) Ancak Ebû Umre (bir Önceki hadisten farklı olarak Hz. Peygamber'in ganimet verdiği atlıların) üç kişi (olduklarını) söyledi (ayrıca) \"Her bir atlı için üç hisse verildi\" (cümlesini de) ilave etti",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 259
+    }
+  }
+}

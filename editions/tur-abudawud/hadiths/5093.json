@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 5093,
+    "arabicnumber": 5093,
+    "text": "Katade'den (rivayet edildiğine göre) Rasulullah (s.a.v.).hilali (yeni ay'ı) gördüğü zaman yüzünü ondan çevirir (sonra dua eder) miş. Ebu Davud der ki: Bu mevzuda Nebi (s.a.v.)'den (rivayet edilmiş ve) senedi (Hz, Nebie) ulaştırılmış sahih bir hadis yoktur",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif Isnaad"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif Isnaad"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 321
+    }
+  }
+}

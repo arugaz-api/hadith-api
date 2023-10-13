@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 567,
+    "arabicnumber": 567,
+    "text": "İbn Ömer (r.a.)'den; demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Kadınlarınızı mescidlerden men etmeyiniz. Bununla birlikte evIeri (nde namaz) kendileri için daha hayırlıdır.\" Diğer tahric: Müslim, salat; İbn Mace, mukaddime; Ahmed b. Hanbel, II",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 177
+    }
+  }
+}

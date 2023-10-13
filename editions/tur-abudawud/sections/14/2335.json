@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2335,
+    "arabicnumber": 2335,
+    "text": "Ebû Hureyre (r.a.)'den, Rasûlullah (s.a.v.)'in şöyle buyurduğu rivayet edilmiştir; \"Bir iki günle Ramazan orucunun önüne geçmeyiniz. Ancak bir kimsenin âdeti üzre tuttuğu bir orucu olursa, onu tutsun",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (1914) Sahih Muslim (1082)"
+      }
+    ],
+    "reference": {
+      "book": 14,
+      "hadith": 23
+    }
+  }
+}

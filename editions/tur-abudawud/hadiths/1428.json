@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1428,
+    "arabicnumber": 1428,
+    "text": "Muhammed (b. Sirin) arkadaşlarından birinden rivayet ettiğine göre: Ubey b. Ka'b onlara -ramazanda- imam olmuş ve ramazanın son yarısında kunut yap(ar)mış",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 8,
+      "hadith": 13
+    }
+  }
+}

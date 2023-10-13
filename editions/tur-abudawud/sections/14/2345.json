@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2345,
+    "arabicnumber": 2345,
+    "text": "Ebû Hureyre (r.a.)'den, Rasûlullah (s.a.v.)'in şöyle buyurduğu rivayet edilmiştir: \"Hurma mü'min için ne güzel sahur yemeğidir",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 14,
+      "hadith": 33
+    }
+  }
+}

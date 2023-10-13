@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4846,
+    "arabicnumber": 4846,
+    "text": "Ebu Said el-Hııdrî'den (rivayet edildiğine göre) Rasûlullah (s.a.v.) oturduğu zaman kalçaları üzerine oturarak dizlerini dikip el(ler)ini önden bağlarmış. Ebu Davud der ki: Abdullah ibn İbrahim, rivayet(!er)i kendisinden daha sağlam ravilere ve kendisi gibi olan ravilere aykırı düşen bir râvidir",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 74
+    }
+  }
+}

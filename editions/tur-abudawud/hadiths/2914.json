@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2914,
+    "arabicnumber": 2914,
+    "text": "İbn Abbas'dan demiştir ki: Nebi (s.a.v.) (şöyle) buyurdu: \"Cahiliyye döneminden önce paylaştırılan her miras, paylaştırılmış olduğu şekilde (geçerli)dir. İslamiyetin yetişmiş olduğu bir miras İslam taksimi üzere (taksime tabii)dir",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 19,
+      "hadith": 30
+    }
+  }
+}

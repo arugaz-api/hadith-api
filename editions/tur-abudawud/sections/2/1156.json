@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1156,
+    "arabicnumber": 1156,
+    "text": "İbn Ömer (r.a.)'den rivayet edildiğine göre; Resûlullah (s.a.v.) bayram günü (namaza) bir yoldan gider, başka bir yoldan dönerdi",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 767
+    }
+  }
+}

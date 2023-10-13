@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3662,
+    "arabicnumber": 3662,
+    "text": "Ebû Hureyre (r.a)'den rivayet olunduğuna göre Rasûiul-lah (s.a.v.) şöyle buyurmuştur: “İsrail oğullarından (geçmiş devirlere ait haberler) rivayet etmenizde bir sakınca yoktur",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 26,
+      "hadith": 22
+    }
+  }
+}

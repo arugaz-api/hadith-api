@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1535,
+    "arabicnumber": 1535,
+    "text": "Abdullah b. Amr b. el-As (r.a.)'dan rivayet edildiğine göre, Resulullah (s.a.v.) şöyle buyurmuştur: \"En çabuk kabul edilen dua, gaibin gâib için yaptığı duadır",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 8,
+      "hadith": 120
+    }
+  }
+}

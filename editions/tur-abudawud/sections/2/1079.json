@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1079,
+    "arabicnumber": 1079,
+    "text": "Amr b. Şuayb'ın babası kanalıyla dedesinden yaptığı rivayete göre; Resulullah (s.a.v.), mescid'de alış-veriş yapılmasını, kayıp ilân edilmesini, şiir söylenmesini ve cum’a günü namazından önce halka halinde oturulrnasınr nehyetmiştir",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 690
+    }
+  }
+}

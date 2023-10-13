@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3460,
+    "arabicnumber": 3460,
+    "text": "Ebû Hureyre (r.a)'den, Rasûlullah (s.a.v.)'in şöyle buyurduğu rivayet edilmiştir: \"Allah (c.c), bir müslüman'a ikâle yapan kimsenin günahını affeder",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 45
+    }
+  }
+}

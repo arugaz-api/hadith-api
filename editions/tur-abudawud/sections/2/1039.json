@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1039,
+    "arabicnumber": 1039,
+    "text": "İmran b. Husayn (r.a.)'den; rivayet edilmiştir: Resûlullah (s.a.v.) onlara namaz kıldırıp şehv etti. Bunun üzerine iki defa secde yaptı sonra oturup tehiyyâtı okudu, sonra da selâm verdi",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Shadh"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 650
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3648,
+    "arabicnumber": 3648,
+    "text": "Ebû Saîd el-Hudrî (r.a)'dan şöyle dediği rivayet olunmuştur: Biz (Hz. Nebi zamanında) Kur'an ve şahadet kelimesinden başka bir şey yazmadık",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Shadh"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Shadh"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 26,
+      "hadith": 9
+    }
+  }
+}

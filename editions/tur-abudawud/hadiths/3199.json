@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3199,
+    "arabicnumber": 3199,
+    "text": "Ebû Hureyre'den; dedi ki: Rasûlullah (s.a.v.)'ı \"Cenaze üzerine namaz kıldığınızda, ona ihlasla duâ ediniz.\" buyururken işittim",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 21,
+      "hadith": 111
+    }
+  }
+}

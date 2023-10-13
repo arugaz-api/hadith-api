@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2509,
+    "arabicnumber": 2509,
+    "text": "Zeyd b. Halid el-Cüheni, Rasûlullah (s.a.v.)'in şöyle buyurduğunu söylemiştir: \"Kim Allah yolundaki bir mücahidi donatırsa (Allah yolunda) savaşmış olur. Kim de bir mücahide ailesi hakkında hayırlı bir vekil olursa, o da (Allah yolunda) savaşmış olur",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (2843) Sahih Muslim (1895)"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 33
+    }
+  }
+}

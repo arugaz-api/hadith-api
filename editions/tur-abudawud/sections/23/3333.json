@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3333,
+    "arabicnumber": 3333,
+    "text": "Abdullah b. Mes'ud (r.a)'ın şöyle dediği rivayet edilmiştir: \"Rasûlullah (s.a.v.), faiz yiyene, yedirene, (muamelesine) şahitlik edene ve yazana lanet etti",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 23,
+      "hadith": 8
+    }
+  }
+}

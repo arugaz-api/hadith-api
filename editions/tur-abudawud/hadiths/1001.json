@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1001,
+    "arabicnumber": 1001,
+    "text": "Semure'den; demiştir ki: Nebi (s.a.v.) bize imam'ın selâmına karşılık vermemizi, birbirimizi sevmemizi ve biri birimize selâm vermemizi emretti. Diğer tahric: Hâkim, el-Müstedrek",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 612
+    }
+  }
+}

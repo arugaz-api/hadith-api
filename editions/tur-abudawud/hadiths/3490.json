@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3490,
+    "arabicnumber": 3490,
+    "text": "Âişe (r.anha)'nın şöyle dediği rivayet edilmiştir: Bakara sûresinin son âyetleri inince Rasûlullah (s.a.v.) çıkıp onları bize okudu ve: “İçki ticareti haram edildi\" buyurdu",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Hadith"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (2226) Sahih Muslim (1580)"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 75
+    }
+  }
+}

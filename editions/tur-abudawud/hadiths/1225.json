@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1225,
+    "arabicnumber": 1225,
+    "text": "Enes b. Mâlik (r.a.)'den rivayet edildiğine göre; Resulullah (s.a.v.) yola çıktığı zaman nafile namaz kılmak istediğinde devesini kıbleye yöneltip tekbir alırdı. Sonra bineğinin kendisini yönelttiği cihete doğru namazı(nı) kılardı",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 4,
+      "hadith": 28
+    }
+  }
+}

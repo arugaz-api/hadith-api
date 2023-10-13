@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1836,
+    "arabicnumber": 1836,
+    "text": "İbn Abbâs'tan rivayet olunduğuna göre, Rasûlullah (S.A.V.) ihramlı iken başındaki bir rahatsızlıktan dolayı kan aldırmıştır",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (5700)"
+      }
+    ],
+    "reference": {
+      "book": 11,
+      "hadith": 116
+    }
+  }
+}

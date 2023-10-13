@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1803,
+    "arabicnumber": 1803,
+    "text": "îbn Abbâs'dan rivayet edildiğine göre, Kendisine Muâviye (şöyle) demiştir: Sen benim Resûlullah (s.a.v.)'in saçlarından (bir kısmını) bir Arap makasıyla kısalttığımı bilmiyor musun? (Râvi) hasen rivayetine, \"hac (niyetiyle girildiği ihramdan çıkması) için\" sözünü ilâve etmiştir",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Shadh"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Shadh"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 11,
+      "hadith": 83
+    }
+  }
+}

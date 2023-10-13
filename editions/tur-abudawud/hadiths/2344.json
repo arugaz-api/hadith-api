@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2344,
+    "arabicnumber": 2344,
+    "text": "İrbâd b. Sâriye (r.a.) demiştir ki: Rasûlullah (s.a.v.) beni Ramazanda sahur yemeğine davet edip; \"Mübarek ğadâ (kahvaltı)ya gel\" buvurdu",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 14,
+      "hadith": 32
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1150,
+    "arabicnumber": 1150,
+    "text": "Hâlid b. Yezid, İbn Şihâb'dan önceki (1149.) hadisi aynı isnâd ile ve aynı mânâda rivayet etmiştir. (Râvîlerden İün Vehb bu rivayette;) \"Rükû tekbirlerinden başka...\" (kaydının olduğunu) söyledi",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 761
+    }
+  }
+}

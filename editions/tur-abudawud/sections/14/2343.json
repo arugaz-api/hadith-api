@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2343,
+    "arabicnumber": 2343,
+    "text": "Amr b. el-Âs (r.a.)'dan demiştir ki; Rasûlullah (s.a.v.) şöyle buyurdu\"; \"Şüphesiz, ehl-i kitabın orucu ile bizim orucumuzun arasındaki fark, sahur yemeğidir",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (1096)"
+      }
+    ],
+    "reference": {
+      "book": 14,
+      "hadith": 31
+    }
+  }
+}

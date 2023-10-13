@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2351,
+    "arabicnumber": 2351,
+    "text": "Ömer b. el-Hattâb (r.a.)'dan; demiştir ki Rasûlullah (s.a.v.); \"Gece şu (doğu) taraftan geldiği, gündüz şu (batı) taraftan gittiği zaman -Müsedded: \"ve güneş battığı zaman\" sözünü de ekledi- oruçlu orucunu açar (orucunu açma vakti girmiştir.)\" buyurdu",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (1954) Sahih Muslim (1100)"
+      }
+    ],
+    "reference": {
+      "book": 14,
+      "hadith": 39
+    }
+  }
+}

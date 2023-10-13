@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1031,
+    "arabicnumber": 1031,
+    "text": "Muhammed b. Müslim'den bu (önceki 1030.) hadis, aynı isnatla rivayet edilmiş, Yakub'un kardeşinin oğlu Zühri \"o selâmdan önce otururken...\" sözünü ilâve etmiştir",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 642
+    }
+  }
+}

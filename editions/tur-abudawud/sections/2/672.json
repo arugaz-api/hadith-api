@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 672,
+    "arabicnumber": 672,
+    "text": "İbn Abbas (r.a.)'dan; demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Sizin en hayırlınız, namazda omuzu en yumuşak olanınızdır\" Ebu Davud dedi ki: Ca'fer b. Yahya, Mekkelidir. Diğer tahric: Beyhakî, es-Sünenu'l-kübra, III",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 282
+    }
+  }
+}

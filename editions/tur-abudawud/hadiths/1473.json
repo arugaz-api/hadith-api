@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1473,
+    "arabicnumber": 1473,
+    "text": "Ebu Hureyre (r.a.)'den rivayet edildiğine göre Nebi (s.a.v.) şöyle buyurmuştur: \"Allah (c.c.) güzel sesli bir Peygamberin sesini güzelleştirerek (nağme yaparak)-[açıktan]-okuduğu Kur'an'ı dinlediği kadar hiçbir şeyi dinlemedi",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (7544) Sahih Muslim (792)"
+      }
+    ],
+    "reference": {
+      "book": 8,
+      "hadith": 58
+    }
+  }
+}

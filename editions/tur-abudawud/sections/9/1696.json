@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1696,
+    "arabicnumber": 1696,
+    "text": "Cubeyr b. Mut'im'den merfû' olarak rivayet edildiğine göre, Nebi (s.a.v.): \"Akrabalık alakasını kesen, cennet'e giremez\" buyurmuştur",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (5984) Sahih Muslim (2556)"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 141
+    }
+  }
+}

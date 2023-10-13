@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2414,
+    "arabicnumber": 2414,
+    "text": "Nâfi'den rivayet edildiğine göre, İbn Ömer (r.a) Ğâbe'ye kadar gider, fakat orucunu bozmaz, namazı da kısaltmazdı",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Muquf"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih Muquf"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 14,
+      "hadith": 102
+    }
+  }
+}

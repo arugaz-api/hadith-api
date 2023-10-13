@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 788,
+    "arabicnumber": 788,
+    "text": "İbn Abbas'dan; demiştir ki: Nebi (Sallallahu aleyhi ve Sellem) kendisine ininceye kadar surenin sona erdiğini bilemezdi. Bu, İbnu's-Serh'in (rivayetinin) metnidir",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 398
+    }
+  }
+}

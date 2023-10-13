@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4113,
+    "arabicnumber": 4113,
+    "text": "Abdullah b. As'dan rivayet olduğuna göre; Nebi (s.a.v.): \"Biriniz cariyesini kölesiyle nikahladığı zaman (artık bir daha cariyesinin) avret yerlerine bakmasın\" buyurmuştur",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 34,
+      "hadith": 94
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4185,
+    "arabicnumber": 4185,
+    "text": "Enes (r.a)'den şöyle dediği rivayet edilmiştir: Rasûlullah (s.a.v.)'in saçı kulaklarının yumuşağına kadardı. Bu hadis; Nesai, Zinet de var",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 35,
+      "hadith": 27
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2909,
+    "arabicnumber": 2909,
+    "text": "Üsame b. Zeyd'den demiştir ki: Nebi (s.a.v.): \"Müslüman kafire, kâfir de müslümana mirasçı olamaz\" buyurmuştur",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (4282، 4283) Sahih Muslim (1614)"
+      }
+    ],
+    "reference": {
+      "book": 19,
+      "hadith": 25
+    }
+  }
+}

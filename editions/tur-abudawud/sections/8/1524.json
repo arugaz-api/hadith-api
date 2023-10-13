@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1524,
+    "arabicnumber": 1524,
+    "text": "Abdullah (b. Mes'ûd -r.a.-)'den rivayet edildiğine göre; Resulullah (s.a.v.) üç defa dua ve üç defa istiğfar etmekten hoşlanırdı",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 8,
+      "hadith": 109
+    }
+  }
+}

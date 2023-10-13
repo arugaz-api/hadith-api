@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1416,
+    "arabicnumber": 1416,
+    "text": "Ali (r.a.)'den; demiştir ki: - Resûlullah (s.a.) şöyle buyurdu: “Ey ehl-i Kur'ân; vitr namazı kılınız, çünkü Allah tektir ve vitri sever (kabul eder)",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 8,
+      "hadith": 1
+    }
+  }
+}

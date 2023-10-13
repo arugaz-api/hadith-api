@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1252,
+    "arabicnumber": 1252,
+    "text": "Abdullah b. Ömer (r.a.)'den rivayet edildiğine göre; Resûlullah (s.a.v.) öğle namazından önce iki rekat, öğle namazından son­ra dört rekat, akşamdan sonra evinde iki rekat ve yatsıdan sonra iki rekat kılardı. Cuma'dan sonra (evine) dönünceye kadar namaz kılmazdı (evine dönünce) iki rekat kılardı",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (937) Sahih Muslim (882)"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 3
+    }
+  }
+}

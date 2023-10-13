@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 586,
+    "arabicnumber": 586,
+    "text": "Amr b. Seleme'den yine aynı hadis rivayet edilmiş, (ancak o, bu rivayette, ilave olarak) şunları da söylemiştir: \"Ben yamalı veya yırtık bir elbise ile onlara imamlık yapıyordum. Secde ettiğim zaman makatım (elbisenin yırtığından dışarı) çıkıyordu. Diğer tahric: Ahmed b. Hanbel, V",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 196
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1087,
+    "arabicnumber": 1087,
+    "text": "es-Sâib b. Yezid (r.a.)'in şöyle dediği rivayet edilmiştir: Nebi (s.a.v.) Ebû Bekir ve Ömer (r.a.)'in devirlerinde cum'a günü ilk ezan, imam minbere oturduğu zaman (okunur) idi. Osman (r.a.), halife olup da insanlar (Medine'de) çoğalınca Osman, cum'a gününde üçüncü bir ezam emretti. Bunun üzerine Zevrâ'da bir ezan daha okun(maya başla)dı ve cum'a ezanı bu şekilde kaldı",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (916)"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 698
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4159,
+    "arabicnumber": 4159,
+    "text": "Abdullah b. Muğaffel şöyle demiştir: Rasûlullah (s.a.v.) (sık sık) saç taramayı nehyyetti ancak gün aşırı olanı müstesna",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 35,
+      "hadith": 1
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4285,
+    "arabicnumber": 4285,
+    "text": "Ebû Saîd El Hudrî (r.a)'dan rivâyt edildiğine göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: \"Mehdî ben (im neslim) dendir. O açık alınlı ve ince burunludur. Dünyayı zulümle dolduğu gibi adaletle dolduracak ve yedi sene hüküm sürecektir",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 38,
+      "hadith": 7
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1815,
+    "arabicnumber": 1815,
+    "text": "el-Fadl b. Abbâs'dan rivayet edildiğine göre; Resûlullah (s.a.v.) cemre-i akabe'de taşları atıncaya kadar telbiyeye devam etmiştir",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (1685) Sahih Muslim (1280)"
+      }
+    ],
+    "reference": {
+      "book": 11,
+      "hadith": 95
+    }
+  }
+}

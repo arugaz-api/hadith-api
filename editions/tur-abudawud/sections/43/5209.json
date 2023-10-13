@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 5209,
+    "arabicnumber": 5209,
+    "text": "Ebu Cüreyl el-Hüceymî'den demiştir ki: Rasûlullah (s.a.v.): \"Aleykesselâm ey Allah'ın Resulü\" diye selâm verdim. \"Aleykesselâm deme, çünkü aleykesselâm ölülerin selâmıdır\" buyurdu",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 437
+    }
+  }
+}

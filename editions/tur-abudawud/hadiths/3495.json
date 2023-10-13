@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3495,
+    "arabicnumber": 3495,
+    "text": "Abdullah b. Ömer (r.a.)'in şöyle dediği rivayet edilmiştir: Rasûlullah (s.a.v.), bir kimsenin ölçü ile satın aldığı bir gıda maddesini teslim almadıkça başkasına satmayı nehyetti",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 80
+    }
+  }
+}

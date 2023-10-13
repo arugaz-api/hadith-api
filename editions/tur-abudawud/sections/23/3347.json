@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3347,
+    "arabicnumber": 3347,
+    "text": "Câbir b. Abdullah (r.a) şöyle demiştir: Hz. Nebi (s.a.v.)'ii bana borcu vardı. Borcunu ödedi ve fazlasını da verdi",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (443) Sahih Muslim (715 After 1599)"
+      }
+    ],
+    "reference": {
+      "book": 23,
+      "hadith": 22
+    }
+  }
+}

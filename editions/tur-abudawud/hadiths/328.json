@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 328,
+    "arabicnumber": 328,
+    "text": "Katade'ye seferde iken teyemmümün hükmü soruldu. Katade; Bana bir muhaddis Şa'bi'den, o Abdurrahman bin Ebza'dan o da Ammar bin Yasir'den (Ammar'ın) şöyle dediğini haber verdi: \"Resulullah (Sallallahu aleyhi ve Sellem) (bana yüzü ve) dirseklere kadar (elleri) meshetmemi emretti",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Munkar"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Munkar"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 328
+    }
+  }
+}

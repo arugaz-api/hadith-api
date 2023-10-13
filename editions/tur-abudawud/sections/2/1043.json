@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1043,
+    "arabicnumber": 1043,
+    "text": "İbn Ömer (r.a.), Nebi (s.a.v.)'in şöyle buyurduğunu haber vermiştir: \"Namazlarınızdan bazılarını evlerinizde kılınız, oraları kabirlere çevirmeyiniz",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (432) Sahih Muslim (777)"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 654
+    }
+  }
+}

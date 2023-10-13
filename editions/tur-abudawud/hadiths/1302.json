@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1302,
+    "arabicnumber": 1302,
+    "text": "Bir önceki (1301.) hadisle aynı mânâda bir hadis de Said b. Cübeyr tarafından mürsel olarak Nebi (s.a.v.)'den rivayet edilmiştir. Ebû Dâvûd dedi ki; Ben Muhammed b. Humeyd'i şöyle derken işittim: Ben Ya'kub'u (şöyle) derken işittim: \"Benim size Ca'fer ve Sa'îd b. Cübeyr (vasıtasıyla) Nebi (s.a.v.)'den naklettiğim her haber (aslında) îbn Abbâs vasıtasıyla Peygamber (s.a.v.)'e dayanır",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 53
+    }
+  }
+}

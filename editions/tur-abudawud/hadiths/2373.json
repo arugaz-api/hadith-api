@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2373,
+    "arabicnumber": 2373,
+    "text": "ibn Abbâs (r.a)'dan rivayet edildiğine göre, Rasûlullah (s.a.v.) ihramda oruçlu iken hacamat aleti ile kan aldırmıştır",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 14,
+      "hadith": 61
+    }
+  }
+}

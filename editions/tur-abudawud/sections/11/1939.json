@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1939,
+    "arabicnumber": 1939,
+    "text": "Ubeydullah b. Ebî Yezîd b. Abbâs'ı,şöyle derken dinlediğini haber vermiştir: Ben Resûlullah (S.A.V.)'in Müzdelife gecesinde ailesinin zayıfları arasında önden gönderdiklerindenim",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (1678) Sahih Muslim (1293)"
+      }
+    ],
+    "reference": {
+      "book": 11,
+      "hadith": 219
+    }
+  }
+}

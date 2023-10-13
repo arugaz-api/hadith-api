@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1448,
+    "arabicnumber": 1448,
+    "text": "İbn Ömer (r.a.)'ın rivayetine göre, Resulullah (s.a.v.) şöyle buyurmuştur: \"Namazlarınızın bir kısmını evlerinizde kılınız, oraları kabirlere çevirmeyiniz",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (432) Sahih Muslim (77)"
+      }
+    ],
+    "reference": {
+      "book": 8,
+      "hadith": 33
+    }
+  }
+}

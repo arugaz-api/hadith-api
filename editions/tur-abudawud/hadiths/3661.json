@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3661,
+    "arabicnumber": 3661,
+    "text": "Sehl b. Sa'd (r.a)'dan rivayet olduğuna göre Nebi (s.a.v.) şöyle buyurmuştur: \"Allah'a yemin olsun ki senin hidayete vesile olman sayesinde Allah'ın bir adam'a hidayet vermesi, senin için kırmızı develer(i elde etmenden daha hayırlıdır)",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (3701) Sahih Muslim (2406)"
+      }
+    ],
+    "reference": {
+      "book": 26,
+      "hadith": 21
+    }
+  }
+}

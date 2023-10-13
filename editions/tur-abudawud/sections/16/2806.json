@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2806,
+    "arabicnumber": 2806,
+    "text": "Katade'den demiştir ki: Said b. el-Müseyyeb'e Adab nedir diye sordum da -(kulağının ya da boynuzunun) yarı (sı veya) daha fazla(sı kesik olandır)- diye cevap verdi",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Maqtu"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Maqtu"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 16,
+      "hadith": 19
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3227,
+    "arabicnumber": 3227,
+    "text": "Ebû Hureyre'den (rivayet olunduğuna göre); Rasülullah (s.a.v.): \"Allah yahudilerin canını alsın! Nebilerinin kabirlerini mescid edindiler.\" buyurmuştur",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (437) Sahih Muslim (530)"
+      }
+    ],
+    "reference": {
+      "book": 21,
+      "hadith": 139
+    }
+  }
+}

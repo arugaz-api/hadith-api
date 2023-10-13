@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1188,
+    "arabicnumber": 1188,
+    "text": "Âişe (r.anha)'den rivayet edildiğine göre; Resûlullah (S.A.V.) (küsûf namazında) kıraati uzun tutmuş ve açıktan okumuştur",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 3,
+      "hadith": 28
+    }
+  }
+}
