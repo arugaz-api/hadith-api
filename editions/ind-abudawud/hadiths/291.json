@@ -1,0 +1,22 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 291,
+    "arabicnumber": 291,
+    "text": "",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (327) Sahih Muslim (334)"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 291
+    }
+  }
+}
