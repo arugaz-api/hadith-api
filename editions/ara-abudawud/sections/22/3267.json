@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3267,
+    "arabicnumber": 3267,
+    "text": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عَبَّاسٍ، ‏:‏ أَنَّ أَبَا بَكْرٍ، أَقْسَمَ عَلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ لَهُ النَّبِيُّ صلى الله عليه وسلم ‏:‏ ‏ \"‏ لاَ تُقْسِمْ ‏\"‏ ‏.‏",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (7046) Sahih Muslim (2269)"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 26
+    }
+  }
+}

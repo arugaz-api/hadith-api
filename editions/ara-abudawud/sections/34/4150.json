@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 4150,
+    "arabicnumber": 4150,
+    "text": "حَدَّثَنَا وَاصِلُ بْنُ عَبْدِ الأَعْلَى الأَسَدِيُّ، حَدَّثَنَا ابْنُ فُضَيْلٍ، عَنْ أَبِيهِ، بِهَذَا الْحَدِيثِ قَالَ وَكَانَ سِتْرًا مَوْشِيًّا ‏.‏",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (2613)"
+      }
+    ],
+    "reference": {
+      "book": 34,
+      "hadith": 131
+    }
+  }
+}
