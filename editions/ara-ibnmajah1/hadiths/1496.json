@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1496,
+    "arabicnumber": 1496,
+    "text": "حدثنا عمرو بن ابي عاصم النبيل، وابراهيم بن المستمر، قالا حدثنا ابو عاصم، حدثنا حماد بن جعفر العبدي، حدثني شهر بن حوشب، حدثتني ام شريك الانصارية، قالت امرنا رسول الله صلى الله عليه وسلم ان نقرا على الجنازة بفاتحة الكتاب",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 6,
+      "hadith": 64
+    }
+  }
+}

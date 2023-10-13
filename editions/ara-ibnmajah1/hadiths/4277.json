@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 4277,
+    "arabicnumber": 4277,
+    "text": "حدثنا ابو بكر، حدثنا وكيع، عن علي بن علي بن رفاعة، عن الحسن، عن ابي موسى الاشعري، قال قال رسول الله صلى الله عليه وسلم \" يعرض الناس يوم القيامة ثلاث عرضات فاما عرضتان فجدال ومعاذير واما الثالثة فعند ذلك تطير الصحف في الايدي فاخذ بيمينه واخذ بشماله",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 37,
+      "hadith": 178
+    }
+  }
+}

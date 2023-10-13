@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1661,
+    "arabicnumber": 1661,
+    "text": "حدثنا علي بن محمد، حدثنا وكيع، عن سفيان، عن منصور، عن مجاهد، عن ابن عباس، قال صام رسول الله صلى الله عليه وسلم في السفر وافطر",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 7,
+      "hadith": 24
+    }
+  }
+}

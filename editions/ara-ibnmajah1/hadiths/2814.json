@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2814,
+    "arabicnumber": 2814,
+    "text": "حدثنا حرملة بن يحيى المصري، انبانا عبد الله بن وهب، اخبرني ابن لهيعة، عن عثمان بن نعيم الرعيني، عن المغيرة بن نهيك، انه سمع عقبة بن عامر الجهني، يقول سمعت رسول الله صلى الله عليه وسلم يقول \" من تعلم الرمى ثم تركه فقد عصاني",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 62
+    }
+  }
+}

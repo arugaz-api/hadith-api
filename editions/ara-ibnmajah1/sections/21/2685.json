@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2685,
+    "arabicnumber": 2685,
+    "text": "حدثنا هشام بن عمار، حدثنا حاتم بن اسماعيل، عن عبد الرحمن بن عياش، عن عمرو بن شعيب، عن ابيه، عن جده، قال قال رسول الله صلى الله عليه وسلم \" يد المسلمين على من سواهم تتكافا دماوهم ويجير على المسلمين ادناهم ويرد على المسلمين اقصاهم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 21,
+      "hadith": 71
+    }
+  }
+}

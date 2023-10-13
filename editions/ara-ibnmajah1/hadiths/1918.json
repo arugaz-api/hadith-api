@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1918,
+    "arabicnumber": 1918,
+    "text": "حدثنا محمد بن يحيى، وصالح بن محمد بن يحيى القطان، قالا حدثنا عبيد الله بن موسى، حدثنا سفيان، عن محمد بن عجلان، عن عمرو بن شعيب، عن ابيه، عن جده عبد الله بن عمرو، عن النبي صلى الله عليه وسلم قال \" اذا افاد احدكم امراة او خادما او دابة فلياخذ بناصيتها وليقل اللهم اني اسالك من خيرها وخير ما جبلت عليه واعوذ بك من شرها وشر ما جبلت عليه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 74
+    }
+  }
+}

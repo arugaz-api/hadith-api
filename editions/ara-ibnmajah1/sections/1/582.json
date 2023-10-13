@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 582,
+    "arabicnumber": 582,
+    "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا ابو الاحوص، عن ابي اسحاق، عن الاسود، عن عايشة، قالت ان رسول الله صلى الله عليه وسلم ان كانت له الى اهله حاجة قضاها ثم ينام كهييته لا يمس ماء",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 316
+    }
+  }
+}

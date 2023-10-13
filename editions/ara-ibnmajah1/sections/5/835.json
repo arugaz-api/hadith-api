@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 835,
+    "arabicnumber": 835,
+    "text": "حدثنا محمد بن الصباح، انبانا سفيان، ح وحدثنا عبد الله بن عامر بن زرارة، حدثنا ابن ابي زايدة، جميعا عن مسعر، عن عدي بن ثابت، عن البراء، مثله . قال فما سمعت انسانا، احسن صوتا او قراءة منه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 33
+    }
+  }
+}

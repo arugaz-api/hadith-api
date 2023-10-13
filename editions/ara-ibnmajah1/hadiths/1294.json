@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1294,
+    "arabicnumber": 1294,
+    "text": "حدثنا هشام بن عمار، حدثنا عبد الرحمن بن سعد بن عمار بن سعد، حدثني ابي، عن ابيه، عن جده، ان النبي صلى الله عليه وسلم كان يخرج الى العيد ماشيا ويرجع ماشيا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 492
+    }
+  }
+}

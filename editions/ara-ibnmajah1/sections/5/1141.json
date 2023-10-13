@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1141,
+    "arabicnumber": 1141,
+    "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا يزيد بن هارون، انبانا اسماعيل بن ابي خالد، عن المسيب بن رافع، عن عنبسة بن ابي سفيان، عن ام حبيبة بنت ابي سفيان، عن النبي صلى الله عليه وسلم قال \" من صلى في يوم وليلة ثنتى عشرة ركعة، بني له بيت في الجنة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 339
+    }
+  }
+}

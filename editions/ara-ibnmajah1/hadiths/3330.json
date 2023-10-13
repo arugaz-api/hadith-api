@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3330,
+    "arabicnumber": 3330,
+    "text": "حدثنا ابو بشر، بكر بن خلف حدثنا يحيى بن محمد بن قيس المدني، حدثنا هشام بن عروة، عن ابيه، عن عايشة، قالت قال رسول الله صلى الله عليه وسلم \" كلوا البلح بالتمر كلوا الخلق بالجديد فان الشيطان يغضب ويقول بقي ابن ادم حتى اكل الخلق بالجديد",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Mawdu"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Mawdu"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Very Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 29,
+      "hadith": 80
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1640,
+    "arabicnumber": 1640,
+    "text": "حدثنا عبد الرحمن بن ابراهيم الدمشقي، حدثنا ابن ابي فديك، حدثني هشام بن سعد، عن ابي حازم، عن سهل بن سعد، ان النبي صلى الله عليه وسلم قال: \" ان في الجنة بابا يقال له الريان يدعى يوم القيامة يقال: اين الصايمون؟ فمن كان من الصايمين دخله ومن دخله لم يظما ابدا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 7,
+      "hadith": 3
+    }
+  }
+}

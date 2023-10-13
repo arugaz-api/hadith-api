@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1431,
+    "arabicnumber": 1431,
+    "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا يحيى بن سعيد، عن ابن جريج، عن محمد بن عباد، عن عبد الله بن سفيان، عن عبد الله بن السايب، قال رايت رسول الله صلى الله عليه وسلم صلى يوم الفتح فجعل نعليه عن يساره",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 629
+    }
+  }
+}

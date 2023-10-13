@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1591,
+    "arabicnumber": 1591,
+    "text": "حدثنا هارون بن سعيد المصري، حدثنا عبد الله بن وهب، انبانا اسامة بن زيد، عن نافع، عن ابن عمر، ان رسول الله صلى الله عليه وسلم مر بنساء عبد الاشهل يبكين هلكاهن يوم احد فقال رسول الله صلى الله عليه وسلم \" لكن حمزة لا بواكي له \" . فجاء نساء الانصار يبكين حمزة فاستيقظ رسول الله صلى الله عليه وسلم فقال \" ويحهن ما انقلبن بعد؟ مروهن فلينقلبن ولا يبكين على هالك بعد اليوم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 6,
+      "hadith": 159
+    }
+  }
+}

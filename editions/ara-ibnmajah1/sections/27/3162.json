@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3162,
+    "arabicnumber": 3162,
+    "text": "حدثنا ابو بكر بن ابي شيبة، وهشام بن عمار، قالا حدثنا سفيان بن عيينة، عن عبيد الله بن ابي يزيد، عن ابيه، عن سباع بن ثابت، عن ام كرز، قالت سمعت النبي صلى الله عليه وسلم يقول \" عن الغلام، شاتان مكافيتان وعن الجارية، شاة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 27,
+      "hadith": 1
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1412,
+    "arabicnumber": 1412,
+    "text": "حدثنا هشام بن عمار، حدثنا حاتم بن اسماعيل، وعيسى بن يونس، قالا حدثنا محمد بن سليمان الكرماني، قال سمعت ابا امامة بن سهل بن حنيف، يقول قال سهل بن حنيف قال رسول الله صلى الله عليه وسلم \" من تطهر في بيته، ثم اتى مسجد قباء، فصلى فيه صلاة، كان له كاجر عمرة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 610
+    }
+  }
+}

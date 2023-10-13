@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 306,
+    "arabicnumber": 306,
+    "text": "حدثنا اسحاق بن منصور، حدثنا ابو داود، حدثنا شعبة، عن عاصم، عن ابي وايل، عن المغيرة بن شعبة، ان رسول الله صلى الله عليه وسلم اتى سباطة قوم فبال قايما . قال شعبة قال عاصم يوميذ وهذا الاعمش يرويه عن ابي وايل عن حذيفة وما حفظه . فسالت عنه منصورا فحدثنيه عن ابي وايل عن حذيفة ان رسول الله صلى الله عليه وسلم اتى سباطة قوم فبال قايما",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 40
+    }
+  }
+}

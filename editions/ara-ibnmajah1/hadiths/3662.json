@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3662,
+    "arabicnumber": 3662,
+    "text": "حدثنا هشام بن عمار، حدثنا صدقة بن خالد، حدثنا عثمان بن ابي العاتكة، عن علي بن يزيد، عن القاسم، عن ابي امامة، ان رجلا، قال يا رسول الله ما حق الوالدين على ولدهما قال \" هما جنتك ونارك",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 33,
+      "hadith": 6
+    }
+  }
+}

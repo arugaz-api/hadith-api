@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1731,
+    "arabicnumber": 1731,
+    "text": "حدثنا هشام بن عمار، حدثنا يحيى بن حمزة، عن اسحاق بن عبد الله، عن عياض بن عبد الله، عن ابي سعيد الخدري، عن قتادة بن النعمان، قال: سمعت رسول الله صلى الله عليه وسلم يقول: \" من صام يوم عرفة، غفر له سنة امامه وسنة بعده",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 7,
+      "hadith": 94
+    }
+  }
+}

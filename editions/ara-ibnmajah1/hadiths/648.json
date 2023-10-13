@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 648,
+    "arabicnumber": 648,
+    "text": "حدثنا نصر بن علي الجهضمي، حدثنا شجاع بن الوليد، عن علي بن عبد الاعلى، عن ابي سهل، عن مسة الازدية، عن ام سلمة، قالت كانت النفساء على عهد رسول الله صلى الله عليه وسلم تجلس اربعين يوما وكنا نطلي وجوهنا بالورس من الكلف",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 382
+    }
+  }
+}

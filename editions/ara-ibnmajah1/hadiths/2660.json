@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2660,
+    "arabicnumber": 2660,
+    "text": "حدثنا محمد بن عبد الاعلى الصنعاني، حدثنا معتمر بن سليمان، عن ابيه، عن حنش، عن عكرمة، عن ابن عباس، عن النبي صلى الله عليه وسلم قال \" لا يقتل مومن بكافر ولا ذو عهد في عهده",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 21,
+      "hadith": 46
+    }
+  }
+}

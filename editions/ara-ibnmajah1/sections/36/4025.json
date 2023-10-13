@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 4025,
+    "arabicnumber": 4025,
+    "text": "حدثنا محمد بن عبد الله بن نمير، حدثنا وكيع، حدثنا الاعمش، عن شقيق، عن عبد الله، قال كاني انظر الى رسول الله صلى الله عليه وسلم وهو يحكي نبيا من الانبياء ضربه قومه وهو يمسح الدم عن وجهه ويقول رب اغفر لقومي فانهم لا يعلمون",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 36,
+      "hadith": 100
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3562,
+    "arabicnumber": 3562,
+    "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا الحسن بن موسى، عن شيبان، عن قتادة، عن ابي بردة، عن ابيه، قال قال لي يا بنى لو شهدتنا ونحن مع رسول الله صلى الله عليه وسلم اذا اصابتنا السماء لحسبت ان ريحنا ريح الضان",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 32,
+      "hadith": 13
+    }
+  }
+}

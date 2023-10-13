@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1322,
+    "arabicnumber": 1322,
+    "text": "حدثنا علي بن محمد، حدثنا وكيع، ح وحدثنا محمد بن بشار، وابو بكر بن خلاد قالا حدثنا محمد بن جعفر، قالا حدثنا شعبة، عن يعلى بن عطاء، انه سمع عليا الازدي، يحدث انه سمع ابن عمر، يحدث عن رسول الله صلى الله عليه وسلم انه قال \" صلاة الليل والنهار مثنى مثنى",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 520
+    }
+  }
+}

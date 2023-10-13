@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1030,
+    "arabicnumber": 1030,
+    "text": "حدثنا حرملة بن يحيى، حدثنا عبد الله بن وهب، حدثني زمعة بن صالح، عن عمرو بن دينار، قال صلى ابن عباس وهو بالبصرة على بساطه ثم حدث اصحابه، ان رسول الله صلى الله عليه وسلم كان يصلي على بساطه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 228
+    }
+  }
+}

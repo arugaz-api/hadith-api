@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3283,
+    "arabicnumber": 3283,
+    "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا ابو خالد الاحمر، عن حجاج، عن رياح بن عبيدة، عن مولى، لابي سعيد عن ابي سعيد، قال كان النبي صلى الله عليه وسلم اذا اكل طعاما قال \" الحمد لله الذي اطعمنا وسقانا وجعلنا مسلمين",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 29,
+      "hadith": 33
+    }
+  }
+}

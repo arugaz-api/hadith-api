@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3892,
+    "arabicnumber": 3892,
+    "text": "حدثنا علي بن محمد، حدثنا وكيع، عن خارجة بن مصعب، عن ابي يحيى، عمرو بن دينار - وليس بصاحب ابن عيينة - مولى ال الزبير عن سالم، عن ابن عمر، قال قال رسول الله صلى الله عليه وسلم \" من فجيه صاحب بلاء فقال الحمد لله الذي عافاني مما ابتلاك به وفضلني على كثير ممن خلق تفضيلا - عوفي من ذلك البلاء كاينا ما كان",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Very Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 34,
+      "hadith": 66
+    }
+  }
+}

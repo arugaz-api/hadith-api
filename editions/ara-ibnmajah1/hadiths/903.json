@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 903,
+    "arabicnumber": 903,
+    "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا خالد بن مخلد، ح وحدثنا محمد بن المثنى، حدثنا ابو عامر، قال انبانا عبد الله بن جعفر، عن يزيد بن الهاد، عن عبد الله بن خباب، عن ابي سعيد الخدري، قال قلنا يا رسول الله هذا السلام عليك قد عرفناه فكيف الصلاة قال \" قولوا اللهم صل على محمد عبدك ورسولك كما صليت على ابراهيم، وبارك على محمد وعلى ال محمد كما باركت على ابراهيم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 101
+    }
+  }
+}

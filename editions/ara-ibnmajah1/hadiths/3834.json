@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3834,
+    "arabicnumber": 3834,
+    "text": "حدثنا محمد بن عبد الله بن نمير، حدثنا ابي، حدثنا الاعمش، عن يزيد الرقاشي، عن انس بن مالك، قال كان رسول الله صلى الله عليه وسلم يكثر ان يقول \" اللهم ثبت قلبي على دينك \" . فقال رجل يا رسول الله تخاف علينا وقد امنا بك وصدقناك بما جيت به فقال \" ان القلوب بين اصبعين من اصابع الرحمن عز وجل يقلبها \" . واشار الاعمش باصبعيه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 34,
+      "hadith": 8
+    }
+  }
+}

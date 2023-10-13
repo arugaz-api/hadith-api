@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2183,
+    "arabicnumber": 2183,
+    "text": "حدثنا محمد بن يحيى، واسحاق بن منصور، قالا حدثنا عبد الصمد، حدثنا شعبة، عن قتادة، عن الحسن، عن سمرة، قال قال رسول الله صلى الله عليه وسلم \" البيعان بالخيار ما لم يتفرقا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 47
+    }
+  }
+}

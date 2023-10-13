@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1001,
+    "arabicnumber": 1001,
+    "text": "حدثنا علي بن محمد، حدثنا وكيع، عن سفيان، عن عبد الله بن محمد بن عقيل، عن جابر بن عبد الله، قال قال رسول الله صلى الله عليه وسلم \" خير صفوف الرجال مقدمها، وشرها موخرها، وخير صفوف النساء موخرها، وشرها مقدمها",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 199
+    }
+  }
+}

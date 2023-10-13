@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 715,
+    "arabicnumber": 715,
+    "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا محمد بن عبد الله الاسدي، عن ابي اسراييل، عن الحكم، عن عبد الرحمن بن ابي ليلى، عن بلال، قال امرني رسول الله صلى الله عليه وسلم ان اثوب في الفجر ونهاني ان اثوب في العشاء",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 3,
+      "hadith": 10
+    }
+  }
+}

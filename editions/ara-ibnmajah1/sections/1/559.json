@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 559,
+    "arabicnumber": 559,
+    "text": "حدثنا علي بن محمد، حدثنا وكيع، حدثنا سفيان، عن ابي قيس الاودي، عن الهزيل بن شرحبيل، عن المغيرة بن شعبة، ان رسول الله صلى الله عليه وسلم توضا ومسح على الجوربين والنعلين",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 293
+    }
+  }
+}

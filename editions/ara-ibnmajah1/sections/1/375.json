@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 375,
+    "arabicnumber": 375,
+    "text": "حدثنا محمد بن يحيى، حدثنا عبيد الله، عن اسراييل، عن ابي اسحاق، عن الحارث، عن علي، قال كان النبي صلى الله عليه وسلم واهله يغتسلون من اناء واحد ولا يغتسل احدهما بفضل صاحبه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 109
+    }
+  }
+}

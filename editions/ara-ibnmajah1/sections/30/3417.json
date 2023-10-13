@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3417,
+    "arabicnumber": 3417,
+    "text": "حدثنا هشام بن عمار، ومحمد بن الصباح، قالا حدثنا مروان بن معاوية، حدثنا رشدين بن كريب، عن ابيه، عن ابن عباس، ان النبي صلى الله عليه وسلم شرب فتنفس فيه مرتين",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 30,
+      "hadith": 47
+    }
+  }
+}

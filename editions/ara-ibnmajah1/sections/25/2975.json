@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2975,
+    "arabicnumber": 2975,
+    "text": "حدثنا محرز بن سلمة، حدثنا عبد العزيز بن محمد، عن عبيد الله، عن نافع، عن ابن عمر، ان رسول الله صلى الله عليه وسلم قال \" من احرم بالحج والعمرة كفى لهما طواف واحد ولم يحل حتى يقضي حجه ويحل منهما جميعا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Muquf"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 25,
+      "hadith": 94
+    }
+  }
+}

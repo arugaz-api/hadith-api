@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 846,
+    "arabicnumber": 846,
+    "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا ابو خالد الاحمر، عن ابن عجلان، عن زيد بن اسلم، عن ابي صالح، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" انما جعل الامام ليوتم به فاذا كبر فكبروا واذا قرا فانصتوا واذا قال {غير المغضوب عليهم ولا الضالين} فقولوا امين واذا ركع فاركعوا واذا قال سمع الله لمن حمده . فقولوا اللهم ربنا ولك الحمد واذا سجد فاسجدوا واذا صلى جالسا فصلوا جلوسا اجمعين",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 44
+    }
+  }
+}

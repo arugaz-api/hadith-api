@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 245,
+    "arabicnumber": 245,
+    "text": "حدثنا محمد بن يحيى، حدثنا ابو المغيرة، حدثنا معان بن رفاعة، حدثني علي بن يزيد، قال سمعت القاسم بن عبد الرحمن، يحدث عن ابي امامة، قال مر النبي صلى الله عليه وسلم في يوم شديد الحر نحو بقيع الغرقد وكان الناس يمشون خلفه فلما سمع صوت النعال وقر ذلك في نفسه فجلس حتى قدمهم امامه ليلا يقع في نفسه شىء من الكبر",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 0,
+      "hadith": 245
+    }
+  }
+}

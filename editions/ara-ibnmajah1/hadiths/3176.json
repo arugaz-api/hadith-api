@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3176,
+    "arabicnumber": 3176,
+    "text": "حدثنا ابو بشر، بكر بن خلف حدثنا غندر، حدثنا شعبة، سمعت حاضر بن مهاجر، يحدث عن سليمان بن يسار، عن زيد بن ثابت، ان ذيبا، نيب في شاة فذبحوها بمروة فرخص لهم رسول الله صلى الله عليه وسلم في اكلها",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 27,
+      "hadith": 15
+    }
+  }
+}

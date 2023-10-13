@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2727,
+    "arabicnumber": 2727,
+    "text": "حدثنا علي بن محمد، وابو بكر بن ابي شيبة قالا حدثنا وكيع، حدثنا سفيان، حدثنا عمرو بن مرة، عن مرة بن شراحيل، قال قال عمر بن الخطاب ثلاث لان يكون رسول الله صلى الله عليه وسلم بينهن احب الى من الدنيا وما فيها الكلالة والربا والخلافة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 23,
+      "hadith": 9
+    }
+  }
+}

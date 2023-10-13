@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2793,
+    "arabicnumber": 2793,
+    "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا عفان، حدثنا ديلم بن غزوان، حدثنا ثابت، عن انس بن مالك، قال حضرت حربا فقال عبد الله بن رواحة يا نفس الا اراك تكرهين الجنه احلف بالله لتنزلنه طايعة او لتكرهنه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 41
+    }
+  }
+}

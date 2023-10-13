@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2665,
+    "arabicnumber": 2665,
+    "text": "حدثنا علي بن محمد، حدثنا وكيع، عن همام بن يحيى، عن قتادة، عن انس بن مالك، ان يهوديا، رضخ راس امراة بين حجرين فقتلها فرضخ رسول الله صلى الله عليه وسلم راسه بين حجرين",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 21,
+      "hadith": 51
+    }
+  }
+}

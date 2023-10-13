@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3356,
+    "arabicnumber": 3356,
+    "text": "حدثنا جبارة بن المغلس، حدثنا كثير بن سليم، عن انس بن مالك، قال قال رسول الله صلى الله عليه وسلم \" الخير اسرع الى البيت الذي يغشى من الشفرة الى سنام البعير",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 29,
+      "hadith": 106
+    }
+  }
+}

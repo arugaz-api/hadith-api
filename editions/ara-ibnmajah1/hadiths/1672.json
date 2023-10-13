@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1672,
+    "arabicnumber": 1672,
+    "text": "حدثنا ابو بكر بن ابي شيبة، وعلي بن محمد، قالا حدثنا وكيع، عن سفيان، عن حبيب بن ابي ثابت، عن ابن المطوس، عن ابيه المطوس، عن ابي هريرة، قال: قال رسول الله صلى الله عليه وسلم \" من افطر يوما من رمضان من غير رخصة لم يجزه صيام الدهر",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 7,
+      "hadith": 35
+    }
+  }
+}

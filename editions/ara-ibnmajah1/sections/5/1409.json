@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1409,
+    "arabicnumber": 1409,
+    "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا عبد الاعلى، عن معمر، عن الزهري، عن سعيد بن المسيب، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال \" لا تشد الرحال الا الى ثلاثة مساجد مسجد الحرام ومسجدي هذا والمسجد الاقصى",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Bukhari And Muslim"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 607
+    }
+  }
+}

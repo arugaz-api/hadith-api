@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3880,
+    "arabicnumber": 3880,
+    "text": "حدثنا علي بن محمد، حدثنا وكيع، حدثنا سفيان، عن عبد الملك بن عمير، عن ربعي بن حراش، عن حذيفة، قال كان رسول الله صلى الله عليه وسلم اذا انتبه من الليل قال \" الحمد لله الذي احيانا بعد ما اماتنا واليه النشور",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari"
+      }
+    ],
+    "reference": {
+      "book": 34,
+      "hadith": 54
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 251,
+    "arabicnumber": 251,
+    "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا عبد الله بن نمير، عن موسى بن عبيدة، عن محمد بن ثابت، عن ابي هريرة، قال كان رسول الله صلى الله عليه وسلم يقول \" اللهم انفعني بما علمتني وعلمني ما ينفعني وزدني علما والحمد لله على كل حال",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 0,
+      "hadith": 251
+    }
+  }
+}

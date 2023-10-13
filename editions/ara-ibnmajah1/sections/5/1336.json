@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1336,
+    "arabicnumber": 1336,
+    "text": "حدثنا احمد بن ثابت الجحدري، حدثنا يحيى بن سعيد، عن ابن عجلان، عن القعقاع بن حكيم، عن ابي صالح، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" رحم الله رجلا قام من الليل فصلى وايقظ امراته فصلت فان ابت رش في وجهها الماء رحم الله امراة قامت من الليل فصلت وايقظت زوجها فصلى فان ابى رشت في وجهه الماء",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 534
+    }
+  }
+}

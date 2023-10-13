@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3168,
+    "arabicnumber": 3168,
+    "text": "حدثنا ابو بكر بن ابي شيبة، وهشام بن عمار، قالا حدثنا سفيان بن عيينة، عن الزهري، عن سعيد بن المسيب، عن ابي هريرة، عن النبي صلى الله عليه وسلم قال \" لا فرعة ولا عتيرة \" . قال هشام في حديثه والفرعة اول النتاج . والعتيرة الشاة يذبحها اهل البيت في رجب",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 27,
+      "hadith": 7
+    }
+  }
+}

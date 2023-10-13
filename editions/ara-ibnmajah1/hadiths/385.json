@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 385,
+    "arabicnumber": 385,
+    "text": "حدثنا العباس بن الوليد الدمشقي، حدثنا مروان بن محمد، حدثنا ابن لهيعة، حدثنا قيس بن الحجاج، عن حنش الصنعاني، عن عبد الله بن عباس، ان رسول الله صلى الله عليه وسلم قال لابن مسعود ليلة الجن \" معك ماء \" . قال لا الا نبيذا في سطيحة . فقال رسول الله صلى الله عليه وسلم \" تمرة طيبة وماء طهور صب على \" . قال فصببت عليه فتوضا به",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 119
+    }
+  }
+}

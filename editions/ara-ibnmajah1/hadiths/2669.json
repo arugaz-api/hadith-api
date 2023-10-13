@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2669,
+    "arabicnumber": 2669,
+    "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا ابو الاحوص، عن شبيب بن غرقدة، عن سليمان بن عمرو بن الاحوص، عن ابيه، قال سمعت رسول الله صلى الله عليه وسلم يقول في حجة الوداع \" الا لا يجني جان الا على نفسه لا يجني والد على ولده ولا مولود على والده",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 21,
+      "hadith": 55
+    }
+  }
+}

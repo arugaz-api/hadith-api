@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2700,
+    "arabicnumber": 2700,
+    "text": "حدثنا نصر بن علي الجهضمي، حدثنا درست بن زياد، حدثنا يزيد الرقاشي، عن انس بن مالك، قال قال رسول الله صلى الله عليه وسلم \" المحروم من حرم وصيته",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 6
+    }
+  }
+}

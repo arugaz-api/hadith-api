@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 579,
+    "arabicnumber": 579,
+    "text": "حدثنا ابو بكر بن ابي شيبة، وعبد الله بن عامر بن زرارة، واسماعيل بن موسى السدي، قالوا حدثنا شريك، عن ابي اسحاق، عن الاسود، عن عايشة، قالت كان رسول الله صلى الله عليه وسلم لا يتوضا بعد الغسل من الجنابة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 313
+    }
+  }
+}

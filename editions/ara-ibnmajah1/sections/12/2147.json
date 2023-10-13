@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2147,
+    "arabicnumber": 2147,
+    "text": "حدثنا محمد بن بشار، حدثنا محمد بن عبد الله، حدثنا فروة ابو يونس، عن هلال بن جبير، عن انس بن مالك، قال قال رسول الله صلى الله عليه وسلم \" من اصاب من شىء فليلزمه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 11
+    }
+  }
+}

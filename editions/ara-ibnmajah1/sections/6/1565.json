@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1565,
+    "arabicnumber": 1565,
+    "text": "حدثنا العباس بن الوليد الدمشقي، حدثنا يحيى بن صالح، حدثنا سلمة بن كلثوم، حدثنا الاوزاعي، عن يحيى بن ابي كثير، عن ابي سلمة، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم صلى على جنازة ثم اتى قبر الميت فحثى عليه من قبل راسه ثلاثا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 6,
+      "hadith": 133
+    }
+  }
+}

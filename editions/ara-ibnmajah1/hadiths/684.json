@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 684,
+    "arabicnumber": 684,
+    "text": "حدثنا احمد بن عبدة، حدثنا حماد بن زيد، عن عاصم بن بهدلة، عن زر بن حبيش، عن علي بن ابي طالب، ان رسول الله صلى الله عليه وسلم قال يوم الخندق \" ملا الله بيوتهم وقبورهم نارا كما شغلونا عن الصلاة الوسطى",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 18
+    }
+  }
+}

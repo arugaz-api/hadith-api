@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1904,
+    "arabicnumber": 1904,
+    "text": "حدثنا ابو بكر بن خلاد الباهلي، حدثنا خالد بن الحارث، حدثنا شعبة، عن قتادة، عن عكرمة، عن ابن عباس، ان النبي صلى الله عليه وسلم لعن المتشبهين من الرجال بالنساء ولعن المتشبهات من النساء بالرجال",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 60
+    }
+  }
+}

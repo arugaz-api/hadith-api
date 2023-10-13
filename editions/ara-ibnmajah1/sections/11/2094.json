@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2094,
+    "arabicnumber": 2094,
+    "text": "حدثنا محمد بن ابي عمر العدني، حدثنا سفيان بن عيينة، عن الزهري، عن سالم بن عبد الله بن عمر، عن ابيه، عن عمر بن الخطاب، ان رسول الله صلى الله عليه وسلم سمعه يحلف بابيه فقال رسول الله صلى الله عليه وسلم \" ان الله ينهاكم ان تحلفوا بابايكم \" . قال عمر فما حلفت بها ذاكرا ولا اثرا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 11,
+      "hadith": 5
+    }
+  }
+}

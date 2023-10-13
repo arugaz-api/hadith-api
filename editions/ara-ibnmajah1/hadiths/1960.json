@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1960,
+    "arabicnumber": 1960,
+    "text": "حدثنا محمد بن يحيى، وصالح بن محمد بن يحيى بن سعيد، قالا حدثنا ابو غسان، مالك بن اسماعيل حدثنا مندل، عن ابن جريج، عن موسى بن عقبة، عن نافع، عن ابن عمر، قال قال رسول الله صلى الله عليه وسلم \" ايما عبد تزوج بغير اذن مواليه فهو زان",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan Lighairihi"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 116
+    }
+  }
+}

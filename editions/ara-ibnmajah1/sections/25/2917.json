@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2917,
+    "arabicnumber": 2917,
+    "text": "حدثنا عبد الرحمن بن ابراهيم الدمشقي، حدثنا الوليد بن مسلم، وعمر بن عبد الواحد، قالا حدثنا الاوزاعي، عن ايوب بن موسى، عن عبد الله بن عبيد بن عمير، عن ثابت البناني، عن انس بن مالك، قال اني عند ثفنات ناقة رسول الله صلى الله عليه وسلم عند الشجرة فلما استوت به قايمة قال \" لبيك بعمرة وحجة معا \" . وذلك في حجة الوداع",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 25,
+      "hadith": 36
+    }
+  }
+}

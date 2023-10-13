@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3387,
+    "arabicnumber": 3387,
+    "text": "حدثنا هشام بن عمار، حدثنا صدقة بن خالد، حدثنا يحيى بن الحارث الذماري، سمعت سالم بن عبد الله بن عمر، يحدث عن ابيه، قال قال رسول الله صلى الله عليه وسلم \" كل مسكر حرام",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 30,
+      "hadith": 17
+    }
+  }
+}

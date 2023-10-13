@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3435,
+    "arabicnumber": 3435,
+    "text": "حدثنا احمد بن سنان، حدثنا زيد بن الحباب، حدثنا مندل بن علي، عن محمد بن اسحاق، عن الزهري، عن عبيد الله بن عبد الله، عن ابن عباس، قال كان لرسول الله صلى الله عليه وسلم قدح من قوارير يشرب فيه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 30,
+      "hadith": 65
+    }
+  }
+}

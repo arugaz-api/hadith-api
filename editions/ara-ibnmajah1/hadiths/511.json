@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 511,
+    "arabicnumber": 511,
+    "text": "حدثنا اسماعيل بن توبة، حدثنا زياد بن عبد الله، حدثنا الفضل بن مبشر، قال رايت جابر بن عبد الله يصلي الصلوات بوضوء واحد . فقلت ما هذا فقال رايت رسول الله صلى الله عليه وسلم يصنع هذا فانا اصنع كما صنع رسول الله صلى الله عليه وسلم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 245
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 499,
+    "arabicnumber": 499,
+    "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا خالد بن مخلد، عن موسى بن يعقوب، حدثني ابو عبيدة بن عبد الله بن زمعة، عن ابيه، عن ام سلمة، زوج النبي صلى الله عليه وسلم قالت قال رسول الله صلى الله عليه وسلم \" اذا شربتم اللبن فمضمضوا فان له دسما",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 233
+    }
+  }
+}

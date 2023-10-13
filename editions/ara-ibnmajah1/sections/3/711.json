@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 711,
+    "arabicnumber": 711,
+    "text": "حدثنا ايوب بن محمد الهاشمي، حدثنا عبد الواحد بن زياد، عن حجاج بن ارطاة، عن عون بن ابي جحيفة، عن ابيه، قال اتيت رسول الله صلى الله عليه وسلم بالابطح وهو في قبة حمراء فخرج بلال فاذن فاستدار في اذانه وجعل اصبعيه في اذنيه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 3,
+      "hadith": 6
+    }
+  }
+}

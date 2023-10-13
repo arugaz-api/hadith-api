@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 952,
+    "arabicnumber": 952,
+    "text": "حدثنا محمد بن بشار، حدثنا محمد بن جعفر، حدثنا شعبة، عن حميد بن هلال، عن عبد الله بن الصامت، عن ابي ذر، عن النبي صلى الله عليه وسلم قال \" يقطع الصلاة اذا لم يكن بين يدى الرجل مثل موخرة الرحل المراة والحمار والكلب الاسود \" . قال قلت ما بال الاسود من الاحمر فقال سالت رسول الله صلى الله عليه وسلم كما سالتني فقال \" الكلب الاسود شيطان",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 150
+    }
+  }
+}

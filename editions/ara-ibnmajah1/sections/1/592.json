@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 592,
+    "arabicnumber": 592,
+    "text": "حدثنا محمد بن عمر بن هياج، حدثنا اسماعيل بن صبيح، حدثنا ابو اويس، عن شرحبيل بن سعد، عن جابر بن عبد الله، قال سيل النبي صلى الله عليه وسلم عن الجنب هل ينام او ياكل او يشرب قال \" نعم اذا توضا وضوءه للصلاة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 326
+    }
+  }
+}

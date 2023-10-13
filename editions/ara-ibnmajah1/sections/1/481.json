@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 481,
+    "arabicnumber": 481,
+    "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا المعلى بن منصور، ح وحدثنا عبد الله بن احمد بن بشير بن ذكوان الدمشقي، حدثنا مروان بن محمد، قالا حدثنا الهيثم بن حميد، حدثنا العلاء بن الحارث، عن مكحول، عن عنبسة بن ابي سفيان، عن ام حبيبة، قالت سمعت رسول الله صلى الله عليه وسلم يقول \" من مس فرجه فليتوضا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 215
+    }
+  }
+}

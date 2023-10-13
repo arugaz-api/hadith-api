@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 338,
+    "arabicnumber": 338,
+    "text": "حدثنا عبد الرحمن بن عمر، حدثنا عبد الملك بن الصباح، باسناده نحوه وزاد فيه \" ومن اكتحل فليوتر من فعل فقد احسن ومن لا فلا حرج ومن لاك فليبتلع",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 72
+    }
+  }
+}

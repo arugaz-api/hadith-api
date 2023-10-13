@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 247,
+    "arabicnumber": 247,
+    "text": "حدثنا محمد بن الحارث بن راشد المصري، حدثنا الحكم بن عبدة، عن ابي هارون العبدي، عن ابي سعيد الخدري، عن رسول الله صلى الله عليه وسلم قال \" سياتيكم اقوام يطلبون العلم فاذا رايتموهم فقولوا لهم مرحبا مرحبا بوصية رسول الله صلى الله عليه وسلم واقنوهم \" . قلت للحكم ما اقنوهم قال علموهم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Very Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 0,
+      "hadith": 247
+    }
+  }
+}

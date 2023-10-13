@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1091,
+    "arabicnumber": 1091,
+    "text": "حدثنا نصر بن علي الجهضمي، حدثنا يزيد بن هارون، انبانا اسماعيل بن مسلم المكي، عن يزيد الرقاشي، عن انس بن مالك، عن النبي صلى الله عليه وسلم قال \" من توضا يوم الجمعة فبها ونعمت يجزي عنه الفريضة ومن اغتسل فالغسل افضل",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 289
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 4181,
+    "arabicnumber": 4181,
+    "text": "حدثنا اسماعيل بن عبد الله الرقي، حدثنا عيسى بن يونس، عن معاوية بن يحيى، عن الزهري، عن انس، قال قال رسول الله صلى الله عليه وسلم \" ان لكل دين خلقا وخلق الاسلام الحياء",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 37,
+      "hadith": 82
+    }
+  }
+}

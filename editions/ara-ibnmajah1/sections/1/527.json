@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 527,
+    "arabicnumber": 527,
+    "text": "حدثنا محمد بن بشار، حدثنا ابو بكر الحنفي، حدثنا اسامة بن زيد، عن عمرو بن شعيب، عن ام كرز، ان رسول الله صلى الله عليه وسلم قال \" بول الغلام ينضح وبول الجارية يغسل",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 261
+    }
+  }
+}

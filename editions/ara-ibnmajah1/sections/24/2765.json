@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2765,
+    "arabicnumber": 2765,
+    "text": "حدثنا احمد بن سنان، حدثنا ابو معاوية، عن الاعمش، عن ابي سفيان، عن جابر، قال قال رسول الله صلى الله عليه وسلم \" ان بالمدينة رجالا ما قطعتم واديا ولا سلكتم طريقا الا شركوكم في الاجر حبسهم العذر \" . قال ابو عبد الله بن ماجه او كما قال كتبته لفظا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 13
+    }
+  }
+}

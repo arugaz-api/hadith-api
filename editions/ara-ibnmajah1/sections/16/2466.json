@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2466,
+    "arabicnumber": 2466,
+    "text": "حدثنا عبد الله بن عامر بن زرارة، حدثنا شريك، عن ابي اسحاق، عن عطاء، عن رافع بن خديج، قال قال رسول الله صلى الله عليه وسلم \" من زرع في ارض قوم بغير اذنهم فليس له من الزرع شىء وترد عليه نفقته",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 16,
+      "hadith": 31
+    }
+  }
+}

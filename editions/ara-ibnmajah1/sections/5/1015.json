@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1015,
+    "arabicnumber": 1015,
+    "text": "حدثنا ابو مروان العثماني، حدثنا ابراهيم بن سعد، عن ابن شهاب، عن سعيد بن المسيب، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" من اكل من هذه الشجرة الثوم فلا يوذينا بها في مسجدنا هذا \" . قال ابراهيم وكان ابي يزيد فيه الكراث والبصل عن النبي صلى الله عليه وسلم . يعني انه يزيد على حديث ابي هريرة في الثوم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 213
+    }
+  }
+}

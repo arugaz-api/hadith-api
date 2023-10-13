@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 4092,
+    "arabicnumber": 4092,
+    "text": "حدثنا هشام بن عمار، حدثنا الوليد بن مسلم، واسماعيل بن عياش، قالا حدثنا ابو بكر بن ابي مريم، عن الوليد بن سفيان بن ابي مريم، عن يزيد بن قطيب السكوني، - وقال الوليد يزيد بن قطبة - عن ابي بحرية، عن معاذ بن جبل، عن النبي صلى الله عليه وسلم قال \" الملحمة الكبرى وفتح القسطنطينية وخروج الدجال في سبعة اشهر",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 36,
+      "hadith": 168
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1896,
+    "arabicnumber": 1896,
+    "text": "حدثنا عمرو بن رافع، حدثنا هشيم، عن ابي بلج، عن محمد بن حاطب، قال قال رسول الله صلى الله عليه وسلم \" فصل ما بين الحلال والحرام الدف والصوت في النكاح",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 52
+    }
+  }
+}

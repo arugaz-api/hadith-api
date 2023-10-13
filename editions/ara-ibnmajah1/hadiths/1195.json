@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1195,
+    "arabicnumber": 1195,
+    "text": "حدثنا محمد بن بشار، حدثنا حماد بن مسعدة، حدثنا ميمون بن موسى المريي، عن الحسن، عن امه، عن ام سلمة، ان النبي صلى الله عليه وسلم كان يصلي بعد الوتر ركعتين خفيفتين، وهو جالس",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 393
+    }
+  }
+}

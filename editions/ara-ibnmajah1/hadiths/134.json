@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 134,
+    "arabicnumber": 134,
+    "text": "حدثنا محمد بن بشار، حدثنا ابن ابي عدي، عن شعبة، عن حصين، عن هلال بن يساف، عن عبد الله بن ظالم، عن سعيد بن زيد، قال اشهد على رسول الله صلى الله عليه وسلم اني سمعته يقول \" اثبت حراء فما عليك الا نبي او صديق او شهيد \" . وعدهم رسول الله صلى الله عليه وسلم ابو بكر وعمر وعثمان وعلي وطلحة والزبير وسعد وابن عوف وسعيد بن زيد",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 0,
+      "hadith": 134
+    }
+  }
+}

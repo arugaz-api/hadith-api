@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 258,
+    "arabicnumber": 258,
+    "text": "حدثنا زيد بن اخزم، وابو بدر عباد بن الوليد قالا حدثنا محمد بن عباد الهنايي، حدثنا علي بن المبارك الهنايي، عن ايوب السختياني، عن خالد بن دريك، عن ابن عمر، ان النبي صلى الله عليه وسلم قال \" من طلب العلم لغير الله او اراد به غير الله فليتبوا مقعده من النار",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 0,
+      "hadith": 258
+    }
+  }
+}

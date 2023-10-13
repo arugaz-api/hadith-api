@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 49,
+    "arabicnumber": 49,
+    "text": "حدثنا داود بن سليمان العسكري، حدثنا محمد بن علي ابو هاشم بن ابي خداش الموصلي، قال حدثنا محمد بن محصن، عن ابراهيم بن ابي عبلة، عن عبد الله بن الديلمي، عن حذيفة، قال قال رسول الله صلى الله عليه وسلم \" لا يقبل الله لصاحب بدعة صوما ولا صلاة ولا صدقة ولا حجا ولا عمرة ولا جهادا ولا صرفا ولا عدلا يخرج من الاسلام كما تخرج الشعرة من العجين",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Mawdu"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Mawdu"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Mawdu"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 0,
+      "hadith": 49
+    }
+  }
+}

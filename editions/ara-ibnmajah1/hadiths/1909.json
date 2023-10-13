@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1909,
+    "arabicnumber": 1909,
+    "text": "حدثنا محمد بن ابي عمر العدني، وغياث بن جعفر الرحبي، قالا حدثنا سفيان بن عيينة، حدثنا وايل بن داود، عن ابنه، عن الزهري، عن انس بن مالك، ان النبي صلى الله عليه وسلم اولم على صفية بسويق وتمر",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 65
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2401,
+    "arabicnumber": 2401,
+    "text": "حدثنا عبيد الله بن الجهم الانماطي، حدثنا ايوب بن سويد، عن المثنى، عن عمرو بن شعيب، عن ابيه، عن جده، قال قال رسول الله صلى الله عليه وسلم \" من اودع وديعة فلا ضمان عليه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 12
+    }
+  }
+}

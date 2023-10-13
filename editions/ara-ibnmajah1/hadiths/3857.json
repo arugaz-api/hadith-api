@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3857,
+    "arabicnumber": 3857,
+    "text": "حدثنا علي بن محمد، حدثنا وكيع، عن مالك بن مغول، انه سمعه من عبد الله بن بريدة، عن ابيه، قال سمع النبي صلى الله عليه وسلم رجلا يقول اللهم اني اسالك بانك انت الله الاحد الصمد الذي لم يلد ولم يولد ولم يكن له كفوا احد . فقال رسول الله صلى الله عليه وسلم \" لقد سال الله باسمه الاعظم الذي اذا سيل به اعطى واذا دعي به اجاب",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 34,
+      "hadith": 31
+    }
+  }
+}

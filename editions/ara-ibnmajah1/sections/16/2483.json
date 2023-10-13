@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2483,
+    "arabicnumber": 2483,
+    "text": "حدثنا ابو المغلس، حدثنا فضيل بن سليمان، حدثنا موسى بن عقبة، عن اسحاق بن يحيى بن الوليد، عن عبادة بن الصامت، ان رسول الله صلى الله عليه وسلم قضى في شرب النخل من السيل ان الاعلى فالاعلى يشرب قبل الاسفل ويترك الماء الى الكعبين ثم يرسل الماء الى الاسفل الذي يليه وكذلك حتى تنقضي الحوايط او يفنى الماء",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 16,
+      "hadith": 48
+    }
+  }
+}

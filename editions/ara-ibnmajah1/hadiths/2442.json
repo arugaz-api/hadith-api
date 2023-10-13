@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2442,
+    "arabicnumber": 2442,
+    "text": "حدثنا سويد بن سعيد، حدثنا يحيى بن سليم، عن اسماعيل بن امية، عن سعيد بن ابي سعيد المقبري، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" ثلاثة انا خصمهم يوم القيامة ومن كنت خصمه خصمته يوم القيامة رجل اعطى بي ثم غدر ورجل باع حرا فاكل ثمنه ورجل استاجر اجيرا فاستوفى منه ولم يوفه اجره",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 16,
+      "hadith": 7
+    }
+  }
+}

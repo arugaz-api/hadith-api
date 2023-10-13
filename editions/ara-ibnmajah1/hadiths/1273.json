@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1273,
+    "arabicnumber": 1273,
+    "text": "حدثنا محمد بن الصباح، انبانا سفيان بن عيينة، عن ايوب، عن عطاء، قال سمعت ابن عباس، يقول اشهد على رسول الله صلى الله عليه وسلم انه صلى قبل الخطبة ثم خطب فراى انه لم يسمع النساء فاتاهن فذكرهن ووعظهن وامرهن بالصدقة وبلال قايل بيديه هكذا فجعلت المراة تلقي الخرص والخاتم والشىء",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Bukhari And Muslim"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 471
+    }
+  }
+}

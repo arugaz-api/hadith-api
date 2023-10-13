@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 516,
+    "arabicnumber": 516,
+    "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا اسماعيل بن عياش، عن عبد العزيز بن عبيد الله، عن محمد بن عمرو بن عطاء، قال رايت السايب بن يزيد يشم ثوبه فقلت مم ذلك قال اني سمعت رسول الله صلى الله عليه وسلم يقول \" لا وضوء الا من ريح او سماع",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 250
+    }
+  }
+}

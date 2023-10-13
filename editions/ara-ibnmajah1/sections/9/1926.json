@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1926,
+    "arabicnumber": 1926,
+    "text": "حدثنا ابو مروان، محمد بن عثمان العثماني حدثنا ابراهيم بن سعد، عن ابن شهاب، حدثني عبيد الله بن عبد الله، عن ابي سعيد الخدري، قال سال رجل رسول الله صلى الله عليه وسلم عن العزل فقال \" اوتفعلون لا عليكم ان لا تفعلوا فانه ليس من نسمة قضى الله لها ان تكون الا هي كاينة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 82
+    }
+  }
+}

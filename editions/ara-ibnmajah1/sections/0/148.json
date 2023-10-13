@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 148,
+    "arabicnumber": 148,
+    "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا عبيد الله بن موسى، ح وحدثنا علي بن محمد، وعمرو بن عبد الله، قالا جميعا حدثنا وكيع، عن عبد العزيز بن سياه، عن حبيب بن ابي ثابت، عن عطاء بن يسار، عن عايشة، قالت قال رسول الله صلى الله عليه وسلم \" عمار ما عرض عليه امران الا اختار الارشد منهما",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 0,
+      "hadith": 148
+    }
+  }
+}

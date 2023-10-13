@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3522,
+    "arabicnumber": 3522,
+    "text": "حدثنا ابو بكر، حدثنا يحيى بن ابي بكير، حدثنا زهير بن محمد، عن يزيد بن خصيفة، عن عمرو بن عبد الله بن كعب، عن نافع بن جبير، عن عثمان بن ابي العاص الثقفي، انه قال قدمت على النبي صلى الله عليه وسلم وبي وجع قد كاد يبطلني فقال لي النبي صلى الله عليه وسلم \" اجعل يدك اليمنى عليه وقل بسم الله اعوذ بعزة الله وقدرته من شر ما اجد واحاذر سبع مرات \" . فقلت ذلك فشفاني الله",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 31,
+      "hadith": 87
+    }
+  }
+}

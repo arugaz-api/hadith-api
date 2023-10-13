@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2277,
+    "arabicnumber": 2277,
+    "text": "حدثنا محمد بن بشار، حدثنا محمد بن جعفر، حدثنا شعبة، حدثنا سماك بن حرب، قال سمعت عبد الرحمن بن عبد الله، يحدث عن عبد الله بن مسعود، ان رسول الله صلى الله عليه وسلم لعن اكل الربا وموكله وشاهديه وكاتبه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 141
+    }
+  }
+}

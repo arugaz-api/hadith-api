@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 440,
+    "arabicnumber": 440,
+    "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا شريك، حدثنا عبد الله بن محمد بن عقيل، عن الربيع، ان النبي صلى الله عليه وسلم توضا فمسح ظاهر اذنيه وباطنهما",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 174
+    }
+  }
+}

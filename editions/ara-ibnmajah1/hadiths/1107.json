@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1107,
+    "arabicnumber": 1107,
+    "text": "حدثنا هشام بن عمار، حدثنا عبد الرحمن بن سعد بن عمار بن سعد، حدثني ابي، عن ابيه، عن جده، ان رسول الله صلى الله عليه وسلم كان اذا خطب في الحرب، خطب على قوس. واذا خطب في الجمعة، خطب على عصا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 305
+    }
+  }
+}

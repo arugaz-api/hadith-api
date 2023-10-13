@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 959,
+    "arabicnumber": 959,
+    "text": "حدثنا محمد بن اسماعيل، حدثنا زيد بن الحباب، حدثني ابو المقدام، عن محمد بن كعب، عن ابن عباس، قال نهى رسول الله صلى الله عليه وسلم ان يصلى خلف المتحدث والنايم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 157
+    }
+  }
+}

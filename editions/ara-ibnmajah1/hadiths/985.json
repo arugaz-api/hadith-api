@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 985,
+    "arabicnumber": 985,
+    "text": "حدثنا احمد بن عبدة، وحميد بن مسعدة، قالا حدثنا حماد بن زيد، انبانا عبد العزيز بن صهيب، عن انس بن مالك، قال كان رسول الله صلى الله عليه وسلم يوجز ويتم الصلاة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 183
+    }
+  }
+}

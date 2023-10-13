@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3868,
+    "arabicnumber": 3868,
+    "text": "حدثنا يعقوب بن حميد بن كاسب، حدثنا عبد العزيز بن ابي حازم، عن سهيل، عن ابيه، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" اذا اصبحتم فقولوا اللهم بك اصبحنا وبك امسينا وبك نحيى وبك نموت واذا امسيتم فقولوا اللهم بك امسينا وبك اصبحنا وبك نحيى وبك نموت واليك المصير",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 34,
+      "hadith": 42
+    }
+  }
+}

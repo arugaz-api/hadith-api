@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2346,
+    "arabicnumber": 2346,
+    "text": "حدثنا جميل بن الحسن العتكي، حدثنا عبد الاعلى، حدثنا سعيد، عن قتادة، عن خلاس، عن ابي رافع، عن ابي هريرة، ان رجلين، تدارءا في بيع ليس لواحد منهما بينة فامرهما رسول الله صلى الله عليه وسلم ان يستهما على اليمين احبا ذلك ام كرها",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 13,
+      "hadith": 39
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 769,
+    "arabicnumber": 769,
+    "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا هشيم، عن يونس، عن الحسن، عن عبد الله بن مغفل المزني، قال قال النبي صلى الله عليه وسلم \" صلوا في مرابض الغنم ولا تصلوا في اعطان الابل فانها خلقت من الشياطين",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 4,
+      "hadith": 35
+    }
+  }
+}

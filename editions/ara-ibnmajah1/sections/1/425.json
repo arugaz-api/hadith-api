@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 425,
+    "arabicnumber": 425,
+    "text": "حدثنا محمد بن يحيى، حدثنا قتيبة، حدثنا ابن لهيعة، عن حيى بن عبد الله المعافري، عن ابي عبد الرحمن الحبلي، عن عبد الله بن عمرو، ان رسول الله صلى الله عليه وسلم مر بسعد وهو يتوضا فقال \" ما هذا السرف \" . فقال افي الوضوء اسراف قال \" نعم وان كنت على نهر جار",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 159
+    }
+  }
+}

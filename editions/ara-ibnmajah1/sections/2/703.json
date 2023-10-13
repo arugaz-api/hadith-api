@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 703,
+    "arabicnumber": 703,
+    "text": "حدثنا عبد الله بن سعيد، واسحاق بن ابراهيم بن حبيب، وعلي بن المنذر، قالوا حدثنا محمد بن فضيل، حدثنا عطاء بن السايب، عن شقيق، عن عبد الله بن مسعود، قال جدب لنا رسول الله صلى الله عليه وسلم السمر بعد العشاء . قال ابن ماجه يعني زجرنا عنه نهانا عنه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 37
+    }
+  }
+}

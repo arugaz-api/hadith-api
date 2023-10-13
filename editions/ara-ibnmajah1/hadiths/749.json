@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 749,
+    "arabicnumber": 749,
+    "text": "حدثنا عبد الله بن سعيد الكندي، حدثنا ابو خالد الاحمر، عن ابن عجلان، عن عمرو بن شعيب، عن ابيه، عن جده، قال نهى رسول الله صلى الله عليه وسلم عن البيع والابتياع وعن تناشد الاشعار في المساجد",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 4,
+      "hadith": 15
+    }
+  }
+}

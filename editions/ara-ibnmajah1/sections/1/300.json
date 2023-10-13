@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 300,
+    "arabicnumber": 300,
+    "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا يحيى بن ابي بكير، حدثنا اسراييل، حدثنا يوسف بن ابي بردة، سمعت ابي يقول، دخلت على عايشة فسمعتها تقول، كان رسول الله صلى الله عليه وسلم اذا خرج من الغايط قال \" غفرانك \" . قال ابو الحسن بن سلمة واخبرنا ابو حاتم، حدثنا ابو غسان النهدي، حدثنا اسراييل، نحوه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 34
+    }
+  }
+}

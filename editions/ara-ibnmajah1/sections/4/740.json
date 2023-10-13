@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 740,
+    "arabicnumber": 740,
+    "text": "حدثنا جبارة بن المغلس، حدثنا عبد الكريم بن عبد الرحمن البجلي، عن ليث، عن عكرمة، عن ابن عباس، قال قال رسول الله صلى الله عليه وسلم \" اراكم ستشرفون مساجدكم بعدي كما شرفت اليهود كنايسها وكما شرفت النصارى بيعها",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 4,
+      "hadith": 6
+    }
+  }
+}

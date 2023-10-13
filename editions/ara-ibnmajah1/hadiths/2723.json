@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2723,
+    "arabicnumber": 2723,
+    "text": "قال ابو الحسن القطان حدثنا ابو حاتم، حدثنا ابن الطباع، حدثنا هشيم، عن يونس، عن الحسن، عن معقل بن يسار، قال قضى رسول الله صلى الله عليه وسلم في جد كان فينا بالسدس",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 23,
+      "hadith": 5
+    }
+  }
+}

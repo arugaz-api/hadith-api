@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 4016,
+    "arabicnumber": 4016,
+    "text": "حدثنا محمد بن بشار، حدثنا عمرو بن عاصم، حدثنا حماد بن سلمة، عن علي بن زيد، عن الحسن، عن جندب، عن حذيفة، قال قال رسول الله صلى الله عليه وسلم \" لا ينبغي للمومن ان يذل نفسه \" . قالوا وكيف يذل نفسه قال \" يتعرض من البلاء لما لا يطيقه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 36,
+      "hadith": 91
+    }
+  }
+}

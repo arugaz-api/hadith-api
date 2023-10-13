@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3451,
+    "arabicnumber": 3451,
+    "text": "حدثنا ابو بشر، بكر بن خلف حدثنا عمر بن سهل، حدثنا ابو حمزة العطار، عن الحسن، عن جابر بن عبد الله، قال اهدي للنبي صلى الله عليه وسلم عسل فقسم بيننا لعقة لعقة فاخذت لعقتي ثم قلت يا رسول الله ازداد اخرى قال \" نعم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif Isnaad"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif Isnaad"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 31,
+      "hadith": 16
+    }
+  }
+}

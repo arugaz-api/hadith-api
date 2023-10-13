@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 343,
+    "arabicnumber": 343,
+    "text": "حدثنا محمد بن رمح، انبانا الليث بن سعد، عن ابي الزبير، عن جابر، عن رسول الله صلى الله عليه وسلم انه نهى عن ان يبال في الماء الراكد",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 77
+    }
+  }
+}

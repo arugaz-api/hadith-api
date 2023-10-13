@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2209,
+    "arabicnumber": 2209,
+    "text": "حدثنا يحيى بن خلف، حدثنا عبد الاعلى، ح وحدثنا هشام بن عمار، حدثنا اسماعيل بن عياش، قالا حدثنا محمد بن اسحاق، عن معبد بن كعب بن مالك، عن ابي قتادة، قال قال رسول الله صلى الله عليه وسلم \" اياكم والحلف في البيع فانه ينفق ثم يمحق",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 73
+    }
+  }
+}

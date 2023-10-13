@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3171,
+    "arabicnumber": 3171,
+    "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا عقبة بن خالد، عن موسى بن محمد بن ابراهيم التيمي، اخبرني ابي، عن ابي سعيد الخدري، قال مر النبي صلى الله عليه وسلم برجل وهو يجر شاة باذنها فقال \" دع اذنها وخذ بسالفتها",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Very Daif Isnaad"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Very Daif Isnaad"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 27,
+      "hadith": 10
+    }
+  }
+}

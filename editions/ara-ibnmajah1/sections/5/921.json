@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 921,
+    "arabicnumber": 921,
+    "text": "حدثنا هشام بن عمار، حدثنا اسماعيل بن عياش، حدثنا ابو بكر الهذلي، عن قتادة، عن الحسن، عن سمرة بن جندب، ان النبي صلى الله عليه وسلم قال \" اذا سلم الامام فردوا عليه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 119
+    }
+  }
+}

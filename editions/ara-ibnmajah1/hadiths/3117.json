@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3117,
+    "arabicnumber": 3117,
+    "text": "حدثنا محمد بن ابي عمر العدني، حدثنا عبد الرحيم بن زيد العمي، عن ابيه، عن سعيد بن جبير، عن ابن عباس، قال قال رسول الله صلى الله عليه وسلم \" من ادرك رمضان بمكة فصام وقام منه ما تيسر له كتب الله له ماية الف شهر رمضان فيما سواها . وكتب الله له بكل يوم عتق رقبة وكل ليلة عتق رقبة وكل يوم حملان فرس في سبيل الله وفي كل يوم حسنة وفي كل ليلة حسنة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Mawdu"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Mawdu"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Very Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 25,
+      "hadith": 236
+    }
+  }
+}

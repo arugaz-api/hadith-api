@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3271,
+    "arabicnumber": 3271,
+    "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا يزيد بن هارون، انبانا ابو اليمان البراء، قال حدثتني جدتي ام عاصم، قالت دخل علينا نبيشة مولى رسول الله صلى الله عليه وسلم ونحن ناكل في قصعة فقال قال النبي صلى الله عليه وسلم \" من اكل في قصعة فلحسها استغفرت له القصعة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 29,
+      "hadith": 21
+    }
+  }
+}

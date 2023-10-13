@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 105,
+    "arabicnumber": 105,
+    "text": "حدثنا محمد بن عبيد ابو عبيد المديني، حدثنا عبد الملك بن الماجشون، حدثني الزنجي بن خالد، عن هشام بن عروة، عن ابيه، عن عايشة، قالت قال رسول الله صلى الله عليه وسلم \" اللهم اعز الاسلام بعمر بن الخطاب خاصة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 0,
+      "hadith": 105
+    }
+  }
+}

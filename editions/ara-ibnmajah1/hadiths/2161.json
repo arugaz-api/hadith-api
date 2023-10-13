@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2161,
+    "arabicnumber": 2161,
+    "text": "حدثنا هشام بن عمار، حدثنا الوليد، انبانا ابن لهيعة، عن ابي الزبير، عن جابر، قال نهى رسول الله صلى الله عليه وسلم عن ثمن السنور",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Hadith"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 25
+    }
+  }
+}

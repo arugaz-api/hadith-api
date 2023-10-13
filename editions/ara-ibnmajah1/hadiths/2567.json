@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2567,
+    "arabicnumber": 2567,
+    "text": "حدثنا محمد بن بشار، حدثنا ابن ابي عدي، عن محمد بن اسحاق، عن عبد الله بن ابي بكر، عن عمرة، عن عايشة، قالت لما نزل عذري قام رسول الله صلى الله عليه وسلم على المنبر فذكر ذلك وتلا القران فلما نزل امر برجلين وامراة فضربوا حدهم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 35
+    }
+  }
+}

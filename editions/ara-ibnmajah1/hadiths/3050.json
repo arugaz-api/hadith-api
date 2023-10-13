@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3050,
+    "arabicnumber": 3050,
+    "text": "حدثنا ابو بشر، بكر بن خلف حدثنا يزيد بن زريع، عن خالد الحذاء، عن عكرمة، عن ابن عباس، قال كان رسول الله صلى الله عليه وسلم يسال يوم منى فيقول \" لا حرج لا حرج \" . فاتاه رجل فقال حلقت قبل ان اذبح قال \" لا حرج \" . قال رميت بعد ما امسيت قال \" لا حرج",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari"
+      }
+    ],
+    "reference": {
+      "book": 25,
+      "hadith": 169
+    }
+  }
+}

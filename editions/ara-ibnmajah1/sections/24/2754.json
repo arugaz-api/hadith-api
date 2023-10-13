@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2754,
+    "arabicnumber": 2754,
+    "text": "حدثنا ابو بكر بن ابي شيبة، وابو كريب قالا حدثنا عبيد الله بن موسى، عن شيبان، عن فراس، عن عطية، عن ابي سعيد الخدري، عن النبي صلى الله عليه وسلم قال \" المجاهد في سبيل الله مضمون على الله اما ان يكفته الى مغفرته ورحمته واما ان يرجعه باجر وغنيمة ومثل المجاهد في سبيل الله كمثل الصايم القايم الذي لا يفتر حتى يرجع",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 2
+    }
+  }
+}

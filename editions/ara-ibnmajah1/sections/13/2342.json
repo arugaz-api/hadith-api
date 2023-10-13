@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2342,
+    "arabicnumber": 2342,
+    "text": "حدثنا محمد بن رمح، انبانا الليث بن سعد، عن يحيى بن سعيد، عن محمد بن يحيى بن حبان، عن لولوة، عن ابي صرمة، عن رسول الله صلى الله عليه وسلم قال \" من ضار اضر الله به ومن شاق شق الله عليه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 13,
+      "hadith": 35
+    }
+  }
+}

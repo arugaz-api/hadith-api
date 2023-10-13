@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3803,
+    "arabicnumber": 3803,
+    "text": "حدثنا هشام بن خالد الازرق ابو مروان، حدثنا الوليد بن مسلم، حدثنا زهير بن محمد، عن منصور بن عبد الرحمن، عن امه، صفية بنت شيبة عن عايشة، قالت كان رسول الله صلى الله عليه وسلم اذا راى ما يحب قال \" الحمد لله الذي بنعمته تتم الصالحات \" . واذا راى ما يكره قال \" الحمد لله على كل حال",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 33,
+      "hadith": 147
+    }
+  }
+}

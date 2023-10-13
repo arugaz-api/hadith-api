@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 226,
+    "arabicnumber": 226,
+    "text": "حدثنا محمد بن يحيى، حدثنا عبد الرزاق، انبانا معمر، عن عاصم بن ابي النجود، عن زر بن حبيش، قال اتيت صفوان بن عسال المرادي فقال ما جاء بك قلت انبط العلم . قال فاني سمعت رسول الله صلى الله عليه وسلم يقول \" ما من خارج خرج من بيته في طلب العلم الا وضعت له الملايكة اجنحتها رضا بما يصنع",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 0,
+      "hadith": 226
+    }
+  }
+}

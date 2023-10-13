@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1356,
+    "arabicnumber": 1356,
+    "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا زيد بن الحباب، عن معاوية بن صالح، حدثني ازهر بن سعيد، عن عاصم بن حميد، قال سالت عايشة ماذا كان النبي صلى الله عليه وسلم يفتتح به قيام الليل قالت لقد سالتني عن شىء ما سالني عنه احد قبلك كان يكبر عشرا ويحمد عشرا ويسبح عشرا ويستغفر عشرا ويقول \" اللهم اغفر لي واهدني وارزقني وعافني \" . ويتعوذ من ضيق المقام يوم القيامة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 554
+    }
+  }
+}

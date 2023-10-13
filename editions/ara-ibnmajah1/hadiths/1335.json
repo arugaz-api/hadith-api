@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1335,
+    "arabicnumber": 1335,
+    "text": "حدثنا العباس بن عثمان الدمشقي، حدثنا الوليد بن مسلم، حدثنا شيبان ابو معاوية، عن الاعمش، عن علي بن الاقمر، عن الاغر، عن ابي سعيد، وابي، هريرة عن النبي صلى الله عليه وسلم قال \" اذا استيقظ الرجل من الليل وايقظ امراته فصليا ركعتين كتبا من الذاكرين الله كثيرا والذاكرات",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 533
+    }
+  }
+}

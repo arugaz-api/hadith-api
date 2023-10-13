@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3837,
+    "arabicnumber": 3837,
+    "text": "حدثنا عيسى بن حماد المصري، انبانا الليث بن سعد، عن سعيد بن ابي سعيد المقبري، عن اخيه، عباد بن ابي سعيد انه سمع ابا هريرة، يقول كان رسول الله صلى الله عليه وسلم يقول \" اللهم اني اعوذ بك من الاربع من علم لا ينفع ومن قلب لا يخشع ومن نفس لا تشبع ومن دعاء لا يسمع",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 34,
+      "hadith": 11
+    }
+  }
+}

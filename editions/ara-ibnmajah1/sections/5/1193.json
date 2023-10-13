@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1193,
+    "arabicnumber": 1193,
+    "text": "حدثنا احمد بن سنان، واسحاق بن منصور، قالا حدثنا يزيد بن هارون، انبانا شعبة، عن جابر، عن سالم، عن ابيه، قال: كان رسول الله صلى الله عليه وسلم يصلي في السفر ركعتين. لا يزيد عليهما. وكان يتهجد من الليل . قلت وكان يوتر؟ قال: نعم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Very Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Very Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 391
+    }
+  }
+}

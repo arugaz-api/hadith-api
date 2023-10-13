@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1283,
+    "arabicnumber": 1283,
+    "text": "حدثنا ابو بكر بن خلاد الباهلي، حدثنا وكيع بن الجراح، حدثنا موسى بن عبيدة، عن محمد بن عمرو بن عطاء، عن ابن عباس، ان النبي صلى الله عليه وسلم كان يقرا في العيدين ب {سبح اسم ربك الاعلى } و {هل اتاك حديث الغاشية}",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 481
+    }
+  }
+}

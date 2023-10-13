@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 495,
+    "arabicnumber": 495,
+    "text": "حدثنا محمد بن بشار، حدثنا عبد الرحمن بن مهدي، حدثنا زايدة، واسراييل، عن اشعث بن ابي الشعثاء، عن جعفر بن ابي ثور، عن جابر بن سمرة، قال امرنا رسول الله صلى الله عليه وسلم ان نتوضا من لحوم الابل ولا نتوضا من لحوم الغنم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 229
+    }
+  }
+}

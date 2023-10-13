@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1947,
+    "arabicnumber": 1947,
+    "text": "حدثنا محمد بن رمح المصري، حدثنا عبد الله بن لهيعة، عن يزيد بن ابي حبيب، وعقيل، عن ابن شهاب، اخبرني ابو عبيدة بن عبد الله بن زمعة، عن امه، زينب بنت ابي سلمة انها اخبرته ان ازواج النبي صلى الله عليه وسلم كلهن خالفن عايشة وابين ان يدخل عليهن احد بمثل رضاعة سالم مولى ابي حذيفة وقلن وما يدرينا لعل ذلك كانت رخصة لسالم وحده",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 103
+    }
+  }
+}

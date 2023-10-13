@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2225,
+    "arabicnumber": 2225,
+    "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا ابو نعيم، حدثنا يونس بن ابي اسحاق، عن ابي داود، عن ابي الحمراء، قال رايت رسول الله صلى الله عليه وسلم مر بجنبات رجل عنده طعام في وعاء فادخل يده فيه فقال \" لعلك غششته من غشنا فليس منا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Very Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Very Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Very Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 89
+    }
+  }
+}

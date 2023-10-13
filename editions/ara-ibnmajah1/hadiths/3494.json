@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3494,
+    "arabicnumber": 3494,
+    "text": "حدثنا علي بن ابي الخصيب، حدثنا وكيع، عن سفيان، عن ابي الزبير، عن جابر بن عبد الله، ان رسول الله صلى الله عليه وسلم كوى سعد بن معاذ في اكحله مرتين",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 31,
+      "hadith": 59
+    }
+  }
+}

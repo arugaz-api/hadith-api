@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 474,
+    "arabicnumber": 474,
+    "text": "حدثنا ابو بكر بن ابي شيبة، وعلي بن محمد، قالا حدثنا وكيع، حدثنا الاعمش، عن ابراهيم، عن الاسود، عن عايشة، قالت كان رسول الله صلى الله عليه وسلم ينام حتى ينفخ ثم يقوم فيصلي ولا يتوضا . قال الطنافسي قال وكيع تعني وهو ساجد",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 208
+    }
+  }
+}

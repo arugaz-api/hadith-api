@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 19,
+    "arabicnumber": 19,
+    "text": "حدثنا ابو بكر بن الخلاد الباهلي، حدثنا يحيى بن سعيد، عن شعبة، عن ابن عجلان، انبانا عون بن عبد الله، عن عبد الله بن مسعود، قال اذا حدثتكم عن رسول الله صلى الله عليه وسلم فظنوا برسول الله صلى الله عليه وسلم الذي هو اهناه واهداه واتقاه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 0,
+      "hadith": 19
+    }
+  }
+}

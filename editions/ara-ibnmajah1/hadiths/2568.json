@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2568,
+    "arabicnumber": 2568,
+    "text": "حدثنا عبد الرحمن بن ابراهيم، حدثنا ابن ابي فديك، حدثني ابن ابي حبيبة، عن داود بن الحصين، عن عكرمة، عن ابن عباس، عن النبي صلى الله عليه وسلم قال \" اذا قال الرجل للرجل يا مخنث فاجلدوه عشرين واذا قال الرجل للرجل يا لوطي فاجلدوه عشرين",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 36
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 142,
+    "arabicnumber": 142,
+    "text": "حدثنا احمد بن عبدة، حدثنا سفيان بن عيينة، عن عبيد الله بن ابي يزيد، عن نافع بن جبير، عن ابي هريرة، ان النبي صلى الله عليه وسلم قال للحسن \" اللهم اني احبه فاحبه واحب من يحبه \" . قال وضمه الى صدره",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Bukhari And Muslim"
+      }
+    ],
+    "reference": {
+      "book": 0,
+      "hadith": 142
+    }
+  }
+}

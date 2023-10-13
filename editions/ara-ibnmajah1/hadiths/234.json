@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 234,
+    "arabicnumber": 234,
+    "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا ابو اسامة، ح وحدثنا اسحاق بن منصور، انبانا النضر بن شميل، عن بهز بن حكيم، عن ابيه، عن جده، معاوية القشيري قال قال رسول الله صلى الله عليه وسلم \" الا ليبلغ الشاهد الغايب",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 0,
+      "hadith": 234
+    }
+  }
+}

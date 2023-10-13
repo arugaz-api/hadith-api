@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2009,
+    "arabicnumber": 2009,
+    "text": "حدثنا ابو بكر بن خلاد، ويحيى بن حكيم، قالا حدثنا يزيد بن هارون، انبانا محمد بن اسحاق، عن داود بن الحصين، عن عكرمة، عن ابن عباس، ان رسول الله صلى الله عليه وسلم رد ابنته على ابي العاص بن الربيع بعد سنتين بنكاحها الاول",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 165
+    }
+  }
+}

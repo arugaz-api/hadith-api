@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3938,
+    "arabicnumber": 3938,
+    "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا ابو الاحوص، عن سماك، عن ثعلبة بن الحكم، قال اصبنا غنما للعدو فانتهبناها فنصبنا قدورنا فمر النبي صلى الله عليه وسلم بالقدور فامر بها فاكفيت ثم قال \" ان النهبة لا تحل",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 36,
+      "hadith": 13
+    }
+  }
+}

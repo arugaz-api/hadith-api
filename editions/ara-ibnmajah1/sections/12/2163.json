@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2163,
+    "arabicnumber": 2163,
+    "text": "حدثنا عمرو بن علي ابو حفص الصيرفي، حدثنا ابو داود، ح وحدثنا محمد بن عبادة الواسطي، حدثنا يزيد بن هارون، قالا حدثنا ورقاء، عن عبد الاعلى، عن ابي جميلة عن علي، قال احتجم رسول الله صلى الله عليه وسلم وامرني فاعطيت الحجام اجره",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 27
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1809,
+    "arabicnumber": 1809,
+    "text": "حدثنا ابو كريب، حدثنا عبدة بن سليمان، ومحمد بن فضيل، ويونس بن بكير، عن محمد بن اسحاق، عن عاصم بن عمر بن قتادة، عن محمود بن لبيد، عن رافع بن خديج، قال سمعت رسول الله صلى الله عليه وسلم يقول \" العامل على الصدقة بالحق كالغازي في سبيل الله حتى يرجع الى بيته",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 8,
+      "hadith": 27
+    }
+  }
+}

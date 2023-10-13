@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2344,
+    "arabicnumber": 2344,
+    "text": "حدثنا يحيى بن حكيم، حدثنا ابو الوليد، حدثنا همام، عن قتادة، عن الحسن، عن سمرة بن جندب، عن النبي صلى الله عليه وسلم قال \" اذا بيع البيع من رجلين فالبيع للاول \" . قال ابو الوليد في هذا الحديث ابطال الخلاص",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 13,
+      "hadith": 37
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1885,
+    "arabicnumber": 1885,
+    "text": "حدثنا الحسين بن مهدي، انبانا عبد الرزاق، انبانا معمر، عن ثابت، عن انس بن مالك، قال قال رسول الله صلى الله عليه وسلم \" لا شغار في الاسلام",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 41
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3479,
+    "arabicnumber": 3479,
+    "text": "حدثنا جبارة بن المغلس، حدثنا كثير بن سليم، سمعت انس بن مالك، يقول قال رسول الله صلى الله عليه وسلم \" ما مررت ليلة اسري بي بملا الا قالوا يا محمد مر امتك بالحجامة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 31,
+      "hadith": 44
+    }
+  }
+}

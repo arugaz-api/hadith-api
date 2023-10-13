@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1443,
+    "arabicnumber": 1443,
+    "text": "حدثنا محمد بن بشار، حدثنا يوسف بن يعقوب، حدثنا ابو سنان القسملي، عن عثمان بن ابي سودة، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" من عاد مريضا نادى مناد من السماء طبت وطاب ممشاك وتبوات من الجنة منزلا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 6,
+      "hadith": 11
+    }
+  }
+}

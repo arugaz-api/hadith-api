@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 266,
+    "arabicnumber": 266,
+    "text": "حدثنا محمد بن عبد الله بن حفص بن هشام بن زيد بن انس بن مالك، حدثنا ابو ابراهيم، اسماعيل بن ابراهيم الكرابيسي عن ابن عون، عن محمد بن سيرين، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" من سيل عن علم يعلمه فكتمه الجم يوم القيامة بلجام من نار",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 0,
+      "hadith": 266
+    }
+  }
+}

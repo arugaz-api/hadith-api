@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3556,
+    "arabicnumber": 3556,
+    "text": "حدثنا يحيى بن عثمان بن سعيد بن كثير بن دينار الحمصي، حدثنا بقية بن الوليد، عن يوسف بن ابي كثير، عن نوح بن ذكوان، عن الحسن، عن انس، قال لبس رسول الله صلى الله عليه وسلم الصوف واحتذى المخصوف ولبس ثوبا خشنا خشنا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Very Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 32,
+      "hadith": 7
+    }
+  }
+}

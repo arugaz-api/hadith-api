@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2714,
+    "arabicnumber": 2714,
+    "text": "حدثنا هشام بن عمار، حدثنا محمد بن شعيب بن شابور، حدثنا عبد الرحمن بن يزيد بن جابر، عن سعيد بن ابي سعيد، انه حدثه عن انس بن مالك، قال اني لتحت ناقة رسول الله صلى الله عليه وسلم يسيل على لعابها فسمعته يقول \" ان الله قد اعطى كل ذي حق حقه الا لا وصية لوارث",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 20
+    }
+  }
+}

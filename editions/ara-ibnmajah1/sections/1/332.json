@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 332,
+    "arabicnumber": 332,
+    "text": "حدثنا محمد بن عبد الله بن نمير، حدثنا عمر بن عبيد، عن عمر بن المثنى، عن عطاء الخراساني، عن انس، قال كنت مع النبي صلى الله عليه وسلم في سفر فتنحى لحاجته ثم جاء فدعا بوضوء فتوضا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 66
+    }
+  }
+}

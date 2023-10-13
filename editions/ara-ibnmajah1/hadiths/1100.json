@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1100,
+    "arabicnumber": 1100,
+    "text": "حدثنا محمد بن بشار، حدثنا عبد الرحمن بن مهدي، حدثنا يعلى بن الحارث، قال سمعت اياس بن سلمة بن الاكوع، عن ابيه، قال كنا نصلي مع النبي صلى الله عليه وسلم الجمعة ثم نرجع، فلا نرى للحيطان فييا نستظل به",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Bukhari And Muslim"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 298
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 628,
+    "arabicnumber": 628,
+    "text": "حدثنا محمد بن بشار، حدثنا يحيى بن سعيد، وعبد الرحمن بن مهدي، قالا حدثنا سفيان، عن ثابت بن هرمز ابي المقدام، عن عدي بن دينار، عن ام قيس بنت محصن، قالت سالت رسول الله صلى الله عليه وسلم عن دم الحيض يصيب الثوب قال \" اغسليه بالماء والسدر وحكيه ولو بضلع",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 362
+    }
+  }
+}

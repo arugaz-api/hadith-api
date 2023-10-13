@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1497,
+    "arabicnumber": 1497,
+    "text": "حدثنا ابو عبيد، محمد بن عبيد بن ميمون المديني حدثنا محمد بن سلمة الحراني، عن محمد بن اسحاق، عن محمد بن ابراهيم بن الحارث التيمي، عن ابي سلمة بن عبد الرحمن، عن ابي هريرة، قال سمعت رسول الله صلى الله عليه وسلم يقول \" اذا صليتم على الميت فاخلصوا له الدعاء",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 6,
+      "hadith": 65
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 274,
+    "arabicnumber": 274,
+    "text": "حدثنا محمد بن عقيل، حدثنا الخليل بن زكريا، حدثنا هشام بن حسان، عن الحسن، عن ابي بكرة، قال قال رسول الله صلى الله عليه وسلم \" لا يقبل الله صلاة بغير طهور ولا صدقة من غلول",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 8
+    }
+  }
+}

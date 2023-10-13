@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3119,
+    "arabicnumber": 3119,
+    "text": "حدثنا اسماعيل بن حفص الابلي، حدثنا يحيى بن يمان، عن حمزة بن حبيب الزيات، عن حمران بن اعين، عن ابي الطفيل، عن ابي سعيد، قال حج النبي صلى الله عليه وسلم واصحابه مشاة من المدينة الى مكة وقال \" اربطوا اوساطكم بازركم \" . ومشى خلط الهرولة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 25,
+      "hadith": 238
+    }
+  }
+}

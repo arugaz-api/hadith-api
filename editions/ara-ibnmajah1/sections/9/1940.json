@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1940,
+    "arabicnumber": 1940,
+    "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا محمد بن بشر، حدثنا ابن ابي عروبة، عن قتادة، عن ابي الخليل، عن عبد الله بن الحارث، ان ام الفضل، حدثته ان رسول الله صلى الله عليه وسلم قال \" لا تحرم الرضعة ولا الرضعتان او المصة والمصتان",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 96
+    }
+  }
+}

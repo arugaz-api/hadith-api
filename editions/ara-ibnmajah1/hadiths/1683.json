@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1683,
+    "arabicnumber": 1683,
+    "text": "حدثنا ابو بكر بن ابي شيبة، وعبد الله بن الجراح، قالا: حدثنا ابو الاحوص، عن زياد بن علاقة، عن عمرو بن ميمون، عن عايشة، قالت: كان النبي صلى الله عليه وسلم يقبل في شهر الصوم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 7,
+      "hadith": 46
+    }
+  }
+}

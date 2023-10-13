@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2789,
+    "arabicnumber": 2789,
+    "text": "حدثنا محمد بن بشار، حدثنا وهب بن جرير، حدثنا ابي قال، سمعت يحيى بن ايوب، يحدث عن يزيد بن ابي حبيب، عن على بن رباح، عن ابي قتادة الانصاري، ان رسول الله صلى الله عليه وسلم قال \" خير الخيل الادهم الاقرح المحجل الارثم طلق اليد اليمنى فان لم يكن ادهم فكميت على هذه الشية",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 37
+    }
+  }
+}

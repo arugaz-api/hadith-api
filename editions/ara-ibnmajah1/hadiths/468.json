@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 468,
+    "arabicnumber": 468,
+    "text": "حدثنا العباس بن الوليد، واحمد بن الازهر، قالا حدثنا مروان بن محمد، حدثنا يزيد بن السمط، حدثنا الوضين بن عطاء، عن محفوظ بن علقمة، عن سلمان الفارسي، ان رسول الله صلى الله عليه وسلم توضا فقلب جبة صوف كانت عليه فمسح بها وجهه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 202
+    }
+  }
+}

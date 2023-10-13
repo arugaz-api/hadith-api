@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1380,
+    "arabicnumber": 1380,
+    "text": "حدثنا محمد بن عبد الله بن نمير، وابو كريب قالا حدثنا يونس بن بكير، حدثنا محمد بن اسحاق، عن موسى بن انس، عن ثمامة بن انس، عن انس بن مالك، قال سمعت رسول الله صلى الله عليه وسلم يقول \" من صلى الضحى ثنتى عشرة ركعة بنى الله له قصرا من ذهب في الجنة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 578
+    }
+  }
+}

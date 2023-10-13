@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3005,
+    "arabicnumber": 3005,
+    "text": "حدثنا محمد بن يحيى، حدثنا عبد الرزاق، انبانا عبد الله بن عمر، عن نافع، عن ابن عمر، انه كان يصلي الصلوات الخمس بمنى ثم يخبرهم ان رسول الله صلى الله عليه وسلم كان يفعل ذلك",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan Lighairihi"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 25,
+      "hadith": 124
+    }
+  }
+}

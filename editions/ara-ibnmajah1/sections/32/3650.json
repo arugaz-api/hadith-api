@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3650,
+    "arabicnumber": 3650,
+    "text": "حدثنا ابو بكر، حدثنا غندر، عن شعبة، عن علي بن مدرك، عن ابي زرعة، عن عبد الله بن نجى، عن ابيه، عن علي بن ابي طالب، عن النبي صلى الله عليه وسلم قال \" ان الملايكة لا تدخل بيتا فيه كلب ولا صورة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 32,
+      "hadith": 101
+    }
+  }
+}

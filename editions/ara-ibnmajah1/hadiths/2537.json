@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2537,
+    "arabicnumber": 2537,
+    "text": "حدثنا هشام بن عمار، حدثنا الوليد بن مسلم، حدثنا سعيد بن سنان، عن ابي الزاهرية، عن ابي شجرة، كثير بن مرة عن ابن عمر، ان رسول الله صلى الله عليه وسلم قال \" اقامة حد من حدود الله خير من مطر اربعين ليلة في بلاد الله عز وجل",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Very Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 5
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 108,
+    "arabicnumber": 108,
+    "text": "حدثنا ابو سلمة، يحيى بن خلف حدثنا عبد الاعلى، عن محمد بن اسحاق، عن مكحول، عن غضيف بن الحارث، عن ابي ذر، قال سمعت رسول الله صلى الله عليه وسلم يقول \" ان الله وضع الحق على لسان عمر يقول به",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 0,
+      "hadith": 108
+    }
+  }
+}

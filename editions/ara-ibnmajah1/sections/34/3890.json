@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3890,
+    "arabicnumber": 3890,
+    "text": "حدثنا هشام بن عمار، حدثنا عبد الحميد بن حبيب بن ابي العشرين، حدثنا الاوزاعي، اخبرني نافع، ان القاسم بن محمد، اخبره عن عايشة، ان رسول الله صلى الله عليه وسلم كان اذا راى المطر قال \" اللهم اجعله صيبا هنييا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari"
+      }
+    ],
+    "reference": {
+      "book": 34,
+      "hadith": 64
+    }
+  }
+}

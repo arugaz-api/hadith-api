@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 137,
+    "arabicnumber": 137,
+    "text": "حدثنا علي بن محمد، حدثنا وكيع، حدثنا سفيان، عن ابي اسحاق، عن الحارث، عن علي، قال قال رسول الله صلى الله عليه وسلم \" لو كنت مستخلفا احدا عن غير مشورة لاستخلفت ابن ام عبد",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 0,
+      "hadith": 137
+    }
+  }
+}

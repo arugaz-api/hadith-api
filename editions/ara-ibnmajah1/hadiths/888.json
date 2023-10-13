@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 888,
+    "arabicnumber": 888,
+    "text": "حدثنا محمد بن رمح المصري، انبانا ابن لهيعة، عن عبيد الله بن ابي جعفر، عن ابي الازهر، عن حذيفة بن اليمان، انه سمع رسول الله صلى الله عليه وسلم يقول اذا ركع: \" سبحان ربي العظيم \" ثلاث مرات، واذا سجد قال: \" سبحان ربي الاعلى \" ثلاث مرات",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 86
+    }
+  }
+}

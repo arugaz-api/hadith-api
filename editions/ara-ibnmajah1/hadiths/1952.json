@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1952,
+    "arabicnumber": 1952,
+    "text": "حدثنا احمد بن ابراهيم الدورقي، حدثنا هشيم، عن ابن ابي ليلى، عن حميضة بنت الشمردل، عن قيس بن الحارث، قال اسلمت وعندي ثمان نسوة فاتيت النبي صلى الله عليه وسلم فقلت ذلك له فقال \" اختر منهن اربعا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 108
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3786,
+    "arabicnumber": 3786,
+    "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا ابو اسامة، عن شعبة، عن قتادة، عن عباس الجشمي، عن ابي هريرة، عن النبي صلى الله عليه وسلم قال \" ان سورة في القران ثلاثون اية شفعت لصاحبها حتى غفر له {تبارك الذي بيده الملك}",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 33,
+      "hadith": 130
+    }
+  }
+}

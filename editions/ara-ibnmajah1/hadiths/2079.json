@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2079,
+    "arabicnumber": 2079,
+    "text": "حدثنا محمد بن طريف، وابراهيم بن سعيد الجوهري، قالا حدثنا عمر بن شبيب المسلي، عن عبد الله بن عيسى، عن عطية، عن ابن عمر، قال قال رسول الله صلى الله عليه وسلم \" طلاق الامة اثنتان وعدتها حيضتان",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 10,
+      "hadith": 64
+    }
+  }
+}

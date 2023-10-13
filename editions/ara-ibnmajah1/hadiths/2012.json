@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2012,
+    "arabicnumber": 2012,
+    "text": "حدثنا هشام بن عمار، حدثنا يحيى بن حمزة، عن عمرو بن مهاجر، انه سمع اباه المهاجر بن ابي مسلم، يحدث عن اسماء بنت يزيد بن السكن، وكانت، مولاته انها سمعت رسول الله صلى الله عليه وسلم يقول \" لا تقتلوا اولادكم سرا فوالذي نفسي بيده ان الغيل ليدرك الفارس على ظهر فرسه حتى يصرعه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 168
+    }
+  }
+}

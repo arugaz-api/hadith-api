@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1484,
+    "arabicnumber": 1484,
+    "text": "حدثنا احمد بن عبدة، انبانا عبد الواحد بن زياد، عن يحيى بن عبد الله التيمي، عن ابي ماجدة الحنفي، عن عبد الله بن مسعود، قال قال رسول الله صلى الله عليه وسلم \" الجنازة متبوعة وليست بتابعة ليس منها من تقدمها",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 6,
+      "hadith": 52
+    }
+  }
+}

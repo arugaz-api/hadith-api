@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3980,
+    "arabicnumber": 3980,
+    "text": "حدثنا ابو كريب، حدثنا عبد الله بن نمير، عن يحيى بن سعيد، عن عبد الله بن عبد الرحمن الانصاري، عن ابيه، انه سمع ابا سعيد الخدري، يقول قال رسول الله صلى الله عليه وسلم \" يوشك ان يكون خير مال المسلم غنم يتبع بها شعف الجبال ومواقع القطر يفر بدينه من الفتن",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 36,
+      "hadith": 55
+    }
+  }
+}

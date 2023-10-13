@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 4195,
+    "arabicnumber": 4195,
+    "text": "حدثنا القاسم بن زكريا بن دينار، حدثنا اسحاق بن منصور، حدثنا ابو رجاء الخراساني، عن محمد بن مالك، عن البراء، قال كنا مع رسول الله صلى الله عليه وسلم في جنازة فجلس على شفير القبر فبكى حتى بل الثرى ثم قال \" يا اخواني لمثل هذا فاعدوا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 37,
+      "hadith": 96
+    }
+  }
+}

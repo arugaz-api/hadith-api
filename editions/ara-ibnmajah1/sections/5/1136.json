@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1136,
+    "arabicnumber": 1136,
+    "text": "حدثنا محمد بن يحيى، حدثنا الهيثم بن جميل، حدثنا ابن المبارك، عن ابان بن تغلب، عن عدي بن ثابت، عن ابيه، قال كان النبي صلى الله عليه وسلم اذا قام على المنبر استقبله اصحابه بوجوههم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 334
+    }
+  }
+}

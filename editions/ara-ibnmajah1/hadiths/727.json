@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 727,
+    "arabicnumber": 727,
+    "text": "حدثنا ابو كريب، حدثنا مختار بن غسان، حدثنا حفص بن عمر الازرق البرجمي، عن جابر، عن عكرمة، عن ابن عباس، ح وحدثنا روح بن الفرج، حدثنا علي بن الحسن بن شقيق، حدثنا ابو حمزة، عن جابر، عن عكرمة، عن ابن عباس، قال قال رسول الله صلى الله عليه وسلم \" من اذن محتسبا سبع سنين كتب الله له براءة من النار",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 3,
+      "hadith": 22
+    }
+  }
+}

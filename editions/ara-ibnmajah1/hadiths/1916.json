@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1916,
+    "arabicnumber": 1916,
+    "text": "حدثنا هناد بن السري، حدثنا عبدة بن سليمان، عن محمد بن اسحاق، عن ايوب، عن ابي قلابة، عن انس، قال قال رسول الله صلى الله عليه وسلم \" ان للثيب ثلاثا وللبكر سبعا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 72
+    }
+  }
+}

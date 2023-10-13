@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2261,
+    "arabicnumber": 2261,
+    "text": "حدثنا ابو اسحاق الشافعي، ابراهيم بن محمد بن العباس حدثني ابي، عن ابيه العباس بن عثمان بن شافع، عن عمر بن محمد بن علي بن ابي طالب، عن ابيه، عن جده، قال قال رسول الله صلى الله عليه وسلم \" الدينار بالدينار والدرهم بالدرهم لا فضل بينهما فمن كانت له حاجة بورق فليصطرفها بذهب ومن كانت له حاجة بذهب فليصطرفها بالورق والصرف هاء وهاء",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Muquf"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 125
+    }
+  }
+}

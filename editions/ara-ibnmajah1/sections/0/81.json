@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 81,
+    "arabicnumber": 81,
+    "text": "حدثنا عبد الله بن عامر بن زرارة، حدثنا شريك، عن منصور، عن ربعي، عن علي، قال قال رسول الله صلى الله عليه وسلم \" لا يومن عبد حتى يومن باربع بالله وحده لا شريك له واني رسول الله وبالبعث بعد الموت والقدر",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 0,
+      "hadith": 81
+    }
+  }
+}

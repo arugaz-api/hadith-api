@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2155,
+    "arabicnumber": 2155,
+    "text": "حدثنا يحيى بن حكيم، حدثنا ابو بكر الحنفي، حدثنا الهيثم بن رافع، حدثني ابو يحيى المكي، عن فروخ، مولى عثمان بن عفان عن عمر بن الخطاب، قال سمعت رسول الله صلى الله عليه وسلم يقول \" من احتكر على المسلمين طعامهم ضربه الله بالجذام والافلاس",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 19
+    }
+  }
+}

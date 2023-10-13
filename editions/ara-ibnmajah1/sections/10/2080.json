@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2080,
+    "arabicnumber": 2080,
+    "text": "حدثنا محمد بن بشار، حدثنا ابو عاصم، حدثنا ابن جريج، عن مظاهر بن اسلم، عن القاسم، عن عايشة، عن النبي صلى الله عليه وسلم قال \" طلاق الامة تطليقتان وقروها حيضتان \" . قال ابو عاصم فذكرته لمظاهر فقلت حدثني كما حدثت ابن جريج . فاخبرني عن القاسم عن عايشة عن النبي صلى الله عليه وسلم قال \" طلاق الامة تطليقتان وقروها حيضتان",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 10,
+      "hadith": 65
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1561,
+    "arabicnumber": 1561,
+    "text": "حدثنا العباس بن جعفر، حدثنا محمد بن ايوب ابو هريرة الواسطي، حدثنا عبد العزيز بن محمد، عن كثير بن زيد، عن زينب بنت نبيط، عن انس بن مالك، ان رسول الله صلى الله عليه وسلم اعلم قبر عثمان بن مظعون بصخرة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 6,
+      "hadith": 129
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 10,
+    "arabicnumber": 10,
+    "text": "حدثنا هشام بن عمار، حدثنا محمد بن شعيب، حدثنا سعيد بن بشير، عن قتادة، عن ابي قلابة، عن ابي اسماء الرحبي، عن ثوبان، ان رسول الله صلى الله عليه وسلم قال \" لا يزال طايفة من امتي على الحق منصورين لا يضرهم من خالفهم حتى ياتي امر الله عز وجل",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 0,
+      "hadith": 10
+    }
+  }
+}

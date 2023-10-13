@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1732,
+    "arabicnumber": 1732,
+    "text": "حدثنا ابو بكر بن ابي شيبة، وعلي بن محمد، قالا حدثنا وكيع، حدثني حوشب بن عقيل، حدثني مهدي العبدي، عن عكرمة، قال: دخلت على ابي هريرة في بيته فسالته عن صوم يوم عرفة بعرفات؟ فقال: ابو هريرة نهى رسول الله صلى الله عليه وسلم عن صوم يوم عرفة بعرفات",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 7,
+      "hadith": 95
+    }
+  }
+}

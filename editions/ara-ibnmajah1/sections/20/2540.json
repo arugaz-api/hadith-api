@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2540,
+    "arabicnumber": 2540,
+    "text": "حدثنا عبد الله بن سالم المفلوج، حدثنا عبيدة بن الاسود، عن القاسم بن الوليد، عن ابي صادق، عن ربيعة بن ناجد، عن عبادة بن الصامت، قال قال رسول الله صلى الله عليه وسلم \" اقيموا حدود الله في القريب والبعيد ولا تاخذكم في الله لومة لايم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 8
+    }
+  }
+}

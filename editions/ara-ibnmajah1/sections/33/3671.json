@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3671,
+    "arabicnumber": 3671,
+    "text": "حدثنا العباس بن الوليد الدمشقي، حدثنا علي بن عياش، حدثنا سعيد بن عمارة، اخبرني الحارث بن النعمان، سمعت انس بن مالك، يحدث عن رسول الله صلى الله عليه وسلم انه قال \" اكرموا اولادكم واحسنوا ادبهم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 33,
+      "hadith": 15
+    }
+  }
+}

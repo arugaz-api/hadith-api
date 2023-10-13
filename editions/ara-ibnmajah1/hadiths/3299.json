@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3299,
+    "arabicnumber": 3299,
+    "text": "حدثنا ابو بكر بن ابي شيبة، وعلي بن محمد، قالا حدثنا وكيع، عن ابي هلال، عن عبد الله بن سوادة، عن انس بن مالك، - رجل من بني عبد الاشهل - قال اتيت النبي صلى الله عليه وسلم وهو يتغدى فقال \" ادن فكل \" . فقلت اني صايم فيا لهف نفسي هلا كنت طعمت من طعام رسول الله صلى الله عليه وسلم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 29,
+      "hadith": 49
+    }
+  }
+}

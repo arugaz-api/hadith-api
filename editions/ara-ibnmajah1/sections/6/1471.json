@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1471,
+    "arabicnumber": 1471,
+    "text": "حدثنا علي بن محمد، حدثنا عبد الله بن ادريس، عن يزيد بن ابي زياد، عن الحكم، عن مقسم، عن ابن عباس، قال كفن رسول الله صلى الله عليه وسلم في ثلاثة اثواب قميصه الذي قبض فيه وحلة نجرانية",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 6,
+      "hadith": 39
+    }
+  }
+}

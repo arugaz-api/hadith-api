@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 471,
+    "arabicnumber": 471,
+    "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا احمد بن عبد الله، عن عبد العزيز بن الماجشون، حدثنا عمرو بن يحيى، عن ابيه، عن عبد الله بن زيد، صاحب النبي صلى الله عليه وسلم قال اتانا رسول الله صلى الله عليه وسلم فاخرجنا له ماء في تور من صفر فتوضا به",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Bukhari And Muslim"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 205
+    }
+  }
+}

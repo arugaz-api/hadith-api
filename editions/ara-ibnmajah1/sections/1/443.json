@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 443,
+    "arabicnumber": 443,
+    "text": "حدثنا سويد بن سعيد، حدثنا يحيى بن زكريا بن ابي زايدة، عن شعبة، عن حبيب بن زيد، عن عباد بن تميم، عن عبد الله بن زيد، قال قال رسول الله صلى الله عليه وسلم \" الاذنان من الراس",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 177
+    }
+  }
+}

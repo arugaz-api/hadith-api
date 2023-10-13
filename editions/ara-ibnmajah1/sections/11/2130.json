@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2130,
+    "arabicnumber": 2130,
+    "text": "حدثنا محمد بن يحيى، وعبد الله بن اسحاق الجوهري، قالا حدثنا عبد الله بن رجاء، انبانا المسعودي، عن حبيب بن ابي ثابت، عن سعيد بن جبير، عن ابن عباس، ان رجلا، جاء الى النبي صلى الله عليه وسلم فقال يا رسول الله اني نذرت ان انحر ببوانة فقال \" في نفسك شىء من امر الجاهلية \" . قال لا . قال \" اوف بنذرك",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 11,
+      "hadith": 41
+    }
+  }
+}

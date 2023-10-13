@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3233,
+    "arabicnumber": 3233,
+    "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا معاوية بن هشام، ح وحدثنا احمد بن سنان، واسحاق بن منصور، قالا حدثنا عبد الرحمن بن مهدي، قالا حدثنا مالك بن انس، عن اسماعيل بن ابي حكيم، عن عبيدة بن سفيان، عن ابي هريرة، عن النبي صلى الله عليه وسلم قال \" اكل كل ذي ناب من السباع حرام",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 28,
+      "hadith": 34
+    }
+  }
+}

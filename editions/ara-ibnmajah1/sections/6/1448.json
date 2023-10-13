@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1448,
+    "arabicnumber": 1448,
+    "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا علي بن الحسن بن شقيق، عن ابن المبارك، عن سليمان التيمي، عن ابي عثمان، - وليس بالنهدي - عن ابيه، عن معقل بن يسار، قال قال رسول الله صلى الله عليه وسلم \" اقرءوها عند موتاكم \" . يعني {يس}",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 6,
+      "hadith": 16
+    }
+  }
+}

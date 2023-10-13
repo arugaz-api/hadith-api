@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 483,
+    "arabicnumber": 483,
+    "text": "حدثنا علي بن محمد، حدثنا وكيع، حدثنا محمد بن جابر، قال سمعت قيس بن طلق الحنفي، عن ابيه، قال سمعت رسول الله صلى الله عليه وسلم سيل عن مس الذكر فقال \" ليس فيه وضوء انما هو منك",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 217
+    }
+  }
+}

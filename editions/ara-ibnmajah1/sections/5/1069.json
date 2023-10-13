@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1069,
+    "arabicnumber": 1069,
+    "text": "حدثنا محرز بن سلمة العدني، حدثنا عبد العزيز بن ابي حازم، عن ابراهيم بن اسماعيل، عن عبد الكريم، عن مجاهد، وسعيد بن جبير، وعطاء بن ابي رباح، وطاوس، اخبروه عن ابن عباس، انه اخبرهم ان رسول الله صلى الله عليه وسلم كان يجمع بين المغرب والعشاء في السفر من غير ان يعجله شىء ولا يطلبه عدو ولا يخاف شييا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 267
+    }
+  }
+}

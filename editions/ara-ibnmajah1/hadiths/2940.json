@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2940,
+    "arabicnumber": 2940,
+    "text": "حدثنا علي بن محمد، حدثنا ابو معاوية، حدثنا عبيد الله بن عمر، عن نافع، عن ابن عمر، ان رسول الله صلى الله عليه وسلم كان يدخل مكة من الثنية العليا واذا خرج خرج من الثنية السفلى",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 25,
+      "hadith": 59
+    }
+  }
+}

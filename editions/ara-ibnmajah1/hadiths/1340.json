@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1340,
+    "arabicnumber": 1340,
+    "text": "حدثنا راشد بن سعيد بن راشد الرملي، حدثنا الوليد بن مسلم، حدثنا الاوزاعي، حدثنا اسماعيل بن عبيد الله، عن ميسرة، مولى فضالة عن فضالة بن عبيد، قال قال رسول الله صلى الله عليه وسلم \" لله اشد اذنا الى الرجل الحسن الصوت بالقران يجهر به من صاحب القينة الى قينته",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 538
+    }
+  }
+}

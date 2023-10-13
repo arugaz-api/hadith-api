@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 156,
+    "arabicnumber": 156,
+    "text": "حدثنا علي بن محمد، حدثنا عبد الله بن نمير، حدثنا الاعمش، عن عثمان بن عمير، عن ابي حرب بن ابي الاسود الديلي، عن عبد الله بن عمرو، قال سمعت رسول الله صلى الله عليه وسلم يقول \" ما اقلت الغبراء ولا اظلت الخضراء من رجل اصدق لهجة من ابي ذر",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 0,
+      "hadith": 156
+    }
+  }
+}

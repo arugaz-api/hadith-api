@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1910,
+    "arabicnumber": 1910,
+    "text": "حدثنا زهير بن حرب ابو خيثمة، حدثنا سفيان، عن علي بن زيد بن جدعان، عن انس بن مالك، قال شهدت للنبي صلى الله عليه وسلم وليمة ما فيها لحم ولا خبز . قال ابن ماجه لم يحدث به الا ابن عيينة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 66
+    }
+  }
+}

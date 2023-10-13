@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1266,
+    "arabicnumber": 1266,
+    "text": "حدثنا علي بن محمد، ومحمد بن اسماعيل، قالا حدثنا وكيع، عن سفيان، عن هشام بن اسحاق بن عبد الله بن كنانة، عن ابيه، قال ارسلني امير من الامراء الى ابن عباس اساله عن الصلاة، في الاستسقاء فقال ابن عباس ما منعه ان يسالني، قال خرج رسول الله صلى الله عليه وسلم متواضعا متبذلا متخشعا مترسلا متضرعا فصلى ركعتين كما يصلي في العيد ولم يخطب خطبتكم هذه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 464
+    }
+  }
+}

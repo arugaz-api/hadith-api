@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 368,
+    "arabicnumber": 368,
+    "text": "حدثنا عمرو بن رافع، واسماعيل بن توبة، قالا حدثنا يحيى بن زكريا بن ابي زايدة، عن حارثة، عن عمرة، عن عايشة، قالت كنت اتوضا انا ورسول الله، صلى الله عليه وسلم من اناء واحد قد اصابت منه الهرة قبل ذلك",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 102
+    }
+  }
+}

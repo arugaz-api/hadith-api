@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 355,
+    "arabicnumber": 355,
+    "text": "حدثنا هشام بن عمار، حدثنا صدقة بن خالد، حدثنا عتبة بن ابي حكيم، حدثني طلحة بن نافع ابو سفيان، قال حدثني ابو ايوب الانصاري، وجابر بن عبد الله، وانس بن مالك، ان هذه الاية، نزلت {فيه رجال يحبون ان يتطهروا والله يحب المطهرين} قال رسول الله صلى الله عليه وسلم \" يا معشر الانصار ان الله قد اثنى عليكم في الطهور فما طهوركم \" . قالوا نتوضا للصلاة ونغتسل من الجنابة ونستنجي بالماء . قال \" هو ذلك فعليكموه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 89
+    }
+  }
+}

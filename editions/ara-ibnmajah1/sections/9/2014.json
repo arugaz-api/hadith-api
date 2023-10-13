@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2014,
+    "arabicnumber": 2014,
+    "text": "حدثنا عبد الوهاب بن الضحاك، حدثنا اسماعيل بن عياش، عن بحير بن سعد، عن خالد بن معدان، عن كثير بن مرة، عن معاذ بن جبل، قال قال رسول الله صلى الله عليه وسلم \" لا توذي امراة زوجها الا قالت زوجته من الحور العين لا توذيه قاتلك الله فانما هو عندك دخيل اوشك ان يفارقك الينا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 170
+    }
+  }
+}

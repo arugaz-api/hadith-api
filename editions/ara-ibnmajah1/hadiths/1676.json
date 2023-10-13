@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1676,
+    "arabicnumber": 1676,
+    "text": "حدثنا عبيد الله بن عبد الكريم، حدثنا الحكم بن موسى، حدثنا عيسى بن يونس، ح وحدثنا عبيد الله، حدثنا علي بن الحسن بن سليمان ابو الشعثاء، حدثنا حفص بن غياث، جميعا عن هشام، عن ابن سيرين، عن ابي هريرة، عن النبي صلى الله عليه وسلم قال: \" من ذرعه القىء فلا قضاء عليه ومن استقاء فعليه القضاء",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 7,
+      "hadith": 39
+    }
+  }
+}

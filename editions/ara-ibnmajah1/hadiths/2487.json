@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2487,
+    "arabicnumber": 2487,
+    "text": "حدثنا سهل بن ابي الصغدي، حدثنا منصور بن صقير، حدثنا ثابت بن محمد، عن نافع ابي غالب، عن ابي سعيد الخدري، قال قال رسول الله صلى الله عليه وسلم \" حريم البير مد رشايها",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 16,
+      "hadith": 52
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3611,
+    "arabicnumber": 3611,
+    "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا عبد الرحيم بن سليمان، عن ليث، عن شهر بن حوشب، عن سلمان، قال كان لبعض امهات المومنين شاة فماتت فمر رسول الله صلى الله عليه وسلم عليها فقال \" ما ضر اهل هذه لو انتفعوا باهابها",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 32,
+      "hadith": 62
+    }
+  }
+}

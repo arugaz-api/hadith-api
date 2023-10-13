@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1168,
+    "arabicnumber": 1168,
+    "text": "حدثنا محمد بن رمح المصري، انبانا الليث بن سعد، عن يزيد بن ابي حبيب، عن عبد الله بن راشد الزوفي، عن عبد الله بن ابي مرة الزوفي، عن خارجة بن حذافة العدوي، قال خرج علينا النبي صلى الله عليه وسلم فقال \" ان الله قد امدكم بصلاة، لهي خير لكم من حمر النعم. الوتر، جعله الله لكم فيما بين صلاة العشاء الى ان يطلع الفجر",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 366
+    }
+  }
+}

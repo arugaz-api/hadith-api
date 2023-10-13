@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1978,
+    "arabicnumber": 1978,
+    "text": "حدثنا ابو كريب، حدثنا ابو خالد، عن الاعمش، عن شقيق، عن مسروق، عن عبد الله بن عمرو، قال قال رسول الله صلى الله عليه وسلم \" خياركم خياركم لنسايهم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 134
+    }
+  }
+}

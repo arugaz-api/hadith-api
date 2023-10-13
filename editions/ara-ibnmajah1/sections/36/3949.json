@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3949,
+    "arabicnumber": 3949,
+    "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا زياد بن الربيع اليحمدي، عن عباد بن كثير الشامي، عن امراة، منهم يقال لها فسيلة قالت سمعت ابي يقول، سالت النبي صلى الله عليه وسلم فقلت يا رسول الله امن العصبية ان يحب الرجل قومه قال \" لا ولكن من العصبية ان يعين الرجل قومه على الظلم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 36,
+      "hadith": 24
+    }
+  }
+}

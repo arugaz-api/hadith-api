@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1901,
+    "arabicnumber": 1901,
+    "text": "حدثنا محمد بن يحيى، حدثنا الفريابي، عن ثعلبة بن ابي مالك التميمي، عن ليث، عن مجاهد، قال كنت مع ابن عمر فسمع صوت، طبل فادخل اصبعيه في اذنيه ثم تنحى حتى فعل ذلك ثلاث مرات . ثم قال هكذا فعل رسول الله صلى الله عليه وسلم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 57
+    }
+  }
+}

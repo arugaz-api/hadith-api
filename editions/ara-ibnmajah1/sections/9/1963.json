@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1963,
+    "arabicnumber": 1963,
+    "text": "حدثنا محمد بن خلف العسقلاني، حدثنا الفريابي، عن ابان بن ابي حازم، عن ابي بكر بن حفص، عن ابن عمر، قال لما ولي عمر بن الخطاب خطب الناس فقال ان رسول الله صلى الله عليه وسلم اذن لنا في المتعة ثلاثا ثم حرمها والله لا اعلم احدا تمتع وهو محصن الا رجمته بالحجارة الا ان ياتيني باربعة يشهدون ان رسول الله احلها بعد اذ حرمها",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 119
+    }
+  }
+}

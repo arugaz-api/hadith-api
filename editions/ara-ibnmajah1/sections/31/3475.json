@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3475,
+    "arabicnumber": 3475,
+    "text": "حدثنا ابو سلمة، يحيى بن خلف حدثنا عبد الاعلى، عن سعيد، عن قتادة، عن الحسن، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال \" الحمى كير من كير جهنم فنحوها عنكم بالماء البارد",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 31,
+      "hadith": 40
+    }
+  }
+}

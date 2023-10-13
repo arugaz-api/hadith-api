@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 120,
+    "arabicnumber": 120,
+    "text": "حدثنا محمد بن اسماعيل الرازي، حدثنا عبيد الله بن موسى، انبانا العلاء بن صالح، عن المنهال، عن عباد بن عبد الله، قال قال علي انا عبد الله، واخو، رسوله صلى الله عليه وسلم وانا الصديق الاكبر، لا يقولها بعدي الا كذاب صليت قبل الناس لسبع سنين",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Batil"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Batil"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 0,
+      "hadith": 120
+    }
+  }
+}

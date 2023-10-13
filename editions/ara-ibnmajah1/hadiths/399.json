@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 399,
+    "arabicnumber": 399,
+    "text": "حدثنا ابو كريب، وعبد الرحمن بن ابراهيم، قالا حدثنا ابن ابي فديك، حدثنا محمد بن موسى بن ابي عبد الله، عن يعقوب بن سلمة الليثي، عن ابيه، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" لا صلاة لمن لا وضوء له ولا وضوء لمن لم يذكر اسم الله عليه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 133
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 794,
+    "arabicnumber": 794,
+    "text": "حدثنا علي بن محمد، حدثنا ابو اسامة، عن هشام الدستوايي، عن يحيى بن ابي كثير، عن الحكم بن ميناء، اخبرني ابن عباس، وابن، عمر انهما سمعا النبي صلى الله عليه وسلم يقول على اعواده \" لينتهين اقوام عن ودعهم الجماعات او ليختمن الله على قلوبهم ثم ليكونن من الغافلين",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 4,
+      "hadith": 60
+    }
+  }
+}

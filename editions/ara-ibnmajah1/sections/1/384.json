@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 384,
+    "arabicnumber": 384,
+    "text": "حدثنا ابو بكر بن ابي شيبة، وعلي بن محمد، قالا حدثنا وكيع، عن ابيه، ح وحدثنا محمد بن يحيى، حدثنا عبد الرزاق، عن سفيان، عن ابي فزارة العبسي، عن ابي زيد، مولى عمرو بن حريث عن عبد الله بن مسعود، ان رسول الله صلى الله عليه وسلم قال له ليلة الجن \" عندك طهور \" . قال لا الا شىء من نبيذ في اداوة . قال \" تمرة طيبة وماء طهور \" . فتوضا . هذا حديث وكيع",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 118
+    }
+  }
+}

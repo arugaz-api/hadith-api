@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 543,
+    "arabicnumber": 543,
+    "text": "حدثنا علي بن محمد، حدثنا وكيع، عن الاعمش، عن ابراهيم، عن همام بن الحارث، قال بال جرير بن عبد الله ثم توضا ومسح على خفيه فقيل له اتفعل هذا قال وما يمنعني وقد رايت رسول الله صلى الله عليه وسلم يفعله . قال ابراهيم كان يعجبهم حديث جرير لان اسلامه كان بعد نزول المايدة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Bukhari And Muslim"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 277
+    }
+  }
+}

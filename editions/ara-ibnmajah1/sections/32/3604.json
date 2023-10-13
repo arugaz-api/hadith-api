@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3604,
+    "arabicnumber": 3604,
+    "text": "حدثنا علي بن محمد، حدثنا وكيع، عن ابن ابي ليلى، عن محمد بن عبد الرحمن، عن محمد بن شرحبيل، عن قيس بن سعد، قال اتانا النبي صلى الله عليه وسلم فوضعنا له ماء يتبرد به فاغتسل ثم اتيته بملحفة صفراء فرايت اثر الورس على عكنه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 32,
+      "hadith": 55
+    }
+  }
+}

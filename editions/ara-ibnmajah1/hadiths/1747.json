@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1747,
+    "arabicnumber": 1747,
+    "text": "حدثنا هشام بن عمار، حدثنا سعيد بن يحيى اللخمي، حدثنا محمد بن عمرو، عن مصعب بن ثابت، عن عبد الله بن الزبير، قال افطر رسول الله صلى الله عليه وسلم عند سعد بن معاذ فقال \" افطر عندكم الصايمون واكل طعامكم الابرار وصلت عليكم الملايكة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 7,
+      "hadith": 110
+    }
+  }
+}

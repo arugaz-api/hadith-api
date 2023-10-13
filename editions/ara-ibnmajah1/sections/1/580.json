@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 580,
+    "arabicnumber": 580,
+    "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا شريك، عن حريث، عن الشعبي، عن مسروق، عن عايشة، قالت كان رسول الله صلى الله عليه وسلم يغتسل من الجنابة ثم يستدفي بي قبل ان اغتسل",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 314
+    }
+  }
+}

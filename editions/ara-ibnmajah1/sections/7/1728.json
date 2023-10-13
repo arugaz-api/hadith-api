@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1728,
+    "arabicnumber": 1728,
+    "text": "حدثنا عمر بن شبة بن عبيدة، حدثنا مسعود بن واصل، عن النهاس بن قهم، عن قتادة، عن سعيد بن المسيب، عن ابي هريرة، قال: قال رسول الله صلى الله عليه وسلم \" ما من ايام الدنيا ايام، احب الى الله سبحانه ان يتعبد له فيها، من ايام العشر. وان صيام يوم فيها ليعدل صيام سنة، وليلة فيها بليلة القدر",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 7,
+      "hadith": 91
+    }
+  }
+}

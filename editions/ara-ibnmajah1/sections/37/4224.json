@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 4224,
+    "arabicnumber": 4224,
+    "text": "حدثنا محمد بن يحيى، وزيد بن اخزم، قالا حدثنا مسلم بن ابراهيم، حدثنا ابو هلال، حدثنا عقبة بن ابي ثبيت، عن ابي الجوزاء، عن ابن عباس، قال قال رسول الله صلى الله عليه وسلم : \" اهل الجنة من ملا الله اذنيه من ثناء الناس خيرا وهو يسمع، واهل النار من ملا اذنيه من ثناء الناس شرا وهو يسمع",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 37,
+      "hadith": 125
+    }
+  }
+}

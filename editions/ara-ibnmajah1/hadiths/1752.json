@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1752,
+    "arabicnumber": 1752,
+    "text": "حدثنا علي بن محمد، حدثنا وكيع، عن سعدان الجهني، عن سعد ابي مجاهد الطايي، - وكان ثقة - عن ابي مدلة، - وكان ثقة - عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" ثلاثة لا ترد دعوتهم الامام العادل والصايم حتى يفطر ودعوة المظلوم يرفعها الله دون الغمام يوم القيامة وتفتح لها ابواب السماء ويقول بعزتي لانصرنك ولو بعد حين",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 7,
+      "hadith": 115
+    }
+  }
+}

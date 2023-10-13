@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1533,
+    "arabicnumber": 1533,
+    "text": "حدثنا ابو كريب، حدثنا سعيد بن شرحبيل، عن ابن لهيعة، عن عبيد الله بن المغيرة، عن ابي الهيثم، عن ابي سعيد، قال كانت سوداء تقم المسجد فتوفيت ليلا فلما اصبح رسول الله صلى الله عليه وسلم اخبر بموتها فقال \" الا اذنتموني بها \" . فخرج باصحابه فوقف على قبرها فكبر عليها والناس من خلفه ودعا لها ثم انصرف",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 6,
+      "hadith": 101
+    }
+  }
+}

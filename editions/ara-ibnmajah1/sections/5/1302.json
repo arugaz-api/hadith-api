@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1302,
+    "arabicnumber": 1302,
+    "text": "حدثنا سويد بن سعيد، حدثنا شريك، عن مغيرة، عن عامر، قال شهد عياض الاشعري عيدا بالانبار فقال مالي لا اراكم تقلسون كما كان يقلس عند رسول الله صلى الله عليه وسلم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 500
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2088,
+    "arabicnumber": 2088,
+    "text": "حدثنا محمد بن بشار، حدثنا يحيى بن سعيد القطان، وعثمان بن عمر، قالا حدثنا ابن ابي ذيب، عن خاله الحارث بن عبد الرحمن، عن حمزة بن عبد الله بن عمر، عن عبد الله بن عمر، قال كانت تحتي امراة وكنت احبها وكان ابي يبغضها فذكر ذلك عمر للنبي صلى الله عليه وسلم فامرني ان اطلقها فطلقتها",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 10,
+      "hadith": 73
+    }
+  }
+}

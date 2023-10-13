@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3395,
+    "arabicnumber": 3395,
+    "text": "حدثنا محمد بن رمح، انبانا الليث بن سعد، عن ابي الزبير، عن جابر بن عبد الله، ان رسول الله صلى الله عليه وسلم نهى ان ينبذ التمر والزبيب جميعا ونهى ان ينبذ البسر والرطب جميعا . قال الليث بن سعد حدثني عطاء بن ابي رباح المكي، عن جابر بن عبد الله، عن النبي صلى الله عليه وسلم مثله",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 30,
+      "hadith": 25
+    }
+  }
+}

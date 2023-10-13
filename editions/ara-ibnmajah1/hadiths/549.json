@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 549,
+    "arabicnumber": 549,
+    "text": "حدثنا علي بن محمد، حدثنا وكيع، حدثنا دلهم بن صالح الكندي، عن حجير بن عبد الله الكندي، عن ابن بريدة، عن ابيه، ان النجاشي، اهدى للنبي صلى الله عليه وسلم خفين اسودين ساذجين فلبسهما ثم توضا ومسح عليهما",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 283
+    }
+  }
+}

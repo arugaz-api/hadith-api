@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 325,
+    "arabicnumber": 325,
+    "text": "حدثنا محمد بن بشار، حدثنا وهب بن جرير، حدثنا ابي قال، سمعت محمد بن اسحاق، عن ابان بن صالح، عن مجاهد، عن جابر، قال نهى رسول الله صلى الله عليه وسلم ان نستقبل القبلة ببول فرايته قبل ان يقبض بعام يستقبلها",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 59
+    }
+  }
+}

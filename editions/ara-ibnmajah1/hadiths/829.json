@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 829,
+    "arabicnumber": 829,
+    "text": "حدثنا بشر بن هلال الصواف، حدثنا يزيد بن زريع، حدثنا هشام الدستوايي، عن يحيى بن ابي كثير، عن عبد الله بن ابي قتادة، عن ابيه، قال كان رسول الله صلى الله عليه وسلم يقرا بنا في الركعتين الاوليين من صلاة الظهر ويسمعنا الاية احيانا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Bukhari And Muslim"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 27
+    }
+  }
+}

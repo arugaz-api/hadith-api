@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 66,
+    "arabicnumber": 66,
+    "text": "حدثنا محمد بن بشار، ومحمد بن المثنى، قالا حدثنا محمد بن جعفر، حدثنا شعبة، قال سمعت قتادة، يحدث عن انس بن مالك، ان رسول الله صلى الله عليه وسلم قال \" لا يومن احدكم حتى يحب لاخيه - او قال لجاره - ما يحب لنفسه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari"
+      }
+    ],
+    "reference": {
+      "book": 0,
+      "hadith": 66
+    }
+  }
+}

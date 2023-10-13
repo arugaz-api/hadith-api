@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 4232,
+    "arabicnumber": 4232,
+    "text": "حدثنا اسحاق بن منصور، حدثنا النضر بن شميل، انبانا حماد بن سلمة، عن عبيد الله بن ابي بكر، قال سمعت انس بن مالك، يقول قال رسول الله صلى الله عليه وسلم : \" هذا ابن ادم وهذا اجله عند قفاه \" . وبسط يده امامه ثم قال : \" وثم امله",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 37,
+      "hadith": 133
+    }
+  }
+}

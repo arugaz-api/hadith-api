@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 217,
+    "arabicnumber": 217,
+    "text": "حدثنا عمرو بن عبد الله الاودي، حدثنا ابو اسامة، عن عبد الحميد بن جعفر، عن المقبري، عن عطاء، مولى ابي احمد عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" تعلموا القران واقرءوه وارقدوا فان مثل القران ومن تعلمه فقام به كمثل جراب محشو مسكا يفوح ريحه كل مكان ومثل من تعلمه فرقد وهو في جوفه كمثل جراب اوكي على مسك",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 0,
+      "hadith": 217
+    }
+  }
+}

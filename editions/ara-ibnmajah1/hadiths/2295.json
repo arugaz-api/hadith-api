@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2295,
+    "arabicnumber": 2295,
+    "text": "حدثنا هشام بن عمار، حدثنا اسماعيل بن عياش، حدثني شرحبيل بن مسلم الخولاني، قال سمعت ابا امامة الباهلي، يقول سمعت رسول الله صلى الله عليه وسلم يقول \" لا تنفق المراة من بيتها شييا الا باذن زوجها \" . قالوا يا رسول الله ولا الطعام قال \" ذلك افضل اموالنا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 159
+    }
+  }
+}

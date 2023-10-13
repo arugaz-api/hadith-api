@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 743,
+    "arabicnumber": 743,
+    "text": "حدثنا محمد بن يحيى، حدثنا ابو همام الدلال، حدثنا سعيد بن السايب، عن محمد بن عبد الله بن عياض، عن عثمان بن ابي العاص، ان رسول الله صلى الله عليه وسلم امره ان يجعل مسجد الطايف حيث كان طاغيتهم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 4,
+      "hadith": 9
+    }
+  }
+}

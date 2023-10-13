@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1289,
+    "arabicnumber": 1289,
+    "text": "حدثنا يحيى بن حكيم، حدثنا ابو بحر، حدثنا اسماعيل بن مسلم، حدثنا ابو الزبير، عن جابر، قال خرج رسول الله صلى الله عليه وسلم يوم فطر او اضحى فخطب قايما ثم قعد قعدة ثم قام",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Munkar"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Munkar"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 487
+    }
+  }
+}

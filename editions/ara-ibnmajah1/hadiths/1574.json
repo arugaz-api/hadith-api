@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1574,
+    "arabicnumber": 1574,
+    "text": "حدثنا ابو بكر بن ابي شيبة، وابو بشر قالا حدثنا قبيصة، ح: وحدثنا ابو كريب، حدثنا عبيد بن سعيد، ح: وحدثنا محمد بن خلف العسقلاني، حدثنا الفريابي، وقبيصة، كلهم عن سفيان، عن عبد الله بن عثمان بن خثيم، عن عبد الرحمن بن بهمان، عن عبد الرحمن بن حسان بن ثابت، عن ابيه، قال: لعن رسول الله صلى الله عليه وسلم زوارات القبور",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 6,
+      "hadith": 142
+    }
+  }
+}

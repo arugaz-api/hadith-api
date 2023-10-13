@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 713,
+    "arabicnumber": 713,
+    "text": "حدثنا محمد بن المثنى، حدثنا ابو داود، حدثنا شريك، عن سماك بن حرب، عن جابر بن سمرة، قال كان بلال لا يوخر الاذان عن الوقت وربما اخر الاقامة شييا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 3,
+      "hadith": 8
+    }
+  }
+}

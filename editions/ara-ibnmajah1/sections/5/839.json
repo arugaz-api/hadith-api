@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 839,
+    "arabicnumber": 839,
+    "text": "حدثنا ابو كريب، حدثنا محمد بن الفضيل، ح وحدثنا سويد بن سعيد، حدثنا علي بن مسهر، جميعا عن ابي سفيان السعدي، عن ابي نضرة، عن ابي سعيد، قال قال رسول الله صلى الله عليه وسلم \" لا صلاة لمن لم يقرا في كل ركعة ب {الحمد لله} وسورة في فريضة او غيرها",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 37
+    }
+  }
+}

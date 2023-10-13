@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2340,
+    "arabicnumber": 2340,
+    "text": "حدثنا عبد ربه بن خالد النميري ابو المغلس، حدثنا فضيل بن سليمان، حدثنا موسى بن عقبة، حدثنا اسحاق بن يحيى بن الوليد، عن عبادة بن الصامت، ان رسول الله صلى الله عليه وسلم قضى ان \" لا ضرر ولا ضرار",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 13,
+      "hadith": 33
+    }
+  }
+}

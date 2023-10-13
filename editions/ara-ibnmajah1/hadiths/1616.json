@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1616,
+    "arabicnumber": 1616,
+    "text": "حدثنا هشام بن عمار، قال حدثنا عبد العزيز بن محمد الدراوردي، قال حدثنا سعد بن سعيد، عن عمرة، عن عايشة، قالت: قال رسول الله صلى الله عليه وسلم \" كسر عظم الميت ككسره حيا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 6,
+      "hadith": 184
+    }
+  }
+}

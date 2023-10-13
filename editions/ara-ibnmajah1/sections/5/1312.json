@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1312,
+    "arabicnumber": 1312,
+    "text": "حدثنا جبارة بن المغلس، حدثنا مندل بن علي، عن عبد العزيز بن عمر، عن نافع، عن ابن عمر، قال اجتمع عيدان على عهد رسول الله صلى الله عليه وسلم فصلى بالناس ثم قال \" من شاء ان ياتي الجمعة فلياتها ومن شاء ان يتخلف فليتخلف",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 510
+    }
+  }
+}

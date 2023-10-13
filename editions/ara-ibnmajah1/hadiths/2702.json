@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2702,
+    "arabicnumber": 2702,
+    "text": "حدثنا محمد بن معمر، حدثنا روح بن عوف، عن نافع، عن ابن عمر، عن النبي صلى الله عليه وسلم قال \" ما حق امري مسلم يبيت ليلتين وله شىء يوصي به الا ووصيته مكتوبة عنده",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 8
+    }
+  }
+}

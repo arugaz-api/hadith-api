@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3670,
+    "arabicnumber": 3670,
+    "text": "حدثنا الحسين بن الحسن، حدثنا ابن المبارك، عن فطر، عن ابي سعد، عن ابن عباس، قال قال رسول الله صلى الله عليه وسلم \" ما من رجل تدرك له ابنتان فيحسن اليهما ما صحبتاه او صحبهما الا ادخلتاه الجنة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 33,
+      "hadith": 14
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 51,
+    "arabicnumber": 51,
+    "text": "حدثنا عبد الرحمن بن ابراهيم الدمشقي، وهارون بن اسحاق، قالا حدثنا ابن ابي فديك، عن سلمة بن وردان، عن انس بن مالك، قال قال رسول الله صلى الله عليه وسلم \" من ترك الكذب وهو باطل بني له قصر في ربض الجنة ومن ترك المراء وهو محق بني له في وسطها ومن حسن خلقه بني له في اعلاها",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sanad Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sanad Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 0,
+      "hadith": 51
+    }
+  }
+}

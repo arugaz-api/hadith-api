@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 277,
+    "arabicnumber": 277,
+    "text": "حدثنا علي بن محمد، حدثنا وكيع، عن سفيان، عن منصور، عن سالم بن ابي الجعد، عن ثوبان، قال قال رسول الله صلى الله عليه وسلم \" استقيموا ولن تحصوا واعلموا ان خير اعمالكم الصلاة ولا يحافظ على الوضوء الا مومن",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 11
+    }
+  }
+}

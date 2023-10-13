@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 923,
+    "arabicnumber": 923,
+    "text": "حدثنا محمد بن المصفى الحمصي، حدثنا بقية بن الوليد، عن حبيب بن صالح، عن يزيد بن شريح، عن ابي حى الموذن، عن ثوبان، قال قال رسول الله صلى الله عليه وسلم \" لا يوم عبد فيخص نفسه بدعوة دونهم فان فعل فقد خانهم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 121
+    }
+  }
+}

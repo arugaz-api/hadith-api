@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3196,
+    "arabicnumber": 3196,
+    "text": "حدثنا محمد بن يحيى، حدثنا عبد الرزاق، انبانا معمر، عن ايوب، عن ابن سيرين، عن انس بن مالك، ان منادي النبي، صلى الله عليه وسلم نادى ان الله ورسوله ينهيانكم عن لحوم الحمر الاهلية فانها رجس",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari"
+      }
+    ],
+    "reference": {
+      "book": 27,
+      "hadith": 35
+    }
+  }
+}

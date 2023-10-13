@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3041,
+    "arabicnumber": 3041,
+    "text": "حدثنا ابو بكر بن ابي شيبة، وعلي بن محمد، قالا حدثنا وكيع، ح وحدثنا ابو بكر بن خلاد الباهلي، حدثنا يحيى بن سعيد، ووكيع، وعبد الرحمن بن مهدي، قالوا حدثنا سفيان، عن سلمة بن كهيل، عن الحسن العرني، عن ابن عباس، قال اذا رميتم الجمرة فقد حل لكم كل شىء الا النساء . فقال له رجل يا ابن عباس والطيب فقال اما انا فقد رايت رسول الله صلى الله عليه وسلم يضمخ راسه بالمسك افطيب ذلك ام لا",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 25,
+      "hadith": 160
+    }
+  }
+}

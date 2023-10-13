@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 694,
+    "arabicnumber": 694,
+    "text": "حدثنا عبد الرحمن بن ابراهيم، ومحمد بن الصباح، قالا حدثنا الوليد بن مسلم، حدثنا الاوزاعي، حدثني يحيى بن ابي كثير، عن ابي قلابة، عن ابي المهاجر، عن بريدة الاسلمي، قال كنا مع رسول الله صلى الله عليه وسلم في غزوة فقال \" بكروا بالصلاة في اليوم الغيم فانه من فاتته صلاة العصر حبط عمله",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 28
+    }
+  }
+}

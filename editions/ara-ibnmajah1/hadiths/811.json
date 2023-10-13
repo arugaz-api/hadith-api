@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 811,
+    "arabicnumber": 811,
+    "text": "حدثنا ابو اسحاق الهروي، ابراهيم بن عبد الله بن حاتم انبانا هشيم، انبانا الحجاج بن ابي زينب السلمي، عن ابي عثمان النهدي، عن عبد الله بن مسعود، قال مر بي النبي صلى الله عليه وسلم وانا واضع يدي اليسرى على اليمنى فاخذ بيدي اليمنى فوضعها على اليسرى",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 9
+    }
+  }
+}

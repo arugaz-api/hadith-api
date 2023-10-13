@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1694,
+    "arabicnumber": 1694,
+    "text": "حدثنا علي بن محمد، حدثنا وكيع، عن هشام الدستوايي، عن قتادة، عن انس بن مالك، عن زيد بن ثابت، قال: تسحرنا مع رسول الله صلى الله عليه وسلم ثم قمنا الى الصلاة . قلت كم بينهما؟ قال: قدر قراءة خمسين اية",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Bukhari And Muslim"
+      }
+    ],
+    "reference": {
+      "book": 7,
+      "hadith": 57
+    }
+  }
+}

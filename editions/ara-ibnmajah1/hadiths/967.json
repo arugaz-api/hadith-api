@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 967,
+    "arabicnumber": 967,
+    "text": "حدثنا علقمة بن عمرو الدارمي، حدثنا ابو بكر بن عياش، عن محمد بن عجلان، عن سعيد المقبري، عن كعب بن عجرة، ان رسول الله صلى الله عليه وسلم راى رجلا قد شبك اصابعه في الصلاة ففرج رسول الله صلى الله عليه وسلم بين اصابعه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 165
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2223,
+    "arabicnumber": 2223,
+    "text": "حدثنا عبد الرحمن بن بشر بن الحكم، ومحمد بن عقيل بن خويلد، قالا حدثنا علي بن الحسين بن واقد، حدثني ابي، حدثني يزيد النحوي، ان عكرمة، حدثه عن ابن عباس، قال لما قدم النبي صلى الله عليه وسلم المدينة كانوا من اخبث الناس كيلا فانزل الله سبحانه {ويل للمطففين} فاحسنوا الكيل بعد ذلك",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 87
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 182,
+    "arabicnumber": 182,
+    "text": "حدثنا ابو بكر بن ابي شيبة، ومحمد بن الصباح، قالا حدثنا يزيد بن هارون، انبانا حماد بن سلمة، عن يعلى بن عطاء، عن وكيع بن حدس، عن عمه ابي رزين، قال قلت يا رسول الله اين كان ربنا قبل ان يخلق خلقه قال \" كان في عماء ما تحته هواء وما فوقه هواء ثم خلق العرش على الماء",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 0,
+      "hadith": 182
+    }
+  }
+}

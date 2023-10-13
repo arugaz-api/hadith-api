@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 680,
+    "arabicnumber": 680,
+    "text": "حدثنا تميم بن المنتصر الواسطي، حدثنا اسحاق بن يوسف، عن شريك، عن بيان، عن قيس بن ابي حازم، عن المغيرة بن شعبة، قال كنا نصلي مع رسول الله صلى الله عليه وسلم صلاة الظهر بالهاجرة فقال لنا \" ابردوا بالصلاة فان شدة الحر من فيح جهنم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 14
+    }
+  }
+}

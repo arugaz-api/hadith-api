@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3804,
+    "arabicnumber": 3804,
+    "text": "حدثنا علي بن محمد، حدثنا وكيع، عن موسى بن عبيدة، عن محمد بن ثابت، عن ابي هريرة، ان النبي صلى الله عليه وسلم كان يقول \" الحمد لله على كل حال رب اعوذ بك من حال اهل النار",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 33,
+      "hadith": 148
+    }
+  }
+}

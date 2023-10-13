@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3900,
+    "arabicnumber": 3900,
+    "text": "حدثنا علي بن محمد، حدثنا وكيع، عن سفيان، عن ابي اسحاق، عن ابي الاحوص، عن عبد الله، عن النبي صلى الله عليه وسلم قال \" من راني في المنام فقد راني في اليقظة فان الشيطان لا يتمثل على صورتي",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 35,
+      "hadith": 8
+    }
+  }
+}

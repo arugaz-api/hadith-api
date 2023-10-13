@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3486,
+    "arabicnumber": 3486,
+    "text": "حدثنا سويد بن سعيد، حدثنا عثمان بن مطر، عن زكريا بن ميسرة، عن النهاس بن قهم، عن انس بن مالك، ان رسول الله صلى الله عليه وسلم قال \" من اراد الحجامة فليتحر سبعة عشر او تسعة عشر او احدى وعشرين ولا يتبيغ باحدكم الدم فيقتله",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sanad Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 31,
+      "hadith": 51
+    }
+  }
+}

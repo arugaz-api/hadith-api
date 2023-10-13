@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 918,
+    "arabicnumber": 918,
+    "text": "حدثنا ابو مصعب المديني، احمد بن ابي بكر حدثنا عبد المهيمن بن عباس بن سهل بن سعد الساعدي، عن ابيه، عن جده، ان رسول الله صلى الله عليه وسلم سلم تسليمة واحدة تلقاء وجهه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 116
+    }
+  }
+}

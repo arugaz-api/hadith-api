@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1018,
+    "arabicnumber": 1018,
+    "text": "حدثنا محمد بن رمح المصري، انبانا الليث بن سعد، عن ابي الزبير، عن جابر، قال بعثني النبي صلى الله عليه وسلم لحاجة ثم ادركته وهو يصلي فسلمت عليه فاشار الى فلما فرغ دعاني فقال \" انك سلمت على انفا وانا اصلي",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 216
+    }
+  }
+}

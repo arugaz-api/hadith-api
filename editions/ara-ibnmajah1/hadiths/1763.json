@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1763,
+    "arabicnumber": 1763,
+    "text": "حدثنا محمد بن يحيى الازدي، حدثنا موسى بن داود، وخالد بن ابي يزيد، قالا حدثنا ابو بكر المدني، عن هشام بن عروة، عن ابيه، عن عايشة، عن النبي صلى الله عليه وسلم قال \" اذا نزل الرجل بقوم فلا يصوم الا باذنهم",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Very Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Very Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 7,
+      "hadith": 126
+    }
+  }
+}

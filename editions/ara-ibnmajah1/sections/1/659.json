@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 659,
+    "arabicnumber": 659,
+    "text": "حدثنا سويد بن سعيد، حدثنا سفيان بن عيينة، عن مسعر، ح وحدثنا محمد بن عثمان بن كرامة، حدثنا ابو اسامة، عن مسعر، عن عبد الجبار بن وايل، عن ابيه، قال رايت النبي صلى الله عليه وسلم اتي بدلو فمضمض منه فمج فيه مسكا او اطيب من المسك واستنثر خارجا من الدلو",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 393
+    }
+  }
+}

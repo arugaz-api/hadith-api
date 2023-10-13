@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1850,
+    "arabicnumber": 1850,
+    "text": "حدثنا ابو بكر بن ابي شيبة، حدثنا يزيد بن هارون، عن شعبة، عن ابي قزعة، عن حكيم بن معاوية، عن ابيه، ان رجلا، سال النبي صلى الله عليه وسلم ما حق المراة على الزوج قال \" ان يطعمها اذا طعم وان يكسوها اذا اكتسى ولا يضرب الوجه ولا يقبح ولا يهجر الا في البيت",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 6
+    }
+  }
+}

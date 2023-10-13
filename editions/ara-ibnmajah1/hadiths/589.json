@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 589,
+    "arabicnumber": 589,
+    "text": "حدثنا علي بن محمد، حدثنا وكيع، عن صالح بن ابي الاخضر، عن الزهري، عن انس، قال وضعت لرسول الله صلى الله عليه وسلم غسلا فاغتسل من جميع نسايه في ليلة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 323
+    }
+  }
+}

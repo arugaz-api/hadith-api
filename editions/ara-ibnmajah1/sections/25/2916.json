@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2916,
+    "arabicnumber": 2916,
+    "text": "حدثنا محرز بن سلمة العدني، حدثنا عبد العزيز بن محمد الدراوردي، حدثني عبيد الله بن عمر، عن نافع، عن ابن عمر، ان رسول الله صلى الله عليه وسلم كان اذا ادخل رجله في الغرز واستوت به راحلته اهل من عند مسجد ذي الحليفة",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 25,
+      "hadith": 35
+    }
+  }
+}

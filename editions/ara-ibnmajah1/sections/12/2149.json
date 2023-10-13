@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2149,
+    "arabicnumber": 2149,
+    "text": "حدثنا سويد بن سعيد، حدثنا عمرو بن يحيى بن سعيد القرشي، عن جده، سعيد بن ابي احيحة عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" ما بعث الله نبيا الا راعي غنم \" . قال له اصحابه وانت يا رسول الله . قال \" وانا كنت ارعاها لاهل مكة بالقراريط \" . قال سويد يعني كل شاة بقيراط",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 13
+    }
+  }
+}

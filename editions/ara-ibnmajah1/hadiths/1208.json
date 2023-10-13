@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1208,
+    "arabicnumber": 1208,
+    "text": "حدثنا محمد بن يحيى، حدثنا محمد بن يوسف، حدثنا سفيان، عن جابر، عن المغيرة بن شبيل، عن قيس بن ابي حازم، عن المغيرة بن شعبة، قال قال رسول الله صلى الله عليه وسلم \" اذا قام احدكم من الركعتين فلم يستتم قايما فليجلس فاذا استتم قايما فلا يجلس ويسجد سجدتى السهو",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 406
+    }
+  }
+}

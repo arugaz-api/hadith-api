@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2048,
+    "arabicnumber": 2048,
+    "text": "حدثنا احمد بن سعيد الدارمي، حدثنا علي بن الحسين بن واقد، حدثنا هشام بن سعد، عن الزهري، عن عروة، عن المسور بن مخرمة، عن النبي صلى الله عليه وسلم قال \" لا طلاق قبل نكاح ولا عتق قبل ملك",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 10,
+      "hadith": 33
+    }
+  }
+}

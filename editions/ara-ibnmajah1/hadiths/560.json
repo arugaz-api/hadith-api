@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 560,
+    "arabicnumber": 560,
+    "text": "حدثنا محمد بن يحيى، حدثنا معلى بن منصور، وبشر بن ادم، قالا حدثنا عيسى بن يونس، عن عيسى بن سنان، عن الضحاك بن عبد الرحمن بن عرزب، عن ابي موسى الاشعري، ان رسول الله صلى الله عليه وسلم توضا ومسح على الجوربين والنعلين . قال المعلى في حديثه لا اعلمه الا قال والنعلين",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 294
+    }
+  }
+}

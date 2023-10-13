@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3010,
+    "arabicnumber": 3010,
+    "text": "حدثنا علي بن محمد، حدثنا يحيى بن ادم، عن سفيان، عن عبد الرحمن بن عياش، عن زيد بن علي، عن ابيه، عن عبيد الله بن ابي رافع، عن علي، قال وقف رسول الله صلى الله عليه وسلم بعرفة فقال \" هذا الموقف وعرفة كلها موقف",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 25,
+      "hadith": 129
+    }
+  }
+}

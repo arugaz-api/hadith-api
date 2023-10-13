@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 941,
+    "arabicnumber": 941,
+    "text": "حدثنا محمد بن الصباح، انبانا عبد الله بن رجاء المكي، عن عبيد الله، عن نافع، عن ابن عمر، قال كان النبي صلى الله عليه وسلم تخرج له حربة في السفر، فينصبها فيصلي اليها",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Bukhari And Muslim"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 139
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1971,
+    "arabicnumber": 1971,
+    "text": "حدثنا ابو بكر بن ابي شيبة، ومحمد بن يحيى، قالا حدثنا يزيد بن هارون، انبانا حماد بن سلمة، عن ايوب، عن ابي قلابة، عن عبد الله بن يزيد، عن عايشة، قالت كان رسول الله صلى الله عليه وسلم يقسم بين نسايه فيعدل ثم يقول \" اللهم هذا فعلي فيما املك فلا تلمني فيما تملك ولا املك",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 127
+    }
+  }
+}
