@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 683,
+    "arabicnumber": 683,
+    "text": "اخبرنا محمد بن منصور، عن سفيان، عن عمر بن سعيد، عن اشعث بن ابي الشعثاء، عن ابيه، قال رايت ابا هريرة ومر رجل في المسجد بعد النداء حتى قطعه فقال ابو هريرة اما هذا فقد عصى ابا القاسم صلى الله عليه وسلم",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 7,
+      "hadith": 58
+    }
+  }
+}

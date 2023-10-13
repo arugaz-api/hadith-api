@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2198,
+    "arabicnumber": 2198,
+    "text": "اخبرنا نوح بن حبيب، قال حدثنا عبد الرزاق، قال انبانا معمر، عن الزهري، عن ابي سلمة، عن ابي هريرة، قال كان رسول الله صلى الله عليه وسلم يرغب في قيام رمضان من غير ان يامرهم بعزيمة قال \" من قام رمضان ايمانا واحتسابا غفر له ما تقدم من ذنبه",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 109
+    }
+  }
+}

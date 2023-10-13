@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4419,
+    "arabicnumber": 4419,
+    "text": "اخبرنا محمد بن سلمة، والحارث بن مسكين، قراءة عليه وانا اسمع، عن ابن القاسم، قال حدثني مالك، عن جعفر بن محمد، عن ابيه، عن جابر بن عبد الله، ان رسول الله صلى الله عليه وسلم نحر بعض بدنه بيده ونحر بعضها غيره",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 59
+    }
+  }
+}

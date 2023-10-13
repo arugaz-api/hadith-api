@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1768,
+    "arabicnumber": 1768,
+    "text": "اخبرنا هشام بن عمار، قال حدثنا يحيى، - يعني ابن حمزة - قال حدثنا الاوزاعي، عن يحيى، عن ابي سلمة، قال هو ونافع عن ابن عمر، عن حفصة، ان النبي صلى الله عليه وسلم كان يصلي بين النداء والاقامة ركعتين خفيفتين ركعتى الفجر",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 171
+    }
+  }
+}

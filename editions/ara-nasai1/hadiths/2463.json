@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2463,
+    "arabicnumber": 2463,
+    "text": "اخبرنا هارون بن عبد الله، قال حدثنا روح، قال حدثنا زكريا بن اسحاق، قال حدثني عمرو بن ابي سفيان، قال حدثني مسلم بن ثفنة، ان ابن علقمة، استعمل اباه على صدقة قومه وساق الحديث",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 23,
+      "hadith": 29
+    }
+  }
+}

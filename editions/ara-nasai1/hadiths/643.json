@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 643,
+    "arabicnumber": 643,
+    "text": "اخبرنا محمود بن غيلان، قال حدثنا وكيع، قال حدثنا سفيان، عن عون بن ابي جحيفة، عن ابيه، قال اتيت النبي صلى الله عليه وسلم فخرج بلال فاذن فجعل يقول في اذانه هكذا ينحرف يمينا وشمالا",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 7,
+      "hadith": 18
+    }
+  }
+}

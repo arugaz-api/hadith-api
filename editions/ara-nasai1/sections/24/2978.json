@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2978,
+    "arabicnumber": 2978,
+    "text": "اخبرنا محمد بن منصور، قال حدثنا سفيان، قال حدثنا صدقة بن يسار، عن الزهري، قال سالوا ابن عمر هل رايت رسول الله صلى الله عليه وسلم رمل بين الصفا والمروة فقال كان في جماعة من الناس فرملوا فلا اراهم رملوا الا برمله",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Daif Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 361
+    }
+  }
+}

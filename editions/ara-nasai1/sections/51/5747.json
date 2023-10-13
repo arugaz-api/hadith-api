@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5747,
+    "arabicnumber": 5747,
+    "text": "اخبرنا ابو بكر بن علي، قال حدثنا القواريري، قال حدثنا ابن ابي زايدة، قال حدثنا حسن بن عمرو، عن فضيل بن عمرو، عن ابراهيم، قال كانوا يرون ان من، شرب شرابا فسكر منه لم يصلح له ان يعود فيه",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Isnaad Maqtu"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad Maqtu"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 51,
+      "hadith": 209
+    }
+  }
+}

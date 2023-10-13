@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 12,
+    "arabicnumber": 12,
+    "text": "اخبرنا الحارث بن مسكين، قراءة عليه وانا اسمع، عن ابن وهب، عن حنظلة بن ابي سفيان، عن نافع، عن ابن عمر، ان رسول الله صلى الله عليه وسلم قال \" الفطرة قص الاظفار واخذ الشارب وحلق العانة",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 12
+    }
+  }
+}

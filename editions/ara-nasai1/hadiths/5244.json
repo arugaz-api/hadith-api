@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5244,
+    "arabicnumber": 5244,
+    "text": "اخبرنا عبدة بن عبد الرحيم، قال انبانا عمرو بن محمد، قال انبانا ابن ابي رواد، عن نافع، عن ابن عمر، قال كان النبي صلى الله عليه وسلم يلبس النعال السبتية ويصفر لحيته بالورس والزعفران . وكان ابن عمر يفعل ذلك",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 48,
+      "hadith": 205
+    }
+  }
+}

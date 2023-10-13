@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 3110,
+    "arabicnumber": 3110,
+    "text": "اخبرنا اسحاق بن ابراهيم، قال حدثنا جرير، عن سهيل، عن صفوان بن ابي يزيد، عن القعقاع بن اللجلاج، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" لا يجتمع غبار في سبيل الله ودخان جهنم في جوف عبد ابدا ولا يجتمع الشح والايمان في قلب عبد ابدا",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 25,
+      "hadith": 26
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 3990,
+    "arabicnumber": 3990,
+    "text": "اخبرنا الحسن بن اسحاق المروزي، - ثقة - حدثني خالد بن خداش، قال حدثنا حاتم بن اسماعيل، عن بشير بن المهاجر، عن عبد الله بن بريدة، عن ابيه، قال قال رسول الله صلى الله عليه وسلم \" قتل المومن اعظم عند الله من زوال الدنيا",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 37,
+      "hadith": 25
+    }
+  }
+}

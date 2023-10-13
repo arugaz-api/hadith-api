@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 136,
+    "arabicnumber": 136,
+    "text": "اخبرنا ابو داود، سليمان بن سيف قال حدثنا ابو عتاب، قال حدثنا شعبة، عن ابي اسحاق، عن ابي حية، قال رايت عليا - رضى الله عنه - توضا ثلاثا ثلاثا ثم قام فشرب فضل وضويه وقال صنع رسول الله صلى الله عليه وسلم كما صنعت",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 137
+    }
+  }
+}

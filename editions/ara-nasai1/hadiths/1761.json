@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1761,
+    "arabicnumber": 1761,
+    "text": "اخبرنا محمد بن منصور، قال حدثنا سفيان، قال حدثنا عمرو، عن الزهري، عن سالم، عن ابن عمر، قال اخبرتني حفصة، ان النبي صلى الله عليه وسلم كان اذا اضاء له الفجر صلى ركعتين",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 164
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 3434,
+    "arabicnumber": 3434,
+    "text": "اخبرنا عبيد الله بن سعيد، قال حدثنا ابن ادريس، عن مسعر، عن قتادة، عن زرارة بن اوفى، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" ان الله عز وجل تجاوز لامتي ما وسوست به وحدثت به انفسها ما لم تعمل او تتكلم به",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 27,
+      "hadith": 46
+    }
+  }
+}

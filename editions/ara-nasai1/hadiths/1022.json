@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1022,
+    "arabicnumber": 1022,
+    "text": "اخبرنا قتيبة، قال حدثنا الليث بن سعد، عن عبد الله بن عبيد الله بن ابي مليكة، عن يعلى بن مملك، انه سال ام سلمة عن قراءة، رسول الله صلى الله عليه وسلم وصلاته قالت ما لكم وصلاته ثم نعتت فاذا هي تنعت قراءته مفسرة حرفا حرفا",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 11,
+      "hadith": 147
+    }
+  }
+}

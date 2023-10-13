@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 3586,
+    "arabicnumber": 3586,
+    "text": "اخبرنا سعيد بن عبد الرحمن ابو عبيد الله المخزومي، قال حدثنا سفيان، عن ابن ابي ذيب، عن نافع بن ابي نافع، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال \" لا سبق الا في نصل او خف او حافر",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 28,
+      "hadith": 26
+    }
+  }
+}

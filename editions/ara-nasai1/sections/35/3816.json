@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 3816,
+    "arabicnumber": 3816,
+    "text": "اخبرنا بشر بن خالد العسكري، قال حدثنا محمد بن جعفر، عن شعبة، قال سمعت سليمان، يحدث عن مسلم البطين، عن سعيد بن جبير، عن ابن عباس، قال ركبت امراة البحر فنذرت ان تصوم شهرا فماتت قبل ان تصوم فاتت اختها النبي صلى الله عليه وسلم وذكرت ذلك له فامرها ان تصوم عنها",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 35,
+      "hadith": 56
+    }
+  }
+}

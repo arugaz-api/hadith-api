@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5552,
+    "arabicnumber": 5552,
+    "text": "اخبرنا محمد بن المثنى، قال حدثنا عثمان بن عمر، قال حدثنا علي، - وهو ابن المبارك - عن يحيى، عن ابي سلمة، عن ابي قتادة، ان رسول الله صلى الله عليه وسلم قال \" لا تنبذوا الزهو والرطب جميعا ولا تنبذوا الزبيب والرطب جميعا",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 51,
+      "hadith": 13
+    }
+  }
+}

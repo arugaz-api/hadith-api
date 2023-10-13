@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1867,
+    "arabicnumber": 1867,
+    "text": "اخبرنا هناد، عن ابي معاوية، عن الاعمش، عن ابراهيم، عن سهم بن منجاب، عن القرثع، قال لما ثقل ابو موسى صاحت امراته فقال اما علمت ما قال رسول الله صلى الله عليه وسلم قالت بلى . ثم سكتت فقيل لها بعد ذلك اى شىء قال رسول الله صلى الله عليه وسلم قالت ان رسول الله صلى الله عليه وسلم لعن من حلق او سلق او خرق",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 21,
+      "hadith": 50
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 3750,
+    "arabicnumber": 3750,
+    "text": "اخبرنا محمد بن عبد الاعلى، قال حدثنا خالد بن الحارث، قال حدثنا هشام، قال حدثنا يحيى بن ابي كثير، قال حدثني ابو سلمة، قال سمعت جابرا، يقول قال رسول الله صلى الله عليه وسلم \" العمرى لمن وهبت له",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 34,
+      "hadith": 32
+    }
+  }
+}

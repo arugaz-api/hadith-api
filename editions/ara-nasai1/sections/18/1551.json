@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1551,
+    "arabicnumber": 1551,
+    "text": "اخبرنا محمد بن عبد الاعلى، واسماعيل بن مسعود، - واللفظ له - قالا حدثنا خالد، عن اشعث، عن الحسن، عن ابي بكرة، ان رسول الله صلى الله عليه وسلم صلى بالقوم في الخوف ركعتين ثم سلم ثم صلى بالقوم الاخرين ركعتين ثم سلم فصلى النبي صلى الله عليه وسلم اربعا",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 18,
+      "hadith": 23
+    }
+  }
+}

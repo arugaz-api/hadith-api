@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 3717,
+    "arabicnumber": 3717,
+    "text": "اخبرنا محمد بن عبيد، قال حدثنا عبد الله بن المبارك، عن معمر، عن ابن طاوس، عن ابيه، عن حجر المدري، عن زيد بن ثابت، عن النبي صلى الله عليه وسلم قال \" العمرى جايزة",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 33,
+      "hadith": 12
+    }
+  }
+}

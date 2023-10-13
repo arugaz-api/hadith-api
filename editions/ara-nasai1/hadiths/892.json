@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 892,
+    "arabicnumber": 892,
+    "text": "اخبرنا عمرو بن علي، قال حدثنا يحيى، عن سفيان بن سعيد الثوري، عن ميسرة، عن المنهال بن عمرو، عن ابي عبيدة، ان عبد الله، راى رجلا يصلي قد صف بين قدميه فقال خالف السنة ولو راوح بينهما كان افضل",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Daif Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 11,
+      "hadith": 17
+    }
+  }
+}

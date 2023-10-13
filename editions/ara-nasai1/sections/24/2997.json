@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2997,
+    "arabicnumber": 2997,
+    "text": "اخبرنا محمد بن اسماعيل بن ابراهيم، وعبد الرحمن بن محمد بن سلام، قالا حدثنا اسحاق الازرق، عن سفيان الثوري، عن عبد العزيز بن رفيع، قال سالت انس بن مالك فقلت اخبرني بشىء، عقلته عن رسول الله صلى الله عليه وسلم اين صلى الظهر يوم التروية قال بمنى . فقلت اين صلى العصر يوم النفر قال بالابطح",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 380
+    }
+  }
+}

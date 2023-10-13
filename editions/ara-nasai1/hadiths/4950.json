@@ -1,0 +1,22 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4950,
+    "arabicnumber": 4950,
+    "text": "اخبرنا عبيد الله بن سعد بن ابراهيم بن سعد، قال حدثنا عمي، قال حدثنا ابي، عن ابن اسحاق، قال حدثنا عمرو بن شعيب، ان عطاء بن ابي رباح، حدثه ان عبد الله بن عباس كان يقول ثمنه يوميذ عشرة دراهم",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Shadh"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 46,
+      "hadith": 80
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 401,
+    "arabicnumber": 401,
+    "text": "اخبرنا اسحاق بن ابراهيم، قال حدثنا معاذ بن هشام، قال حدثني ابي، عن عطاء، عن ابي الزبير، عن جابر، عن النبي صلى الله عليه وسلم قال \" من كان يومن بالله واليوم الاخر فلا يدخل الحمام الا بميزر",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 4,
+      "hadith": 6
+    }
+  }
+}

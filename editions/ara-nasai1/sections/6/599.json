@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 599,
+    "arabicnumber": 599,
+    "text": "اخبرنا اسحاق بن ابراهيم، قال انبانا عبد الرزاق، قال حدثنا معمر، عن موسى بن عقبة، عن نافع، عن ابن عمر، قال كان رسول الله صلى الله عليه وسلم اذا جد به السير او حزبه امر جمع بين المغرب والعشاء",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 6,
+      "hadith": 106
+    }
+  }
+}

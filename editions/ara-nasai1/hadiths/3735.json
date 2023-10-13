@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 3735,
+    "arabicnumber": 3735,
+    "text": "اخبرنا عمرو بن علي، قال حدثنا ابو عاصم، قال حدثنا ابن جريج، قال اخبرني ابو الزبير، انه سمع جابرا، يقول قال رسول الله صلى الله عليه وسلم \" من اعمر شييا فهو له حياته ومماته",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 34,
+      "hadith": 17
+    }
+  }
+}

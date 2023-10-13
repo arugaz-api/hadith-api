@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1026,
+    "arabicnumber": 1026,
+    "text": "اخبرنا سويد بن نصر، قال انبانا عبد الله بن المبارك، عن سفيان، عن عاصم بن كليب، عن عبد الرحمن بن الاسود، عن علقمة، عن عبد الله، قال الا اخبركم بصلاة، رسول الله صلى الله عليه وسلم قال فقام فرفع يديه اول مرة ثم لم يعد",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 11,
+      "hadith": 151
+    }
+  }
+}

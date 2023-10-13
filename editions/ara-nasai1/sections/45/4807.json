@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4807,
+    "arabicnumber": 4807,
+    "text": "اخبرنا احمد بن عمرو بن السرح، قال انبانا ابن وهب، قال اخبرني اسامة بن زيد، عن عمرو بن شعيب، عن ابيه، عن عبد الله بن عمرو، ان رسول الله صلى الله عليه وسلم قال \" عقل الكافر نصف عقل المومن",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 45,
+      "hadith": 102
+    }
+  }
+}

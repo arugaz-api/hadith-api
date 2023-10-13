@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5007,
+    "arabicnumber": 5007,
+    "text": "اخبرنا اسحاق بن منصور، وعمرو بن علي، عن عبد الرحمن، قال حدثنا سفيان، عن الاعمش، عن ابي عمار، عن عمرو بن شرحبيل، عن رجل، من اصحاب النبي صلى الله عليه وسلم قال قال رسول الله صلى الله عليه وسلم \" ملي عمار ايمانا الى مشاشه",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 47,
+      "hadith": 23
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5683,
+    "arabicnumber": 5683,
+    "text": "اخبرنا ابو بكر بن علي، قال انبانا القواريري، قال حدثنا عبد الوارث، قال سمعت ابن شبرمة، يذكره عن عبد الله بن شداد بن الهاد، عن ابن عباس، قال حرمت الخمر قليلها وكثيرها والسكر من كل شراب . ابن شبرمة لم يسمعه من عبد الله بن شداد",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Muquf"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Muquf"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 51,
+      "hadith": 145
+    }
+  }
+}

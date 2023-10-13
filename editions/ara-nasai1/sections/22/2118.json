@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2118,
+    "arabicnumber": 2118,
+    "text": "اخبرنا محمد بن عبد الله بن يزيد، قال حدثنا ابي قال، حدثنا ورقاء، عن شعبة، عن محمد بن زياد، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" صوموا لرويته وافطروا لرويته فان غم عليكم فاقدروا ثلاثين",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 29
+    }
+  }
+}

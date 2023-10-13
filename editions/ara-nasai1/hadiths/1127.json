@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1127,
+    "arabicnumber": 1127,
+    "text": "اخبرنا يحيى بن عثمان، قال انبانا ابو حيوة، قال حدثنا شعيب بن ابي حمزة، عن محمد بن المنكدر، عن جابر بن عبد الله، عن النبي صلى الله عليه وسلم كان يقول في سجوده \" اللهم لك سجدت وبك امنت ولك اسلمت وانت ربي سجد وجهي للذي خلقه وصوره وشق سمعه وبصره تبارك الله احسن الخالقين",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 99
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4693,
+    "arabicnumber": 4693,
+    "text": "اخبرنا اسحاق بن ابراهيم، عن وكيع، قال حدثني علي بن صالح، عن سلمة بن كهيل، عن ابي سلمة، عن ابي هريرة، عن رسول الله صلى الله عليه وسلم قال \" خياركم احسنكم قضاء",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 44,
+      "hadith": 245
+    }
+  }
+}

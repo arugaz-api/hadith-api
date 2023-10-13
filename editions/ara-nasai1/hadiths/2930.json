@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2930,
+    "arabicnumber": 2930,
+    "text": "اخبرنا محمد بن منصور، قال حدثنا سفيان، عن عمرو، قال سمعت ابن عمر، وسالناه، عن رجل، قدم معتمرا فطاف بالبيت ولم يطف بين الصفا والمروة اياتي اهله قال لما قدم رسول الله صلى الله عليه وسلم فطاف سبعا وصلى خلف المقام ركعتين وطاف بين الصفا والمروة وقد كان لكم في رسول الله اسوة حسنة",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 313
+    }
+  }
+}

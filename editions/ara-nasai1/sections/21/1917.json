@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1917,
+    "arabicnumber": 1917,
+    "text": "اخبرنا علي بن حجر، قال حدثنا اسماعيل، عن هشام، ح واخبرنا اسماعيل بن مسعود، قال حدثنا خالد، قال حدثنا هشام، عن يحيى، عن ابي سلمة، عن ابي سعيد، قال قال رسول الله صلى الله عليه وسلم \" اذا رايتم الجنازة فقوموا فمن تبعها فلا يقعد حتى توضع",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 21,
+      "hadith": 100
+    }
+  }
+}

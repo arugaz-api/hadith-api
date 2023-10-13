@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 76,
+    "arabicnumber": 76,
+    "text": "اخبرنا قتيبة، عن مالك، عن اسحاق بن عبد الله بن ابي طلحة، عن انس، قال رايت رسول الله صلى الله عليه وسلم وحانت صلاة العصر فالتمس الناس الوضوء فلم يجدوه فاتي رسول الله صلى الله عليه وسلم بوضوء فوضع يده في ذلك الاناء وامر الناس ان يتوضيوا فرايت الماء ينبع من تحت اصابعه حتى توضيوا من عند اخرهم",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 76
+    }
+  }
+}

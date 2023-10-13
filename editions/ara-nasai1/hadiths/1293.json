@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1293,
+    "arabicnumber": 1293,
+    "text": "اخبرنا قتيبة، قال حدثنا بكر، - وهو ابن مضر - عن ابن الهاد، عن عبد الله بن خباب، عن ابي سعيد الخدري، قال قلنا يا رسول الله السلام عليك قد عرفناه فكيف الصلاة عليك قال \" قولوا اللهم صل على محمد عبدك ورسولك كما صليت على ابراهيم وبارك على محمد وال محمد كما باركت على ابراهيم",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari"
+      }
+    ],
+    "reference": {
+      "book": 13,
+      "hadith": 115
+    }
+  }
+}

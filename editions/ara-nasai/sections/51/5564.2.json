@@ -1,0 +1,22 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5564.2,
+    "arabicnumber": 5564.2,
+    "text": "أَخْبَرَنَا سُوَيْدٌ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ سَعِيدِ بْنِ أَبِي عَرُوبَةَ، قَالَ قَتَادَةُ كَانَ أَنَسٌ يَأْمُرُ بِالتَّذْنُوبِ فَيُقْرَضُ ‏.‏",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      }
+    ],
+    "reference": {
+      "book": 51,
+      "hadith": 26
+    }
+  }
+}

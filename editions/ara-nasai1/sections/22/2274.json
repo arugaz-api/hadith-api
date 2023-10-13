@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2274,
+    "arabicnumber": 2274,
+    "text": "اخبرنا عمر بن محمد بن الحسن بن التل، قال حدثنا ابي قال، حدثنا سفيان الثوري، عن ايوب، عن ابي قلابة، عن انس، عن النبي صلى الله عليه وسلم قال \" ان الله وضع عن المسافر نصف الصلاة والصوم وعن الحبلى والمرضع",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 185
+    }
+  }
+}

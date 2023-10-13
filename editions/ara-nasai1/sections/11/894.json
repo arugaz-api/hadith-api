@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 894,
+    "arabicnumber": 894,
+    "text": "اخبرنا محمود بن غيلان، قال حدثنا وكيع، قال حدثنا سفيان، عن عمارة بن القعقاع، عن ابي زرعة بن عمرو بن جرير، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم كانت له سكتة اذا افتتح الصلاة",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 11,
+      "hadith": 19
+    }
+  }
+}

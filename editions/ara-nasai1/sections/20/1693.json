@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1693,
+    "arabicnumber": 1693,
+    "text": "اخبرنا قتيبة، قال حدثنا خالد بن زياد، عن نافع، عن ابن عمر، قال قال رسول الله صلى الله عليه وسلم \" صلاة الليل مثنى مثنى والوتر ركعة واحدة",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 96
+    }
+  }
+}

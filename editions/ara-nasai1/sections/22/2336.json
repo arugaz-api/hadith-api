@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2336,
+    "arabicnumber": 2336,
+    "text": "اخبرنا الربيع بن سليمان، قال حدثنا ابن وهب، قال اخبرني يونس، عن ابن شهاب، قال اخبرني حمزة بن عبد الله بن عمر، عن ابيه، قال قالت حفصة زوج النبي صلى الله عليه وسلم لا صيام لمن لم يجمع قبل الفجر",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Muquf"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Muquf"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 247
+    }
+  }
+}

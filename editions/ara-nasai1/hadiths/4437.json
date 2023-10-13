@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4437,
+    "arabicnumber": 4437,
+    "text": "اخبرنا عمرو بن علي، قال حدثنا يحيى، قال حدثنا سفيان، قال حدثني هارون بن ابي وكيع، - وهو هارون بن عنترة - عن ابيه، عن ابن عباس، في قوله عز وجل { ولا تاكلوا مما لم يذكر اسم الله عليه } قال خاصمهم المشركون فقالوا ما ذبح الله فلا تاكلوه وما ذبحتم انتم اكلتموه",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 77
+    }
+  }
+}

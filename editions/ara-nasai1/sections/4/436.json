@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 436,
+    "arabicnumber": 436,
+    "text": "اخبرنا محمد بن حاتم قال: حدثنا عبيدة قال: حدثنا سليمان الاعمش عن حبيب بن ابي ثابت عن سعيد بن جبير عن ابن عباس عن علي رضي الله عنه قال: كنت رجلا مذاء فامرت رجلا فسال النبي صلى الله عليه وسلم فقال: «فيه الوضوء»",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 4,
+      "hadith": 42
+    }
+  }
+}

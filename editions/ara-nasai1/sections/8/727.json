@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 727,
+    "arabicnumber": 727,
+    "text": "اخبرنا سويد بن نصر، قال انبانا عبد الله، عن سعيد الجريري، عن ابي العلاء بن الشخير، عن ابيه، قال رايت رسول الله صلى الله عليه وسلم تنخع فدلكه برجله اليسرى",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 8,
+      "hadith": 40
+    }
+  }
+}

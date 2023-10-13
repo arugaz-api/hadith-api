@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 3843,
+    "arabicnumber": 3843,
+    "text": "اخبرني ابراهيم بن يعقوب، قال حدثنا الحسن بن موسى، قال حدثنا شيبان، عن يحيى، عن محمد بن الزبير، عن ابيه، عن عمران، قال قال رسول الله صلى الله عليه وسلم \" لا نذر في غضب وكفارته كفارة اليمين",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 35,
+      "hadith": 83
+    }
+  }
+}

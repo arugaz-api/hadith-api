@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 3689,
+    "arabicnumber": 3689,
+    "text": "اخبرنا احمد بن حفص، قال حدثني ابي قال، حدثني ابراهيم، عن سعيد بن ابي عروبة، عن عامر الاحول، عن عمرو بن شعيب، عن ابيه، عن جده، قال قال رسول الله صلى الله عليه وسلم \" لا يرجع احد في هبته الا والد من ولده والعايد في هبته كالعايد في قييه",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 32,
+      "hadith": 2
+    }
+  }
+}

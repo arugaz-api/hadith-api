@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5605,
+    "arabicnumber": 5605,
+    "text": "اخبرنا ابو بكر بن علي، قال حدثنا نصر بن علي، قال اخبرني ابي قال، حدثنا ابراهيم بن نافع، عن ابن طاوس، عن ابيه، عن ابن عمر، قال خطب رسول الله صلى الله عليه وسلم فذكر اية الخمر فقال رجل يا رسول الله ارايت المزر قال \" وما المزر \" . قال حبة تصنع باليمن . فقال \" تسكر \" . قال نعم . قال \" كل مسكر حرام",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 51,
+      "hadith": 67
+    }
+  }
+}

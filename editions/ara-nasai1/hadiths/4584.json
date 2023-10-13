@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4584,
+    "arabicnumber": 4584,
+    "text": "اخبرنا محمد بن بشار، قال حدثنا وكيع، قال انبانا موسى بن نافع، عن سعيد بن جبير، انه كان يكره ان ياخذ، الدنانير من الدراهم والدراهم من الدنانير",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Maqtu"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Maqtu"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 44,
+      "hadith": 136
+    }
+  }
+}

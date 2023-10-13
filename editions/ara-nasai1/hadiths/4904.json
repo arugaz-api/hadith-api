@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4904,
+    "arabicnumber": 4904,
+    "text": "اخبرنا سويد بن نصر، قال انبانا عبد الله، عن عيسى بن يزيد، قال حدثني جرير بن يزيد، انه سمع ابا زرعة بن عمرو بن جرير، يحدث انه سمع ابا هريرة، يقول قال رسول الله صلى الله عليه وسلم \" حد يعمل في الارض خير لاهل الارض من ان يمطروا ثلاثين صباحا",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 46,
+      "hadith": 35
+    }
+  }
+}

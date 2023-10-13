@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 3957,
+    "arabicnumber": 3957,
+    "text": "اخبرنا محمد بن المثنى، عن عبد الرحمن، عن سفيان، عن فليت، عن جسرة بنت دجاجة، عن عايشة، قالت ما رايت صانعة طعام مثل صفية اهدت الى النبي صلى الله عليه وسلم اناء فيه طعام فما ملكت نفسي ان كسرته فسالت النبي صلى الله عليه وسلم عن كفارته فقال \" اناء كاناء وطعام كطعام",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 36,
+      "hadith": 19
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1675,
+    "arabicnumber": 1675,
+    "text": "اخبرنا هناد بن السري، عن ابي بكر بن عياش، عن ابي اسحاق، عن عاصم، - وهو ابن ضمرة - عن علي، رضي الله عنه قال اوتر رسول الله صلى الله عليه وسلم ثم قال \" يا اهل القران اوتروا فان الله عز وجل وتر يحب الوتر",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 78
+    }
+  }
+}

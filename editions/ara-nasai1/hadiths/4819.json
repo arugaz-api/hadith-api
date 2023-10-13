@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4819,
+    "arabicnumber": 4819,
+    "text": "اخبرنا احمد بن عمرو بن السرح، قال حدثنا ابن وهب، قال اخبرني مالك، عن ابن شهاب، عن ابي سلمة بن عبد الرحمن، عن ابي هريرة، ان امراتين، من هذيل في زمان رسول الله صلى الله عليه وسلم رمت احداهما الاخرى فطرحت جنينها فقضى فيه رسول الله صلى الله عليه وسلم بغرة عبد او وليدة",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 45,
+      "hadith": 114
+    }
+  }
+}

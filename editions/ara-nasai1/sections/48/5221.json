@@ -1,0 +1,22 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5221,
+    "arabicnumber": 5221,
+    "text": "اخبرنا محمد بن عبد الله بن المبارك، قال حدثنا ابو هشام المخزومي، قال حدثنا نافع بن عمر، عن بكير بن موسى، عن سالم، عن ابيه، رفعه قال \" لا تصحب الملايكة رفقة فيها جلجل",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 48,
+      "hadith": 182
+    }
+  }
+}

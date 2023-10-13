@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5129,
+    "arabicnumber": 5129,
+    "text": "اخبرني هلال بن العلاء بن هلال، قال حدثنا معلى بن اسد، قال حدثنا وهيب، عن محمد بن عجلان، عن يعقوب بن عبد الله بن الاشج، عن بسر بن سعيد، عن زينب، امراة عبد الله قالت قال رسول الله صلى الله عليه وسلم \" اذا شهدت احداكن صلاة العشاء فلا تمس طيبا",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 48,
+      "hadith": 90
+    }
+  }
+}

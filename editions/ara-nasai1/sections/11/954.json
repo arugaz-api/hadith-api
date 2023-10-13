@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 954,
+    "arabicnumber": 954,
+    "text": "اخبرني محمد بن قدامة، قال حدثنا جرير، عن بيان، عن قيس، عن عقبة بن عامر، قال قال رسول الله صلى الله عليه وسلم \" ايات انزلت على الليلة لم ير مثلهن قط { قل اعوذ برب الفلق } و { قل اعوذ برب الناس}",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 11,
+      "hadith": 79
+    }
+  }
+}

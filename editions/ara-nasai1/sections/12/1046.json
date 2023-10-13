@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1046,
+    "arabicnumber": 1046,
+    "text": "اخبرنا اسحاق بن ابراهيم، قال انبانا ابو معاوية، عن الاعمش، عن سعد بن عبيدة، عن المستورد بن الاحنف، عن صلة بن زفر، عن حذيفة، قال صليت مع رسول الله صلى الله عليه وسلم فركع فقال في ركوعه \" سبحان ربي العظيم \" . وفي سجوده \" سبحان ربي الاعلى",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 18
+    }
+  }
+}

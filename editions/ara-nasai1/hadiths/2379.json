@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2379,
+    "arabicnumber": 2379,
+    "text": "اخبرنا علي بن حجر، قال انبانا اسماعيل، عن الجريري، عن يزيد بن عبد الله بن الشخير، عن اخيه، مطرف عن عمران، قال قيل يا رسول الله ان فلانا لا يفطر نهارا الدهر . قال \" لا صام ولا افطر",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 290
+    }
+  }
+}

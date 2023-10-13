@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2843,
+    "arabicnumber": 2843,
+    "text": "اخبرنا عبيد الله بن سعيد، قال حدثنا يحيى، عن مالك، اخبرني نافع، عن نبيه بن وهب، عن ابان بن عثمان، عن ابيه، عن النبي صلى الله عليه وسلم انه نهى ان ينكح المحرم او ينكح او يخطب",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 226
+    }
+  }
+}

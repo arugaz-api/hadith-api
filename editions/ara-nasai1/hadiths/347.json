@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 347,
+    "arabicnumber": 347,
+    "text": "اخبرنا ابو بكر بن اسحاق، قال حدثنا الحسن بن موسى، قال حدثنا شيبان، عن قتادة، عن الحسن، عن امه، عن عايشة، قالت كان رسول الله صلى الله عليه وسلم يتوضا بالمد ويغتسل بالصاع",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 23
+    }
+  }
+}

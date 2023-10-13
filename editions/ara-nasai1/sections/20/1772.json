@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1772,
+    "arabicnumber": 1772,
+    "text": "اخبرنا عبد الله بن اسحاق، عن ابي عاصم، عن ابن جريج، قال اخبرني موسى بن عقبة، عن نافع، عن ابن عمر، عن حفصة ام المومنين، انها اخبرته ان رسول الله صلى الله عليه وسلم كان اذا سكت الموذن صلى ركعتين خفيفتين",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 175
+    }
+  }
+}

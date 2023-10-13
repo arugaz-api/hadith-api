@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 3614,
+    "arabicnumber": 3614,
+    "text": "اخبرنا محمد بن بشار، قال حدثنا محمد، قال حدثنا شعبة، قال سمعت ابا اسحاق، سمع ابا حبيبة الطايي، قال اوصى رجل بدنانير في سبيل الله فسيل ابو الدرداء فحدث عن النبي صلى الله عليه وسلم قال \" مثل الذي يعتق او يتصدق عند موته مثل الذي يهدي بعد ما يشبع",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 30,
+      "hadith": 4
+    }
+  }
+}

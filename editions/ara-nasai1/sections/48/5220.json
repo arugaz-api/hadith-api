@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5220,
+    "arabicnumber": 5220,
+    "text": "اخبرنا عبد الرحمن بن محمد بن سلام الطرسوسي، قال حدثنا يزيد بن هارون، قال انبانا نافع بن عمر الجمحي، عن ابي بكر بن موسى، قال كنت مع سالم بن عبد الله فحدث سالم، عن ابيه، عن النبي صلى الله عليه وسلم قال \" لا تصحب الملايكة رفقة فيها جلجل",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 48,
+      "hadith": 181
+    }
+  }
+}

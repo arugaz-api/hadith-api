@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 3814,
+    "arabicnumber": 3814,
+    "text": "اخبرني يوسف بن سعيد، قال حدثنا حجاج، عن ابن جريج، قال حدثني سعيد بن ابي ايوب، عن يزيد بن ابي حبيب، اخبره ان ابا الخير حدثه عن عقبة بن عامر، قال نذرت اختي ان تمشي، الى بيت الله فامرتني ان استفتي لها رسول الله صلى الله عليه وسلم فاستفتيت لها النبي صلى الله عليه وسلم فقال \" لتمش ولتركب",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 35,
+      "hadith": 54
+    }
+  }
+}

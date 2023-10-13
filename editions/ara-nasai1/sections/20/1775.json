@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1775,
+    "arabicnumber": 1775,
+    "text": "اخبرنا محمد بن عبد الله بن يزيد، قال حدثنا ابي قال، حدثنا جويرية بن اسماء، عن نافع، عن عبد الله بن عمر، عن حفصة، ان رسول الله صلى الله عليه وسلم كان يصلي ركعتين اذا طلع الفجر",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 178
+    }
+  }
+}

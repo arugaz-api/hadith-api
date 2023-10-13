@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4786,
+    "arabicnumber": 4786,
+    "text": "اخبرنا العباس بن الوليد بن مزيد، قال اخبرني ابي قال، حدثنا الاوزاعي، قال حدثني يحيى بن ابي كثير، قال حدثني ابو سلمة، قال حدثنا ابو هريرة، قال قال رسول الله صلى الله عليه وسلم \" من قتل له قتيل فهو بخير النظرين اما ان يقاد واما ان يفدى",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 45,
+      "hadith": 81
+    }
+  }
+}

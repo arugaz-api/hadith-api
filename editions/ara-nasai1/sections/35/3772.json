@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 3772,
+    "arabicnumber": 3772,
+    "text": "اخبرنا الحسين بن حريث، قال حدثنا الفضل بن موسى، عن حسين بن واقد، عن عبد الله بن بريدة، عن ابيه، قال قال رسول الله صلى الله عليه وسلم \" من قال اني بريء من الاسلام فان كان كاذبا فهو كما قال وان كان صادقا لم يعد الى الاسلام سالما",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 35,
+      "hadith": 12
+    }
+  }
+}

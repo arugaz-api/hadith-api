@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 656,
+    "arabicnumber": 656,
+    "text": "اخبرني ابراهيم بن هارون، قال حدثنا حاتم بن اسماعيل، قال حدثنا جعفر بن محمد، عن ابيه، ان جابر بن عبد الله، قال دفع رسول الله صلى الله عليه وسلم حتى انتهى الى المزدلفة فصلى بها المغرب والعشاء باذان واقامتين ولم يصل بينهما شييا",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 7,
+      "hadith": 31
+    }
+  }
+}

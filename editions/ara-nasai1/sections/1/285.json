@@ -1,0 +1,22 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 285,
+    "arabicnumber": 285,
+    "text": "اخبرنا قتيبة، قال حدثنا ابو الاحوص، عن ابي اسحاق، عن عمرو بن شرحبيل، عن عايشة، قالت كان رسول الله صلى الله عليه وسلم يامر احدانا اذا كانت حايضا ان تشد ازارها ثم يباشرها",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 286
+    }
+  }
+}

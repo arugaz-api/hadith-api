@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4609,
+    "arabicnumber": 4609,
+    "text": "اخبرني محمد بن ادم، عن حفص بن غياث، عن الاعمش، عن ابراهيم، عن الاسود، عن عايشة، قالت اشترى رسول الله صلى الله عليه وسلم من يهودي طعاما الى اجل ورهنه درعه",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 44,
+      "hadith": 161
+    }
+  }
+}

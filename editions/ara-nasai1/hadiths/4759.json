@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4759,
+    "arabicnumber": 4759,
+    "text": "اخبرنا عمرو بن علي، قال حدثنا يزيد، قال حدثنا سعيد بن ابي عروبة، عن قتادة، عن زرارة بن اوفى، عن عمران بن حصين، ان رجلا، عض اخر على ذراعه فاجتذبها فانتزعت ثنيته فرفع ذلك الى النبي صلى الله عليه وسلم فابطلها وقال \" اردت ان تقضم لحم اخيك كما يقضم الفحل",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 45,
+      "hadith": 54
+    }
+  }
+}

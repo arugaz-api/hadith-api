@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1152,
+    "arabicnumber": 1152,
+    "text": "اخبرنا علي بن حجر، قال انبانا هشيم، عن خالد، عن ابي قلابة، عن مالك بن الحويرث، قال رايت رسول الله صلى الله عليه وسلم يصلي فاذا كان في وتر من صلاته لم ينهض حتى يستوي جالسا",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 124
+    }
+  }
+}

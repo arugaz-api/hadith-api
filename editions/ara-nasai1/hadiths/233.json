@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 233,
+    "arabicnumber": 233,
+    "text": "اخبرنا محمد بن عبد الاعلى، قال حدثنا خالد، قال حدثنا شعبة، قال حدثني عبد الرحمن بن القاسم، قال سمعت القاسم، يحدث عن عايشة، قالت كنت اغتسل انا ورسول الله، صلى الله عليه وسلم من اناء واحد من الجنابة",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 234
+    }
+  }
+}

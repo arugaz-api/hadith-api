@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1805,
+    "arabicnumber": 1805,
+    "text": "اخبرنا احمد بن سليمان، قال حدثنا يعلى، قال حدثنا اسماعيل، عن المسيب بن رافع، عن عنبسة بن ابي سفيان، عن ام حبيبة، قالت من صلى في الليل والنهار ثنتى عشرة ركعة سوى المكتوبة بني له بيت في الجنة",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 208
+    }
+  }
+}

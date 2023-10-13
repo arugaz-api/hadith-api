@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 3310,
+    "arabicnumber": 3310,
+    "text": "اخبرنا زياد بن ايوب، قال حدثنا ابن علية، عن ايوب، عن ابن ابي مليكة، عن عبد الله بن الزبير، عن عايشة، قالت قال رسول الله صلى الله عليه وسلم \" لا تحرم المصة والمصتان",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 26,
+      "hadith": 115
+    }
+  }
+}

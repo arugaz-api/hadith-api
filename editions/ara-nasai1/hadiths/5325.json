@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5325,
+    "arabicnumber": 5325,
+    "text": "حدثنا محمد بن بشار، قال حدثنا محمد، قال حدثنا شعبة، عن عمرو بن دينار، عن جابر بن زيد، عن ابن عباس، انه سمع النبي صلى الله عليه وسلم يقول بعرفات فقال \" من لم يجد ازارا فليلبس السراويل ومن لم يجد نعلين فليلبس خفين",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 48,
+      "hadith": 286
+    }
+  }
+}

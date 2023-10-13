@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4457,
+    "arabicnumber": 4457,
+    "text": "اخبرنا عمرو بن علي، عن يحيى، قال حدثنا شعبة، قال حدثني قتادة، عن ابي الخليل، عن عبد الله بن الحارث، عن حكيم بن حزام، قال قال رسول الله صلى الله عليه وسلم \" البيعان بالخيار ما لم يفترقا فان صدقا وبينا بورك في بيعهما وان كذبا وكتما محق بركة بيعهما",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 44,
+      "hadith": 9
+    }
+  }
+}

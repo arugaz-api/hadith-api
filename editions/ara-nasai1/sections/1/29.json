@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 29,
+    "arabicnumber": 29,
+    "text": "اخبرنا علي بن حجر، قال انبانا شريك، عن المقدام بن شريح، عن ابيه، عن عايشة، قالت من حدثكم ان رسول الله صلى الله عليه وسلم بال قايما فلا تصدقوه ما كان يبول الا جالسا",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 29
+    }
+  }
+}

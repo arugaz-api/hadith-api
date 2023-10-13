@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2566,
+    "arabicnumber": 2566,
+    "text": "اخبرنا محمد بن عبد الاعلى، قال حدثنا المعتمر، قال سمعت بهز بن حكيم، يحدث عن ابيه، عن جده، قال سمعت رسول الله صلى الله عليه وسلم يقول \" لا ياتي رجل مولاه يساله من فضل عنده فيمنعه اياه الا دعي له يوم القيامة شجاع اقرع يتلمظ فضله الذي منع",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 23,
+      "hadith": 132
+    }
+  }
+}

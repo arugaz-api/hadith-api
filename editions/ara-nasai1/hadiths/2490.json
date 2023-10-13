@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2490,
+    "arabicnumber": 2490,
+    "text": "اخبرنا هناد بن السري، عن ابي بكر، - وهو ابن عياش - عن عاصم، عن ابي وايل، عن معاذ، قال بعثني رسول الله صلى الله عليه وسلم الى اليمن فامرني ان اخذ مما سقت السماء العشر وفيما سقي بالدوالي نصف العشر",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 23,
+      "hadith": 56
+    }
+  }
+}

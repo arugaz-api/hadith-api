@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 453,
+    "arabicnumber": 453,
+    "text": "اخبرنا اسحاق بن ابراهيم، قال انبانا سفيان، عن الزهري، عن عروة، عن عايشة، قالت اول ما فرضت الصلاة ركعتين فاقرت صلاة السفر واتمت صلاة الحضر",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 6
+    }
+  }
+}

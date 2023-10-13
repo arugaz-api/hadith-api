@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5578,
+    "arabicnumber": 5578,
+    "text": "اخبرنا يعقوب بن ابراهيم، قال حدثنا ابن علية، قال حدثنا ابو حيان، قال حدثنا الشعبي، عن ابن عمر، قال سمعت عمر، رضى الله عنه يخطب على منبر المدينة فقال ايها الناس الا انه نزل تحريم الخمر يوم نزل وهي من خمسة من العنب والتمر والعسل والحنطة والشعير والخمر ما خامر العقل",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 51,
+      "hadith": 40
+    }
+  }
+}

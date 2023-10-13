@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5066,
+    "arabicnumber": 5066,
+    "text": "اخبرنا احمد بن حرب، قال حدثنا قاسم، قال حدثنا سفيان، عن عاصم بن كليب، عن ابيه، عن وايل بن حجر، قال اتيت النبي صلى الله عليه وسلم ولي جمة قال \" ذباب \" . وظننت انه يعنيني فانطلقت فاخذت من شعري فقال \" اني لم اعنك وهذا احسن",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 48,
+      "hadith": 27
+    }
+  }
+}

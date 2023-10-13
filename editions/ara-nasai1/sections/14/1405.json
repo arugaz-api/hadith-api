@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1405,
+    "arabicnumber": 1405,
+    "text": "اخبرنا محمد بن بشار، قال حدثنا محمد بن جعفر، قال حدثنا شعبة، عن الحكم، عن نافع، عن ابن عمر، قال خطب رسول الله صلى الله عليه وسلم فقال \" اذا راح احدكم الى الجمعة فليغتسل",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 14,
+      "hadith": 42
+    }
+  }
+}

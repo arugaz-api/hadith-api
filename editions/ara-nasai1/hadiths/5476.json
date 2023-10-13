@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5476,
+    "arabicnumber": 5476,
+    "text": "اخبرنا احمد بن حرب، قال حدثنا القاسم، وهو ابن يزيد الجرمي عن عبد العزيز، اخبرني عمرو بن ابي عمرو، عن انس بن مالك، قال كان النبي صلى الله عليه وسلم يقول \" اللهم اني اعوذ بك من الهم والحزن والكسل والبخل والجبن وضلع الدين وغلبة الرجال",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 50,
+      "hadith": 49
+    }
+  }
+}

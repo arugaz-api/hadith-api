@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4058,
+    "arabicnumber": 4058,
+    "text": "اخبرنا مومل بن اهاب، قال حدثنا عبد الرزاق، قال اخبرني ابن جريج، عن ابي النضر، عن بسر بن سعيد، عن عثمان بن عفان، قال سمعت رسول الله صلى الله عليه وسلم يقول \" لا يحل دم امري مسلم الا بثلاث ان يزني بعد ما احصن او يقتل انسانا فيقتل او يكفر بعد اسلامه فيقتل",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 37,
+      "hadith": 93
+    }
+  }
+}

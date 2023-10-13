@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1654,
+    "arabicnumber": 1654,
+    "text": "اخبرنا اسماعيل بن مسعود، حدثنا خالد، عن شعبة، عن ابي اسحاق، قال سمعت ابا سلمة، عن ام سلمة، قالت ما مات رسول الله صلى الله عليه وسلم حتى كان اكثر صلاته قاعدا الا الفريضة وكان احب العمل اليه ادومه وان قل",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 57
+    }
+  }
+}

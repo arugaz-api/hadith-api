@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1708,
+    "arabicnumber": 1708,
+    "text": "اخبرنا احمد بن حرب، قال حدثنا ابو معاوية، عن الاعمش، عن عمرو بن مرة، عن يحيى بن الجزار، عن ام سلمة، قالت كان رسول الله صلى الله عليه وسلم يوتر بثلاث عشرة ركعة فلما كبر وضعف اوتر بتسع . خالفه عمارة بن عمير فرواه عن يحيى بن الجزار عن عايشة",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 111
+    }
+  }
+}

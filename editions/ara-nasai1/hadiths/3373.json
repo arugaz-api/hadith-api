@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 3373,
+    "arabicnumber": 3373,
+    "text": "اخبرنا ابو بكر بن نافع، قال حدثنا بهز بن اسد، قال حدثنا حماد، قال حدثنا ثابت، عن انس، ان عبد الرحمن بن عوف، جاء وعليه ردع من زعفران فقال رسول الله صلى الله عليه وسلم \" مهيم \" . قال تزوجت امراة . قال \" وما اصدقت \" . قال وزن نواة من ذهب . قال \" اولم ولو بشاة",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 26,
+      "hadith": 178
+    }
+  }
+}

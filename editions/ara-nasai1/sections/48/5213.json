@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5213,
+    "arabicnumber": 5213,
+    "text": "اخبرنا محمد بن اسماعيل بن ابراهيم، عن سعيد بن عامر، عن همام، عن ابن جريج، عن الزهري، عن انس، ان رسول الله صلى الله عليه وسلم كان اذا دخل الخلاء نزع خاتمه",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 48,
+      "hadith": 174
+    }
+  }
+}

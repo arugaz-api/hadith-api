@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1614,
+    "arabicnumber": 1614,
+    "text": "اخبرنا سويد بن نصر، قال انبانا عبد الله، قال حدثنا شعبة، عن ابي بشر، جعفر بن ابي وحشية انه سمع حميد بن عبد الرحمن، يقول قال رسول الله صلى الله عليه وسلم \" افضل الصلاة بعد الفريضة قيام الليل وافضل الصيام بعد رمضان المحرم \" . ارسله شعبة بن الحجاج",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 17
+    }
+  }
+}

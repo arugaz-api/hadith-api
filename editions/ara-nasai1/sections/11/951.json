@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 951,
+    "arabicnumber": 951,
+    "text": "اخبرنا محمد بن ابان البلخي، قال حدثنا وكيع بن الجراح، عن مسعر، والمسعودي، عن الوليد بن سريع، عن عمرو بن حريث، قال سمعت النبي صلى الله عليه وسلم يقرا في الفجر { اذا الشمس كورت}",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 11,
+      "hadith": 76
+    }
+  }
+}

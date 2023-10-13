@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4751,
+    "arabicnumber": 4751,
+    "text": "اخبرنا اسحاق بن ابراهيم، قال انبانا معاذ بن هشام، قال حدثني ابي، عن قتادة، عن ابي نضرة، عن عمران بن حصين، ان غلاما، لاناس فقراء قطع اذن غلام لاناس اغنياء فاتوا النبي صلى الله عليه وسلم فلم يجعل لهم شييا",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 45,
+      "hadith": 46
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5675,
+    "arabicnumber": 5675,
+    "text": "اخبرنا سويد، قال انبانا عبد الله، عن الحسن بن يحيى، عن الضحاك، قال من مات مدمنا للخمر نضح في وجهه بالحميم حين يفارق الدنيا",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Hasan Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 51,
+      "hadith": 137
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5738,
+    "arabicnumber": 5738,
+    "text": "اخبرنا اسحاق بن ابراهيم، قال حدثنا يحيى بن ادم، قال حدثنا شريك، عن ابي اسحاق، عن يحيى بن عبيد البهراني، عن ابن عباس، ان رسول الله صلى الله عليه وسلم كان ينقع له الزبيب فيشربه يومه والغد وبعد الغد",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 51,
+      "hadith": 200
+    }
+  }
+}

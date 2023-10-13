@@ -1,0 +1,22 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4033,
+    "arabicnumber": 4033,
+    "text": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، عَنْ عَبْدِ الأَعْلَى، نَحْوَهُ ‏.‏",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 37,
+      "hadith": 68
+    }
+  }
+}

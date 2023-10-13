@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1979,
+    "arabicnumber": 1979,
+    "text": "اخبرنا علي بن حجر، قال انبانا ابن المبارك، والفضل بن موسى، ح واخبرنا سويد، قال انبانا عبد الله، عن حسين المكتب، عن عبد الله بن بريدة، عن سمرة بن جندب، ان رسول الله صلى الله عليه وسلم صلى على ام فلان ماتت في نفاسها فقام في وسطها",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 21,
+      "hadith": 162
+    }
+  }
+}

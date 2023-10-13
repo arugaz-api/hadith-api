@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2518,
+    "arabicnumber": 2518,
+    "text": "اخبرنا عيسى بن حماد، قال انبانا الليث، عن يزيد، عن عبيد الله بن عبد الله بن عثمان، ان عياض بن عبد الله بن سعد، حدثه ان ابا سعيد الخدري قال كنا نخرج في عهد رسول الله صلى الله عليه وسلم صاعا من تمر او صاعا من شعير او صاعا من اقط لا نخرج غيره",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 23,
+      "hadith": 84
+    }
+  }
+}

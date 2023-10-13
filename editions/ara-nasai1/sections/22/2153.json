@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2153,
+    "arabicnumber": 2153,
+    "text": "اخبرنا محمد بن بشار، قال حدثنا محمد، قال حدثنا شعبة، عن عدي، قال سمعت زر بن حبيش، قال تسحرت مع حذيفة ثم خرجنا الى الصلاة فلما اتينا المسجد صلينا ركعتين واقيمت الصلاة وليس بينهما الا هنيهة",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 64
+    }
+  }
+}

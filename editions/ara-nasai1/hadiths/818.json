@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 818,
+    "arabicnumber": 818,
+    "text": "اخبرنا اسماعيل بن مسعود، عن خالد، قال حدثنا سعيد، عن قتادة، عن انس، ان رسول الله صلى الله عليه وسلم قال \" اتموا الصف الاول ثم الذي يليه وان كان نقص فليكن في الصف الموخر",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 10,
+      "hadith": 42
+    }
+  }
+}

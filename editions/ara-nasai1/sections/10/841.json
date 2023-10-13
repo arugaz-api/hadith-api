@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 841,
+    "arabicnumber": 841,
+    "text": "اخبرنا محمد بن اسماعيل بن ابراهيم، قال حدثنا حجاج، قال ابن جريج اخبرني زياد، ان قزعة، مولى لعبد القيس اخبره انه، سمع عكرمة، قال قال ابن عباس صليت الى جنب النبي صلى الله عليه وسلم وعايشة خلفنا تصلي معنا وانا الى جنب النبي صلى الله عليه وسلم اصلي معه",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 10,
+      "hadith": 65
+    }
+  }
+}

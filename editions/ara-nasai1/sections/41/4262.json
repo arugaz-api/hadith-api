@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4262,
+    "arabicnumber": 4262,
+    "text": "اخبرنا عمرو بن علي، قال حدثنا يحيى، قال حدثنا ابن ابي ذيب، قال حدثني سعيد بن خالد، عن ابي سلمة، عن ابي سعيد الخدري، عن النبي صلى الله عليه وسلم قال \" اذا وقع الذباب في اناء احدكم فليمقله",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 41,
+      "hadith": 41
+    }
+  }
+}

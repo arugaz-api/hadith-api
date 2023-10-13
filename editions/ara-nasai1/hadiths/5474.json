@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5474,
+    "arabicnumber": 5474,
+    "text": "اخبرنا محمد بن بشار، قال حدثني عبد الله بن يزيد المقري، قال حدثنا حيوة، عن دراج ابي السمح، عن ابي الهيثم، عن ابي سعيد، عن النبي صلى الله عليه وسلم قال \" اعوذ بالله من الكفر والدين \" . فقال رجل تعدل الدين بالكفر قال \" نعم",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 50,
+      "hadith": 47
+    }
+  }
+}

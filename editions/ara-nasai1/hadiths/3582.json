@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 3582,
+    "arabicnumber": 3582,
+    "text": "قال الحارث بن مسكين قراءة عليه وانا اسمع، عن ابن وهب، حدثني طلحة بن ابي سعيد، ان سعيدا المقبري، حدثه عن ابي هريرة، عن رسول الله صلى الله عليه وسلم قال \" من احتبس فرسا في سبيل الله ايمانا بالله وتصديقا لوعد الله كان شبعه وريه وبوله وروثه حسنات في ميزانه",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari"
+      }
+    ],
+    "reference": {
+      "book": 28,
+      "hadith": 22
+    }
+  }
+}

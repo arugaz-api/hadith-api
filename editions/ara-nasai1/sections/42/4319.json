@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4319,
+    "arabicnumber": 4319,
+    "text": "اخبرنا زياد بن ايوب، قال حدثنا هشيم، قال انبانا ابو بشر، عن سعيد بن جبير، عن ابن عباس، انه سيل عن اكل الضباب، فقال اهدت ام حفيد الى رسول الله صلى الله عليه وسلم سمنا واقطا واضبا فاكل من السمن والاقط وترك الضباب تقذرا لهن فلو كان حراما ما اكل على مايدة رسول الله صلى الله عليه وسلم ولا امر باكلهن",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 42,
+      "hadith": 57
+    }
+  }
+}

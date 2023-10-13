@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2610,
+    "arabicnumber": 2610,
+    "text": "اخبرنا اسحاق بن ابراهيم، قال حدثنا وكيع، قال حدثنا شعبة، قال قلت لابي اياس معاوية بن قرة اسمعت انس بن مالك يقول قال رسول الله صلى الله عليه وسلم \" ابن اخت القوم من انفسهم \" . قال نعم",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 23,
+      "hadith": 176
+    }
+  }
+}

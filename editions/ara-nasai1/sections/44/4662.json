@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4662,
+    "arabicnumber": 4662,
+    "text": "اخبرنا قتيبة بن سعيد، قال حدثنا داود، عن عمرو، عن ابي المنهال، عن اياس، ان رسول الله صلى الله عليه وسلم نهى عن بيع فضل الماء . وباع قيم الوهط فضل ماء الوهط فكرهه عبد الله بن عمرو",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 44,
+      "hadith": 214
+    }
+  }
+}

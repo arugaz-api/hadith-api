@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 600,
+    "arabicnumber": 600,
+    "text": "اخبرنا محمد بن منصور، قال انبانا سفيان، قال سمعت الزهري، قال اخبرني سالم، عن ابيه، قال رايت النبي صلى الله عليه وسلم اذا جد به السير جمع بين المغرب والعشاء",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 6,
+      "hadith": 107
+    }
+  }
+}

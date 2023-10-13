@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4861,
+    "arabicnumber": 4861,
+    "text": "اخبرنا محمد بن منصور، قال حدثنا سفيان، عن ابي الزناد، عن الاعرج، عن ابي هريرة، عن النبي صلى الله عليه وسلم قال \" لو ان امرا اطلع عليك بغير اذن فخذفته ففقات عينه ما كان عليك حرج \" . وقال مرة اخرى \" جناح",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 45,
+      "hadith": 156
+    }
+  }
+}

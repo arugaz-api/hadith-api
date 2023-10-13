@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5323,
+    "arabicnumber": 5323,
+    "text": "اخبرنا قتيبة، قال حدثنا حماد، عن ايوب، عن ابي قلابة، عن سمرة، قال قال رسول الله صلى الله عليه وسلم \" عليكم بالبياض من الثياب فليلبسها احياوكم وكفنوا فيها موتاكم فانها من خير ثيابكم",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 48,
+      "hadith": 284
+    }
+  }
+}

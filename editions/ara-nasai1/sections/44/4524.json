@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4524,
+    "arabicnumber": 4524,
+    "text": "اخبرنا قتيبة، قال حدثنا المفضل، عن ابن جريج، عن عطاء، وابي الزبير، عن جابر، ان النبي صلى الله عليه وسلم نهى عن المخابرة والمزابنة والمحاقلة وبيع الثمر حتى يطعم الا العرايا",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Hadith"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 44,
+      "hadith": 76
+    }
+  }
+}

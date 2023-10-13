@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 3993,
+    "arabicnumber": 3993,
+    "text": "اخبرنا احمد بن سليمان، قال حدثنا ابو داود، عن سفيان، عن الاعمش، عن ابي وايل، قال قال عبد الله اول ما يقضى بين الناس يوم القيامة في الدماء",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Muquf"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Muquf"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 37,
+      "hadith": 28
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4845,
+    "arabicnumber": 4845,
+    "text": "اخبرنا الحسين بن منصور، قال حدثنا حفص، - وهو ابن عبد الرحمن البلخي - عن سعيد، عن غالب التمار، عن حميد بن هلال، عن مسروق بن اوس، عن ابي موسى، قال قضى رسول الله صلى الله عليه وسلم ان الاصابع سواء عشرا عشرا من الابل",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 45,
+      "hadith": 140
+    }
+  }
+}

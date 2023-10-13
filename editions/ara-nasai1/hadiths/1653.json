@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1653,
+    "arabicnumber": 1653,
+    "text": "اخبرنا سليمان بن سلم البلخي، قال حدثنا النضر، قال انبانا يونس، عن ابي اسحاق، عن الاسود، عن ام سلمة، قالت ما قبض رسول الله صلى الله عليه وسلم حتى كان اكثر صلاته جالسا الا المكتوبة . خالفه شعبة وسفيان وقالا عن ابي اسحاق عن ابي سلمة عن ام سلمة",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 56
+    }
+  }
+}

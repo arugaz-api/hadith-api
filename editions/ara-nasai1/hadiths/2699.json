@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2699,
+    "arabicnumber": 2699,
+    "text": "اخبرنا هناد بن السري، عن ابي معاوية، عن الاعمش، عن ابراهيم، عن الاسود، عن عايشة، قالت كاني انظر الى وبيص الطيب في مفارق رسول الله صلى الله عليه وسلم وهو يهل",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 81
+    }
+  }
+}

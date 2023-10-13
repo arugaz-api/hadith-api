@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2644,
+    "arabicnumber": 2644,
+    "text": "اخبرنا يعقوب بن ابراهيم الدورقي، قال حدثنا عبد الرحمن، عن سفيان، عن منصور، عن مجاهد، عن يوسف، عن ابن الزبير، ان النبي صلى الله عليه وسلم قال لرجل \" انت اكبر ولد ابيك فحج عنه",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Daif Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 26
+    }
+  }
+}

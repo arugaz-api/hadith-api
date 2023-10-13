@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1060,
+    "arabicnumber": 1060,
+    "text": "اخبرنا اسحاق بن ابراهيم، قال حدثنا عبد الرزاق، قال حدثنا معمر، عن الزهري، عن ابي سلمة، عن ابي هريرة، قال كان رسول الله صلى الله عليه وسلم اذا رفع راسه من الركوع قال \" اللهم ربنا ولك الحمد",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 32
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1687,
+    "arabicnumber": 1687,
+    "text": "اخبرنا ابراهيم بن يعقوب، قال اخبرني عبد الله بن محمد بن علي، قال حدثنا زهير، عن الحسن بن الحر، عن نافع، ان ابن عمر، كان يوتر على بعيره ويذكر ان النبي صلى الله عليه وسلم كان يفعل ذلك",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 90
+    }
+  }
+}

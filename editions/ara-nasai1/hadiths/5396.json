@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5396,
+    "arabicnumber": 5396,
+    "text": "اخبرنا محمد بن معمر، قال حدثنا ابو عاصم، عن زكريا بن اسحاق، عن عمرو بن دينار، عن ابي الشعثاء، عن ابن عباس، ان رجلا، جاء الى النبي صلى الله عليه وسلم فقال ان ابي شيخ كبير افاحج عنه قال \" نعم ارايت لو كان عليه دين فقضيته اكان يجزي عنه",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 49,
+      "hadith": 18
+    }
+  }
+}

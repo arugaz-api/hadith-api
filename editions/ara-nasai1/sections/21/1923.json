@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1923,
+    "arabicnumber": 1923,
+    "text": "اخبرنا محمد بن منصور، قال حدثنا سفيان، عن ابن ابي نجيح، عن مجاهد، عن ابي معمر، قال كنا عند علي فمرت جنازة فقاموا لها فقال علي ما هذا قالوا امر ابي موسى . فقال انما قام رسول الله صلى الله عليه وسلم لجنازة يهودية ولم يعد بعد ذلك",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 21,
+      "hadith": 106
+    }
+  }
+}

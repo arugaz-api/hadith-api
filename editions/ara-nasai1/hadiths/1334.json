@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1334,
+    "arabicnumber": 1334,
+    "text": "اخبرنا يعقوب بن ابراهيم، قال حدثنا يحيى، عن سفيان، قال حدثني يعلى بن عطاء، عن جابر بن يزيد بن الاسود، عن ابيه، انه صلى مع رسول الله صلى الله عليه وسلم صلاة الصبح فلما صلى انحرف",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 13,
+      "hadith": 156
+    }
+  }
+}

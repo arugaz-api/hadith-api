@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5468,
+    "arabicnumber": 5468,
+    "text": "اخبرنا محمد بن العلاء، قال انبانا ابن ادريس، عن ابن عجلان، عن المقبري، عن ابي هريرة، قال كان رسول الله صلى الله عليه وسلم يقول \" اللهم اني اعوذ بك من الجوع فانه بيس الضجيع واعوذ بك من الخيانة فانها بيست البطانة",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 50,
+      "hadith": 41
+    }
+  }
+}

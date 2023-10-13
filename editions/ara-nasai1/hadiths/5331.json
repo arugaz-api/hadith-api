@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5331,
+    "arabicnumber": 5331,
+    "text": "اخبرنا محمود بن غيلان، قال حدثنا ابو داود، قال حدثنا شعبة، قال اخبرني سعيد المقبري، وقد كان يخبر عن ابي هريرة، عن النبي صلى الله عليه وسلم قال \" ما اسفل من الكعبين من الازار ففي النار",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari"
+      }
+    ],
+    "reference": {
+      "book": 48,
+      "hadith": 292
+    }
+  }
+}

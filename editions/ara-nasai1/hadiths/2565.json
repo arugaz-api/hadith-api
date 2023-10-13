@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2565,
+    "arabicnumber": 2565,
+    "text": "اخبرني هارون بن عبد الله، قال حدثنا معن، قال حدثنا مالك، ح وانبانا قتيبة بن سعيد، عن مالك، عن زيد بن اسلم، عن ابن بجيد الانصاري، عن جدته، ان رسول الله صلى الله عليه وسلم قال \" ردوا السايل ولو بظلف \" . في حديث هارون محرق",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 23,
+      "hadith": 131
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 3017,
+    "arabicnumber": 3017,
+    "text": "اخبرنا محمد بن حاتم، قال حدثنا حبان، قال انبانا عبد الله، عن عبد الملك بن ابي سليمان، عن عطاء، عن ابن عباس، عن الفضل بن عباس، قال افاض رسول الله صلى الله عليه وسلم من عرفات وردفه اسامة بن زيد فجالت به الناقة وهو رافع يديه لا تجاوزان راسه فما زال يسير على هينته حتى انتهى الى جمع",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 400
+    }
+  }
+}

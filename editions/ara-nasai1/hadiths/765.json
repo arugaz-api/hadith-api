@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 765,
+    "arabicnumber": 765,
+    "text": "اخبرنا قتيبة، قال حدثنا العطاف، عن موسى بن ابراهيم، عن سلمة بن الاكوع، قال قلت يا رسول الله اني لاكون في الصيد وليس على الا القميص افاصلي فيه قال \" وزره عليك ولو بشوكة",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 24
+    }
+  }
+}

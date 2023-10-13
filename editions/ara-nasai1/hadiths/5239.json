@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5239,
+    "arabicnumber": 5239,
+    "text": "اخبرنا يعقوب بن ابراهيم، قال حدثنا ابن علية، عن الجريري، عن عبد الله بن بريدة، ان رجلا، من اصحاب النبي صلى الله عليه وسلم يقال له عبيد قال ان رسول الله صلى الله عليه وسلم كان ينهى عن كثير من الارفاه . سيل ابن بريدة عن الارفاه قال منه الترجل",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 48,
+      "hadith": 200
+    }
+  }
+}

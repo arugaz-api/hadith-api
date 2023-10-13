@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 399,
+    "arabicnumber": 399,
+    "text": "اخبرنا محمد بن عبد الله بن يزيد، عن سفيان، عن ابي الزناد، عن موسى بن ابي عثمان، عن ابيه، عن ابي هريرة، ان النبي صلى الله عليه وسلم نهى ان يبال في الماء الراكد ثم يغتسل منه",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 4,
+      "hadith": 4
+    }
+  }
+}

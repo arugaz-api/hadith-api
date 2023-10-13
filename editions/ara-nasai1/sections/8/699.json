@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 699,
+    "arabicnumber": 699,
+    "text": "اخبرنا قتيبة، قال حدثنا مجمع بن يعقوب، عن محمد بن سليمان الكرماني، قال سمعت ابا امامة بن سهل بن حنيف، قال قال ابي قال رسول الله صلى الله عليه وسلم \" من خرج حتى ياتي هذا المسجد مسجد قباء فصلى فيه كان له عدل عمرة",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 8,
+      "hadith": 12
+    }
+  }
+}

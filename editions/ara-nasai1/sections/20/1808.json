@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1808,
+    "arabicnumber": 1808,
+    "text": "اخبرنا يحيى بن حبيب، قال حدثنا حماد، عن عاصم، عن ابي صالح، عن ام حبيبة، قالت قال رسول الله صلى الله عليه وسلم \" من صلى في يوم ثنتى عشرة ركعة سوى الفريضة بنى الله له او بني له بيت في الجنة",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 211
+    }
+  }
+}

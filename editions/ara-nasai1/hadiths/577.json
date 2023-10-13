@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 577,
+    "arabicnumber": 577,
+    "text": "اخبرنا علي بن حجر، قال انبانا علي بن مسهر، عن ابي اسحاق، عن عبد الرحمن بن الاسود، عن ابيه، عن عايشة، قالت صلاتان ما تركهما رسول الله صلى الله عليه وسلم في بيتي سرا ولا علانية ركعتان قبل الفجر وركعتان بعد العصر",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 6,
+      "hadith": 84
+    }
+  }
+}

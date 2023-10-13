@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5707,
+    "arabicnumber": 5707,
+    "text": "اخبرنا ابو بكر بن علي، قال حدثنا ابو خيثمة، قال حدثنا عبد الصمد، { قال حدثنا ابي، } عن محمد بن جحادة، عن اسماعيل بن ابي خالد، عن قيس بن ابي حازم، عن عتبة بن فرقد، قال كان النبيذ الذي يشربه عمر بن الخطاب قد خلل . ومما يدل على صحة هذا حديث السايب",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 51,
+      "hadith": 169
+    }
+  }
+}

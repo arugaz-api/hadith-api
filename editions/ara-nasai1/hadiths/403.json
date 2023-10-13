@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 403,
+    "arabicnumber": 403,
+    "text": "اخبرنا محمد بن يحيى بن محمد، حدثنا محمد بن موسى، قال حدثنا ابراهيم بن يزيد، عن رقبة، عن مجزاة الاسلمي، عن ابن ابي اوفى، قال كان النبي صلى الله عليه وسلم يقول \" اللهم طهرني بالثلج والبرد والماء البارد اللهم طهرني من الذنوب كما يطهر الثوب الابيض من الدنس",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 4,
+      "hadith": 8
+    }
+  }
+}

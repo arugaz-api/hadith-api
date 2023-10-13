@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2589,
+    "arabicnumber": 2589,
+    "text": "اخبرنا علي بن شعيب، قال انبانا معن، قال انبانا مالك، عن ابي الزناد، عن الاعرج، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال \" والذي نفسي بيده لان ياخذ احدكم حبله فيحتطب على ظهره خير له من ان ياتي رجلا اعطاه الله عز وجل من فضله فيساله اعطاه او منعه",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari"
+      }
+    ],
+    "reference": {
+      "book": 23,
+      "hadith": 155
+    }
+  }
+}

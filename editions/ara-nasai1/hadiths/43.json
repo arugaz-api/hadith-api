@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 43,
+    "arabicnumber": 43,
+    "text": "اخبرنا اسحاق بن ابراهيم، قال انبانا جرير، عن منصور، عن هلال بن يساف، عن سلمة بن قيس، عن رسول الله صلى الله عليه وسلم قال \" اذا استجمرت فاوتر",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 43
+    }
+  }
+}

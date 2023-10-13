@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 816,
+    "arabicnumber": 816,
+    "text": "اخبرنا قتيبة، قال حدثنا الفضيل بن عياض، عن الاعمش، عن المسيب بن رافع، عن تميم بن طرفة، عن جابر بن سمرة، قال خرج الينا رسول الله صلى الله عليه وسلم فقال \" الا تصفون كما تصف الملايكة عند ربهم \" . قالوا وكيف تصف الملايكة عند ربهم قال \" يتمون الصف الاول ثم يتراصون في الصف",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 10,
+      "hadith": 40
+    }
+  }
+}

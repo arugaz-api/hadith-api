@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1780,
+    "arabicnumber": 1780,
+    "text": "اخبرنا محمود بن خالد، قال حدثنا الوليد، عن ابي عمرو، عن يحيى، قال حدثني ابو سلمة، عن عايشة، ان رسول الله صلى الله عليه وسلم كان يصلي ركعتين خفيفتين بين النداء والاقامة من صلاة الفجر",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 183
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2232,
+    "arabicnumber": 2232,
+    "text": "اخبرني زكريا بن يحيى، قال حدثنا ابو مصعب، عن المغيرة، عن عبد الله بن سعيد بن ابي هند، عن محمد بن اسحاق، عن سعيد بن ابي هند، قال دخل مطرف على عثمان نحوه مرسل",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "-"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 143
+    }
+  }
+}

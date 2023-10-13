@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4094,
+    "arabicnumber": 4094,
+    "text": "اخبرنا عمرو بن علي، قال حدثنا عبد الرحمن بن مهدي، قال حدثنا ابراهيم بن سعد، عن ابيه، عن ابي عبيدة بن محمد، عن طلحة بن عبد الله بن عوف، عن سعيد بن زيد، عن النبي صلى الله عليه وسلم قال \" من قاتل دون ماله فقتل فهو شهيد ومن قاتل دون دمه فهو شهيد ومن قاتل دون اهله فهو شهيد",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 37,
+      "hadith": 129
+    }
+  }
+}

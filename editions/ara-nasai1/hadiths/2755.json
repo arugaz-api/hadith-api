@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2755,
+    "arabicnumber": 2755,
+    "text": "اخبرنا اسحاق بن ابراهيم، انبانا النضر، قال حدثنا اشعث، عن الحسن، عن انس، ان رسول الله صلى الله عليه وسلم صلى الظهر بالبيداء ثم ركب وصعد جبل البيداء واهل بالحج والعمرة حين صلى الظهر",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 137
+    }
+  }
+}

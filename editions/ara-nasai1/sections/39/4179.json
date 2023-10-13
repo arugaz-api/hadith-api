@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4179,
+    "arabicnumber": 4179,
+    "text": "اخبرني محمد بن منصور، قال حدثنا سفيان، عن ايوب، عن محمد، عن ام عطية، قالت لما اردت ان ابايع، رسول الله صلى الله عليه وسلم قلت يا رسول الله ان امراة اسعدتني في الجاهلية فاذهب فاسعدها ثم اجييك فابايعك . قال \" اذهبي فاسعديها \" . قالت فذهبت فساعدتها ثم جيت فبايعت رسول الله صلى الله عليه وسلم",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 39,
+      "hadith": 31
+    }
+  }
+}

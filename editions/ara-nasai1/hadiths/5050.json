@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5050,
+    "arabicnumber": 5050,
+    "text": "اخبرني عمران بن يزيد، قال حدثنا عبد الرحمن بن محمد بن ابي الرجال، عن عمر بن نافع، عن ابيه، عن عبد الله بن عمر، عن النبي صلى الله عليه وسلم قال \" نهاني الله عز وجل عن القزع",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Munkar"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Munkar"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 48,
+      "hadith": 11
+    }
+  }
+}

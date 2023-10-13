@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 3744,
+    "arabicnumber": 3744,
+    "text": "اخبرنا قتيبة بن سعيد، قال حدثنا الليث، عن ابن شهاب، عن ابي سلمة بن عبد الرحمن، عن جابر، قال سمعت رسول الله صلى الله عليه وسلم يقول \" من اعمر رجلا عمرى له ولعقبه فقد قطع قوله حقه وهي لمن اعمر ولعقبه",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 34,
+      "hadith": 26
+    }
+  }
+}

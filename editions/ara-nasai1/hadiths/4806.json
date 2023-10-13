@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4806,
+    "arabicnumber": 4806,
+    "text": "اخبرنا عمرو بن علي، قال حدثنا عبد الرحمن، عن محمد بن راشد، عن سليمان بن موسى، وذكر، كلمة معناها عن عمرو بن شعيب، عن ابيه، عن جده، قال قال رسول الله صلى الله عليه وسلم \" عقل اهل الذمة نصف عقل المسلمين \" . وهم اليهود والنصارى",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 45,
+      "hadith": 101
+    }
+  }
+}

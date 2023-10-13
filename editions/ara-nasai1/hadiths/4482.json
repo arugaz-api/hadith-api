@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4482,
+    "arabicnumber": 4482,
+    "text": "اخبرني محمد بن اسماعيل بن ابراهيم، قال حدثنا يزيد، قال انبانا همام، عن قتادة، عن الحسن، عن سمرة، قال قال رسول الله صلى الله عليه وسلم \" البيعان بالخيار ما لم يتفرقا وياخذ احدهما ما رضي من صاحبه او هوي",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 44,
+      "hadith": 34
+    }
+  }
+}

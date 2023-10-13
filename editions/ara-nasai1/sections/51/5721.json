@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5721,
+    "arabicnumber": 5721,
+    "text": "اخبرنا سويد، قال انبانا عبد الله، عن هشيم، قال انبانا اسماعيل بن ابي خالد، عن قيس بن ابي حازم، عن ابي موسى الاشعري، انه كان يشرب من الطلاء ما ذهب ثلثاه وبقي ثلثه",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Muquf"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Muquf"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 51,
+      "hadith": 183
+    }
+  }
+}

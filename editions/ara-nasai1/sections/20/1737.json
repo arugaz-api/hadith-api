@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1737,
+    "arabicnumber": 1737,
+    "text": "اخبرنا احمد بن محمد بن عبيد الله، قال حدثنا شعيب بن حرب، عن مالك، عن زبيد، عن ابن ابزى، عن ابيه، قال كان رسول الله صلى الله عليه وسلم يقرا في الوتر ب { سبح اسم ربك الاعلى } و { قل يا ايها الكافرون } و { قل هو الله احد}",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 140
+    }
+  }
+}

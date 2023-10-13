@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2829,
+    "arabicnumber": 2829,
+    "text": "اخبرنا عمرو بن علي، قال حدثنا يحيى، قال حدثنا شعبة، قال حدثنا قتادة، عن سعيد بن المسيب، عن عايشة، عن النبي صلى الله عليه وسلم قال \" خمس يقتلهن المحرم الحية والفارة والحداة والغراب الابقع والكلب العقور",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 212
+    }
+  }
+}

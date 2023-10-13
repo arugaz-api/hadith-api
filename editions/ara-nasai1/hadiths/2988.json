@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2988,
+    "arabicnumber": 2988,
+    "text": "اخبرنا محمد بن يحيى بن عبد الله، قال حدثنا عبد الرزاق، قال انبانا معمر، عن ابن طاوس، عن ابيه، عن ابن عباس، عن معاوية، قال قصرت عن رسول الله صلى الله عليه وسلم على المروة بمشقص اعرابي",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 371
+    }
+  }
+}

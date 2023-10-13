@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4407,
+    "arabicnumber": 4407,
+    "text": "اخبرنا محمد بن بشار، عن محمد بن جعفر، قال حدثنا شعبة، قال سمعت حاضر بن المهاجر الباهلي، قال سمعت سليمان بن يسار، يحدث عن زيد بن ثابت، ان ذيبا، نيب في شاة فذبحوها بمروة فرخص النبي صلى الله عليه وسلم في اكلها",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 47
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5440,
+    "arabicnumber": 5440,
+    "text": "اخبرنا محمد بن المثنى، قال حدثنا يحيى، قال حدثنا اسماعيل، قال حدثنا قيس، عن عقبة بن عامر، عن النبي صلى الله عليه وسلم قال \" انزل على ايات لم ير مثلهن { قل اعوذ برب الفلق } الى اخر السورة و { قل اعوذ برب الناس } \" . الى اخر السورة",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 50,
+      "hadith": 13
+    }
+  }
+}

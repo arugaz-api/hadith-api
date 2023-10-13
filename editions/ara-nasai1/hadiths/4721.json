@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4721,
+    "arabicnumber": 4721,
+    "text": "اخبرنا بشر بن خالد، قال حدثنا محمد بن جعفر، عن شعبة، عن سليمان، قال سمعت عبد الله بن مرة، عن مسروق، عن عبد الله، عن رسول الله صلى الله عليه وسلم قال \" لا يحل دم امري مسلم الا باحدى ثلاث النفس بالنفس والثيب الزاني والتارك دينه المفارق",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 45,
+      "hadith": 16
+    }
+  }
+}

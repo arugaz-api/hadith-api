@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1129,
+    "arabicnumber": 1129,
+    "text": "اخبرنا سوار بن عبد الله بن سوار القاضي، ومحمد بن بشار، عن عبد الوهاب، قال حدثنا خالد، عن ابي العالية، عن عايشة، ان النبي صلى الله عليه وسلم كان يقول في سجود القران بالليل \" سجد وجهي للذي خلقه وشق سمعه وبصره بحوله وقوته",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 101
+    }
+  }
+}

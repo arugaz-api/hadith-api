@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 574,
+    "arabicnumber": 574,
+    "text": "اخبرنا عبيد الله بن سعيد، قال حدثنا يحيى، عن هشام، قال اخبرني ابي قال، قالت عايشة ما ترك رسول الله صلى الله عليه وسلم السجدتين بعد العصر عندي قط",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 6,
+      "hadith": 81
+    }
+  }
+}

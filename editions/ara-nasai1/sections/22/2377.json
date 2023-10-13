@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2377,
+    "arabicnumber": 2377,
+    "text": "اخبرنا احمد بن ابراهيم بن محمد، قال حدثنا ابن عايذ، قال حدثنا يحيى، عن الاوزاعي، عن عطاء، انه حدثه قال حدثني من، سمع عبد الله بن عمرو بن العاص، قال قال رسول الله صلى الله عليه وسلم \" من صام الابد فلا صام ولا افطر",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 288
+    }
+  }
+}

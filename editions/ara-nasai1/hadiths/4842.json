@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4842,
+    "arabicnumber": 4842,
+    "text": "اخبرنا الحسين بن منصور، قال حدثنا حفص بن عبد الرحمن، قال حدثنا سعيد بن ابي عروبة، عن مطر، عن عمرو بن شعيب، عن ابيه، عن جده، قال قال رسول الله صلى الله عليه وسلم \" الاسنان سواء خمسا خمسا",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 45,
+      "hadith": 137
+    }
+  }
+}

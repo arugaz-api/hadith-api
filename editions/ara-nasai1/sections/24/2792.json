@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2792,
+    "arabicnumber": 2792,
+    "text": "اخبرنا قتيبة، قال حدثنا الليث، عن ابي الزبير، عن جابر، انهم كانوا اذا كانوا حاضرين مع رسول الله صلى الله عليه وسلم بالمدينة بعث بالهدى فمن شاء احرم ومن شاء ترك",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 174
+    }
+  }
+}

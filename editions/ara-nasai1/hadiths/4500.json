@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4500,
+    "arabicnumber": 4500,
+    "text": "اخبرنا محمد بن رافع، قال انبانا عبد الرزاق، قال انبانا معمر، عن ابن طاوس، عن ابيه، عن ابن عباس، قال نهى رسول الله صلى الله عليه وسلم ان يتلقى الركبان وان يبيع حاضر لباد . قلت لابن عباس ما قوله حاضر لباد قال لا يكون له سمسارا",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 44,
+      "hadith": 52
+    }
+  }
+}

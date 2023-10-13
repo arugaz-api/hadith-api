@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4089,
+    "arabicnumber": 4089,
+    "text": "اخبرنا احمد بن سليمان، قال حدثنا معاوية بن هشام، قال حدثنا سفيان، عن عبد الله بن الحسن، عن ابراهيم بن محمد بن طلحة، عن عبد الله بن عمرو، قال قال رسول الله صلى الله عليه وسلم \" من قتل دون ماله فهو شهيد",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 37,
+      "hadith": 124
+    }
+  }
+}

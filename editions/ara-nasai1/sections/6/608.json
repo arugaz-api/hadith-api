@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 608,
+    "arabicnumber": 608,
+    "text": "اخبرنا قتيبة، قال حدثنا سفيان، عن الاعمش، عن عمارة، عن عبد الرحمن بن يزيد، عن عبد الله، قال ما رايت النبي صلى الله عليه وسلم جمع بين صلاتين الا بجمع وصلى الصبح يوميذ قبل وقتها",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 6,
+      "hadith": 115
+    }
+  }
+}

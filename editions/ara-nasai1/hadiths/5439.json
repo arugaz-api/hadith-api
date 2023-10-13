@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5439,
+    "arabicnumber": 5439,
+    "text": "اخبرنا قتيبة، قال حدثنا الليث، عن يزيد بن ابي حبيب، عن ابي عمران، اسلم عن عقبة بن عامر، قال اتيت رسول الله صلى الله عليه وسلم وهو راكب فوضعت يدي على قدمه فقلت اقريني سورة هود اقريني سورة يوسف . فقال \" لن تقرا شييا ابلغ عند الله عز وجل من { قل اعوذ برب الفلق}",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 50,
+      "hadith": 12
+    }
+  }
+}

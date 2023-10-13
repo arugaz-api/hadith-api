@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 3716,
+    "arabicnumber": 3716,
+    "text": "اخبرنا محمد بن عبد الله بن يزيد، قال حدثنا سفيان، عن ابن طاوس، عن ابيه، عن حجر المدري، عن زيد، قال قال رسول الله صلى الله عليه وسلم \" العمرى للوارث",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 33,
+      "hadith": 11
+    }
+  }
+}

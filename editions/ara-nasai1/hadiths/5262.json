@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5262,
+    "arabicnumber": 5262,
+    "text": "وحدثنا قتيبة، قال حدثنا الليث، عن ابن ابي جعفر، عن بكير بن عبد الله بن الاشج، عن بسر بن سعيد، عن زينب الثقفية، ان النبي صلى الله عليه وسلم قال \" ايتكن خرجت الى المسجد فلا تقربن طيبا",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 48,
+      "hadith": 223
+    }
+  }
+}

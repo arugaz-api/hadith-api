@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1245,
+    "arabicnumber": 1245,
+    "text": "اخبرنا سويد بن نصر، قال انبانا عبد الله، عن شعبة، عن الحكم، قال سمعت ابا وايل، يقول قال عبد الله من اوهم في صلاته فليتحر الصواب ثم يسجد سجدتين بعد ما يفرغ وهو جالس",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 13,
+      "hadith": 67
+    }
+  }
+}

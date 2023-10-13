@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4546,
+    "arabicnumber": 4546,
+    "text": "اخبرنا محمد بن علي بن ميمون، قال حدثنا محمد بن يوسف الفريابي، قال حدثنا سفيان، عن اسماعيل بن امية، عن عبد الله بن يزيد، عن زيد، عن سعد بن مالك، قال سيل رسول الله صلى الله عليه وسلم عن الرطب بالتمر فقال \" اينقص اذا يبس \" . قالوا نعم . فنهى عنه",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 44,
+      "hadith": 98
+    }
+  }
+}

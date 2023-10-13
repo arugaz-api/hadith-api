@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5250,
+    "arabicnumber": 5250,
+    "text": "اخبرنا محمد بن المثنى، قال حدثنا يحيى، عن هشام، قال حدثتني فاطمة، عن اسماء، ان امراة، جاءت الى رسول الله صلى الله عليه وسلم فقالت يا رسول الله ان بنتا لي عروس وانها اشتكت فتمزق شعرها فهل على جناح ان وصلت لها فيه فقال \" لعن الله الواصلة والمستوصلة",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 48,
+      "hadith": 211
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5733,
+    "arabicnumber": 5733,
+    "text": "اخبرنا سويد، قال انبانا عبد الله، عن عبد الملك، عن عطاء، في العصير قال اشربه حتى يغلي",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Isnaad Maqtu"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad Maqtu"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 51,
+      "hadith": 195
+    }
+  }
+}

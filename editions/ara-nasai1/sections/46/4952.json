@@ -1,0 +1,22 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4952,
+    "arabicnumber": 4952,
+    "text": "اخبرني محمد بن وهب، قال حدثنا محمد بن سلمة، قال حدثني ابن اسحاق، عن ايوب بن موسى، عن عطاء، مرسل",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "-"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 46,
+      "hadith": 82
+    }
+  }
+}

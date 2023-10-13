@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 3724,
+    "arabicnumber": 3724,
+    "text": "اخبرني زكريا بن يحيى، قال حدثنا زيد بن اخزم، قال انبانا معاذ بن هشام، قال حدثني ابي، عن قتادة، قال حدثنا عمرو بن دينار، عن طاوس، عن الحجوري، عن عبد الله بن عباس، عن النبي صلى الله عليه وسلم قال \" العمرى جايزة",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 34,
+      "hadith": 6
+    }
+  }
+}

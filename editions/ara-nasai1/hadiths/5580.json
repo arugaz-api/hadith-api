@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5580,
+    "arabicnumber": 5580,
+    "text": "اخبرنا احمد بن سليمان، قال حدثنا عبيد الله، عن اسراييل، عن ابي حصين، عن عامر، عن ابن عمر، قال الخمر من خمسة من التمر والحنطة والشعير والعسل والعنب",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 51,
+      "hadith": 42
+    }
+  }
+}

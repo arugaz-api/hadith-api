@@ -1,0 +1,22 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4725,
+    "arabicnumber": 4725,
+    "text": "اخبرنا محمد بن بشار، قال حدثنا يحيى، قال حدثنا جامع بن مطر الحبطي، عن علقمة بن وايل، عن ابيه، عن النبي صلى الله عليه وسلم بمثله . قال يحيى وهو احسن منه",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 45,
+      "hadith": 20
+    }
+  }
+}

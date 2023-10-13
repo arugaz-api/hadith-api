@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4302,
+    "arabicnumber": 4302,
+    "text": "اخبرنا محمد بن عبد الاعلى، قال حدثنا خالد، قال حدثنا شعبة، عن عبد الملك بن ميسرة، عن سعيد بن جبير، عن عدي بن حاتم، قال قلت يا رسول الله ارمي الصيد فاطلب اثره بعد ليلة . قال \" اذا وجدت فيه سهمك ولم ياكل منه سبع فكل",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 42,
+      "hadith": 40
+    }
+  }
+}

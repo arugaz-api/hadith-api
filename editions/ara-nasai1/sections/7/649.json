@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 649,
+    "arabicnumber": 649,
+    "text": "اخبرنا محمد بن معدان بن عيسى، قال حدثنا الحسن بن اعين، قال حدثنا زهير، قال حدثنا الاعمش، عن ابراهيم، عن الاسود، عن بلال، قال اخر الاذان الله اكبر الله اكبر لا اله الا الله",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 7,
+      "hadith": 24
+    }
+  }
+}

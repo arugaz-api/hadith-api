@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 544,
+    "arabicnumber": 544,
+    "text": "اخبرنا علي بن حجر، قال حدثنا اسماعيل، قال حدثنا حميد، عن انس، ان رجلا، اتى النبي صلى الله عليه وسلم فساله عن وقت صلاة الغداة فلما اصبحنا من الغد امر حين انشق الفجر ان تقام الصلاة فصلى بنا فلما كان من الغد اسفر ثم امر فاقيمت الصلاة فصلى بنا ثم قال \" اين السايل عن وقت الصلاة ما بين هذين وقت",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 6,
+      "hadith": 51
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4288,
+    "arabicnumber": 4288,
+    "text": "اخبرنا محمد بن بشار، قال حدثنا يحيى، وابن ابي عدي، ومحمد بن جعفر، عن عوف، عن الحسن، عن عبد الله بن مغفل، عن النبي صلى الله عليه وسلم قال \" من اتخذ كلبا الا كلب صيد او ماشية او زرع نقص من اجره كل يوم قيراط",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 42,
+      "hadith": 26
+    }
+  }
+}

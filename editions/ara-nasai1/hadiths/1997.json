@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1997,
+    "arabicnumber": 1997,
+    "text": "اخبرنا الحسن بن قزعة، قال حدثنا مسلمة بن علقمة، قال انبانا داود، عن عامر، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم \" من تبع جنازة فصلى عليها ثم انصرف فله قيراط من الاجر ومن تبعها فصلى عليها ثم قعد حتى يفرغ من دفنها فله قيراطان من الاجر كل واحد منهما اعظم من احد",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 21,
+      "hadith": 180
+    }
+  }
+}

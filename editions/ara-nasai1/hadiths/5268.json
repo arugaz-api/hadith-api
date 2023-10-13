@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5268,
+    "arabicnumber": 5268,
+    "text": "اخبرنا عيسى بن حماد، عن الليث، عن يزيد بن ابي حبيب، عن ابراهيم بن عبد الله بن حنين، ان اباه، حدثه انه، سمع عليا، يقول نهاني رسول الله صلى الله عليه وسلم عن خاتم الذهب وعن لبوس القسي والمعصفر وقراءة القران وانا راكع",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 48,
+      "hadith": 229
+    }
+  }
+}

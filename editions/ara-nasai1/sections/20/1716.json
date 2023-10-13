@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1716,
+    "arabicnumber": 1716,
+    "text": "اخبرنا محمد بن اسماعيل بن ابراهيم، عن يزيد، قال حدثنا سفيان بن الحسين، عن الحكم، عن مقسم، قال الوتر سبع فلا اقل من خمس فذكرت ذلك لابراهيم فقال عمن ذكره قلت لا ادري . قال الحكم فحججت فلقيت مقسما فقلت له عمن قال عن الثقة عن عايشة وعن ميمونة",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 119
+    }
+  }
+}

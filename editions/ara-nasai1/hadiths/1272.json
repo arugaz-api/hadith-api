@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1272,
+    "arabicnumber": 1272,
+    "text": "اخبرنا محمد بن بشار، قال حدثنا صفوان بن عيسى، قال حدثنا ابن عجلان، عن القعقاع، عن ابي صالح، عن ابي هريرة، ان رجلا، كان يدعو باصبعيه فقال رسول الله صلى الله عليه وسلم \" احد احد",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 13,
+      "hadith": 94
+    }
+  }
+}

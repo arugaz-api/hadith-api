@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2054,
+    "arabicnumber": 2054,
+    "text": "اخبرنا عبيد الله بن سعيد، قال حدثنا يحيى، عن التيمي، عن ابي عثمان، عن عامر بن مالك، عن صفوان بن امية، قال الطاعون والمبطون والغريق والنفساء شهادة . قال وحدثنا ابو عثمان مرارا ورفعه مرة الى النبي صلى الله عليه وسلم",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 21,
+      "hadith": 237
+    }
+  }
+}

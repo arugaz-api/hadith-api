@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5081,
+    "arabicnumber": 5081,
+    "text": "اخبرنا حميد بن مسعدة، قال حدثنا عبد الوارث، قال حدثنا الجريري، عن عبد الله بن بريدة، قال قال رسول الله صلى الله عليه وسلم \" ان احسن ما غيرتم به الشيب الحناء والكتم",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 48,
+      "hadith": 42
+    }
+  }
+}

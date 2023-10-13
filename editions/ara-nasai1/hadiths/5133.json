@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5133,
+    "arabicnumber": 5133,
+    "text": "اخبرنا ابو بكر بن علي، قال حدثنا منصور بن ابي مزاحم، قال انبانا ابراهيم بن سعد، عن ابيه، عن محمد بن عبد الله بن عمرو بن هشام، عن بكير، عن بسر بن سعيد، عن زينب الثقفية، ان رسول الله صلى الله عليه وسلم قال \" اذا خرجت المراة الى العشاء الاخرة فلا تمس طيبا",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 48,
+      "hadith": 94
+    }
+  }
+}

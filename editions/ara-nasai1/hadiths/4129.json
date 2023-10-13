@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4129,
+    "arabicnumber": 4129,
+    "text": "اخبرني ابراهيم بن يعقوب، قال حدثنا يعلى، قال حدثنا الاعمش، عن ابي الضحى، عن مسروق، قال قال رسول الله صلى الله عليه وسلم \" لا ترجعوا بعدي كفارا \" . مرسل",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 37,
+      "hadith": 164
+    }
+  }
+}

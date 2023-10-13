@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5255,
+    "arabicnumber": 5255,
+    "text": "اخبرنا محمد بن المثنى، قال حدثنا محمد بن جعفر، قال حدثنا شعبة، عن سليمان الاعمش، عن ابراهيم، قال كان عبد الله يقول لعن الله المتوشمات والمتنمصات والمتفلجات الا العن من لعن رسول الله صلى الله عليه وسلم",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 48,
+      "hadith": 216
+    }
+  }
+}

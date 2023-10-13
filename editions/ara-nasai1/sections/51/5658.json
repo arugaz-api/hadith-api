@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5658,
+    "arabicnumber": 5658,
+    "text": "اخبرنا محمد بن عبد الاعلى، عن خالد، - وهو ابن الحارث - عن شعبة، قال سمعت ابا بكر بن حفص، يقول سمعت ابن محيريز، يحدث عن رجل، من اصحاب النبي صلى الله عليه وسلم عن النبي صلى الله عليه وسلم قال \" يشرب ناس من امتي الخمر يسمونها بغير اسمها",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 51,
+      "hadith": 120
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5015,
+    "arabicnumber": 5015,
+    "text": "اخبرنا عمران بن بكار قال حدثنا علي بن عياش قال حدثنا شعيب قال حدثنا ابو الزناد مما حدثه عبد الرحمن بن هرمز مما ذكر انه سمع ابا هريرة يحدث به عن رسول الله صلى الله عليه وسلم قال والذي نفسي بيده لا يومن احدكم حتى اكون احب اليه من ولده ووالده",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari"
+      }
+    ],
+    "reference": {
+      "book": 47,
+      "hadith": 31
+    }
+  }
+}

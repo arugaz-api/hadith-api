@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2545,
+    "arabicnumber": 2545,
+    "text": "اخبرنا محمد بن بشار، قال حدثنا محمد، قال حدثنا شعبة، عن عدي بن ثابت، قال سمعت عبد الله بن يزيد الانصاري، يحدث عن ابي مسعود، عن النبي صلى الله عليه وسلم قال \" اذا انفق الرجل على اهله وهو يحتسبها كانت له صدقة",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 23,
+      "hadith": 111
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1814,
+    "arabicnumber": 1814,
+    "text": "اخبرنا احمد بن ناصح، قال حدثنا مروان بن محمد، عن سعيد بن عبد العزيز، عن سليمان بن موسى، عن مكحول، عن عنبسة بن ابي سفيان، عن ام حبيبة، ان رسول الله صلى الله عليه وسلم كان يقول \" من صلى اربع ركعات قبل الظهر واربعا بعدها حرمه الله عز وجل على النار",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 217
+    }
+  }
+}

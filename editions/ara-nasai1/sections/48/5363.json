@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5363,
+    "arabicnumber": 5363,
+    "text": "اخبرنا قتيبة، قال حدثنا ابو عوانة، عن سماك، عن القاسم بن محمد، عن عايشة، زوج النبي صلى الله عليه وسلم انها قالت ان اشد الناس عذابا يوم القيامة الذين يضاهون الله في خلقه",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 48,
+      "hadith": 324
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2126,
+    "arabicnumber": 2126,
+    "text": "اخبرنا اسحاق بن ابراهيم، قال انبانا جرير، عن منصور، عن ربعي بن حراش، عن حذيفة بن اليمان، عن رسول الله صلى الله عليه وسلم قال \" لا تقدموا الشهر حتى تروا الهلال قبله او تكملوا العدة ثم صوموا حتى تروا الهلال او تكملوا العدة قبله",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 37
+    }
+  }
+}

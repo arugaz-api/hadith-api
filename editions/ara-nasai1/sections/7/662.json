@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 662,
+    "arabicnumber": 662,
+    "text": "اخبرنا هناد، عن هشيم، عن ابي الزبير، عن نافع بن جبير، عن ابي عبيدة، قال قال عبد الله ان المشركين شغلوا النبي صلى الله عليه وسلم عن اربع صلوات يوم الخندق فامر بلالا فاذن ثم اقام فصلى الظهر ثم اقام فصلى العصر ثم اقام فصلى المغرب ثم اقام فصلى العشاء",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 7,
+      "hadith": 37
+    }
+  }
+}

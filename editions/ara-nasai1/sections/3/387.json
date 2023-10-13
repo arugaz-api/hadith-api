@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 387,
+    "arabicnumber": 387,
+    "text": "اخبرنا عمرو بن علي، قال حدثنا يحيى، قال حدثني سفيان، قال حدثني منصور، عن ابراهيم، عن الاسود، عن عايشة، قالت كان رسول الله صلى الله عليه وسلم يدني الى راسه وهو معتكف فاغسله وانا حايض",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 3,
+      "hadith": 40
+    }
+  }
+}

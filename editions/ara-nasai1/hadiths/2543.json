@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2543,
+    "arabicnumber": 2543,
+    "text": "اخبرنا عمرو بن علي، قال حدثنا يحيى، قال حدثنا عمرو بن عثمان، قال سمعت موسى بن طلحة، ان حكيم بن حزام، حدثه قال قال رسول الله صلى الله عليه وسلم \" افضل الصدقة ما كان عن ظهر غنى واليد العليا خير من اليد السفلى وابدا بمن تعول",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 23,
+      "hadith": 109
+    }
+  }
+}

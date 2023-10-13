@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 3723,
+    "arabicnumber": 3723,
+    "text": "اخبرنا محمد بن عبيد الله بن يزيد بن ابراهيم، قال اخبرني ابي انه، عرض على معقل عن عمرو بن دينار، عن حجر المدري، عن زيد بن ثابت، قال قال رسول الله صلى الله عليه وسلم \" من اعمر شييا فهو لمعمره محياه ومماته ولا ترقبوا فمن ارقب شييا فهو لسبيله",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 34,
+      "hadith": 5
+    }
+  }
+}

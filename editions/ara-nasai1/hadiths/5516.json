@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5516,
+    "arabicnumber": 5516,
+    "text": "اخبرنا محمد بن منصور، قال حدثنا سفيان، عن ابي الزناد، عن الاعرج، عن ابي هريرة، عن النبي صلى الله عليه وسلم قال \" عوذوا بالله من عذاب الله عوذوا بالله من عذاب القبر عوذوا بالله من فتنة المحيا والممات عوذوا بالله من فتنة المسيح الدجال",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 50,
+      "hadith": 89
+    }
+  }
+}

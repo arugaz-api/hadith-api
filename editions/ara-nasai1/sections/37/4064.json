@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4064,
+    "arabicnumber": 4064,
+    "text": "اخبرنا الحسين بن عيسى، عن عبد الصمد، قال حدثنا هشام، عن قتادة، عن انس، ان ابن عباس، قال قال رسول الله صلى الله عليه وسلم \" من بدل دينه فاقتلوه",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 37,
+      "hadith": 99
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4586,
+    "arabicnumber": 4586,
+    "text": "اخبرنا محمد بن بشار، قال حدثنا عبد الرحمن، قال حدثنا سفيان، عن ابي الهذيل، عن ابراهيم، في قبض الدنانير من الدراهم انه كان يكرهها اذا كان من قرض",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Maqtu"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Maqtu"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 44,
+      "hadith": 138
+    }
+  }
+}

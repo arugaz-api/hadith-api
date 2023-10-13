@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 890,
+    "arabicnumber": 890,
+    "text": "اخبرنا اسحاق بن ابراهيم، قال انبانا جرير، عن هشام، ح واخبرنا سويد بن نصر، قال انبانا عبد الله بن المبارك، - واللفظ له - عن هشام، عن ابن سيرين، عن ابي هريرة، ان النبي صلى الله عليه وسلم نهى ان يصلي الرجل مختصرا",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 11,
+      "hadith": 15
+    }
+  }
+}

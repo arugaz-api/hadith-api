@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5637,
+    "arabicnumber": 5637,
+    "text": "اخبرنا قريش بن عبد الرحمن، قال انبانا علي بن الحسن، قال انبانا الحسين، قال حدثني محمد بن زياد، قال سمعت ابا هريرة، يقول ان رسول الله صلى الله عليه وسلم نهى عن الدباء والحنتم والنقير والمزفت",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 51,
+      "hadith": 99
+    }
+  }
+}

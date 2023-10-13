@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2148,
+    "arabicnumber": 2148,
+    "text": "اخبرنا احمد بن سليمان، قال حدثنا يزيد، قال انبانا عبد الملك بن ابي سليمان، عن عطاء، عن ابي هريرة، قال تسحروا فان في السحور بركة . رفعه ابن ابي ليلى",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Muquf"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 59
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 551,
+    "arabicnumber": 551,
+    "text": "اخبرنا محمد بن رافع، قال حدثنا زكريا بن عدي، قال انبانا ابن المبارك، عن يونس بن يزيد، عن الزهري، عن عروة، عن عايشة، عن النبي صلى الله عليه وسلم قال \" من ادرك ركعة من الفجر قبل ان تطلع الشمس فقد ادركها ومن ادرك ركعة من العصر قبل ان تغرب الشمس فقد ادركها",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 6,
+      "hadith": 58
+    }
+  }
+}

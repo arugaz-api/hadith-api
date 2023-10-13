@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 368,
+    "arabicnumber": 368,
+    "text": "اخبرنا عمرو بن زرارة، قال انبانا اسماعيل، عن ايوب، عن محمد، قال قالت ام عطية كنا لا نعد الصفرة والكدرة شييا",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari"
+      }
+    ],
+    "reference": {
+      "book": 3,
+      "hadith": 20
+    }
+  }
+}

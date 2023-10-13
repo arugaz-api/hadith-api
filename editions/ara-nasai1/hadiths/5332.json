@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5332,
+    "arabicnumber": 5332,
+    "text": "اخبرنا محمد بن عبد الله بن عبيد بن عقيل، قال حدثني جدي، قال حدثنا شعبة، عن اشعث، قال سمعت سعيد بن جبير، عن ابن عباس، عن النبي صلى الله عليه وسلم قال \" ان الله عز وجل لا ينظر الى مسبل الازار",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 48,
+      "hadith": 293
+    }
+  }
+}

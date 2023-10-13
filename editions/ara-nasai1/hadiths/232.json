@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 232,
+    "arabicnumber": 232,
+    "text": "اخبرنا سويد بن نصر، قال انبانا عبد الله، عن هشام بن عروة، ح وانبانا قتيبة، عن مالك، عن هشام بن عروة، عن ابيه، عن عايشة، رضى الله عنها ان رسول الله صلى الله عليه وسلم كان يغتسل وانا من اناء واحد نغترف منه جميعا",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 233
+    }
+  }
+}

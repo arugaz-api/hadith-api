@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5498,
+    "arabicnumber": 5498,
+    "text": "اخبرنا ازهر بن جميل، قال حدثنا خالد بن الحارث، قال حدثنا شعبة، عن عاصم، عن عبد الله بن سرجس، ان رسول الله صلى الله عليه وسلم كان اذا سافر قال \" اللهم اني اعوذ بك من وعثاء السفر وكابة المنقلب والحور بعد الكور ودعوة المظلوم وسوء المنظر في الاهل والمال",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 50,
+      "hadith": 71
+    }
+  }
+}

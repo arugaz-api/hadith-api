@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4375,
+    "arabicnumber": 4375,
+    "text": "اخبرني هارون بن عبد الله، قال حدثنا شجاع بن الوليد، قال حدثني زياد بن خيثمة، قال حدثنا ابو اسحاق، عن شريح بن النعمان، عن علي بن ابي طالب، رضى الله عنه ان رسول الله صلى الله عليه وسلم قال \" لا يضحى بمقابلة ولا مدابرة ولا شرقاء ولا خرقاء ولا عوراء",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 15
+    }
+  }
+}

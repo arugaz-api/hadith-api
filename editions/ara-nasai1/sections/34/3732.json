@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 3732,
+    "arabicnumber": 3732,
+    "text": "اخبرنا اسحاق بن ابراهيم، قال انبانا عبد الرزاق، قال انبانا ابن جريج، عن عطاء، انبانا حبيب بن ابي ثابت، عن ابن عمر، ان رسول الله صلى الله عليه وسلم قال \" لا عمرى ولا رقبى فمن اعمر شييا او ارقبه فهو له حياته ومماته",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 34,
+      "hadith": 14
+    }
+  }
+}

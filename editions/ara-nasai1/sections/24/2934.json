@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2934,
+    "arabicnumber": 2934,
+    "text": "اخبرنا يعقوب بن ابراهيم، عن عبد الرحمن بن مهدي، اخبرني هاني بن ايوب، عن طاوس، عن جابر بن عبد الله، ان النبي صلى الله عليه وسلم طاف طوافا واحدا",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 317
+    }
+  }
+}

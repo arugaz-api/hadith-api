@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1725,
+    "arabicnumber": 1725,
+    "text": "اخبرنا هناد بن السري، عن ابي الاحوص، عن الاعمش، اراه عن ابراهيم، عن الاسود، عن عايشة، قالت كان رسول الله صلى الله عليه وسلم يصلي من الليل تسع ركعات",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 128
+    }
+  }
+}

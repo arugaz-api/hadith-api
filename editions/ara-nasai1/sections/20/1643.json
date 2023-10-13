@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1643,
+    "arabicnumber": 1643,
+    "text": "اخبرنا عمران بن موسى، عن عبد الوارث، قال حدثنا عبد العزيز، عن انس بن مالك، ان رسول الله صلى الله عليه وسلم دخل المسجد فراى حبلا ممدودا بين ساريتين فقال \" ما هذا الحبل \" . فقالوا لزينب تصلي فاذا فترت تعلقت به . فقال النبي صلى الله عليه وسلم \" حلوه ليصل احدكم نشاطه فاذا فتر فليقعد",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 46
+    }
+  }
+}

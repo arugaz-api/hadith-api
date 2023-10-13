@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4531,
+    "arabicnumber": 4531,
+    "text": "اخبرنا قتيبة بن سعيد، قال حدثنا سفيان، عن حميد الاعرج، عن سليمان بن عتيك، - قال قتيبة عتيك بالكاف والصواب عتيق - عن جابر عن النبي صلى الله عليه وسلم نهى عن بيع الثمر سنين",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 44,
+      "hadith": 83
+    }
+  }
+}

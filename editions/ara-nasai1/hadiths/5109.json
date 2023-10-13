@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5109,
+    "arabicnumber": 5109,
+    "text": "اخبرنا ابراهيم بن يعقوب، قال حدثنا علي بن الحسن بن شقيق، قال انبانا الحسين بن واقد، قال حدثنا عبد الملك بن عمير، عن العريان بن الهيثم، عن قبيصة بن جابر، عن عبد الله، قال سمعت رسول الله صلى الله عليه وسلم يقول \" لعن الله المتنمصات والموتشمات والمتفلجات اللاتي يغيرن خلق الله عز وجل",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 48,
+      "hadith": 70
+    }
+  }
+}

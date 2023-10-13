@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 3174,
+    "arabicnumber": 3174,
+    "text": "حدثني محمد بن اسماعيل بن ابراهيم، قال حدثنا يزيد، قال انبانا هشيم، قال حدثنا سيار ابو الحكم، عن جبر بن عبيدة، عن ابي هريرة، قال وعدنا رسول الله صلى الله عليه وسلم غزوة الهند فان ادركتها انفق فيها نفسي ومالي وان قتلت كنت افضل الشهداء وان رجعت فانا ابو هريرة المحرر",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Daif Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 25,
+      "hadith": 90
+    }
+  }
+}

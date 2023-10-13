@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5314,
+    "arabicnumber": 5314,
+    "text": "اخبرنا يعقوب بن ابراهيم، قال حدثنا هشيم، قال حدثنا شعبة، عن ابي اسحاق، عن البراء، قال رايت النبي صلى الله عليه وسلم وعليه حلة حمراء مترجلا لم ار قبله ولا بعده احدا هو اجمل منه",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 48,
+      "hadith": 275
+    }
+  }
+}

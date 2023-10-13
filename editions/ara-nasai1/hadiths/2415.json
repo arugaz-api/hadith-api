@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2415,
+    "arabicnumber": 2415,
+    "text": "اخبرنا علي بن محمد بن علي، قال حدثنا خلف بن تميم، عن زهير، عن الحر بن الصياح، قال سمعت هنيدة الخزاعي، قال دخلت على ام المومنين سمعتها تقول كان رسول الله صلى الله عليه وسلم يصوم من كل شهر ثلاثة ايام اول اثنين من الشهر ثم الخميس ثم الخميس الذي يليه",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 326
+    }
+  }
+}

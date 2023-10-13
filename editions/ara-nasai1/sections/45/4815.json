@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4815,
+    "arabicnumber": 4815,
+    "text": "اخبرنا احمد بن سليمان، قال حدثنا يزيد، قال انبانا كهمس، عن عبد الله بن بريدة، عن عبد الله بن مغفل، انه راى رجلا يخذف فقال لا تخذف فان نبي الله صلى الله عليه وسلم كان ينهى عن الخذف او يكره الخذف . شك كهمس",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 45,
+      "hadith": 110
+    }
+  }
+}

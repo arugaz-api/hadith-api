@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1667,
+    "arabicnumber": 1667,
+    "text": "اخبرنا محمد بن قدامة، قال حدثنا جرير، عن منصور، عن حبيب، عن طاوس، قال قال ابن عمر سال رجل رسول الله صلى الله عليه وسلم عن صلاة الليل فقال \" مثنى مثنى فاذا خشيت الصبح فواحدة",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 70
+    }
+  }
+}

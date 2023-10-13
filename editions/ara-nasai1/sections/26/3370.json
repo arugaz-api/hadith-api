@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 3370,
+    "arabicnumber": 3370,
+    "text": "اخبرنا محمد بن عبد الاعلى، قال حدثنا خالد، عن شعبة، عن ابي بلج، قال سمعت محمد بن حاطب، قال قال رسول الله صلى الله عليه وسلم \" ان فصل ما بين الحلال والحرام الصوت",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 26,
+      "hadith": 175
+    }
+  }
+}

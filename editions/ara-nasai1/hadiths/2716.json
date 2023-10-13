@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2716,
+    "arabicnumber": 2716,
+    "text": "اخبرنا قتيبة، عن مالك، عن ابي الاسود، محمد بن عبد الرحمن عن عروة بن الزبير، عن عايشة، قالت اهل رسول الله صلى الله عليه وسلم بالحج",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Agreed Upon"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 98
+    }
+  }
+}
