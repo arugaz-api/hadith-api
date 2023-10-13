@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 68,
+    "arabicnumber": 68,
+    "text": "وحدثني يحيى، عن مالك، انه بلغه ان جابر بن عبد الله الانصاري، سيل عن المسح، على العمامة فقال لا حتى يمسح الشعر بالماء",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Mauquf Daif"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 37
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 343,
+    "arabicnumber": 343,
+    "text": "حدثني يحيى، عن مالك، عن ابن شهاب، عن سالم بن عبد الله، ان عبد الله بن عمر، كان يقول اصلي صلاة المسافر ما لم اجمع مكثا وان حبسني ذلك اثنتى عشرة ليلة",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Mauquf Sahih"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 18
+    }
+  }
+}

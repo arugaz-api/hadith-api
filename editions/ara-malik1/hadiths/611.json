@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 611,
+    "arabicnumber": 611,
+    "text": "حدثني يحيى، عن مالك، عن عبد الله بن دينار، عن سليمان بن يسار، عن عراك بن مالك، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال \" ليس على المسلم في عبده ولا في فرسه صدقة",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 17,
+      "hadith": 34
+    }
+  }
+}

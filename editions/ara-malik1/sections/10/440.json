@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 440,
+    "arabicnumber": 440,
+    "text": "وحدثني عن مالك، عن هشام بن عروة، عن ابيه، انه كان يصلي يوم الفطر قبل الصلاة في المسجد",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Mauquf Sahih"
+      }
+    ],
+    "reference": {
+      "book": 10,
+      "hadith": 13
+    }
+  }
+}

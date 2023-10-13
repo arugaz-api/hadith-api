@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 213,
+    "arabicnumber": 213,
+    "text": "وحدثني عن مالك، عن عمر بن محمد بن زيد، عن سالم بن عبد الله، ان عبد الله بن عمر، كان يقول اذا شك احدكم في صلاته فليتوخ الذي يظن انه نسي من صلاته فليصله ثم ليسجد سجدتى السهو وهو جالس",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Mauquf Sahih"
+      }
+    ],
+    "reference": {
+      "book": 3,
+      "hadith": 46
+    }
+  }
+}

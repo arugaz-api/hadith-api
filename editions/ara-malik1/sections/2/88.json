@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 88,
+    "arabicnumber": 88,
+    "text": "وحدثني عن مالك، عن الصلت بن زييد، انه قال سالت سليمان بن يسار عن البلل، اجده فقال انضح ما تحت ثوبك بالماء واله عنه",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Maqtu Sahih"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 57
+    }
+  }
+}

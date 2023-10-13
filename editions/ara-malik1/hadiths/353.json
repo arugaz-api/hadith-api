@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 353,
+    "arabicnumber": 353,
+    "text": "وحدثني عن مالك، عن عمرو بن يحيى المازني، عن ابي الحباب، سعيد بن يسار عن عبد الله بن عمر، انه قال رايت رسول الله صلى الله عليه وسلم يصلي وهو على حمار وهو متوجه الى خيبر",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 28
+    }
+  }
+}

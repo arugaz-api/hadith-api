@@ -1,0 +1,34 @@
+{
+  "author": "Muwatta Malik",
+  "section": {
+    "book": 61,
+    "section": "The Names of the Prophet, may Allah Bless Him and Grant Him Peace",
+    "detail": {
+      "hadith": {
+        "first": 1858,
+        "last": 1858
+      },
+      "arabic": {
+        "first": 1858,
+        "last": 1858
+      }
+    },
+    "hadiths": [
+      {
+        "hadithnumber": 1858,
+        "arabicnumber": 1858,
+        "text": "حدثني مالك، عن ابن شهاب، عن محمد بن جبير بن مطعم، ان النبي صلى الله عليه وسلم قال \" لي خمسة اسماء انا محمد وانا احمد وانا الماحي الذي يمحو الله بي الكفر وانا الحاشر الذي يحشر الناس على قدمي وانا العاقب",
+        "grades": [
+          {
+            "name": "Salim al-Hilali",
+            "grade": "Sahih"
+          }
+        ],
+        "reference": {
+          "book": 61,
+          "hadith": 1
+        }
+      }
+    ]
+  }
+}

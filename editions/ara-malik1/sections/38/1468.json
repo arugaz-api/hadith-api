@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 1468,
+    "arabicnumber": 1468,
+    "text": "حدثني مالك، عن نافع، عن عبد الله بن عمر، ان عمر بن الخطاب، قال ايما وليدة ولدت من سيدها فانه لا يبيعها ولا يهبها ولا يورثها وهو يستمتع بها فاذا مات فهي حرة",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Mauquf Sahih"
+      }
+    ],
+    "reference": {
+      "book": 38,
+      "hadith": 5
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 450,
+    "arabicnumber": 450,
+    "text": "حدثني يحيى، عن مالك، عن يحيى بن سعيد، عن عمرو بن شعيب، ان رسول الله صلى الله عليه وسلم كان اذا استسقى قال \" اللهم اسق عبادك وبهيمتك وانشر رحمتك واحى بلدك الميت",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 13,
+      "hadith": 2
+    }
+  }
+}

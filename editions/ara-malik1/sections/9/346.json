@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 346,
+    "arabicnumber": 346,
+    "text": "حدثني يحيى، عن مالك، عن ابن شهاب، عن سالم بن عبد الله، عن ابيه، ان عمر بن الخطاب، كان اذا قدم مكة صلى بهم ركعتين ثم يقول يا اهل مكة اتموا صلاتكم فانا قوم سفر",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Mauquf Sahih"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 21
+    }
+  }
+}

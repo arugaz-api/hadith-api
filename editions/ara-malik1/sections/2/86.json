@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 86,
+    "arabicnumber": 86,
+    "text": "وحدثني عن مالك، عن زيد بن اسلم، عن جندب، مولى عبد الله بن عياش انه قال سالت عبد الله بن عمر عن المذى، فقال اذا وجدته فاغسل فرجك وتوضا وضوءك للصلاة",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Mauquf Daif"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 55
+    }
+  }
+}

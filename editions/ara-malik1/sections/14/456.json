@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 456,
+    "arabicnumber": 456,
+    "text": "وحدثني عن مالك، عن نافع، عن رجل، من الانصار ان رسول الله صلى الله عليه وسلم نهى ان تستقبل القبلة لغايط او بول",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Sahih Lighairihi"
+      }
+    ],
+    "reference": {
+      "book": 14,
+      "hadith": 2
+    }
+  }
+}

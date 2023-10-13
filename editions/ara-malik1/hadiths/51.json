@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 51,
+    "arabicnumber": 51,
+    "text": "وحدثني عن مالك، عن ضمرة بن سعيد المازني، عن ابان بن عثمان، ان عثمان بن عفان، اكل خبزا ولحما ثم مضمض وغسل يديه ومسح بهما وجهه ثم صلى ولم يتوضا",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Mauquf Sahih"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 20
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 80,
+    "arabicnumber": 80,
+    "text": "حدثني يحيى، عن مالك، عن عبد الرحمن بن حرملة الاسلمي، انه قال رايت سعيد",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Maqtu Hasan"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 49
+    }
+  }
+}

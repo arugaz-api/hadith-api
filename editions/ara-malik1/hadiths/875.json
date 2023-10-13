@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 875,
+    "arabicnumber": 875,
+    "text": "حدثني يحيى، عن مالك، عن نافع، ان عبد الله بن عمر، كان يقول من لم يقف بعرفة من ليلة المزدلفة قبل ان يطلع الفجر فقد فاته الحج ومن وقف بعرفة من ليلة المزدلفة من قبل ان يطلع الفجر فقد ادرك الحج",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Mauquf Sahih"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 171
+    }
+  }
+}

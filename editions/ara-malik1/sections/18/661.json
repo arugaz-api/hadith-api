@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 661,
+    "arabicnumber": 661,
+    "text": "حدثني يحيى، عن مالك، عن نافع، عن عبد الله بن عمر، انه كان يحتجم وهو صايم - قال - ثم ترك ذلك بعد فكان اذا صام لم يحتجم حتى يفطر",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 18,
+      "hadith": 32
+    }
+  }
+}

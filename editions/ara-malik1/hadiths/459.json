@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 459,
+    "arabicnumber": 459,
+    "text": "وحدثني عن مالك، عن هشام بن عروة، عن ابيه، عن عايشة، زوج النبي صلى",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 14,
+      "hadith": 5
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 563,
+    "arabicnumber": 563,
+    "text": "حدثني يحيى، عن مالك، عن ابي الرجال، محمد بن عبد الرحمن عن امه، عمرة بنت عبد الرحمن انه سمعها تقول، لعن رسول الله صلى الله عليه وسلم المختفي والمختفية يعني نباش القبور",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 16,
+      "hadith": 44
+    }
+  }
+}

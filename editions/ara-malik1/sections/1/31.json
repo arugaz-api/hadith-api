@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 31,
+    "arabicnumber": 31,
+    "text": "وحدثني عن مالك، عن عبد الرحمن بن المجبر، انه كان يرى سالم بن عبد الله اذا راى الانسان يغطي فاه وهو يصلي جبذ الثوب عن فيه جبذا شديدا حتى ينزعه عن فيه",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Maqtu Sahih"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 31
+    }
+  }
+}

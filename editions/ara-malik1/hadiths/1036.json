@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 1036,
+    "arabicnumber": 1036,
+    "text": "حدثني يحيى، عن مالك، عن ابي الزبير المكي، عن جابر بن عبد الله، انه قال نحرنا مع رسول الله صلى الله عليه وسلم عام الحديبية البدنة عن سبعة والبقرة عن سبعة",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 23,
+      "hadith": 9
+    }
+  }
+}

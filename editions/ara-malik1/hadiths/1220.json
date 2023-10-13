@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 1220,
+    "arabicnumber": 1220,
+    "text": "وحدثني عن مالك، عن يحيى بن سعيد، عن رجل، من الانصار ان امراته، سالته الطلاق فقال لها اذا حضت فاذنيني . فلما حاضت اذنته فقال اذا طهرت فاذنيني فلما",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Maqtu Daif"
+      }
+    ],
+    "reference": {
+      "book": 29,
+      "hadith": 17
+    }
+  }
+}

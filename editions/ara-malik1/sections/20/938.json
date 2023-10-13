@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 938,
+    "arabicnumber": 938,
+    "text": "حدثني يحيى، عن مالك، عن زيد بن اسلم، ان رجلا، جاء الى عمر بن الخطاب فقال يا امير المومنين اني اصبت جرادات بسوطي وانا محرم . فقال له عمر اطعم قبضة من طعام",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Mauquf Daif"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 11
+    }
+  }
+}

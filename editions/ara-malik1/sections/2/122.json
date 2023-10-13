@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 122,
+    "arabicnumber": 122,
+    "text": "وحدثني عن مالك، عن نافع، ان عبد الله بن عمر، كان يتيمم الى المرفقين . وسيل مالك كيف التيمم واين يبلغ به فقال يضرب ضربة للوجه وضربة لليدين ويمسحهما الى المرفقين",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Mauquf Sahih"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 91
+    }
+  }
+}

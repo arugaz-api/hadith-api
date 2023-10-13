@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 472,
+    "arabicnumber": 472,
+    "text": "حدثني يحيى، عن مالك، عن داود بن الحصين، عن الاعرج، عن عبد الرحمن بن عبد القاري، ان عمر بن الخطاب، قال من فاته حزبه من الليل فقراه حين تزول الشمس الى صلاة الظهر فانه لم يفته او كانه ادركه",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Mauquf Sahih"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 3
+    }
+  }
+}

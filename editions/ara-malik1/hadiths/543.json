@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 543,
+    "arabicnumber": 543,
+    "text": "حدثني يحيى، عن مالك، انه بلغه ان عثمان بن عفان، وعبد الله بن عمر، وابا، هريرة كانوا يصلون على الجنايز بالمدينة الرجال والنساء فيجعلون الرجال مما يلي الامام والنساء مما يلي القبلة",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Mauquf Sahih"
+      }
+    ],
+    "reference": {
+      "book": 16,
+      "hadith": 24
+    }
+  }
+}

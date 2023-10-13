@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 40,
+    "arabicnumber": 40,
+    "text": "وحدثني عن مالك، عن نافع، ان ابن عمر، كان ينام جالسا ثم يصلي ولا يتوضا",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Mauquf Sahih"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 9
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 223,
+    "arabicnumber": 223,
+    "text": "وحدثني عن مالك، انه بلغه ان رسول الله صلى الله عليه وسلم قال \" اني لانسى او انسى لاسن",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 4,
+      "hadith": 2
+    }
+  }
+}

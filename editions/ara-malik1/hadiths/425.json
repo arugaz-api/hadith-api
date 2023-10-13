@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 425,
+    "arabicnumber": 425,
+    "text": "وحدثني عن مالك، انه بلغه ان عمر بن الخطاب، بنى رحبة في ناحية المسجد تسمى البطيحاء وقال من كان يريد ان يلغط او ينشد شعرا او يرفع صوته فليخرج الى هذه الرحبة",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Mauquf Daif"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 100
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 252,
+    "arabicnumber": 252,
+    "text": "وحدثني عن مالك، عن عبد الله بن ابي بكر، قال سمعت ابي يقول، كنا ننصرف في رمضان فنستعجل الخدم بالطعام مخافة الفجر",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Maqtu Sahih"
+      }
+    ],
+    "reference": {
+      "book": 6,
+      "hadith": 7
+    }
+  }
+}

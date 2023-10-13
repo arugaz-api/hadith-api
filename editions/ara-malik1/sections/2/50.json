@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 50,
+    "arabicnumber": 50,
+    "text": "وحدثني عن مالك، عن محمد بن المنكدر، وعن صفوان بن سليم، انهما اخبراه عن محمد بن ابراهيم بن الحارث التيمي، عن ربيعة بن عبد الله بن الهدير، انه تعشى مع عمر بن الخطاب ثم صلى ولم يتوضا",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Mauquf Sahih"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 19
+    }
+  }
+}

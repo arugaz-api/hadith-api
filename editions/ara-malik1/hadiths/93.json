@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 93,
+    "arabicnumber": 93,
+    "text": "وحدثني عن مالك، عن ابن شهاب، عن سالم بن عبد الله، انه قال رايت ابي عبد الله بن عمر يغتسل ثم يتوضا فقلت له يا ابت اما يجزيك الغسل من الوضوء قال بلى ولكني احيانا امس ذكري فاتوضا",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Mauquf Sahih"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 62
+    }
+  }
+}

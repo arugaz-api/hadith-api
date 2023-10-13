@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 1776,
+    "arabicnumber": 1776,
+    "text": "وحدثني مالك، عن نافع، عن عبد الله بن عمر، ان رسول الله صلى الله عليه وسلم امر بقتل الكلاب",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 54,
+      "hadith": 14
+    }
+  }
+}

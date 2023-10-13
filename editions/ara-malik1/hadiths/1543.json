@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 1543,
+    "arabicnumber": 1543,
+    "text": "وحدثني يحيى، عن مالك، عن زيد بن اسلم، عن عطاء بن يسار، . ان رسول الله صلى الله عليه وسلم نهى ان ينبذ البسر والرطب جميعا والتمر والزبيب جميعا",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Sahih Lighairihi"
+      }
+    ],
+    "reference": {
+      "book": 42,
+      "hadith": 7
+    }
+  }
+}

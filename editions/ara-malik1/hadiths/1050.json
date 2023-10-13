@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 1050,
+    "arabicnumber": 1050,
+    "text": "حدثني يحيى، عن مالك، عن نافع، عن عبد الله بن عمر، انه كان يقول اذا نحرت الناقة فذكاة ما في بطنها في ذكاتها اذا كان قد تم خلقه ونبت شعره فاذا خرج من بطن امه ذبح حتى يخرج الدم من جوفه",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Mauquf Sahih"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 9
+    }
+  }
+}

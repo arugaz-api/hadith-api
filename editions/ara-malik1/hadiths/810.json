@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 810,
+    "arabicnumber": 810,
+    "text": "وحدثني عن مالك، عن هشام بن عروة، ان اباه، كان اذا طاف بالبيت يسعى الاشواط الثلاثة يقول اللهم لا اله الا انتا وانت تحيي بعد ما امتا يخفض صوته بذلك",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Maqtu Sahih"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 106
+    }
+  }
+}

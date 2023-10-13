@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 676,
+    "arabicnumber": 676,
+    "text": "وحدثني عن مالك، عن ابن شهاب، ان عبد الله بن عباس، وابا، هريرة اختلفا في قضاء رمضان فقال احدهما يفرق بينه . وقال الاخر لا يفرق بينه . لا ادري ايهما قال يفرق بينه",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Mauquf Daif"
+      }
+    ],
+    "reference": {
+      "book": 18,
+      "hadith": 47
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 110,
+    "arabicnumber": 110,
+    "text": "حدثني يحيى، عن مالك، عن اسماعيل بن ابي حكيم، ان عطاء بن يسار، اخبره ان رسول الله صلى الله عليه وسلم كبر في صلاة من الصلوات ثم اشار اليهم بيده ان امكثوا فذهب ثم رجع وعلى جلده اثر الماء",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Sahih Lighairihi"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 79
+    }
+  }
+}

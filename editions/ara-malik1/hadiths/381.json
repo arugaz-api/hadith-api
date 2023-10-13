@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 381,
+    "arabicnumber": 381,
+    "text": "وحدثني عن مالك، عن زيد بن اسلم، ان عمر بن الخطاب، قال لا يصلين احدكم وهو ضام بين وركيه",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Mauquf Daif"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 56
+    }
+  }
+}

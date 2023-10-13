@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 511,
+    "arabicnumber": 511,
+    "text": "وحدثني عن مالك، انه بلغه ان عبد الله بن عمر، قال اللهم اجعلني من ايمة المتقين",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Mauquf Daif"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 42
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 570,
+    "arabicnumber": 570,
+    "text": "وحدثني عن مالك، عن ابي الزناد، عن الاعرج، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال \" قال الله تبارك وتعالى اذا احب عبدي لقايي احببت لقاءه واذا كره لقايي كرهت لقاءه",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 16,
+      "hadith": 51
+    }
+  }
+}

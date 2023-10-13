@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 669,
+    "arabicnumber": 669,
+    "text": "حدثني يحيى، عن مالك، عن نافع، عن عبد الله بن عمر، ان رسول الله صلى الله عليه وسلم نهى عن الوصال فقالوا يا رسول الله فانك تواصل فقال \" اني لست كهييتكم اني اطعم واسقى",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 18,
+      "hadith": 40
+    }
+  }
+}

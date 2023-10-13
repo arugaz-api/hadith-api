@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 575,
+    "arabicnumber": 575,
+    "text": "وحدثني عن مالك، عن ابي النضر، مولى عمر بن عبيد الله انه قال : قال رسول الله صلى الله عليه وسلم لما مات عثمان بن مظعون ومر بجنازته : \" ذهبت ولم تلبس منها بشىء",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 16,
+      "hadith": 56
+    }
+  }
+}

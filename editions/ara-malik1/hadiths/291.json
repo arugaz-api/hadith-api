@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 291,
+    "arabicnumber": 291,
+    "text": "حدثني يحيى، عن مالك، عن عبد الرحمن بن حرملة الاسلمي، عن سعيد بن المسيب، ان رسول الله صلى الله عليه وسلم قال \" بيننا وبين المنافقين شهود العشاء والصبح لا يستطيعونهما \" . او نحو هذا",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Sahih Lighairihi"
+      }
+    ],
+    "reference": {
+      "book": 8,
+      "hadith": 5
+    }
+  }
+}
