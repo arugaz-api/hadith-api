@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 777,
+    "arabicnumber": 777,
+    "text": "نافع سے روایت ہے کہ عبداللہ بن عمر کہتے ہیں محرم پچھنے نہ لگائے مگر جب اس کو ضرورت پڑے۔",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Mauquf Sahih"
+      }
+    ],
+    "reference": {
+      "book": 20,
+      "hadith": 73
+    }
+  }
+}

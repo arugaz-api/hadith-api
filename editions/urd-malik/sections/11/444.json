@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 444,
+    "arabicnumber": 444,
+    "text": "سعید بن مسیب سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے ظہر اور عصر کی نماز نہیں پڑھی جنگ خندق میں یہاں تک کہ ڈوب گیا آفتاب۔",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Sahih Lighairihi"
+      }
+    ],
+    "reference": {
+      "book": 11,
+      "hadith": 4
+    }
+  }
+}
