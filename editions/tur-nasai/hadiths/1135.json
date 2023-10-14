@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1135,
+    "arabicnumber": 1135,
+    "text": "",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Hasan Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 107
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 121,
+    "arabicnumber": 121,
+    "text": "Sa’d b. ebi Vakkas (radıyallahü anh) şöyle diyor: sallallahü aleyhi ve sellem) mestleri üzerine meshetmişti.) (Buhârî, Vudu’’: 51; İbn Mâce, Tahara:)",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 121
+    }
+  }
+}

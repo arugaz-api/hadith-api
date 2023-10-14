@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2679,
+    "arabicnumber": 2679,
+    "text": "",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Shadh"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Shadh"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 61
+    }
+  }
+}

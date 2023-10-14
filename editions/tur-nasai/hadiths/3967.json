@@ -1,0 +1,22 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 3967,
+    "arabicnumber": 3967,
+    "text": "",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 37,
+      "hadith": 2
+    }
+  }
+}

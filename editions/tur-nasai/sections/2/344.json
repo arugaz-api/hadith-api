@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 344,
+    "arabicnumber": 344,
+    "text": "Aişe (r.anha)’dan rivâyete göre, şöyle demiştir: “Ben ve Rasûlullah (s.a.v) aynı kaptan guslederdik.” (İbn Mâce, Tahara: 36; Dârimi, Tahara:)",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 20
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 591,
+    "arabicnumber": 591,
+    "text": "(Kureyşli yaşlı bir kimse olan İsmail b. Abdurrahman anlatıyor. İbni Ömer ile: Hima’ya giderken birlikteydim, güneş batınca namaz kılalım diyecektim fakat yoluna devam etti. Ufukta ki beyazlık kaybolup yatsı vaktinin karanlığı ortalığı kaplayınca binitinden indi, akşamı üç rekat arkasından da yatsıyı iki rekat kılarak: sallallahü aleyhi ve sellem)’in böyle yaptığını gördüm) dedi. (Buhârî, Mevakît: 20; Müslim, Salat-ül Müsafirin:)",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 6,
+      "hadith": 98
+    }
+  }
+}

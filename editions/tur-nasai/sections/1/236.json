@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 236,
+    "arabicnumber": 236,
+    "text": "İbn Abbâs (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Meymune anlatmıştı; Rasûlüllah (sallallahü aleyhi ve sellem) ve kendisi bir kaptan guslederlermiş.) (Tirmizî, Tahara: 46; Buhârî, Gusül:)",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 237
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 561,
+    "arabicnumber": 561,
+    "text": "Ebû Hüreyre (radıyallahü anh)’den rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem), ikindiden sonra güneş batıncaya kadar; Sabah namazından güneş doğuncaya kadar nafile namaz kılmayı yasakladı. (Tirmizî, Salat: 135; Buhârî, Mevakît:)",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 6,
+      "hadith": 68
+    }
+  }
+}

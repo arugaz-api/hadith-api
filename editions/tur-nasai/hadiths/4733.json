@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4733,
+    "arabicnumber": 4733,
+    "text": "",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Hasan Sahih Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 45,
+      "hadith": 28
+    }
+  }
+}
