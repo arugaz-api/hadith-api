@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1655,
+    "arabicnumber": 1655,
+    "text": "Ebu Hureyıe (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Ramazan hilalini gördüğünüz zaman oruç tutunuz ve Şevval hilalini gördüğünüz zaman iftar ediniz (bayram yapınız.) Eğer hava bulutlu ise otuz gün oruç tutunuz.»",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 7,
+      "hadith": 18
+    }
+  }
+}

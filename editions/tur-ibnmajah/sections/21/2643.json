@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2643,
+    "arabicnumber": 2643,
+    "text": "Ubade bin es-Sâmıt (r.a.)'den rivayet edildiğine göre: Peygamber (Sallallahu Aleyhi ve Sellem), Hami bin Mâlik el-Huzeli el-Lihyânî'yi kuması tarafından öldürülen karısına mirasçı kıldı",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 21,
+      "hadith": 29
+    }
+  }
+}

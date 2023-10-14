@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 555,
+    "arabicnumber": 555,
+    "text": "Ebu Hureyre (r.a.)'den rivayet edildiğine göre şöyle söylemiştir: Sahabiler: Ya Resulallah! Mestler üzerine meshetme süresi nedir? diye sordular. O da: ‘‘Misafir için geceleriyle beraber üç gündür. Mukim için de bir gün bir gecedir.’’",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 289
+    }
+  }
+}

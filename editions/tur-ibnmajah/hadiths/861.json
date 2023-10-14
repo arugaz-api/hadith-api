@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 861,
+    "arabicnumber": 861,
+    "text": "Umeyr bin Habib (r.a.)'den şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem), farz namazda her tekbir ile beraber ellerini kaldırırdı.\" Not: Zevaid'de: Bu hadisin isnadında bulunan Rifde bin Kudaa zayıftır. Abdullah da babasından hadis işitmemiştir. EI-Alai, bu bilgiyi İbn-i Cüreyc'den nakletmiştir, denilmiştir",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 59
+    }
+  }
+}

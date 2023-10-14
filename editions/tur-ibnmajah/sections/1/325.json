@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 325,
+    "arabicnumber": 325,
+    "text": "Cabir r.a.’den şöyle söylediği rivayet edilmiştir: '' Resulullah Sallallahu Aleyhi ve Sellem, bizim su dökerken kıble’ye dönmemizi yasakladı. Vefatından bir yıl önce de kendisini, kıble’ye doğru durup su dökerken gördüm",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 59
+    }
+  }
+}

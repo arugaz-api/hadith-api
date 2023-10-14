@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3288,
+    "arabicnumber": 3288,
+    "text": "İbn-i Abbâs (r.a.)'dan; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) ne yiyeceğe üfürürdü ne de içeceğe. Ve kabın içine doğru solunmazdı",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 29,
+      "hadith": 38
+    }
+  }
+}

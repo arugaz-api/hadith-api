@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 321,
+    "arabicnumber": 321,
+    "text": "Ebu Said-i Hudri r.a.’den şöyle söylediği rivayet edilmiştir: ''Gerçekten, Resulullah Sallallahu Aleyhi ve Sellem, beni ayakta içmekten ve kıble’ye doğru küçük abdest bozmaktan menetti. '' Not: Zevaid'de: Bu isnadda İbn-i Lahia vardır, denilmiştir. İbn-i Lahia hakkında bilgi için buraya tıklayın",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 55
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3506,
+    "arabicnumber": 3506,
+    "text": "Âmir bin Rebîa (r.a.)'den rivayet edildiğine göre; Nebi (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «Göz (yâni nazar değme işi) hak (yâni bir gerçek) dir.»",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Mutawatir"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih Mutawatir"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 31,
+      "hadith": 71
+    }
+  }
+}

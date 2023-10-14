@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3112,
+    "arabicnumber": 3112,
+    "text": "İbn-i Ömer (r.a.)'dan rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Kim Medine'de (yerleşip ölünceye kadar orada oturmak suretiyle) ölebilirse yapsın. Çünkü ben orada ölen kimse için şüphesiz şehâdet ederim (yâni şefaat ederim).»",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 25,
+      "hadith": 231
+    }
+  }
+}

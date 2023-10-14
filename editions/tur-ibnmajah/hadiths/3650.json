@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3650,
+    "arabicnumber": 3650,
+    "text": "Ali bin Ebi Talib (r.a.)'den rivayet edildiğine göre, Nebi (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «Şüphesiz melekler içinde köpek ve suret bulunan eve girmez.»",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 32,
+      "hadith": 101
+    }
+  }
+}

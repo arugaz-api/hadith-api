@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1080,
+    "arabicnumber": 1080,
+    "text": "Enes bin Malik (r.a.)'den rivayet edildiğine göre; Nebi (Sallallahu Aleyhi ve Sellem} şöyle buyurmuştur : «Kul ile şirk arasında namazı bırakmaktan başka hiç bir şey yoktur. Bu itibarla kul namazı bıraktığı zaman şirk etmiş olur.» Not: Ravi Yezid bin Eban er-Rakkaşi'nin zayıflığı nedeni ile isnadın zayıfIığı Zevaid'de bildirilmiştir",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 278
+    }
+  }
+}

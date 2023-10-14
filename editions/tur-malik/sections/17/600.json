@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 600,
+    "arabicnumber": 600,
+    "text": "",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 17,
+      "hadith": 23
+    }
+  }
+}

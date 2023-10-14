@@ -1,0 +1,34 @@
+{
+  "author": "Muwatta Malik",
+  "section": {
+    "book": 59,
+    "section": "Knowledge",
+    "detail": {
+      "hadith": {
+        "first": 1856,
+        "last": 1856
+      },
+      "arabic": {
+        "first": 1856,
+        "last": 1856
+      }
+    },
+    "hadiths": [
+      {
+        "hadithnumber": 1856,
+        "arabicnumber": 1856,
+        "text": "İmam Malik'den rivayet edildiğine göre Lokman Hekim oğluna vasiyet edip şöyle demiştir: «Yavrum! Alimlerle otur, onların dizlerinin dibinden ayrılma. Çünkü Allah yeri, göğün yağmuru ile dirilttiği gibi, kalpleri de hikmet nuru ile diriltir.»",
+        "grades": [
+          {
+            "name": "Salim al-Hilali",
+            "grade": "Maqtu Daif"
+          }
+        ],
+        "reference": {
+          "book": 59,
+          "hadith": 1
+        }
+      }
+    ]
+  }
+}

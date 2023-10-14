@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1427,
+    "arabicnumber": 1427,
+    "text": "Ebu Hureyre (r.a.)'den rivayet edildiğine göre; Nebi (Sallallahu Aleyhi ve Selletn) şöyle buvurdu. demiştir : «Sizden birisi namaz (yani sünnet) kılacağı zaman (yerini değiştirmekten) ileri gitmekten veya geri çekilmekten veya sağına yahut soluna (çekilmekten) aciz mi kalıyor?» Diğer tahric: Ahmed, Ebu Davud ve Beyhaki de bunu rivayet etmişlerdir",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 5,
+      "hadith": 625
+    }
+  }
+}

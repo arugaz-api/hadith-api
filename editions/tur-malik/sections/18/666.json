@@ -1,0 +1,18 @@
+{
+  "author": "Muwatta Malik",
+  "hadith": {
+    "hadithnumber": 666,
+    "arabicnumber": 666,
+    "text": "İmam Malik'den: Duyduğuma göre Ömer b. Hattab Haris b. Hişam'a haber göndererek: «—Yarın aşure günüdür. Onun için ailene oruç tutmalarını emret.» dedi",
+    "grades": [
+      {
+        "name": "Salim al-Hilali",
+        "grade": "Mauquf Daif"
+      }
+    ],
+    "reference": {
+      "book": 18,
+      "hadith": 37
+    }
+  }
+}

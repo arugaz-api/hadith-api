@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2213,
+    "arabicnumber": 2213,
+    "text": "Ubâde bin es-Sâmit (r.a.)'den; Şöyle elemiştir: Resulullah (Sallallahu Aleyhi ve Sellem), müşteri (kendisine âit olmasını) şart koşmadığı zaman, (satılan) hurma ağaçlarının meyvesinin, ağaçları aşılayanın hakkı olduğuna ve (yine) müşteri (kölenin malının kendisine âit olmasını) şart etmediği zaman kölenin malının satıcıya âit olduğuna hükmetti. Not: Zevaid'de şöyle denilmiştir: Bunun senedinde İshak bin Yahya bin el-Velid vardır. Buhari ve başkası, onun Ubade bin es-Sılmit'e yetişmediğini söylemişlerdir",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 77
+    }
+  }
+}

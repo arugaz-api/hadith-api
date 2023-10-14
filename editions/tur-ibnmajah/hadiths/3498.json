@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3498,
+    "arabicnumber": 3498,
+    "text": "Ebû Hureyre (r.a.)'den rivayet edildiğine göre; Nebi (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «Kim gözlerine sürme çekerse (bir, üç, beş defa gibi) tek yapsın. Kim (böyle tek) yaparsa iyi bir iş işlemiş olur ve kim (çift yapıp tek) yapmazsa (ona) hiç bir günah yoktur.»",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sanad Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 31,
+      "hadith": 63
+    }
+  }
+}

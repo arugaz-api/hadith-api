@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 2398,
+    "arabicnumber": 2398,
+    "text": "Ebû Umâme (r.a.)'den rivayet edildiğine göre kendisi: Ben Resulullah (Sallallahu Aleyhi ve Sellem)'den işittim şöyle buyurdu, demiştir: «Âriye (sahibine) ödenir. Minha da (sahibine) iade edilir.» Not: Zevaid'de şöyle denilmiştir: Bu hadisin senedi zayıftır. Çünkü ravi İsmail bin Ayyaş tedlisçidir. Lakin bu hadisi yalnız İbn-i Ayyaş rivayet etmemiştir. Zira İbn-i Hibban de kendi sahih'inde bu hadisi başka bir senedIe rivayet etmiştir",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 9
+    }
+  }
+}

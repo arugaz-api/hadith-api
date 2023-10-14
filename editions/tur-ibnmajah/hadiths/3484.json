@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3484,
+    "arabicnumber": 3484,
+    "text": "Ebû Kebşe el-Ensârî (r.a.)'den rivayet edildiğine göre: Nebi (Sallallahu Aleyhi ve Sellem) başına ve iki omuzu arasına hacâmet ettiriyor ve şöyle buyuruyordu: «Kim vücûdundan şu (bozuk) kanları akıtıp dökerse (hastalıklardan) herhangi bir şey için başka bir şeyle tedavi olmaması ona zarar vermez.»",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 31,
+      "hadith": 49
+    }
+  }
+}

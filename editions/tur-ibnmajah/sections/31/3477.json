@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 3477,
+    "arabicnumber": 3477,
+    "text": "İbn-i Abbâs (r.a.)'dan rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «(Mescid-i Haram'dan Mescid-i Aksâ'ya) götürüldüğüm gece meleklerden karşılaştığım her büyük cemâat'in hepsi bana şöyle söylüyordu: Yâ Muhammed, hacamet olmaya devam et.»",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif Munkar"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 31,
+      "hadith": 42
+    }
+  }
+}

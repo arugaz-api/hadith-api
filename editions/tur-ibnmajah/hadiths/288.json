@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 288,
+    "arabicnumber": 288,
+    "text": "İbni Abbas r.a.’den şöyle dediği rivayet edilmiştir: ''Resulullah Sallallahu Aleyhi ve Sellem geceleyin ikişer ikişer rek'at namaz kılardı. (Her iki rekatten) sonra gidip misvak kullanırdı",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 22
+    }
+  }
+}

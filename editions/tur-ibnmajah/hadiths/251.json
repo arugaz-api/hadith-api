@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 251,
+    "arabicnumber": 251,
+    "text": "Ebu Hureyre r.a.’den şöyle dediği rivayet olunmuştur: Resulullah Sallallahu Aleyhi ve Sellem şöyle dua ederdi: '' Allahım! Bana öğrettiğin ilimden beni yararlandır, faydalanacağım ilmi bana öğret, ilmimi artır. Her hal (ilmimi arttırmadan önceki ve artırdıktan sonraki haller) üzerinde Allah’a hamd olsun",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 0,
+      "hadith": 251
+    }
+  }
+}

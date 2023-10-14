@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 19,
+    "arabicnumber": 19,
+    "text": "İbn-i Aclan’ın Avn b. Abdillah r.a.’dan rivayet ettiğine göre Abdullah b. Mes'ud r.a. şöyle buyurdu; “Ben size Resulullah s.a.v.’den hadis rivayet ettiğim zaman O’nun, hakka en uygun, hidayete en iyi eriştiren ve takvaya en yaraşan söz olduğuna inanın.”",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 0,
+      "hadith": 19
+    }
+  }
+}

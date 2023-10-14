@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 1935,
+    "arabicnumber": 1935,
+    "text": "Ali (bin Ebi Talib) (r.a.)'den; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem), hulleci (koca) yi ve kendisi için hülle yapılan (koca) yi lanetlemiştir",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 91
+    }
+  }
+}
