@@ -2,6 +2,8 @@
 
 **URL Structure:**
 
+`https://raw.githubusercontent.com/arugaz-api/hadith-api/z/{endpoint}`
+
 `https://rawcdn.githack.com/arugaz-api/hadith-api/0741c58cfa4bd2a4d81a35028e3310a15c88653c/{endpoint}`
 
 `https://rawcdn.rawgit.net/arugaz-api/hadith-api/0741c58cfa4bd2a4d81a35028e3310a15c88653c/{endpoint}`
