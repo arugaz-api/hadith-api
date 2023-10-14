@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 29,
+    "arabicnumber": 29,
+    "text": "سائب بن یزید کہتے ہیں کہ میں سعد بن مالک رضی اللہ عنہ کے ساتھ مدینہ سے مکہ تک گیا، لیکن راستے بھر میں نے آپ کو نبی اکرم صلی اللہ علیہ وسلم سے ایک حدیث بھی بیان کرتے ہوئے نہیں سنا۔",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 0,
+      "hadith": 29
+    }
+  }
+}

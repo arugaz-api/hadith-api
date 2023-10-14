@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Ibn Majah",
+  "hadith": {
+    "hadithnumber": 125,
+    "arabicnumber": 125,
+    "text": "جابر رضی اللہ عنہ فرماتے ہیں کہ طلحہ رضی اللہ عنہ نبی اکرم صلی اللہ علیہ وسلم کے پاس سے گزرے تو آپ صلی اللہ علیہ وسلم نے فرمایا: یہ شہید ہیں جو روئے زمین پر چل رہے ہیں ۔",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Fouad Abd al-Baqi",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Very Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 0,
+      "hadith": 125
+    }
+  }
+}
