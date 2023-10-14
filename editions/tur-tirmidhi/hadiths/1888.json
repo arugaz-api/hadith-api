@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1888,
+    "arabicnumber": 1888,
+    "text": "İbn Abbâs (r.a.)’den rivâyete göre: “Nebi Sallallahu Aleyhi ve Sellem, içecek kabın içerisine üflemeyi ve kabın içine nefes almayı yasakladı.” Diğer tahric: Ebû Dâvûd, Eşribe; İbn Mâce, Eşribe Tirmizî: Bu hadis hasen sahihtir",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 26,
+      "hadith": 29
+    }
+  }
+}

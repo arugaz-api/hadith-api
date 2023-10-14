@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1918,
+    "arabicnumber": 1918,
+    "text": "Sehl b. Sa’d’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurdu: “Ben ve yetimle ilgilenen kişi Cennet’te; şu ikisi gibiyiz diyerek iki parmağını gösterdi.” Diğer tahric: Ebû Dâvûd, Edeb Tirmizî: Bu hadis hasen sahihtir",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari"
+      }
+    ],
+    "reference": {
+      "book": 27,
+      "hadith": 24
+    }
+  }
+}

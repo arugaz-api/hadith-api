@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3128,
+    "arabicnumber": 3128,
+    "text": "ابو سعید خدری رضی اللہ عنہ کہتے ہیں رسول اللہ صلی اللہ علیہ وسلم نے نوحہ کرنے والی اور نوحہ ( دلچسپی سے ) سننے والی پر لعنت فرمائی ہے",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif Isnaad"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif Isnaad"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 21,
+      "hadith": 40
+    }
+  }
+}

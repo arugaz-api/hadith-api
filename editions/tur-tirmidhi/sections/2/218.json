@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 218,
+    "arabicnumber": 218,
+    "text": "Mûcâhid’den aktarıldığına göre: İbn Abbâs (r.a.)’a gündüzleri oruç tutan geceleri namaz kılan fakat cemaate gelmeyen kimsenin durumu hakkında sorulduğunda dedi ki: “O kişi Cehennem’dedir.”",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 70
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3239,
+    "arabicnumber": 3239,
+    "text": "Abdullah (r.a.)’den rivâyet edilmiştir: Yahudinin geçen sözü üzerine Nebi (s.a.v), hayret ederek ve tasdik ederek gülümsedi",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih - Bukhari And Muslim"
+      }
+    ],
+    "reference": {
+      "book": 47,
+      "hadith": 291
+    }
+  }
+}

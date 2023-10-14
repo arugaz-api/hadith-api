@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 887,
+    "arabicnumber": 887,
+    "text": "Abdullah b. Mâlik (r.a.)’den rivâyete göre, İbn Ömer, Müzdelife’de bir kametle iki namazı bir arada kıldı ve “Rasûlullah (s.a.v.)’in aynı yerde aynı şekilde yaptığını gördüm” dedi. Diğer tahric: Buhârî, Hac; Nesâî, Menasik",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Shadh"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 80
+    }
+  }
+}

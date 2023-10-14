@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 403,
+    "arabicnumber": 403,
+    "text": "جابر بن سمرہ رضی اللہ عنہ کہتے ہیں کہ بلال رضی اللہ عنہ ظہر کی اذان اس وقت دیتے تھے جب سورج ڈھل جاتا تھا۔",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 13
+    }
+  }
+}

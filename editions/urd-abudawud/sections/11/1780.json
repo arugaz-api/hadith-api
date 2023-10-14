@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 1780,
+    "arabicnumber": 1780,
+    "text": "اس سند سے بھی ابوالاسود سے اسی طریق سے اسی کے مثل مروی ہے البتہ اس میں اتنا اضافہ ہے: رہے وہ لوگ جنہوں نے صرف عمرے کا احرام باندھا تھا تو ان لوگوں نے ( عمرہ کر کے ) احرام کھول دیا ۔",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (1562) Sahih Muslim (1211)"
+      }
+    ],
+    "reference": {
+      "book": 11,
+      "hadith": 60
+    }
+  }
+}

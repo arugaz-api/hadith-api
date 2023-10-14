@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1337,
+    "arabicnumber": 1337,
+    "text": "Abdullah b. Amr’dan rivâyet edildiğine göre, şöyle demiştir: “Rasulullah (Sallallahu aleyhi ve Sellem), rüşvet verene de alana da lanet etmiştir.” Diğer tahric: Ebû Dâvûd, Akdıyye; İbn Mâce, Ahkam Tirmizî: Bu hadis hasen sahihtir",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 15,
+      "hadith": 17
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 5032,
+    "arabicnumber": 5032,
+    "text": "اس سند سے سالم بن عبید اشجعی سے یہی حدیث نبی اکرم صلی اللہ علیہ وسلم سے مرفوعاً مروی ہے۔",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 260
+    }
+  }
+}

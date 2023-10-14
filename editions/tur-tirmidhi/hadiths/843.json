@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 843,
+    "arabicnumber": 843,
+    "text": "Yine İbn Abbâs (r.a.)’den rivâyete göre, “Rasûlullah (s.a.v.) Meymûne ile ihramlı iken evlenmişti.” Diğer tahric: Buhârî, Nikah; Ebû Dâvûd, Menasik",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Shadh"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Shadh"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 36
+    }
+  }
+}

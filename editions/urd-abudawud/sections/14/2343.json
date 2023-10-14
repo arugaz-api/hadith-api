@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2343,
+    "arabicnumber": 2343,
+    "text": "عمرو بن العاص رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ہمارے اور اہل کتاب کے روزے میں سحری کھانے کا فرق ہے ۔",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (1096)"
+      }
+    ],
+    "reference": {
+      "book": 14,
+      "hadith": 31
+    }
+  }
+}

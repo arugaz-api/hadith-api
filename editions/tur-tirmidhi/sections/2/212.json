@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 212,
+    "arabicnumber": 212,
+    "text": "Enes b. Mâlik (r.a.)’den rivâyet edildiğine göre, Rasûlullah (s.a.v.) şöyle buyurdu: “Ezan ile kamet arasında yapılan dua geri çevrilmez.”",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 64
+    }
+  }
+}

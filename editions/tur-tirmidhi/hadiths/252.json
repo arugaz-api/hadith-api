@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 252,
+    "arabicnumber": 252,
+    "text": "Kabisa b. Hülb (r.a.)in babasından rivâyete göre, şöyle demiştir: “Rasûlullah (s.a.v.) bize imâm olurdu ve sol elini sağ eliyle tutardı.”",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 104
+    }
+  }
+}

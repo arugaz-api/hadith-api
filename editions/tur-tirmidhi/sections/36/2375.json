@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2375,
+    "arabicnumber": 2375,
+    "text": "Ebû Hureyre (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: “Dinar’a ve dirheme kulluk yapanlara lanet edilmiştir.” Diğer tahric: İbn Mâce, Zühd Tirmizî: Bu hadis bu şekliyle hasen garibtir. Bu hadis değişik bir şekilde Ebû Salih’den, Ebû Hüreyre’den daha uzun olarak ta rivâyet edilmiştir",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 36,
+      "hadith": 72
+    }
+  }
+}

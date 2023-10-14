@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 181,
+    "arabicnumber": 181,
+    "text": "Abdullah bin Mes’ud (r.a.)’den rivayete göre, Rasulullah (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: “Orta namaz ikindi namazıdır” Diğer tahric: Nesai, Mevakit; İbn Mace, Salat Tirmîzî: Bu hadis hasen sahihtir",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 33
+    }
+  }
+}

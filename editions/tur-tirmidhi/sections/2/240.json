@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 240,
+    "arabicnumber": 240,
+    "text": "Saîd b. Siman (r.a.), Ebû Hureyre (r.a.)’den şöyle işittiğini söylemiştir: “Rasûlullah (s.a.v.) namaza başlayacağında ellerini uzatarak kaldırdı.”",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 92
+    }
+  }
+}

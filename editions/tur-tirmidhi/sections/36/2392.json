@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2392,
+    "arabicnumber": 2392,
+    "text": "Eğer biriniz bir kardeşini Allah için severse, ona bildirsin",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      }
+    ],
+    "reference": {
+      "book": 36,
+      "hadith": 89
+    }
+  }
+}

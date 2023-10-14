@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 871,
+    "arabicnumber": 871,
+    "text": "Zeyd b. Üsey’(r.a.)’den rivâyete göre, şöyle demiştir: Ali’ye sordum; “Hangi talimatla gönderildin diye.” Buyurdular ki: “Dört şey ile gönderildim; Cennete sadece Müslümanlar gireceklerdir, Ka’be çıplak olarak tavaf edilmeyecektir, bu yıldan sonra Hac ve Umre için Ka’be’de Müslümanlarla müşrikler bir araya gelmeyeceklerdir, Rasûlullah (s.a.v.) ile sözleşmesi olan kimsenin sözleşmesindeki süreye uyulacaktır. Sözleşme ve süresi olmayanların süresi ise dört aydır.” Diğer tahric: Buhârî, Hac Tirmîzî: Bu konuda Ebû Hureyre’den de hadis rivâyet edilmiştir. Tirmîzî: Ali hadisi hasendir",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 9,
+      "hadith": 64
+    }
+  }
+}

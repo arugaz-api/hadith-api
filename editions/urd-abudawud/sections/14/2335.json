@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2335,
+    "arabicnumber": 2335,
+    "text": "ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: رمضان سے ایک دن یا دو دن پہلے روزہ نہ رکھو، ہاں اگر کوئی آدمی پہلے سے روزہ رکھتا آ رہا ہے تو وہ ان دنوں کا روزہ رکھے ۔",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (1914) Sahih Muslim (1082)"
+      }
+    ],
+    "reference": {
+      "book": 14,
+      "hadith": 23
+    }
+  }
+}

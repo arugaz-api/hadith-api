@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 5246,
+    "arabicnumber": 5246,
+    "text": "عبداللہ بن عمر رضی اللہ عنہما سے روایت ہے وہ کبھی اسے موقوفاً روایت کرتے ہیں اور کبھی اسے نبی اکرم صلی اللہ علیہ وسلم تک پہنچاتے ہیں کہ جب سونے لگو تو آگ گھر میں موجود نہ رہنے دو ( بجھا کر سوؤ ) ۔",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (6293) Sahih Muslim (2015)"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 474
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 741,
+    "arabicnumber": 741,
+    "text": "",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih Sahih Bukhari (739)"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 351
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3685,
+    "arabicnumber": 3685,
+    "text": "Muhammed b. Sirîn (r.a.)’den rivâyete göre, şöyle demiştir: “Ebû Bekir ve Ömer’e dil uzatan kimsenin Nebii sevdiğini sanmıyorum.” Tirmizî rivâyet etmiştir. Tirmizî: Bu hadis hasen garibtir",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih Isnaad Maqtu"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad Maqtu"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 49,
+      "hadith": 81
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 2218,
+    "arabicnumber": 2218,
+    "text": "Ebû Hureyre (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “Her biri Peygamber olduğunu iddia eden otuz kadar yalancı ve Deccâl çıkmadıkça kıyamet kopmayacaktır.” Diğer tahric: Ebû Dâvûd, Fiten Tirmizî: Bu konuda Câbir b. Semura, İbn Ömer’den de hadis rivâyet edilmiştir. Bu hadis hasen sahihtir",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari"
+      }
+    ],
+    "reference": {
+      "book": 33,
+      "hadith": 61
+    }
+  }
+}

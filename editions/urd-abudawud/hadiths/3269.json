@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 3269,
+    "arabicnumber": 3269,
+    "text": "عبداللہ بن عباس رضی اللہ عنہما نے نبی اکرم صلی اللہ علیہ وسلم سے یہی حدیث روایت کی ہے لیکن اس میں انہوں نے قسم کا ذکر نہیں کیا ہے اور اس میں اتنا اضافہ ہے: آپ صلی اللہ علیہ وسلم نے انہیں ( تعبیر کی غلطی ) نہیں بتائی ۱؎ ۔",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Daif"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim (2269)"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 28
+    }
+  }
+}

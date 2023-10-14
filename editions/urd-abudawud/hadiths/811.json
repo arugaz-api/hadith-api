@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 811,
+    "arabicnumber": 811,
+    "text": "جبیر بن مطعم رضی اللہ عنہ سے روایت ہے کہ انہوں نے کہا: میں نے رسول اللہ صلی اللہ علیہ وسلم کو مغرب میں سورۃ الطور پڑھتے ہوئے سنا۔",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari (765) Sahih Muslim (463)"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 421
+    }
+  }
+}

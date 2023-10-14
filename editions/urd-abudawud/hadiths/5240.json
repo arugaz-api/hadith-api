@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 5240,
+    "arabicnumber": 5240,
+    "text": "عروہ بن زبیر نے اس حدیث کو نبی اکرم صلی اللہ علیہ وسلم سے اسی طرح مرفوعاً روایت کیا ہے۔",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Hasan Lighairihi"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 43,
+      "hadith": 468
+    }
+  }
+}

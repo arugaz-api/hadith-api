@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 266,
+    "arabicnumber": 266,
+    "text": "Ali b. ebî Tâlib (r.a.)’den rivâyete göre, şöyle demiştir: “Rasûlullah (s.a.v.) rükû’ dan başını kaldırdığında “Semiallahü limen hamideh, Rabbena ve lekel hamd milessemavati ve milel arzı ve mile ma beyne hüma ve mile ma şi’te min şey’in ba’du” derdi",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 2,
+      "hadith": 118
+    }
+  }
+}

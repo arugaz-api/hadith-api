@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1045,
+    "arabicnumber": 1045,
+    "text": "İbn Abbâs (r.a.)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurdu: “Kıble tarafına doğru ayrı bir bölüm yapılarak kabir kazmak biz Müslümanların kabir modelidir. Bizim dışımızdakiler ise düz çukur gibi kabir kazarlar.” Diğer tahric: Buhârî, Cenaiz; Müslim, Cenaiz Bu konuda Cerir b. Abdullah, Âişe, İbn Ömer ve Câbir’den de hadis rivâyet edilmiştir. Tirmîzî: İbn Abbâs hadisi bu şekliyle hasen garibtir",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 10,
+      "hadith": 81
+    }
+  }
+}

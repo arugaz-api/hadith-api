@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1103,
+    "arabicnumber": 1103,
+    "text": "İbn Abbâs (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: “Şâhidsiz ve belgesiz evlenen kadınlar fahişelerdir.” (Tirmîzî rivâyet etmiştir.) Yusuf b. Hammad diyor ki: Abdul A’lâ bu hadisi tefsirinde merfu olarak rivâyet etti, Talak bölümünde ise mevkuf olarak aktardı",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 11,
+      "hadith": 24
+    }
+  }
+}

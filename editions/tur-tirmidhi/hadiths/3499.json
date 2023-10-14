@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3499,
+    "arabicnumber": 3499,
+    "text": "Ebû Umâme (r.a.)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.)’e şöyle denildi: “Ey Allah’ın Rasûlü! Duâların hangisi daha makbuldür?” Rasûlullah (s.a.v.) şöyle buyurdu: “Gecenin son yarısında ve farz namazlardan sonra yapılan duâlar.”",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 48,
+      "hadith": 130
+    }
+  }
+}

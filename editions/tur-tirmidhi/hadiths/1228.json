@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1228,
+    "arabicnumber": 1228,
+    "text": "Enes (r.a.)’den rivâyet edilmiştir. Rasûlullah (s.a.v.): “Üzümü ve hububatı olgunlaşmadan satmayı yasakladı.” Diğer tahric: Ebû Dâvûd, Buyu’; Müslim, Buyu’) Tirmîzî: Bu hadis hasen garibtir. Merfu olarak sadece Hammad b. Seleme rivâyetiyle bilmekteyiz",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 14,
+      "hadith": 28
+    }
+  }
+}

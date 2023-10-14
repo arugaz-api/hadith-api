@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 1673,
+    "arabicnumber": 1673,
+    "text": "İbn Ömer (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: “İnsanlar tek başına yolculuk yapmanın tehlikelerini benim bildiğim gibi bilselerdi hiçbir kimse binitiyle tek başına gece yolculuğuna çıkmazlardı.” Diğer tahric: Ebû Dâvûd, Cihâd",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari"
+      }
+    ],
+    "reference": {
+      "book": 23,
+      "hadith": 4
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 4,
+    "arabicnumber": 4,
+    "text": "Cabir b. Abdillah (r.a.)’den rivayet edildiğine göre Rasulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: “Cennetin anahtarı namaz, namazın anahtarı abdest almaktır.” Diğer tahric eden: Ahmed b. Hanbel Müsned:",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 4
+    }
+  }
+}

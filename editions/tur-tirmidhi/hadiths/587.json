@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 587,
+    "arabicnumber": 587,
+    "text": "İbn Abbâs (r.a.)’den rivâyete göre: “Rasûlullah (s.a.v.) namazda göz ucuyla sağa sola bakardı boynunu çevirmek suretiyle arkasına bakmazdı.” Diğer tahric: Nesâî, Sehv Tirmîzî: Bu hadis ğaribtir. Vekî’, Fadl b. Musa’nın bu rivâyetine hoş bakmamıştır",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 6,
+      "hadith": 44
+    }
+  }
+}

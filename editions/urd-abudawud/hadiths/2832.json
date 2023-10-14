@@ -1,0 +1,30 @@
+{
+  "author": "Sunan Abu Dawud",
+  "hadith": {
+    "hadithnumber": 2832,
+    "arabicnumber": 2832,
+    "text": "سعید بن مسیب کہتے ہیں «فرع» پہلوٹے بچے کو کہتے ہیں جس کی پیدائش پر اسے ذبح کر دیا کرتے تھے۔",
+    "grades": [
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Maqtu"
+      },
+      {
+        "name": "Muhammad Muhyi Al-Din Abdul Hamid",
+        "grade": "Sahih Maqtu"
+      },
+      {
+        "name": "Shuaib Al Arnaut",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 16,
+      "hadith": 45
+    }
+  }
+}

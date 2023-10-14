@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 3460,
+    "arabicnumber": 3460,
+    "text": "Abdullah b. Amr (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: Dünya üzerinde hiçbir kimse yoktur ki: “Allah’tan başka gerçek ilah yoktur. Ancak Allah vardır. Allah en büyüktür. Güç ve kuvvet sadece Allah’ın elindedir” derse denizin köpüğü kadar bile hatası olsa affedilir",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 48,
+      "hadith": 91
+    }
+  }
+}

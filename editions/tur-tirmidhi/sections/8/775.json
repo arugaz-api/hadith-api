@@ -1,0 +1,30 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 775,
+    "arabicnumber": 775,
+    "text": "İbn Abbâs (r.a.)’den rivâyete göre: “Rasûlullah (Sallallahu aleyhi ve Sellem) ihramlı ve oruçlu iken kan aldırmıştır” demiştir. Diğer tahric: Buhârî, Savm; Müslim, Hac",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Bashar Awad Maarouf",
+        "grade": "Hasan Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 8,
+      "hadith": 94
+    }
+  }
+}
