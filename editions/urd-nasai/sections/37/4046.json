@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 4046,
+    "arabicnumber": 4046,
+    "text": "",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 37,
+      "hadith": 81
+    }
+  }
+}

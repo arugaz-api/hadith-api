@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 80,
+    "arabicnumber": 80,
+    "text": "عبداللہ بن عباس رضی اللہ عنہم سے روایت ہے کہ انہوں نے کہا: کیا میں تمہیں رسول اللہ صلی اللہ علیہ وسلم کے وضو کے بارے میں نہ بتاؤں؟ پھر انہوں نے اعضاء وضو کو ایک ایک بار دھویا۔",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Bukhari"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 80
+    }
+  }
+}

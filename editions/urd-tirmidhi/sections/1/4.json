@@ -1,0 +1,26 @@
+{
+  "author": "Jami At Tirmidhi",
+  "hadith": {
+    "hadithnumber": 4,
+    "arabicnumber": 4,
+    "text": "جابر بن عبداللہ رضی الله عنہما کہتے ہیں کہ رسول اللہ صلی الله علیہ وسلم نے فرمایا: ”نماز جنت کی کنجی ہے، اور نماز کی کنجی وضو ہے“۔",
+    "grades": [
+      {
+        "name": "Ahmad Muhammad Shakir",
+        "grade": "Sahih Lighairihi"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 1,
+      "hadith": 4
+    }
+  }
+}

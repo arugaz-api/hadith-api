@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1251,
+    "arabicnumber": 1251,
+    "text": "عبداللہ بن جعفر رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جو اپنی نماز میں شک کرے تو وہ دو سجدے کرے ، حجاج کی روایت میں ہے: سلام پھیرنے کے بعد دو سجدے کرے ، اور روح کی روایت میں ہے: بیٹھے بیٹھے ( دو سجدے کرے ) ۔",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Daif"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 13,
+      "hadith": 73
+    }
+  }
+}

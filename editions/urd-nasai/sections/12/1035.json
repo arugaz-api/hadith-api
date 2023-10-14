@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1035,
+    "arabicnumber": 1035,
+    "text": "ابوعبدالرحمٰن سلمی کہتے ہیں کہ عمر رضی اللہ عنہ نے کہا: سنت تو گھٹنوں کو پکڑنا ہی ہے۔",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 7
+    }
+  }
+}

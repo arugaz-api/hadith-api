@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 496,
+    "arabicnumber": 496,
+    "text": "انس رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم سورج ڈھلنے کے بعد نکلے اور آپ نے انہیں ظہر پڑھائی۔",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 6,
+      "hadith": 3
+    }
+  }
+}

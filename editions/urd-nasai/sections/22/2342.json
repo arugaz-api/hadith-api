@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2342,
+    "arabicnumber": 2342,
+    "text": "عبداللہ بن عمر رضی الله عنہ کہتے ہیں کہ جب آدمی نے رات ہی میں روزہ کی پختہ نیت نہ کی ہو تو وہ روزہ نہ رکھے۔",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Muquf"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Muquf"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 253
+    }
+  }
+}

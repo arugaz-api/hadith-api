@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 5702,
+    "arabicnumber": 5702,
+    "text": "",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Daif Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Daif Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Daif"
+      }
+    ],
+    "reference": {
+      "book": 51,
+      "hadith": 164
+    }
+  }
+}

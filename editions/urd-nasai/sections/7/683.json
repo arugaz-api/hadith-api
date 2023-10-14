@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 683,
+    "arabicnumber": 683,
+    "text": "ابوالشعثاء کہتے ہیں: میں نے ابوہریرہ رضی اللہ عنہ کو دیکھا کہ ایک شخص اذان کے بعد مسجد سے گزرنے لگا یہاں تک کہ مسجد سے باہر نکل گیا، تو انہوں نے کہا: رہا یہ شخص تو اس نے ابوالقاسم صلی اللہ علیہ وسلم کی نافرمانی کی ہے۔",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih Muslim"
+      }
+    ],
+    "reference": {
+      "book": 7,
+      "hadith": 58
+    }
+  }
+}

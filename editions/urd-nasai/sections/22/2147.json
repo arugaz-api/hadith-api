@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 2147,
+    "arabicnumber": 2147,
+    "text": "ابوہریرہ رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”سحری کھاؤ، کیونکہ سحری میں برکت ہے“۔",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Hasan"
+      }
+    ],
+    "reference": {
+      "book": 22,
+      "hadith": 58
+    }
+  }
+}

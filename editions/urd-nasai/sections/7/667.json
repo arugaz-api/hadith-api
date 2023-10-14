@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 667,
+    "arabicnumber": 667,
+    "text": "رفاعہ بن رافع رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم ہمارے درمیان نماز کی صف میں بیٹھے ہوئے تھے، آگے راوی نے پوری حدیث ذکر کی۔",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 7,
+      "hadith": 42
+    }
+  }
+}

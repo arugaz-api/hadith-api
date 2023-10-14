@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 1111,
+    "arabicnumber": 1111,
+    "text": "ابومسعود رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: وہ نماز کفایت نہیں کرتی جس میں آدمی رکوع اور سجدے میں اپنی پیٹھ سیدھی نہ رکھے ۔",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 12,
+      "hadith": 83
+    }
+  }
+}

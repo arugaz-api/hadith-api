@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 717,
+    "arabicnumber": 717,
+    "text": "جابر رضی اللہ عنہ کہتے ہیں کہ ایک آدمی آ کر مسجد میں ایک گمشدہ چیز ڈھونڈنے لگا، تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: اللہ کرے تو نہ پائے ۔",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Sahih"
+      }
+    ],
+    "reference": {
+      "book": 8,
+      "hadith": 30
+    }
+  }
+}

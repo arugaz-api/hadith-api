@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 3026,
+    "arabicnumber": 3026,
+    "text": "ابوایوب رضی الله عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے مزدلفہ میں مغرب اور عشاء دونوں ایک ساتھ پڑھیں۔",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Hasan"
+      }
+    ],
+    "reference": {
+      "book": 24,
+      "hadith": 409
+    }
+  }
+}

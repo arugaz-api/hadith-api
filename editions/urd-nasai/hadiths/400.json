@@ -1,0 +1,26 @@
+{
+  "author": "Sunan an Nasai",
+  "hadith": {
+    "hadithnumber": 400,
+    "arabicnumber": 400,
+    "text": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ تم میں سے کوئی ٹھہرے ہوئے پانی میں جو بہتا نہ ہو ہرگز پیشاب نہ کرے، پھر اسی سے غسل بھی کرے۔",
+    "grades": [
+      {
+        "name": "Abu Ghuddah",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Al-Albani",
+        "grade": "Sahih Isnaad"
+      },
+      {
+        "name": "Zubair Ali Zai",
+        "grade": "Isnaad Sahih"
+      }
+    ],
+    "reference": {
+      "book": 4,
+      "hadith": 5
+    }
+  }
+}
